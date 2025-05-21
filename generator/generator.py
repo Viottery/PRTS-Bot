@@ -5,8 +5,8 @@ from pathlib import Path
 from openai import OpenAI
 
 
-class OpenAIClient:
-    def __init__(self, config_path: str = "config.secret.json", prompts_path: str = "prompts.json"):
+class PRTSClient:
+    def __init__(self, config_path: str = "config.secret.json", prompts_path: str = "prompts_generator.json"):
         self.config = self._load_or_create_config(config_path)
         self.prompts = self._load_prompts(prompts_path)
         self.client = OpenAI(
@@ -32,8 +32,7 @@ class OpenAIClient:
             print(f"提示词文件 '{path}' 不存在，请确保该文件存在并包含有效的 JSON 数据。")
             with open(path, "w", encoding="utf-8") as f:
                 default_prompts = {
-                  "system": "你是一个查询路由助手。",
-                  "user": "请判断用户给出的查询应当路由到哪些明日方舟wiki相关的文档集："
+                  "system": "你是PRTS-Bot，《明日方舟》游戏的智能助手, 请根据用户给出的查询和我们提供的知识文档，给出恰当合理、有逻辑、并且适当可爱的回复。"
                 }
                 json.dump(default_prompts, f, indent=4, ensure_ascii=False)
             sys.exit(1)
@@ -51,51 +50,20 @@ class OpenAIClient:
         # print(leaf_folders)
         return leaf_folders
 
-    def evaluate_statements(self, prompt: str, model: str = "gpt-4o") -> dict:
-        folders = self._get_folders("data/documents")
-        num_statements = len(folders)
-
-        statements = {f"{i+1}": folder for i, folder in enumerate(folders)}
-        # print(statements)
-
-        properties = {}
-        for i in range(num_statements):
-            properties[f"{statements[f'{i+1}']}"] = {
-                "type": "boolean",
-                "description": f"文档集：{statements[f'{i+1}']}"
-            }
-        # print(properties)
-
-        function_schema = {
-            "name": "evaluate_statements",
-            "description": "根据用户的查询语义判断应当在哪些数据集检索文档",
-            "parameters": {
-                "type": "object",
-                "properties": properties,
-                "required": [f"{statements[f'{i+1}']}" for i in range(num_statements)],
-                "additionalProperties": False
-            }
-        }
-
-        # prompt = self.prompts["user"] + "\n" + "\n".join([f"{i+1}. {folder}" for i, folder in enumerate(folders)])
-        # print("prompt: ")
-        # print(prompt)
+    def evaluate_statements(self, prompt: str, model: str = "gpt-4o") -> str:
         response = self.client.chat.completions.create(
             model=model,
             messages=[
                 {"role": "system", "content": self.prompts["system"]},
                 {"role": "user", "content": prompt}
             ],
-            tools=[{"type": "function", "function": function_schema}]
         )
-        print(response)
-        arguments = response.choices[0].message.tool_calls[0].function.arguments
-        print(f"arguments: {arguments}")
-        return json.loads(arguments)
+        arguments = str(response.choices[0].message.content)
+        return arguments
 
 
 if __name__ == "__main__":
-    client = OpenAIClient()
+    client = PRTSClient()
     print("Server is running...")
     prompt = input("请输入查询：")
     result = client.evaluate_statements(prompt)
