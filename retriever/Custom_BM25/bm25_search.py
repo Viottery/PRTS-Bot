@@ -3,6 +3,7 @@ import math
 import jieba
 import re
 import string
+import os
 from typing import List, Tuple
 
 class BM25Searcher:
@@ -44,15 +45,23 @@ class BM25Searcher:
         tokens = [w for w in words if w and w not in self.stopwords and w not in punctuation]
         return tokens
 
-    def search(self, query: str, top_k=5) -> List[Tuple[str, float, str]]:
+    def search(self, query: str, top_k=5, target_folders: List[str] = None) -> List[Tuple[str, float, str]]:
         """
-        输入查询，返回 Top-k 结果列表
+        输入查询，返回 Top-k 结果列表。
+        target_folders: 限定检索的目标子文件夹（如 ['干员/剧情', '干员/游戏']），None 表示不限制。
         返回格式：[(文档路径, BM25得分, 文档标题), ...]
         """
         query_terms = self.tokenize_query(query)
         if not query_terms:
             print("查询词经过过滤后为空。")
             return []
+
+        # 将 target_folders 正规化为 documents\xxx 格式（兼容 Windows 路径）
+        norm_targets = set()
+        if target_folders:
+            norm_targets = {
+                os.path.normpath(os.path.join("../../data/documents", folder)) for folder in target_folders
+            }
 
         scores = {}
         for term in query_terms:
@@ -62,6 +71,13 @@ class BM25Searcher:
             df = len(posting)
             idf = math.log((self.N - df + 0.5) / (df + 0.5) + 1e-9)
             for doc_id, tf in posting.items():
+                path = self.doc_paths.get(doc_id, "")
+                norm_path = os.path.normpath(path)
+
+                # ✅ 多文件夹过滤逻辑
+                if norm_targets and not any(norm_path.startswith(t) for t in norm_targets):
+                    continue
+
                 tf = int(tf)
                 doc_len = float(self.doc_lens[doc_id])
                 score = idf * ((tf * (self.k1 + 1)) / (tf + self.k1 * (1 - self.b + self.b * doc_len / self.avg_len)))
@@ -88,7 +104,7 @@ if __name__ == '__main__':
         query = input("请输入查询 (输入exit退出): ").strip()
         if query.lower() in ('exit', 'quit'):
             break
-        results = bm25.search(query, top_k=5)
+        results = bm25.search(query, top_k=5, target_folders=['干员/剧情', '干员/游戏'])
         print(f"Top {len(results)} 检索结果：")
         for rank, (path, score, title) in enumerate(results, start=1):
             print(f"{rank}. [{score:.4f}] {title} - {path}")

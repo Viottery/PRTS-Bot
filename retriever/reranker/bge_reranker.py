@@ -23,7 +23,7 @@ class BGEReranker:
             model_name,
             query_max_length=256,
             passage_max_length=4096,
-            # use_fp16=use_fp16,
+            use_fp16=use_fp16,
             devices=[device] if device else None
         )
 

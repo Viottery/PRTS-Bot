@@ -12,6 +12,11 @@ The project is structured as follows:
 
 The Rewriter is responsible for rewriting the user query into more reasonable, clear, and fine-grained queries. It uses a large language model (LLM) to rewrite the user query into one or more queries to retrieve relevant pages.
 
+### 🔀 Query Router
+
+The Query Router determines the target subclassification of documents based on the user query. It uses a large language model (LLM) to classify the user query into one or more of the predefined categories.
+The categories are subfolders in the `data/documents` directory, which contains the documents for each category.
+
 ### 🔍 Retriever
 
 The Retriever is responsible for retrieving relevant pages from the local database. More details can be found in the **PRTS-Bot Retriever** section.
