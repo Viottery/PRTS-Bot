@@ -1,73 +1,94 @@
-# bm25_search.py：检索查询模块
-import json, math, jieba, sys, re, string
+import json
+import math
+import jieba
+import re
+import string
+from typing import List, Tuple
 
-# 分词并过滤停用词
-def tokenize_query(query, stopwords):
-    # 仅保留中文、字母和数字
-    query = re.sub(r"[^\u4e00-\u9fa5A-Za-z0-9]+", " ", query)
-    words = jieba.lcut(query)
-    punctuation = set(string.punctuation + "，。！？、；：（）《》【】“”‘’")
-    tokens = [w for w in words if w and w not in stopwords and w not in punctuation]
-    return tokens
+class BM25Searcher:
+    def __init__(self, index_path='bm25_index.json', stopwords_path='stopwords.txt'):
+        self.index = self.load_index(index_path)
+        self.postings = self.index['postings']
+        self.doc_lens = self.index['doc_lens']
+        self.doc_titles = self.index['doc_titles']
+        self.doc_paths = self.index['doc_paths']
+        self.N = self.index['N']
+        self.avg_len = self.index['avg_len']
 
-def main():
-    # 加载倒排索引和元信息
-    with open('bm25_index.json', 'r', encoding='utf-8') as f:
-        index = json.load(f)
-    postings = index['postings']
-    doc_lens = index['doc_lens']
-    doc_titles = index['doc_titles']
-    doc_paths = index['doc_paths']
-    N = index['N']
-    avg_len = index['avg_len']
+        self.stopwords = self.load_stopwords(stopwords_path)
 
-    # 加载停用词表
-    stopwords = set()
-    with open('stopwords.txt', 'r', encoding='utf-8') as f:
-        for line in f:
-            w = line.strip()
-            if w:
-                stopwords.add(w)
+        # BM25参数
+        self.k1 = 1.5
+        self.b = 0.75
 
-    # 接受用户查询输入
-    query = input("请输入查询: ")
-    query_terms = tokenize_query(query, stopwords)
-    if not query_terms:
-        print("查询词经过过滤后为空。")
-        return
+    def load_index(self, path):
+        with open(path, 'r', encoding='utf-8') as f:
+            return json.load(f)
 
-    # BM25 参数
-    k1 = 1.5
-    b = 0.75
+    def load_stopwords(self, path):
+        stopwords = set()
+        try:
+            with open(path, 'r', encoding='utf-8') as f:
+                for line in f:
+                    w = line.strip()
+                    if w:
+                        stopwords.add(w)
+        except FileNotFoundError:
+            print(f"警告：停用词文件 {path} 不存在，未加载停用词。")
+        return stopwords
 
-    scores = {}  # 累计每个文档的得分
-    for term in query_terms:
-        if term not in postings:
-            continue  # 查询词不在索引中
-        posting = postings[term]      # dict: doc_id -> tf
-        df = len(posting)
-        # 计算 IDF
-        idf = math.log((N - df + 0.5) / (df + 0.5) + 1e-9)
-        # 遍历包含该词的所有文档，累加得分
-        for doc_id, tf in posting.items():
-            tf = int(tf)
-            doc_len = float(doc_lens[doc_id])
-            # BM25 词项得分公式
-            score = idf * ( (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * doc_len / avg_len)) )
-            scores[doc_id] = scores.get(doc_id, 0.0) + score
+    def tokenize_query(self, query: str) -> List[str]:
+        query = re.sub(r"[^\u4e00-\u9fa5A-Za-z0-9]+", " ", query)
+        words = jieba.lcut(query)
+        punctuation = set(string.punctuation + "，。！？、；：（）《》【】“”‘’")
+        tokens = [w for w in words if w and w not in self.stopwords and w not in punctuation]
+        return tokens
 
-    if not scores:
-        print("未找到匹配文档。")
-        return
+    def search(self, query: str, top_k=5) -> List[Tuple[str, float, str]]:
+        """
+        输入查询，返回 Top-k 结果列表
+        返回格式：[(文档路径, BM25得分, 文档标题), ...]
+        """
+        query_terms = self.tokenize_query(query)
+        if not query_terms:
+            print("查询词经过过滤后为空。")
+            return []
 
-    # 按得分排序，返回 Top-k 文档
-    top_k = 5
-    ranked = sorted(scores.items(), key=lambda x: x[1], reverse=True)
-    print(f"Top {top_k} 检索结果：")
-    for rank, (doc_id, score) in enumerate(ranked[:top_k], start=1):
-        title = doc_titles.get(doc_id, "N/A")
-        path = doc_paths.get(doc_id, "")
-        print(f"{rank}. [{score:.4f}] {title} - {path}")
+        scores = {}
+        for term in query_terms:
+            if term not in self.postings:
+                continue
+            posting = self.postings[term]
+            df = len(posting)
+            idf = math.log((self.N - df + 0.5) / (df + 0.5) + 1e-9)
+            for doc_id, tf in posting.items():
+                tf = int(tf)
+                doc_len = float(self.doc_lens[doc_id])
+                score = idf * ((tf * (self.k1 + 1)) / (tf + self.k1 * (1 - self.b + self.b * doc_len / self.avg_len)))
+                scores[doc_id] = scores.get(doc_id, 0.0) + score
 
+        if not scores:
+            print("未找到匹配文档。")
+            return []
+
+        ranked = sorted(scores.items(), key=lambda x: x[1], reverse=True)[:top_k]
+        results = []
+        for doc_id, score in ranked:
+            title = self.doc_titles.get(doc_id, "N/A")
+            path = self.doc_paths.get(doc_id, "")
+            results.append((path, score, title))
+        return results
+
+
+# 如果直接执行此文件，支持命令行查询测试
 if __name__ == '__main__':
-    main()
+    import sys
+    bm25 = BM25Searcher()
+    while True:
+        query = input("请输入查询 (输入exit退出): ").strip()
+        if query.lower() in ('exit', 'quit'):
+            break
+        results = bm25.search(query, top_k=5)
+        print(f"Top {len(results)} 检索结果：")
+        for rank, (path, score, title) in enumerate(results, start=1):
+            print(f"{rank}. [{score:.4f}] {title} - {path}")
