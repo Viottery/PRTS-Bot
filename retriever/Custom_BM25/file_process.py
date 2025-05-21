@@ -47,7 +47,7 @@ def main():
                 continue
 
             foldername = os.path.basename(root)
-            orig_title = lines[0].strip()
+            orig_title = filename.replace('.txt', '')
             title = f"{foldername}_{orig_title}"
 
             content = "".join(lines[1:])

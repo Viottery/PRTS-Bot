@@ -18,12 +18,12 @@ def load_doc_content(doc_path):
     return "".join(lines[1:]).strip()
 
 class BGEReranker:
-    def __init__(self, model_name='BAAI/bge-reranker-v2-m3', device='cpu', use_fp16=False):
+    def __init__(self, model_name='BAAI/bge-reranker-v2-m3', device='cuda', use_fp16=False):
         self.reranker = FlagReranker(
             model_name,
             query_max_length=256,
             passage_max_length=4096,
-            use_fp16=use_fp16,
+            # use_fp16=use_fp16,
             devices=[device] if device else None
         )
 
@@ -47,12 +47,15 @@ def main():
             break
 
         # 使用 BM25 获取 Top20 候选文档
-        candidates_raw = bm25.search(query, top_k=10)
+        candidates_raw = bm25.search(query, top_k=20)
 
         candidate_docs = []
         for path, score, title in candidates_raw:
             content = load_doc_content(path)
             candidate_docs.append({'title': title, 'path': path, 'content': content})
+
+        if not candidate_docs:
+            continue
 
         reranked = reranker.rerank(query, candidate_docs)
 
