@@ -16,14 +16,12 @@ The Rewriter is responsible for rewriting the user query into more reasonable, c
 
 The Query Router determines the target subclassification of documents based on the user query. It uses a large language model (LLM) to classify the user query into one or more of the predefined categories.
 The categories are subfolders in the `data/documents` directory, which contains the documents for each category.
+In PRTS-Bot, we directly scan the folders in `data/documents` and classify the user query into one or more of the predefined categories.
 
 ### 🔍 Retriever
 
 The Retriever is responsible for retrieving relevant pages from the local database. More details can be found in the **PRTS-Bot Retriever** section.
 
-### 🔄 Reranker
-
-The Reranker reranks the retrieved pages based on their relevance to the user query. It uses an LLM to rerank pages and select the most relevant ones.
 
 ### 📝 Generator
 
@@ -36,13 +34,20 @@ In PRTS-Bot, we introduce our MediaWiki-based search engine, **PRTS-Bot Retrieve
 ### 🧩 Components
 
 - 🕷️ **Crawler**  
-  Responsible for crawling the PRTS wiki and downloading pages. It uses the MediaWiki API to download pages in XML format.
+  Responsible for crawling the PRTS wiki and downloading pages. It uses the MediaWiki API to download pages in XML format. This can also fit other wikis that support the MediaWiki API.
+
+- 🗂️ **Processor**
+  Responsible for the stopword removal and text cleaning of the downloaded pages. In `file_process.py`, using jieba to segment Chinese text.
 
 - 📖 **Indexer**  
-  Responsible for indexing the downloaded pages and storing them in a local database. It uses the Whoosh library to create an inverted index for fast retrieval.
+  Responsible for indexing the downloaded pages and storing them in a local database. 
 
 - 📂 **Retriever**  
-  Responsible for retrieving relevant pages from the local database. It uses the Whoosh library to search based on the user query.
+  Responsible for retrieving relevant pages from the local database.
+
+- 🔄 **Reranker**
+  The Reranker reranks the retrieved pages based on their relevance to the user query. It uses BGE model to rerank pages using vector based method and select the most relevant ones.
+
 
 ### 📄 Data Source & License Notice
 
