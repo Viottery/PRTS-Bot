@@ -1,0 +1,220 @@
+{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=1300
+|名称=结构性原理
+|index=SFR07
+|地位级别=领袖
+|描述=Mechanist亲手制造的风险排查机械，是他最好的朋友。
+为了不让可露希尔染指这台机械，他设置了二十道防御程序。
+|伤害类型=物理
+|攻击方式=近战
+|行动方式=地面
+|耐久=A+
+|攻击力=B+
+|防御力=E
+|移动速度=C
+|攻击速度=C
+|法术抗性=E
+|元素抗性=E
+|损伤抵抗=E
+|能力=·自身生命值降至0时，若&lt;“Mechanist”，机械之心&gt;在场且存活，可以召唤无人机恢复自身生命值，生命值为满时复活&lt;br&gt;{{color|#FF4F0B|第一形态}}&lt;br&gt;·【应激防御模块】受到伤害后防御力和法抗提升，停止受到伤害数秒后快速衰减&lt;br&gt;·【专注模块】攻击额外造成{{术语|ba.dt.erosion|侵蚀损伤}}，持续攻击同一目标时攻击速度提升（有上限），停止攻击数秒或切换目标后复原&lt;br&gt;{{color|#FF4F0B|第二形态}}&lt;br&gt;·【加速模块】移动时逐渐加速，被阻挡后的首次攻击造成基于移动速度的额外伤害
+|相关敌人=[[“Mechanist”，机械之心]]
+|登场活动=矢量突破S1
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=Mechanist亲手制造的风险排查机械，是他最好的朋友。
+|数量=5
+|攻击范围半径=
+|最大生命值=40000
+|攻击力=800
+|防御力=0
+|法术抗性=0
+|移动速度=0.5
+|攻击速度=100
+|攻击间隔=4.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=10
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=无
+|沉默抗性=无
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=无
+|战栗抗性=无
+|恐惧抗性=无
+|天赋={{color|gold|第一形态}}&lt;br&gt;【专注模块】攻击附加自身攻击力40%的{{术语|ba.dt.erosion|侵蚀损伤}}，每次攻击同一目标时攻击速度+30，最多叠加5层，停止攻击6s/切换目标后清空&lt;br&gt;【应激防御模块】每次受到伤害后，防御力+400，法术抗性+8，最多叠加10层，最近1s内未受到伤害时每秒衰减1层&lt;br&gt;[[“Mechanist”，机械之心]]处于【假死】时/通过【自我防护术式】获得的{{术语|ba.shield|护盾}}耗尽时，该效果失效且持续{{术语|ba.stun|晕眩}}&lt;br&gt;被击倒后进行持续0.1s的重生，恢复2%生命值，进入【假死】：&lt;br&gt;①[[“Mechanist”，机械之心]]在场且未处于【假死】时，在20s内每秒治疗自身5%生命值，生命值达到100%时进入{{color|gold|第一形态}}&lt;br&gt;②否则自身退场&lt;!--[
+    {
+        "key": "water.attack@ep_damage_ratio",
+        "value": 0.4,
+        "valueStr": null
+    },
+    {
+        "key": "focus.attack@max_stack_cnt",
+        "value": 5.0,
+        "valueStr": null
+    },
+    {
+        "key": "focus.attack@attack_speed",
+        "value": 30.0,
+        "valueStr": null
+    },
+    {
+        "key": "focus.attack@duration",
+        "value": 6.0,
+        "valueStr": null
+    },
+    {
+        "key": "takeDamage.def",
+        "value": 400.0,
+        "valueStr": null
+    },
+    {
+        "key": "takeDamage.magic_resistance",
+        "value": 8.0,
+        "valueStr": null
+    },
+    {
+        "key": "takeDamage.max_stack_cnt",
+        "value": 10.0,
+        "valueStr": null
+    },
+    {
+        "key": "takeDamage.cooldown",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "takeDamageChecker.interval",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "reborn.duration",
+        "value": 0.1,
+        "valueStr": null
+    },
+    {
+        "key": "reborn.hp_ratio",
+        "value": 0.02,
+        "valueStr": null
+    },
+    {
+        "key": "hp_recover.enemy_mcndog_heal.duration",
+        "value": 20.0,
+        "valueStr": null
+    },
+    {
+        "key": "hp_recover.enemy_mcndog_heal.hp_ratio",
+        "value": 0.05,
+        "valueStr": null
+    },
+    {
+        "key": "hp_recover.enemy_mcndog_heal.interval",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "reborn_real.duration",
+        "value": 30.0,
+        "valueStr": null
+    },
+    {
+        "key": "rush.mcndog_t[trigger].move_speed",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "rush.mcndog_t[trigger].interval",
+        "value": 0.333,
+        "valueStr": null
+    },
+    {
+        "key": "rush.mcndog_t[trigger].trig_cnt",
+        "value": 30.0,
+        "valueStr": null
+    },
+    {
+        "key": "rush.mcndog_t_predelay.predelay",
+        "value": 3.0,
+        "valueStr": null
+    },
+    {
+        "key": "firstAttack.atk_scale",
+        "value": 1000.0,
+        "valueStr": null
+    },
+    {
+        "key": "attribute.max_hp",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "attribute.atk",
+        "value": 0.25,
+        "valueStr": null
+    },
+    {
+        "key": "attribute.def",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "attribute.magic_resistance",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "attribute.move_speed",
+        "value": 0.6,
+        "valueStr": null
+    },
+    {
+        "key": "attribute.base_attack_time",
+        "value": 2.0,
+        "valueStr": null
+    },
+    {
+        "key": "reborn_advance.duration",
+        "value": 0.1,
+        "valueStr": null
+    },
+    {
+        "key": "reborn_advance.hp_ratio",
+        "value": 0.02,
+        "valueStr": null
+    },
+    {
+        "key": "hp_recover_advance.duration",
+        "value": 20.0,
+        "valueStr": null
+    },
+    {
+        "key": "hp_recover_advance.hp_ratio",
+        "value": 0.05,
+        "valueStr": null
+    },
+    {
+        "key": "hp_recover_advance.interval",
+        "value": 1.0,
+        "valueStr": null
+    }
+]--&gt;
+}}
+==级别1==
+{{敌人信息/level
+|index=1
+|最大生命值=60000
+|天赋={{color|gold|第一形态}}&lt;br&gt;【专注模块】攻击附加自身攻击力40%的{{术语|ba.dt.erosion|侵蚀损伤}}，每次攻击同一目标时攻击速度+30，最多叠加5层，停止攻击6s/切换目标后清空&lt;br&gt;【应激防御模块】每次受到伤害后，防御力+400，法术抗性+8，最多叠加10层，最近1s内未受到伤害时每秒衰减1层&lt;br&gt;[[“Mechanist”，机械之心|{{color|orange|“Mechanist”，机械之心}}]]处于【假死】时/通过【自我防护术式】获得的{{术语|ba.shield|护盾}}耗尽时，该效果失效且持续{{术语|ba.stun|晕眩}}&lt;br/&gt;被击倒后进行持续0.1s的重生，恢复2%生命值，进入【假死】：&lt;br&gt;①[[“Mechanist”，机械之心|{{color|orange|“Mechanist”，机械之心}}]]在场且未处于【假死】时，在20s内每秒治疗自身5%生命值，生命值达到100%时进入{{color|gold|第一形态}}&lt;br&gt;②否则进入持续30s的重生，恢复100%生命值，进入{{color|gold|第二形态}}&lt;br&gt;{{color|gold|第二形态}}&lt;br&gt;最大生命值+100%，攻击力+25%，防御力+0，法术抗性+0，移动速度+60%，攻击间隔+2.0&lt;br&gt;【加速模块】进入加速状态：每0.333s尝试获得一次移动速度+50%，最多尝试30次（前5s内的尝试不生效）&lt;br&gt;退出加速状态时清空移速叠加并重置加速尝试次数&lt;br&gt;因各种效果导致加速状态被打断时，退出加速状态；以上状态结束后/解除阻挡后，重新进入加速状态&lt;br&gt;加速状态下的首次攻击额外造成'''当前移动速度×1000'''的物理普通伤害&lt;br&gt;被击倒后进行持续0.1s的重生，恢复2%生命值，进入【假死】：&lt;br&gt;①[[“Mechanist”，机械之心|{{color|orange|“Mechanist”，机械之心}}]]在场且未处于【假死】时，在20s内每秒治疗自身5%生命值，生命值达到100%时进入{{color|gold|第二形态}}&lt;br&gt;②否则自身退场
+}}
+==级别2==
+{{敌人信息/level
+|index=2
+|最大生命值=80000
+}}
+
+==敌人模型==
+{{spine}}&lt;references/&gt;{{敌人导航}}

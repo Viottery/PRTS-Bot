@@ -1,0 +1,229 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="72032" pageid="72032" ns="0" title="矢量战术装备" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;矢量战术装备&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;72032&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;345307&lt;/id&gt;
+      &lt;parentid&gt;337287&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-15T15:05:07Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;深溟猎食者&lt;/username&gt;
+        &lt;id&gt;69477&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;origin&gt;345307&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="5403" sha1="5c2f40effjd05wpc8zvohkxdklji995" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=1103
+|名称=矢量战术装备
+|index=SFR04
+|地位级别=精英
+|描述=罗德岛工程部的尖端设计，为本次矢量突破训练量身打造的战术装备。
+实体化的思绪会带来重压，也会带来力量。
+|伤害类型=法术
+|攻击方式=不攻击
+|行动方式=地面
+|耐久=A
+|攻击力=E
+|防御力=A
+|移动速度=A
+|攻击速度=A+
+|法术抗性=B
+|元素抗性=E
+|损伤抵抗=E
+|能力=·更容易受到攻击，被攻击时对周围的我方造成一定的真实伤害&amp;lt;br&amp;gt;·持续使周围的我方陷入{{术语|ba.stun|晕眩}}&amp;lt;br&amp;gt;·被其他敌人触碰时消失，该敌人的最大生命和攻击力提升，且被击倒后原地生成【矢量战术装备】&amp;lt;br&amp;gt;·被击破后生成力场，力场中的我方的最大生命和攻击力提升，受到的物理和法术伤害降低&amp;lt;br&amp;gt;·在场一段时间后自爆，造成大范围高额法术伤害
+|相关敌人=[[“迷迭香”，虚实之握]]
+|登场活动=矢量突破2024
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=持续击晕周围我方，被击倒后生成力场；在场时可被敌人拾取增强敌人能力，在场一段时间后自爆。
+|数量=0
+|攻击范围半径=
+|最大生命值=20000
+|攻击力=100
+|防御力=1000
+|法术抗性=20
+|移动速度=1.0
+|攻击速度=100
+|攻击间隔=1.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=5
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=无
+|恐惧抗性=无
+|技能0=自爆&amp;lt;br&amp;gt;[装备形态]
+|技能0初始=999999
+|技能0消耗=999999
+|技能0效果=对半径3.0范围内的我方单位造成4000法术伤害，随后自身退场
+|天赋={{特殊机制|非首要目标}}，不计入待处理目标数量；{{异常效果|束缚}}，{{异常效果|免疫失衡}}；无法攻击/被阻挡；嘲讽等级+1&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;'''装备形态&amp;lt;初始形态&amp;gt;'''&amp;lt;br&amp;gt;自身周围9格范围内的我方单位每秒受到2s晕眩与0点法术伤害&amp;lt;br&amp;gt;受到有来源伤害后，对自身半径1.7范围内（中点判定）的我方单位造成250点真实伤害（此效果存在0.8s的最短触发间隔）&amp;lt;br&amp;gt;除[[矢量战术装备]]/[[“迷迭香”，虚实之握|迷迭香]]/[[“迷迭香”的无人机]]外，未获得【矢量战术装备增益】的敌人进入自身半径0.4范围内时，获得下述【矢量战术装备增益】效果，随后自身退场&amp;lt;br&amp;gt;【矢量战术装备增益】：攻击力+100%，最大生命值+100%，嘲讽等级+1，攻击速度+0，SP回复速度+0；被击倒时在所在地块中心召唤1个[[矢量战术装备]]&amp;lt;br&amp;gt;在场上存在30s后，令场上所有'''装备形态'''的[[矢量战术装备]]强制触发技能【自爆】&amp;lt;br&amp;gt;被击倒后，进行持续0.1s的重生，恢复100%生命值与10000点元素值，随后切换至'''力场形态'''&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;'''力场形态'''&amp;lt;br&amp;gt;{{异常效果|无敌}}&amp;lt;br&amp;gt;半径1.7范围内的我方单位攻击力+100%，最大生命值+200%，嘲讽等级+0，攻击速度+0，SP回复速度+0，受到的法术伤害-50%，每秒恢复0点sp，？？？情况下免疫所有可抵抗效果并获得寒冷/冻结/晕眩反制&amp;lt;br&amp;gt;相同范围内的[[“迷迭香”的无人机]]暂时解除{{异常效果|无敌}}效果
+&amp;lt;!--[
+    {
+        "key": "PassiveToAlly.magic_damage_magic",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "PassiveToEnemy.max_hp",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "PassiveToEnemy.atk",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "PassiveToEnemy.taunt_level",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "PassiveToEnemy.attack_speed",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "PassiveToEnemy.sp_recovery_per_sec",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "PassiveBoom.interval",
+        "value": 30.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.duration",
+        "value": 0.1,
+        "valueStr": null
+    },
+    {
+        "key": "PassiveAoe.range_radius",
+        "value": 1.7,
+        "valueStr": null
+    },
+    {
+        "key": "PassiveAoe.psv_pure_dmg",
+        "value": 250.0,
+        "valueStr": null
+    },
+    {
+        "key": "PassiveAoe.dmg_interval",
+        "value": 0.8,
+        "valueStr": null
+    },
+    {
+        "key": "ShieldAura.max_hp",
+        "value": 2.0,
+        "valueStr": null
+    },
+    {
+        "key": "ShieldAura.atk",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "ShieldAura.taunt_level",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "ShieldAura.attack_speed",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "ShieldAura.sp",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "ShieldAura.damage_resistance",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "PassiveToEnemy.range_radius",
+        "value": 0.4,
+        "valueStr": null
+    },
+    {
+        "key": "extra_immune",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "ShieldAura.hp_recovery_per_sec_by_max_hp_ratio",
+        "value": 0.0,
+        "valueStr": null
+    }
+]--&amp;gt;
+}}
+
+&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;5c2f40effjd05wpc8zvohkxdklji995&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

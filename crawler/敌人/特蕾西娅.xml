@@ -1,0 +1,147 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="65824" pageid="65824" ns="0" title="特蕾西娅" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;特蕾西娅&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;65824&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;344518&lt;/id&gt;
+      &lt;parentid&gt;341120&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-06T15:24:51Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;我猴某&lt;/username&gt;
+        &lt;id&gt;44914&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;minor/&gt;
+      &lt;comment&gt;做个关于我方干员的参阅&lt;/comment&gt;
+      &lt;origin&gt;344518&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="7855" sha1="cobf46ajav80mlijuara74c1jy3la52" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{参阅|魔王|以特蕾西娅的形象出场的我方辅助干员}}
+{{参阅|特蕾西娅，“魔王”|在[[关卡一览/插曲#巴别塔|巴别塔]]中出场的特蕾西娅}}
+{{参阅|特蕾西娅，黑冠圣贤|在[[萨卡兹的无终奇语]]中作为敌方装置登场的特蕾西娅}}
+{{敌人信息/common
+|id=937
+|名称=特蕾西娅
+|index=THA3
+|地位级别=领袖
+|描述=早已逝去之人，早已宽恕之罪。
+|伤害类型=法术
+|攻击方式=远程
+|位置=地面
+|耐久=A+
+|攻击力=D
+|防御力=B
+|移动速度=B
+|攻击速度=C
+|法术抗性=A+
+|元素抗性=E
+|损伤抵抗=E
+|种类=萨卡兹
+|能力=·可以捕获魂灵涡流，捕获魂灵涡流时，恢复自身一定生命值&amp;lt;br&amp;gt;·拥有&amp;lt;永恒尘埃&amp;gt;环绕自身，大幅度降低来源于环绕侧的伤害&amp;lt;br&amp;gt;·场上&amp;lt;茧笼&amp;gt;数量到达一定程度后扣除所有目标生命&amp;lt;br&amp;gt;{{color|#FF4F0B|第一形态}}&amp;lt;br&amp;gt;·【禁制】每损失一定生命值时释放，立即在自身周围八格我方单位所在地块生成&amp;lt;茧笼&amp;gt;（使所在地块我方单位无法攻击、阻挡和撤退。可被攻击，被单位击破时转移到对应单位的所在地块）&amp;lt;br&amp;gt;·【编织茧笼】战斗经过较长时间后释放，使场上所有&amp;lt;茧笼&amp;gt;向周围扩散&amp;lt;br&amp;gt;{{color|#FF4F0B|第二形态}}&amp;lt;br&amp;gt;·自身防御力提升，法术抗性降低&amp;lt;br&amp;gt;·拥有更多的&amp;lt;永恒尘埃&amp;gt;环绕自身&amp;lt;br&amp;gt;·【编织茧笼】使场上所有&amp;lt;茧笼&amp;gt;向周围扩散&amp;lt;br&amp;gt;·每损失一定生命值，立即释放一次【编织茧笼】
+|相关敌人=[[魂灵涡流]]、[[茧缚]]
+|登场活动=主线第十四章
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=早已逝去之人，早已宽恕之罪。
+|数量=1
+|攻击范围半径=
+|最大生命值=50000
+|攻击力=200
+|防御力=500
+|法术抗性=60
+|移动速度=0.8
+|攻击速度=100
+|攻击间隔=3.5
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=4
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=有
+|恐惧抗性=有
+|技能0=破碎&amp;lt;br&amp;gt;[第一形态]&amp;lt;br&amp;gt;[第二形态]
+|技能0初始=0
+|技能0消耗=0
+|技能0效果=仅场上存在不少于59个[[茧缚]]时可触发：扣除100点目标生命值
+|技能1=编织茧笼
+|技能1初始=400/10/0
+|技能1消耗=0/45/8
+|技能1效果=使场上所有[[茧缚]]向周围4格扩散&amp;lt;br&amp;gt;无法扩散至地穴/部分特殊地块/不可部署高台/已存在[[茧缚]]/部署[[障碍物]]的地块
+|天赋=不进行普通攻击，{{异常效果|不可阻挡}}，{{异常效果|自缚}}，{{异常效果|失衡免疫}}，{{异常效果|寒冷|免疫}}，{{异常效果|缴械|免疫}}&amp;lt;br&amp;gt;自身半径1.0范围内存在[[魂灵涡流]]时，治疗自身等同于该[[魂灵涡流]]剩余生命的生命值并令其退场&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;【永恒尘埃】：可拥有多组以一定半径环绕自身，以90°/s的角速度朝一定方向旋转的微尘&amp;lt;br&amp;gt;每组微尘包含4颗均匀分布的"可见微尘"与36颗均匀分布的"不可见微尘"（均不可被变速或消除）&amp;lt;br&amp;gt;微尘碰撞半径0.2，碰撞至我方单位后消失，冷却时间结束后刷新（可见1.9s，不可见2.3s）&amp;lt;br&amp;gt;'''可见微尘：'''碰撞后造成攻击力100%法术伤害&amp;lt;br&amp;gt;'''不可见微尘：'''自身受到伤害时，若伤害来源与自身距离&amp;gt;=微尘旋转半径，且自身与伤害来源的连线处于任一该类微尘的旋转方向反向10°内，则此伤害降低90%（无伤害来源时此减伤效果默认生效）&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;{{color|deeppink|'''第一形态'''}}&amp;lt;br&amp;gt;拥有一组1.0的旋转半径，逆时针旋转的【永恒尘埃】&amp;lt;br&amp;gt;场上我方单位生命值不高于0%时，若其所在地块不含[[茧缚]]，则在其所在地块召唤[[茧缚]]（每次生命值不高于此数值时最多召唤1次）&amp;lt;br&amp;gt;每受到相当于自身最大生命值55%的伤害后，触发【禁制】：在自身半径1.5范围内不含[[茧缚]]的我方单位所在地块召唤[[茧缚]]&amp;lt;br&amp;gt;被击倒后进行持续10s的重生，在重生开始后1.33s内恢复50%生命值；重生结束后，进入{{color|deeppink|'''第二形态'''}}&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;{{color|deeppink|'''第二形态'''}}&amp;lt;br&amp;gt;进入第二形态时，释放当前波次&amp;lt;br&amp;gt;自身最大生命值+200%，防御力+1000，法术抗性-40&amp;lt;br&amp;gt;拥有两组【永恒尘埃】：其中一组旋转半径1.0，逆时针旋转；另一组旋转半径2.0，顺时针旋转&amp;lt;br&amp;gt;每受到相当于自身最大生命值30%的伤害后，强制触发【编织茧笼】（不占用技能冷却）&amp;lt;br&amp;gt;被击倒后进行持续5s的重生，恢复50%生命值；重生开始时阻止当前波次的结束，重生结束后进入{{color|deeppink|'''第三形态'''}}&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;{{color|deeppink|'''第三形态'''}}&amp;lt;br&amp;gt;{{异常效果|无敌}}；持续13s后，&amp;lt;span style="color:#99dfff;background:#2f2f2f;padding-inline:0.5em;"&amp;gt;'''战斗结束'''&amp;lt;/span&amp;gt;
+}}
+
+==级别1==
+{{敌人信息/level
+|index=1
+|最大生命值=80000
+|攻击力=300
+|法术抗性=80
+|技能0效果=仅场上存在不少于{{变动数值|50|-}}个[[茧缚|{{color|orange|茧缚}}]]时可触发：扣除100点目标生命值
+|天赋=不进行普通攻击，{{异常效果|color=orange|不可阻挡}}，{{异常效果|color=orange|自缚}}，{{异常效果|color=orange|失衡免疫}}，{{异常效果|color=orange|寒冷|免疫}}，{{异常效果|color=orange|缴械|免疫}}&amp;lt;br&amp;gt;自身半径1.0范围内存在[[魂灵涡流|{{color|orange|魂灵涡流}}]]时，治疗自身等同于该[[魂灵涡流|{{color|orange|魂灵涡流}}]]剩余生命的生命值并令其退场&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;【永恒尘埃】：可拥有多组以一定半径环绕自身，以90°/s的角速度朝一定方向旋转的微尘&amp;lt;br&amp;gt;每组微尘包含4颗均匀分布的"可见微尘"与36颗均匀分布的"不可见微尘"（均不可被变速或消除）&amp;lt;br&amp;gt;微尘碰撞半径0.2，碰撞至我方单位后消失，冷却时间结束后刷新（可见1.9s，不可见2.3s）&amp;lt;br&amp;gt;'''可见微尘：'''碰撞后造成攻击力100%法术伤害&amp;lt;br&amp;gt;'''不可见微尘：'''自身受到伤害时，若伤害来源与自身距离&amp;gt;=微尘旋转半径，且自身与伤害来源的连线处于任一该类微尘的旋转方向反向10°内，则此伤害降低90%（无伤害来源时此减伤效果默认生效）&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;{{color|pink|'''第一形态'''}}&amp;lt;br&amp;gt;拥有一组1.0的旋转半径，逆时针旋转的【永恒尘埃】&amp;lt;br&amp;gt;场上我方单位生命值不高于0%时，若其所在地块不含[[茧缚|{{color|orange|茧缚}}]]，则在其所在地块召唤[[茧缚|{{color|orange|茧缚}}]]（每次生命值不高于此数值时最多召唤1次）&amp;lt;br&amp;gt;每受到相当于自身最大生命值{{变动数值|35%|-}}的伤害后，触发【禁制】：在自身半径1.5范围内不含[[茧缚|{{color|orange|茧缚}}]]的我方单位所在地块召唤[[茧缚|{{color|orange|茧缚}}]]&amp;lt;br&amp;gt;被击倒后进行持续10s的重生，在重生开始后1.33s内恢复50%生命值；重生结束后，进入{{color|pink|'''第二形态'''}}&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;{{color|pink|'''第二形态'''}}&amp;lt;br&amp;gt;进入第二形态时，释放当前波次&amp;lt;br&amp;gt;自身最大生命值{{变动数值|+250%|+}}，防御力{{变动数值|+2000|+}}，法术抗性-40&amp;lt;br&amp;gt;拥有两组【永恒尘埃】：其中一组旋转半径1.0，逆时针旋转；另一组旋转半径2.0，顺时针旋转&amp;lt;br&amp;gt;每受到相当于自身最大生命值30%的伤害后，强制触发【编织茧笼】（不占用技能冷却）&amp;lt;br&amp;gt;被击倒后进行持续5s的重生，恢复50%生命值；重生开始时阻止当前波次的结束，重生结束后进入{{color|pink|'''第三形态'''}}&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;{{color|pink|'''第三形态'''}}&amp;lt;br&amp;gt;{{异常效果|color=orange|无敌}}；持续13s后，&amp;lt;span style="color:white;background:#0098dc;padding-inline:0.5em;"&amp;gt;'''战斗结束'''&amp;lt;/span&amp;gt;
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;cobf46ajav80mlijuara74c1jy3la52&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

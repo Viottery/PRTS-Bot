@@ -1,0 +1,356 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="75188" pageid="75188" ns="0" title="无餍" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;无餍&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;75188&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;334111&lt;/id&gt;
+      &lt;parentid&gt;333046&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-02-08T03:23:59Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;Hjhk258&lt;/username&gt;
+        &lt;id&gt;59&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;origin&gt;334111&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="9553" sha1="or97wut9x78953x0s371h7lmwp96the" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=1083
+|名称=无餍
+|index=WY
+|地位级别=领袖
+|描述=自如梦方醒的岁的代理人心中诞生的化物，大口吞噬着失意之情。相聚是滋味，思念何尝不是？欢愉是滋味，悲切何尝不是？得意是滋味，悔恨何尝不是？
+|伤害类型=法术
+|攻击方式=近战 远程
+|行动方式=地面
+|耐久=A+
+|攻击力=B+
+|防御力=B
+|移动速度=D
+|攻击速度=C
+|法术抗性=B+
+|元素抗性=E
+|损伤抵抗=E
+|种类=化物
+|能力=·【铜皮铁骨】受到的物理及法术伤害降低，进入暴食之欲形态后效果增强；自身受到&amp;lt;人间烟火&amp;gt;伤害后失去该效果一段时间，进入暴食之欲形态后失去效果的时间缩短&amp;lt;br&amp;gt;·【来者不拒】吸收所有附近的&amp;lt;饮啄&amp;gt;和&amp;lt;无谓&amp;gt;并为自身增加技力&amp;lt;br&amp;gt;·【嗜欲无穷】技力满时召唤&amp;lt;饮露餐风&amp;gt;对所有我方单位造成真实伤害&amp;lt;br&amp;gt;{{color|#FF4F0B|忍饥之怒}}&amp;lt;br&amp;gt;·【暴取豪夺】对范围内的1个我方单位喷吐酸液，酸液内的所有我方单位持续受到法术伤害&amp;lt;br&amp;gt;·【欲不可足】额外召唤&amp;lt;无谓&amp;gt;协助作战，进入暴食之欲形态后效果增强&amp;lt;br&amp;gt;·【贪念】生命值降为0时，召唤大量&amp;lt;无谓&amp;gt;协助作战，一段时间后进入暴食之欲形态&amp;lt;br&amp;gt;{{color|#FF4F0B|暴食之欲}}&amp;lt;br&amp;gt;·攻击力、攻击速度、防御力提升，变为远程攻击&amp;lt;br&amp;gt;·【聚敛无厌】将场上所有的&amp;lt;饮啄&amp;gt;都转化为&amp;lt;无谓&amp;gt;，每隔一段时间将场上所有的&amp;lt;无谓&amp;gt;吸向自己，技能期间免疫控制效果且每吸入1个&amp;lt;无谓&amp;gt;都会为自身回复生命值&amp;lt;br&amp;gt;·【吞山吐海】召唤&amp;lt;湮没之口&amp;gt;和&amp;lt;造化之口&amp;gt;协助作战
+|相关敌人=[[无谓]],[[饮啄]],[[湮没之口]],[[造化之口]],[[“饮露餐风”]]
+|登场活动=相见欢
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=自如梦方醒的岁的代理人心中诞生的化物，大口吞噬着失意之情。相聚是滋味，思念何尝不是？欢愉是滋味，悲切何尝不是？得意是滋味，悔恨何尝不是？
+|数量=2
+|攻击范围半径=1.8
+|最大生命值=45000
+|攻击力=900
+|防御力=500
+|法术抗性=40
+|移动速度=0.45
+|攻击速度=100
+|攻击间隔=4.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=10
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=无
+|浮空抗性=无
+|战栗抗性=无
+|恐惧抗性=无
+|技能0=嗜欲无穷
+|技能0初始=0
+|技能0消耗=10
+|技能0类型=被动回复
+|技能0效果=以预设路径召唤[[“饮露餐风”]]&amp;lt;br&amp;gt;※自身SP到达8点时，显示[[“饮露餐风”]]的路径预警效果&amp;lt;br&amp;gt;※技能期间，自身持有{{异常效果|冻结|免疫}}，{{异常效果|浮空|免疫}}，{{异常效果|失衡免疫}}
+|技能1=暴取豪夺&amp;lt;br&amp;gt;[忍饥之怒]&amp;lt;br&amp;gt;[暴食之欲]
+|技能1初始=45
+|技能1消耗=45
+|技能1效果=对攻击范围内仇恨值最高的我方单位（无视阻挡状态，优先角色类单位）喷吐半径2.0的酸液：&amp;lt;br&amp;gt;酸液范围内的我方单位每秒受到攻击力30%/35%的法术伤害，且移动速度最终降低至50%，持续15s
+|技能2=欲不可足&amp;lt;br&amp;gt;[忍饥之怒]&amp;lt;br&amp;gt;[暴食之欲]
+|技能2初始=25
+|技能2消耗=30
+|技能2效果=以预设路径召唤一定数量[[无谓]]&amp;lt;br&amp;gt;※切换形态后，召唤[[无谓]]的预设路径/数量改变
+|技能3=聚敛无厌&amp;lt;br&amp;gt;[暴食之欲]
+|技能3初始=45
+|技能3消耗=45
+|技能3效果=强制击倒场上所有的[[饮啄]]，随后在11.333s内持续施法，每5s将全场的[[无谓]]较大力地向自身方向推动，最多尝试3次&amp;lt;br&amp;gt;※技能期间，自身持有{{异常效果|冻结|免疫}}，{{异常效果|浮空|免疫}}，{{异常效果|失衡免疫}}；且每次吸收[[饮啄]]/[[无谓]]时，治疗自身生命上限1%的生命值
+|技能4=吞山吐海&amp;lt;br&amp;gt;[暴食之欲]
+|技能4初始=30
+|技能4消耗=75
+|技能4效果=仅场上不存在[[湮没之口]]/[[造化之口]]时可触发：&amp;lt;br&amp;gt;在指定位置召唤[[湮没之口]]与[[造化之口]]
+|天赋=显示自身的技力条(对应技能【嗜欲无穷】的技力)，技力上限为10，初始为0&amp;lt;br&amp;gt;出场时移除场上的[[废弃火灶]]；自身视为[[废弃火灶]]，被相关敌人追踪&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;{{color|#FF4F0B|'''忍饥之怒'''}}&amp;lt;br&amp;gt;仅进行近战攻击，造成法术伤害&amp;lt;br&amp;gt;【铜皮铁骨】：受到的物理/法术伤害-70%，受到[[“人间烟火”]]的影响后该效果失效45s&amp;lt;br&amp;gt;【来者不拒】：[[饮啄]]和[[无谓]]进入自身半径0.9范围内时，将其吸收，随后自身获得1SP&amp;lt;br&amp;gt;首次被击倒时，以预设路径召唤大量[[无谓]]，并进行持续30s的重生，回复100%生命值；重生结束时，释放当前波次，并进入{{color|#FF4F0B|暴食之欲}}&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;{{color|#FF4F0B|'''暴食之欲'''}}&amp;lt;br&amp;gt;攻击力+10%，攻击速度+10，防御力+300；可进行远程攻击，造成法术伤害&amp;lt;br&amp;gt;【铜皮铁骨】：受到的物理/法术伤害-90%，受到[[“人间烟火”]]的影响后该效果失效30s&amp;lt;br&amp;gt;【来者不拒】：[[饮啄]]和[[无谓]]进入自身半径1.2范围内时，将其吸收，随后自身获得1SP&amp;lt;!--[
+    {
+        "key": "Absorb.range_radius",
+        "value": 0.9,
+        "valueStr": null
+    },
+    {
+        "key": "DamageResistance.damage_resistance",
+        "value": 0.7,
+        "valueStr": null
+    },
+    {
+        "key": "DamageResistance.interval",
+        "value": 45.0,
+        "valueStr": null
+    },
+    {
+        "key": "InfectionAura.action_index",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "InfectionAura.branch_id",
+        "value": 0.0,
+        "valueStr": "nononono"
+    },
+    {
+        "key": "InfectionAuraReborn.action_index",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "InfectionAuraReborn.branch_id",
+        "value": 0.0,
+        "valueStr": "nononono"
+    },
+    {
+        "key": "AbsorbReborn.range_radius",
+        "value": 1.2,
+        "valueStr": null
+    },
+    {
+        "key": "AbsorbReborn.hp_ratio",
+        "value": 0.01,
+        "valueStr": null
+    },
+    {
+        "key": "DamageResistanceReborn.damage_resistance",
+        "value": 0.9,
+        "valueStr": null
+    },
+    {
+        "key": "DamageResistanceReborn.interval",
+        "value": 30.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.duration",
+        "value": 30.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.atk",
+        "value": 0.1,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.attack_speed",
+        "value": 10.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.def",
+        "value": 300.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.enemy_cjtaot_reborn_end.sp",
+        "value": 5.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.branch_id",
+        "value": 0.0,
+        "valueStr": "cjtaot_reborn_summon"
+    },
+    {
+        "key": "Reborn.enemy_cjtaot_reborn_end.branch_id",
+        "value": 0.0,
+        "valueStr": "summon_cjblon"
+    },
+    {
+        "key": "Hint.sp",
+        "value": 8.0,
+        "valueStr": null
+    },
+    {
+        "key": "Hint.branch_id",
+        "value": 0.0,
+        "valueStr": "summon_cjblon"
+    }
+]--&amp;gt;
+}}
+
+==级别1==
+{{敌人信息/level
+|index=1
+|最大生命值=70000
+|攻击力=1500
+|防御力=700
+&amp;lt;!--[
+    {
+        "key": "Absorb.range_radius",
+        "value": 0.9,
+        "valueStr": null
+    },
+    {
+        "key": "DamageResistance.damage_resistance",
+        "value": 0.7,
+        "valueStr": null
+    },
+    {
+        "key": "DamageResistance.interval",
+        "value": 45.0,
+        "valueStr": null
+    },
+    {
+        "key": "InfectionAura.action_index",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "InfectionAura.branch_id",
+        "value": 0.0,
+        "valueStr": "nononono"
+    },
+    {
+        "key": "InfectionAuraReborn.action_index",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "InfectionAuraReborn.branch_id",
+        "value": 0.0,
+        "valueStr": "nononono"
+    },
+    {
+        "key": "AbsorbReborn.range_radius",
+        "value": 1.2,
+        "valueStr": null
+    },
+    {
+        "key": "AbsorbReborn.hp_ratio",
+        "value": 0.01,
+        "valueStr": null
+    },
+    {
+        "key": "DamageResistanceReborn.damage_resistance",
+        "value": 0.9,
+        "valueStr": null
+    },
+    {
+        "key": "DamageResistanceReborn.interval",
+        "value": 30.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.duration",
+        "value": 30.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.atk",
+        "value": 0.1,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.attack_speed",
+        "value": 10.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.def",
+        "value": 300.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.enemy_cjtaot_reborn_end.sp",
+        "value": 5.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.branch_id",
+        "value": 0.0,
+        "valueStr": "cjtaot_reborn_summon"
+    },
+    {
+        "key": "Reborn.enemy_cjtaot_reborn_end.branch_id",
+        "value": 0.0,
+        "valueStr": "summon_cjblon"
+    },
+    {
+        "key": "Hint.sp",
+        "value": 8.0,
+        "valueStr": null
+    },
+    {
+        "key": "Hint.branch_id",
+        "value": 0.0,
+        "valueStr": "summon_cjblon"
+    }
+]--&amp;gt;
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;or97wut9x78953x0s371h7lmwp96the&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

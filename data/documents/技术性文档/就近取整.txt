@@ -1,0 +1,28 @@
+{{Cbox2|lv=0|mdi=true|icon=link-variant|text='''理论参考：'''
+* [https://docs.unity.cn/cn/current/ScriptReference/Mathf.html Unity 脚本 API: Mathf 结构体]
+* [https://docs.unity.cn/cn/current/ScriptReference/Mathf.Round.html Unity 脚本 API: Mathf.Round]
+* [https://learn.microsoft.com/en-us/dotnet/fundamentals/runtime-libraries/system-midpointrounding 原生 .NET 中的 Round to nearest（System.MidpointRounding 枚举型）]}}
+由于《明日方舟》使用Unity引擎编写，其有多处使用了Unity核心库中的Mathf结构函数对小数（浮点数，Float类型）进行'''取整'''处理，包括：
+* Mathf.Floor(x) 向下取整（返回小于等于x的最大整数）
+* Mathf.Ceil(x) 向上取整（返回大于等于x的最小整数）
+* Mathf.Round(x) 就近取整
+其中“就近取整”并非常见的“四舍五入”，而是“'''四舍六入五成双'''”（采用.NET中的MidpointRounding.ToEven规则）。
+
+对于x的小数部分x&lt;sub&gt;f&lt;/sub&gt;（此时0≤x&lt;sub&gt;f&lt;/sub&gt;&lt;1）：
+* 当 x&lt;sub&gt;f&lt;/sub&gt;&gt;0.5 时，x向上取整。
+: 例：7.6 → 8，9.72 → 10
+* 当 x&lt;sub&gt;f&lt;/sub&gt;&lt;0.5 时，x向下取整。
+: 例：7.4 → 7，4.4999 → 4
+* 当 x&lt;sub&gt;f&lt;/sub&gt;=0.5 时，'''返回x两边整数中的偶数'''
+: 例：7.5 → 8，6.5 → 6，1999.5 → 2000
+
+当站内提及“'''就近取整'''”时，通常就指的是这样的取整方式。
+
+例如：在集成战略[[探索者的银凇止境]]中，将所有文化比较研究完成后可以令干员在高难度（9+）情况下获得累积+23%的攻击力与防御力加成，该加成以[[游戏数据基础#符文|符文]]的形式写入。
+
+已知，符文加成后干员的数据将'''就近取整'''，则：
+* 招募1星干员[[THRM-EX]]（30级，满信赖）的情况下，其原本攻击力为350。
+: 加成后，攻击力变为'''430'''（350 × 1.23 = 430.5 → '''430'''）。
+* 招募2星干员[[12F]]（30级）的情况下，其原本防御力为50。
+: 加成后，防御力变为'''62'''（50 × 1.23 = 61.5 → '''62'''）。
+&lt;noinclude&gt;[[分类:技术性文档]]&lt;/noinclude&gt;

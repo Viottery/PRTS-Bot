@@ -1,0 +1,155 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="68292" pageid="68292" ns="0" title="异光体孽生者" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;异光体孽生者&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;68292&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;320971&lt;/id&gt;
+      &lt;parentid&gt;320363&lt;/parentid&gt;
+      &lt;timestamp&gt;2024-09-27T16:34:10Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;冬灵血巫大師&lt;/username&gt;
+        &lt;id&gt;19138&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;/* 级别0 */&lt;/comment&gt;
+      &lt;origin&gt;320971&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="2374" sha1="fhn789aufcgi7hqxj5i7qzbb40gnsc7" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=837
+|名称=异光体孽生者
+|index=SM45
+|地位级别=精英
+|描述=在恶劣环境中成长的独立个体，已经发育成为合成神经毒素的腺体，极度罕见，极度危险。
+|伤害类型=物理
+|攻击方式=近战
+|行动方式=地面
+|耐久=A+
+|攻击力=B
+|防御力=E
+|移动速度=E
+|攻击速度=B
+|法术抗性=S+
+|元素抗性=E
+|损伤抵抗=E
+|种类=海怪
+|能力=·受到伤害时进入临战状态：移动速度大幅度提升，持续对周围造成{{术语|ba.dt.neural|神经损伤}}&amp;lt;br&amp;gt;·被&amp;lt;赘生甲壳&amp;gt;阻挡时将其摧毁，每次摧毁时流失一定比例生命值
+|登场活动=生路
+}}
+
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=受伤后进入&amp;lt;临战&amp;gt;状态对周围我方持续造成{{color|#00FFFF|神经损伤}}，且每次撞到{{color|#00FFFF|赘生甲壳}}时流失自身大量生命值将其摧毁
+|数量=1
+|攻击范围半径=0.0
+|最大生命值=33000
+|攻击力=600
+|防御力=0
+|法术抗性=80
+|移动速度=0.25
+|攻击速度=100
+|攻击间隔=3.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=2
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=无
+|沉默抗性=有
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=无
+|战栗抗性=无
+|天赋=以待命状态出场，待命状态下不进行普通攻击&amp;lt;br&amp;gt;受到伤害时/被[[赘生甲壳]]阻挡时被进入临战状态，临战状态下：&amp;lt;br&amp;gt;①移动速度+400%，无视停驻检查点；半径2.5范围内所有我方单位每秒受到自身攻击力10%的神经损伤（该效果无视迷彩，多个异光体孽生者之间此效果不叠加）&amp;lt;br&amp;gt;②半径0.5范围内存在[[赘生甲壳]]时将其摧毁，随后自身受到最大生命值20%的真实伤害&amp;lt;!--[
+    {
+        "key": "0.move_speed",
+        "value": 4.0,
+        "valueStr": null
+    },
+    {
+        "key": "3.hp_ratio",
+        "value": 0.2,
+        "valueStr": null
+    },
+    {
+        "key": "1.ep_damage_ratio",
+        "value": 0.1,
+        "valueStr": null
+    },
+    {
+        "key": "1.interval",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "1.range_radius",
+        "value": 2.5,
+        "valueStr": null
+    },
+    {
+        "key": "3.range_radius",
+        "value": 0.5,
+        "valueStr": null
+    }
+]--&amp;gt;
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;fhn789aufcgi7hqxj5i7qzbb40gnsc7&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

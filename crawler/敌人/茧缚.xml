@@ -1,0 +1,105 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="67316" pageid="67316" ns="0" title="茧缚" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;茧缚&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;67316&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;334846&lt;/id&gt;
+      &lt;parentid&gt;334817&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-02-14T15:25:53Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;CCl4&lt;/username&gt;
+        &lt;id&gt;51601&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;minor/&gt;
+      &lt;comment&gt;撤销[[Special:Contributions/A20040920A|A20040920A]]（[[User talk:A20040920A|讨论]]）的版本334817：写着吧，不然只能看页面源码&lt;/comment&gt;
+      &lt;origin&gt;334846&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="1360" sha1="7lvfrtiy7tb7e55u58hynk4k1slbg5b" xml:space="preserve"&gt;{{敌人信息/uncommon
+|名称=茧缚
+|地位级别=普通
+|种类=萨卡兹
+}}
+
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=
+|数量=1
+|攻击范围半径=
+|最大生命值=3500
+|攻击力=0
+|防御力=100
+|法术抗性=50
+|移动速度=1.0
+|攻击速度=100
+|攻击间隔=3.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=1
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=有
+|沉默抗性=无
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=无
+|天赋=※该敌人的种类为'''萨卡兹'''&amp;lt;br&amp;gt;{{特殊机制|非首要目标}}，不计入待处理目标数量&amp;lt;br&amp;gt;不进行攻击，无法被阻挡，{{异常效果|自缚}}，{{异常效果|免疫失衡}}，{{异常效果|禁疗}}；免疫一切无来源伤害&amp;lt;br&amp;gt;部署于自身所在地块的默认类我方单位，获得{{异常效果|晕眩}}（不可抵抗），{{异常效果|缴械}}，{{异常效果|静默}}，{{异常效果|无法撤退}}，{{异常效果|不可阻挡}}，{{异常效果|无敌}}&amp;lt;br&amp;gt;自身不存在影响的我方单位时，获得{{异常效果|无敌}}；影响我方单位时，若自身生命值满，则流失1点生命&amp;lt;br&amp;gt;被击倒时：①若击倒自身的单位所在地块不存在[[茧缚]]，则在此单位所在地块中心召唤1只[[茧缚]]&amp;lt;br&amp;gt;②若找不到击杀来源，则在自身所在地块中心召唤1只[[茧缚]]
+}}&lt;/text&gt;
+      &lt;sha1&gt;7lvfrtiy7tb7e55u58hynk4k1slbg5b&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

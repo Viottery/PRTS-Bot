@@ -1,0 +1,292 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="45467" pageid="45467" ns="0" title="郁金香" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;郁金香&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;45467&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;327366&lt;/id&gt;
+      &lt;parentid&gt;309510&lt;/parentid&gt;
+      &lt;timestamp&gt;2024-11-17T16:20:33Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;S.Staf&lt;/username&gt;
+        &lt;id&gt;81546&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;origin&gt;327366&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="9810" sha1="q9ztuuak4vc4nek5t7q9sqz5vmupo93" xml:space="preserve"&gt;{{干员页面名|郁金香|Tulip|チューリップ}}{{pathnav2|干员一览}}
+{{ads/normal}}{{ads/mobile}}
+{{参阅|干员一览/专属干员|其他集成战略专属干员}}
+{{参阅|郁金香(卫戍协议)|作为在[[卫戍协议]]中作为原型干员登场的郁金香}}
+==干员信息==
+{{CharinfoV2
+&amp;lt;!--下方为自动更新部分，您的修改可能会被覆盖--&amp;gt;
+|干员名=郁金香
+|干员名jp=チューリップ
+|干员外文名=Tulip
+|干员id=char_513_apionr
+|干员序号=-1
+|特性=能够阻挡两个敌人
+|稀有度=4
+|职业=先锋
+|分支=尖兵
+|情报编号=None
+|所属国家=罗德岛
+|所属组织=
+|所属团队=
+|位置=近战位
+|标签=费用回复 输出
+|画师=Chuzenji
+|中文配音=若舞
+|日文配音=饭田友子
+|精英0介绍=
+|精英2介绍=
+&amp;lt;!--上方为自动更新部分，您的修改可能会被覆盖--&amp;gt;
+|精英0缩放=2
+|精英0坐标x=-10
+|精英0坐标y=-13
+|精英2缩放=2
+|精英2坐标x=-10
+|精英2坐标y=-13
+}}
+==获得方式==
+{{干员获得方式
+|获得方式=无
+|上线时间=2022-09-27 16:00
+}}
+
+==属性==
+{{属性
+|再部署=60s
+|部署费用=10→12
+|阻挡数=2
+|攻击速度=1.05s
+|精英0_1级_生命上限=691
+|精英0_1级_攻击=236
+|精英0_1级_防御=144
+|精英0_1级_法术抗性=0
+|精英0_满级=50
+|精英0_满级_生命上限=947
+|精英0_满级_攻击=348
+|精英0_满级_防御=216
+|精英0_满级_法术抗性=0
+|精英1_满级=70
+|精英1_满级_生命上限=1298
+|精英1_满级_攻击=477
+|精英1_满级_防御=285
+|精英1_满级_法术抗性=0
+|精英2_满级=80
+|精英2_满级_生命上限=1855
+|精英2_满级_攻击=582
+|精英2_满级_防御=357
+|精英2_满级_法术抗性=0
+|信赖加成_生命上限=0
+|信赖加成_攻击=0
+|信赖加成_防御=0
+|潜能上限=1
+}}
+==攻击范围==
+{{干员攻击范围
+|精英0范围=1-1
+|精英1范围=1-1
+|精英2范围=1-1
+}}
+==天赋==
+{{天赋列表3
+|天赋=第一天赋
+|天赋1=无垠之心
+|天赋1条件=精英1
+|天赋1效果=部署后第2次开启技能之前，技力自然回复速度+0.6/秒
+|天赋2=无垠之心
+|天赋2条件=精英2
+|天赋2效果=部署后第2次开启技能之前，技力自然回复速度+1/秒
+}}
+
+==潜能提升==
+该干员无法提升潜能
+==技能==
+'''技能1（精英0开放）'''
+{{技能
+|技能名=只余芬芳
+|技能名jp=残り香
+|技能名en=Lingering Scent
+|技能类型1=自动回复
+|技能类型2=手动触发
+|技能范围=x-1
+|技能1描述=立即获得{{color|#0098DC|7}}点费用；对周围的敌人发动{{color|#0098DC|8}}次连续斩击，每次造成相当于攻击力{{color|#0098DC|140%}}的物理伤害，并无视目标{{color|#0098DC|50%}}防御力
+|技能1初始=0
+|技能1消耗=25
+|技能1持续=
+|技能2描述=立即获得{{color|#0098DC|7}}点费用；对周围的敌人发动{{color|#0098DC|8}}次连续斩击，每次造成相当于攻击力{{color|#0098DC|145%}}的物理伤害，并无视目标{{color|#0098DC|50%}}防御力
+|技能2初始=0
+|技能2消耗=25
+|技能2持续=
+|技能3描述=立即获得{{color|#0098DC|7}}点费用；对周围的敌人发动{{color|#0098DC|8}}次连续斩击，每次造成相当于攻击力{{color|#0098DC|150%}}的物理伤害，并无视目标{{color|#0098DC|50%}}防御力
+|技能3初始=0
+|技能3消耗=25
+|技能3持续=
+|技能4描述=立即获得{{color|#0098DC|7}}点费用；对周围的敌人发动{{color|#0098DC|8}}次连续斩击，每次造成相当于攻击力{{color|#0098DC|155%}}的物理伤害，并无视目标{{color|#0098DC|50%}}防御力
+|技能4初始=5
+|技能4消耗=25
+|技能4持续=
+|技能5描述=立即获得{{color|#0098DC|7}}点费用；对周围的敌人发动{{color|#0098DC|8}}次连续斩击，每次造成相当于攻击力{{color|#0098DC|160%}}的物理伤害，并无视目标{{color|#0098DC|50%}}防御力
+|技能5初始=5
+|技能5消耗=25
+|技能5持续=
+|技能6描述=立即获得{{color|#0098DC|7}}点费用；对周围的敌人发动{{color|#0098DC|8}}次连续斩击，每次造成相当于攻击力{{color|#0098DC|165%}}的物理伤害，并无视目标{{color|#0098DC|50%}}防御力
+|技能6初始=5
+|技能6消耗=25
+|技能6持续=
+|技能7描述=立即获得{{color|#0098DC|7}}点费用；对周围的敌人发动{{color|#0098DC|8}}次连续斩击，每次造成相当于攻击力{{color|#0098DC|170%}}的物理伤害，并无视目标{{color|#0098DC|50%}}防御力
+|技能7初始=10
+|技能7消耗=25
+|技能7持续=
+|技能专精1描述=立即获得{{color|#0098DC|7}}点费用；对周围的敌人发动{{color|#0098DC|8}}次连续斩击，每次造成相当于攻击力{{color|#0098DC|180%}}的物理伤害，并无视目标{{color|#0098DC|50%}}防御力
+|技能专精1初始=10
+|技能专精1消耗=25
+|技能专精1持续=
+|技能专精2描述=立即获得{{color|#0098DC|7}}点费用；对周围的敌人发动{{color|#0098DC|8}}次连续斩击，每次造成相当于攻击力{{color|#0098DC|190%}}的物理伤害，并无视目标{{color|#0098DC|50%}}防御力
+|技能专精2初始=10
+|技能专精2消耗=25
+|技能专精2持续=
+|技能专精3描述=立即获得{{color|#0098DC|8}}点费用；对周围的敌人发动{{color|#0098DC|8}}次连续斩击，每次造成相当于攻击力{{color|#0098DC|200%}}的物理伤害，并无视目标{{color|#0098DC|50%}}防御力
+|技能专精3初始=13
+|技能专精3消耗=25
+|技能专精3持续=
+|备注=※可对空&amp;lt;br&amp;gt;※技能生效期间，持有效果：{{异常效果|无敌}}，{{异常效果|无法阻挡}}，{{异常效果|眩晕|免疫}}，{{异常效果|冻结|免疫}}
+}}
+
+==后勤技能==
+该干员无后勤技能
+==精英化材料==
+该干员无精英化材料需求
+==技能升级材料==
+该干员无技能升级材料需求
+==相关道具==
+该干员无相关道具
+
+==干员档案==
+{{人员档案set
+|性别=女
+|战斗经验=十二年
+|出身地=伊比利亚
+|生日=11月8日
+|种族=斐迪亚
+|身高=177cm
+|矿石病感染情况=参照医学检测报告，确认为感染者。
+|是否感染者=感染者
+
+|物理强度=标准
+|战场机动=卓越
+|生理耐受=优良
+|战术规划=标准
+|战斗技巧=卓越
+|源石技艺适应性=标准
+
+|体细胞与源石融合率=12%
+|血液源石结晶密度=0.18u/L
+}}
+{{人员档案
+|档案1=基础档案
+|档案1条件=通关主题曲[[3-8]]开放
+|档案1文本=【代号】郁金香
+【性别】女
+【战斗经验】十二年
+【出身地】伊比利亚
+【生日】11月8日
+【种族】斐迪亚
+【身高】177cm
+【矿石病感染情况】参照医学检测报告，确认为感染者。
+|档案2=综合体检测试
+|档案2条件=通关主题曲[[3-8]]开放
+|档案2文本=【物理强度】标准
+【战场机动】卓越
+【生理耐受】优良
+【战术规划】标准
+【战斗技巧】卓越
+【源石技艺适应性】标准
+|档案3=客观履历
+|档案3条件=通关主题曲[[3-8]]开放
+|档案3文本=郁金香，罗德岛伊比利亚事务负责人。因伊比利亚情况特殊，所以仍以个人身份从事当地感染者拯救与治疗相关活动。
+从生死之间磨炼出的剑客，擅长应对来自海洋的威胁，总是身先士卒，率先切入战场，以迅捷剑制敌，为其他干员扫清前路。
+|档案4=临床诊断分析
+|档案4条件=通关主题曲[[3-8]]开放
+|档案4文本=造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为矿石病感染者。
+
+【体细胞与源石融合率】12%
+左腿有明显感染痕迹与结晶。
+
+【血液源石结晶密度】0.18u/L
+伊比利亚的医疗条件较为恶劣，因此郁金香回罗德岛述职时允许酌情为她配备超出需求的医疗物资。
+|档案5=档案资料一
+|档案5条件=通关主题曲[[3-8]]开放
+|档案5文本=郁金香是海盗的后裔，在大静谧前，海盗们抢夺国王的船只，在伊比利亚沿岸劫掠，其中的一部分人则劫富济贫，在海岸人民口口相传中留下了侠盗的美名。大静谧之后，随着海洋被海嗣占据，伊比利亚便再也没有了海盗。只是，即使如今海盗早已销声匿迹，那些陈年故事却仍在他们的后裔中流传，因此，郁金香的童年充满了对先祖驰骋海洋的向往。与之相比，教士们的授课就变得无趣且乏味了，然而，郁金香确实从中学到了许多，她由此开始看书识字，也了解到了诸多当地审判庭治下的悲惨真相。
+从那时开始，郁金香就坚定地认为审判庭是践踏他人自由的恶，她带着自己的小团体四处游走，劫富济贫，阻挠审判庭的统治，以此彰显自己的正义。但由于实力过于悬殊，她和她的朋友最后还是被审判官抓获。
+在被押解回颂圣棱堡的路上，他们一行人被恐鱼袭击，郁金香与同伴被临时赦免，加入了对抗恐鱼的行列。即使生还希望渺茫，她仍为求生存奋力搏杀，直到天灾降临。
+一场天灾杀死了除她以外的所有活物，也将她变成了感染者，自那以后，所有人都在排斥郁金香，她第一次发现，伊比利亚的感染者是那么的孤独与无助。从此，她便以郁金香为名，一直以自己那份微薄的力量拯救伊比利亚的感染者。
+凯尔希在伊比利亚探查阿戈尔情况时知晓了郁金香的事迹，便以物资作为交换与郁金香建立了稳定的信息交流渠道。罗德岛建立后，凯尔希邀请郁金香成为罗德岛在伊比利亚的事务负责人。在确认了罗德岛确实是一家以救助感染者为宗旨的公司后，她答应了。
+}}
+
+==语音记录==
+{{参阅三|{{FULLPAGENAME}}|yy}}
+{{:{{FULLPAGENAME}}/语音记录}}
+==干员模型==
+{{spineId}}
+==注释与链接==
+&amp;lt;references/&amp;gt;
+{{干员导航}}[[分类:专属干员]]&lt;/text&gt;
+      &lt;sha1&gt;q9ztuuak4vc4nek5t7q9sqz5vmupo93&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

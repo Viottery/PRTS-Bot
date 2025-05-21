@@ -1,0 +1,128 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="47328" pageid="47328" ns="0" title="“与我无关”" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;“与我无关”&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;47328&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;313243&lt;/id&gt;
+      &lt;parentid&gt;287706&lt;/parentid&gt;
+      &lt;timestamp&gt;2024-07-15T04:03:54Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;调零修罗&lt;/username&gt;
+        &lt;id&gt;6713&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;origin&gt;313243&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="1669" sha1="5f1t8wlved4aui9l8l5majxvjg78xh9" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=554
+|名称=“与我无关”
+|index=SA16
+|地位级别=普通
+|描述=大摇大摆走出来的醉汉，帽子压得很低。至于战场上多出来的燃烧弹，反正与他无关。在口供里他向来都是如此陈述的。
+|伤害类型=无
+|攻击方式=不攻击
+|位置=地面
+|耐久=A+
+|攻击力=E
+|防御力=C
+|移动速度=A
+|攻击速度=B
+|法术抗性=E
+|元素抗性=E
+|损伤抵抗=E
+|能力=·每损失一定生命值，释放一个不会消失的燃烧区域&amp;lt;br&amp;gt;·在燃烧区域中的我方干员每秒会受到真实伤害
+|登场活动=叙拉古人
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=每损失一定生命值，释放一个不会消失的燃烧区域。在燃烧区域中的我方干员每秒会受到真实伤害
+|数量=1
+|攻击范围半径=1.5
+|最大生命值=30000
+|攻击力=0
+|防御力=200
+|法术抗性=0
+|移动速度=1.0
+|攻击速度=100
+|攻击间隔=0.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=5
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=无
+|战栗抗性=无
+|技能0=燃烧弹
+|技能0初始=99999
+|技能0消耗=99999
+|技能0效果=以自身所在位置为中心，释放一个持续时间无限，半径1.5的燃烧区域，位于燃烧区域中的我方单位每秒受到100点无来源真实持续伤害（可叠加）
+|天赋=无法被阻挡，不进行普通攻击&amp;lt;br&amp;gt;已损失生命值达到最大生命值30%的整数倍时，强制触发技能【燃烧弹】
+}}
+
+==级别1==
+{{敌人信息/level
+|index=1
+|最大生命值=50000
+}}
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;5f1t8wlved4aui9l8l5majxvjg78xh9&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

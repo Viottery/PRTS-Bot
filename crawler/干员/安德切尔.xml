@@ -1,0 +1,332 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="1711" pageid="1711" ns="0" title="安德切尔" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;安德切尔&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;1711&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;340062&lt;/id&gt;
+      &lt;parentid&gt;309214&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-04-08T04:23:27Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
+      &lt;origin&gt;340062&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="9223" sha1="e7rj0rjpwxqz12zfw331frtu8v25sgq" xml:space="preserve"&gt;{{干员页面名|安德切尔|Adnachiel|アドナキエル}}{{pathnav2|干员一览}}
+
+==干员信息==
+{{CharinfoV2
+&amp;lt;!--下方为自动更新部分，您的修改可能会被覆盖--&amp;gt;
+|干员名=安德切尔
+|干员名jp=アドナキエル
+|干员外文名=Adnachiel
+|干员id=char_211_adnach
+|干员序号=15
+|特性=优先攻击空中单位
+|稀有度=2
+|职业=狙击
+|分支=速射手
+|情报编号=PA44
+|所属国家=罗德岛
+|所属组织=
+|所属团队=行动预备组A4
+|位置=远程位
+|标签=输出
+|画师=一立里子
+|中文配音=柯暮卿
+|日文配音=河西健吾
+|韩文配音=沈揆赫
+|英文配音=Stefan Menaul
+|精英0介绍=罗德岛日常制服中的一款&amp;lt;br/&amp;gt;干员自发设计的款式&amp;lt;br/&amp;gt;多样的色彩获得了年轻人的好评&amp;lt;br/&amp;gt;+Regular fit&amp;lt;br/&amp;gt;+已适用于基于DeepMentality™的运动学习系统
+|时装1名称=无痕行者
+|时装1系列=忒斯特收藏/VI
+|时装1颜色=#819aab
+|时装1介绍=忒斯特收藏系列/无痕行者。拉特兰教皇厅为部分万国信使量身定制的衣物，获得定制衣物的萨科塔都有一个共同特征，他们头顶的光环皆存在一定偏差。
+&amp;lt;!--上方为自动更新部分，您的修改可能会被覆盖--&amp;gt;
+|精英0缩放=2
+|精英0坐标x=-6
+|精英0坐标y=-35
+|时装1缩放=2
+|时装1坐标x=-70
+|时装1坐标y=-94
+}}
+==获得方式==
+{{干员获得方式
+|获得方式=公开招募 主线剧情
+|覆盖=公开招募 主线剧情（[[TR-2_定向瞄准|{{color|orange|TR-2}}]]）
+|上线时间=2019-04-30 10:00
+}}
+
+==属性==
+{{属性
+|再部署=70s
+|部署费用=9→11
+|阻挡数=1
+|攻击速度=1.0s
+|精英0_1级_生命上限=531
+|精英0_1级_攻击=150
+|精英0_1级_防御=55
+|精英0_1级_法术抗性=0
+|精英0_满级=40
+|精英0_满级_生命上限=831
+|精英0_满级_攻击=251
+|精英0_满级_防御=93
+|精英0_满级_法术抗性=0
+|精英1_满级=55
+|精英1_满级_生命上限=1080
+|精英1_满级_攻击=365
+|精英1_满级_防御=134
+|精英1_满级_法术抗性=0
+|信赖加成_生命上限=0
+|信赖加成_攻击=50
+|信赖加成_防御=0
+|潜能=-1,-4,23,-6,-1
+|潜能类型=cost,re_deploy,atk,re_deploy,cost
+}}
+==攻击范围==
+{{干员攻击范围
+|精英0范围=3-1
+|精英1范围=3-3
+}}
+==天赋==
+{{天赋列表3
+|天赋=第一天赋
+|天赋1=短板突破
+|天赋1条件=精英1
+|天赋1效果=攻击速度{{+|4|+4}}，优先攻击使用远程武器的敌人
+|天赋2=短板突破
+|天赋2条件=精英1 55级
+|天赋2效果=攻击速度{{+|8|+8}}，优先攻击使用远程武器的敌人
+}}
+
+==潜能提升==
+{{潜能提升
+|潜能2=部署费用-1
+|潜能3=再部署时间-4秒
+|潜能4=攻击力+23
+|潜能5=再部署时间-6秒
+|潜能6=部署费用-1
+}}
+==技能==
+'''技能1（精英0开放）'''
+{{技能2
+|技能名=攻击力强化·α型
+|技能名jp=攻撃力強化α
+|技能名en=ATK Up α
+|技能类型1=自动回复
+|技能类型2=手动触发
+|技能1描述=攻击力{{*|10%|{{color|#0098DC|+10%}}}}
+|技能1初始=0
+|技能1消耗=50
+|技能1持续=20
+|技能2描述=攻击力{{*|15%|{{color|#0098DC|+15%}}}}
+|技能2初始=0
+|技能2消耗=50
+|技能2持续=20
+|技能3描述=攻击力{{*|20%|{{color|#0098DC|+20%}}}}
+|技能3初始=0
+|技能3消耗=50
+|技能3持续=20
+|技能4描述=攻击力{{*|30%|{{color|#0098DC|+30%}}}}
+|技能4初始=0
+|技能4消耗=45
+|技能4持续=20
+|技能5描述=攻击力{{*|35%|{{color|#0098DC|+35%}}}}
+|技能5初始=0
+|技能5消耗=45
+|技能5持续=20
+|技能6描述=攻击力{{*|40%|{{color|#0098DC|+40%}}}}
+|技能6初始=0
+|技能6消耗=45
+|技能6持续=20
+|技能7描述=攻击力{{*|50%|{{color|#0098DC|+50%}}}}
+|技能7初始=0
+|技能7消耗=40
+|技能7持续=20
+}}
+
+==后勤技能==
+{{后勤技能
+|后勤技能1-1=订单分发·α
+|后勤技能1-1阶段=精英0
+|后勤技能2-1=能工巧匠
+|后勤技能2-1阶段=精英1
+}}
+&amp;lt;!--如需修改技能信息，请前往[[后勤技能一览]]页面--&amp;gt;
+==精英化材料==
+{{精英化材料
+|精1={{材料消耗|龙门币|1w}}
+}}
+==技能升级材料==
+{{技能升级材料
+|2={{材料消耗|技巧概要·卷1|1}}
+|3={{材料消耗|技巧概要·卷1|2}} {{材料消耗|源岩|2}}
+|4={{材料消耗|技巧概要·卷2|1}} {{材料消耗|糖|1}}
+|5={{材料消耗|技巧概要·卷2|1}} {{材料消耗|聚酸酯|2}}
+|6={{材料消耗|技巧概要·卷2|1}} {{材料消耗|RMA70-12|1}}
+|7={{材料消耗|技巧概要·卷3|2}} {{材料消耗|固源岩组|2}}
+}}
+==相关道具==
+{{相关道具
+|干员简介=罗德岛狙击干员安德切尔，将以弓弩挫败敌人的攻击。
+|干员简介补充=光环歪了，准头可不歪。
+|信物用途=用于提升安德切尔的潜能。
+|信物描述=毛绒绒的套头帽。萨科塔人是戴不上的。
+}}
+==干员档案==
+{{人员档案set
+|性别=男
+|战斗经验=半年
+|出身地=拉特兰
+|生日=5月30日
+|种族=萨科塔
+|身高=171cm
+|矿石病感染情况=参照医学检测报告，确认为感染者。
+|是否感染者=感染者
+
+|物理强度=普通
+|战场机动=标准
+|生理耐受=普通
+|战术规划=普通
+|战斗技巧=标准
+|源石技艺适应性=标准
+
+|体细胞与源石融合率=9%
+|血液源石结晶密度=0.26u/L
+}}
+{{人员档案
+|档案1=基础档案
+|档案1条件=初始开放
+|档案1文本=【代号】安德切尔
+【性别】男
+【战斗经验】半年
+【出身地】拉特兰
+【生日】5月30日
+【种族】萨科塔
+【身高】171cm
+【矿石病感染情况】
+参照医学检测报告，确认为感染者。
+|档案2=综合体检测试
+|档案2条件=初始开放
+|档案2文本=【物理强度】普通 
+【战场机动】标准 
+【生理耐受】普通 
+【战术规划】普通 
+【战斗技巧】标准 
+【源石技艺适应性】标准
+|档案3=客观履历
+|档案3条件=初始开放
+|档案3文本=安德切尔，拉特兰公民，适用拉特兰一至十三项公民权益。正式任职前为自由职业者。于多项测试中获得优异成绩，遂获准加入罗德岛，现于罗德岛行动预备组A4小组任职。 
+在快速反应、精准射击、支援作战等项目中展现出值得期待的潜力。
+|档案4=临床诊断分析
+|档案4条件=提升信赖至25%以查看更多信息
+|档案4文本=造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为矿石病感染者。
+
+【体细胞与源石融合率】9%
+光环位置异常，但体表暂未出现明显的矿石病病征。
+
+【血液源石结晶密度】0.26u/L
+感染程度尚浅，暂时还没有带来明显身体影响。
+|档案5=档案资料一
+|档案5条件=提升信赖至50%以查看更多信息
+|档案5文本=熟悉安德切尔的干员同僚们都习惯用一个词汇形容这位天使：聪慧。即使是相当复杂的学识和技术，安德切尔都能在很短的时间内将之洞悉、掌握。
+虽然安德切尔曾谦虚地表示，一旦涉及更加高深的理论，他就会束手无策，但大家也都仅仅把这当作是安德切尔的谦逊。毕竟，安德切尔在社交场合下表现出的那种沉默和自然，都让人心生好感，更会认定这是个智慧而有涵养的年轻人。一旦与他交流，干员们就更能感受到他惊人的观察力和令人赞叹的敏感。他的言语一刻也没有偏离过事物的本质，而他理论范畴内的所有事物似乎都无法脱离他的掌控，凭借分析，他甚至能推导出目标短暂的未来。尽管他拒绝被称作是“先知”或者“知道很多的小白脸”，但和他有关的传言实在是数不胜数。
+|档案6=档案资料二
+|档案6条件=提升信赖至100%以查看更多信息
+|档案6文本=暂无出动任务的休息时间中，安德切尔常前往罗德岛整备与维修工作间。作为实习助手，安德切尔手腕灵活，心思缜密，且时常流露出对罗德岛设备无法掩饰的，十足的好奇心。
+|档案7=档案资料三
+|档案7条件=提升信赖至150%以查看更多信息
+|档案7文本=安德切尔尚未通过拉特兰铳型武装运用许可协议，他备受信赖的武器是他亲自改装的十字弩弓（拉特兰的设计有别于雷神工业量产化的金属弩弓）。鉴于力量方面的不足，他的弩弓仍保有踏具这一传统弩具部件。
+}}
+==语音记录==
+{{参阅三|{{FULLPAGENAME}}|yy}}
+{{:{{FULLPAGENAME}}/语音记录}}
+==干员密录==
+{{干员密录|list=
+{{干员密录/list
+|精英化=1
+|等级=55
+|信赖=50
+|蚀刻章override=medal_story_adnach_1
+|storySetName=预备“先知”
+|storyIntro1=大家都知道安德切尔很聪明，但他总是能再一次超出大家的想象。
+|storyTxt1={{FULLPAGENAME}}/干员密录/1
+}}
+}}
+==悖论模拟==
+{{悖论模拟
+|name=俯瞰战场
+|description=所有和安德切尔一起行动过的干员都有一个共识，那就是——相信安德切尔的判断。
+安德切尔并不会像博士那样主动统筹一切。但是，当他告诉你他有一些想法时，只要相信他，往往就能获得好结果。
+|精英化=1
+|等级=55
+|zoneName=
+|stageName=
+|picId=
+|报酬内容1=合成玉
+|报酬数量1=200
+}}
+==干员模型==
+{{spineId}}
+
+==注释与链接==
+&amp;lt;references/&amp;gt;
+{{干员导航}}&lt;/text&gt;
+      &lt;sha1&gt;e7rj0rjpwxqz12zfw331frtu8v25sgq&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

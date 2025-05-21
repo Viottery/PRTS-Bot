@@ -1,0 +1,101 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="76008" pageid="76008" ns="0" title="心烛" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;心烛&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;76008&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;335110&lt;/id&gt;
+      &lt;parentid&gt;335075&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-02-19T06:33:27Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;Enko&lt;/username&gt;
+        &lt;id&gt;394&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;minor/&gt;
+      &lt;comment&gt;/* 级别0 */ //&lt;/comment&gt;
+      &lt;origin&gt;335110&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="1493" sha1="cqsmpywlf1msfnvecedj8wp5nvrglve" xml:space="preserve"&gt;{{敌人信息/uncommon
+|名称=心烛
+|地位级别=精英
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|数量=1
+|攻击范围半径=
+|最大生命值=1000
+|攻击力=1000
+|防御力=1000
+|法术抗性=1000
+|移动速度=0.45
+|攻击速度=100
+|攻击间隔=3.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=4
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=有
+|恐惧抗性=无
+|天赋='''干员附带敌人：'''可通过干员[[隐德来希]]3技能召唤。&amp;lt;br&amp;gt;中立单位；{{特殊机制|非首要目标}}；无法攻击/被阻挡&amp;lt;br&amp;gt;{{异常效果|自缚}}，{{异常效果|不可选中}}（可被开启3技能的[[隐德来希]]选中），{{异常效果|孤立}}&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;出场时与目标敌人绑定，并创建最终加算Buff使自身属性调整至特定值：&amp;lt;br&amp;gt;最大生命调整至目标'''当前'''生命值的60%；防御力/法术抗性调整至目标敌人对应属性的100%&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;受到非来源于[[隐德来希]]的伤害时取消此伤害，否则：对绑定的敌人造成等同于此伤害量的无来源真实伤害&amp;lt;br&amp;gt;※此真实伤害无视闪避/护盾/屏障/格挡，且会参与[[伤判效果]]判定：重写伤害量至初始值（优先级-2000）{{popup|15px|内容=基于此优先级计算，所有优先级高于-2000的伤害提升/降低效果（包括且不限于脆弱/条件减伤）在当次伤害计算中不产生其应有效果}}&amp;lt;br&amp;gt;绑定敌人退场时，自身退场
+}}&lt;/text&gt;
+      &lt;sha1&gt;cqsmpywlf1msfnvecedj8wp5nvrglve&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

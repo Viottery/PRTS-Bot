@@ -1,0 +1,157 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="56517" pageid="56517" ns="0" title="无垠回荡克雷松" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;无垠回荡克雷松&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;56517&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;330960&lt;/id&gt;
+      &lt;parentid&gt;330744&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-01-07T00:43:22Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;A20040920A&lt;/username&gt;
+        &lt;id&gt;106007&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;origin&gt;330960&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="2891" sha1="ar3y2jsgk7n0vqgutiawzbr8cav63ak" xml:space="preserve"&gt;{{#Widget:Mojibake}}
+{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=772
+|名称=无垠回荡克雷松
+|index=CES
+|地位级别=领袖
+|描述=如思维般混沌的本能。
+|伤害类型=法术
+|攻击方式=远程
+|位置=未知
+|耐久=A+
+|攻击力=A
+|防御力=A+
+|移动速度=E
+|攻击速度=D
+|法术抗性=A
+|元素抗性=E
+|损伤抵抗=E
+|种类=坍缩体
+|能力=·无敌&amp;lt;br&amp;gt;·同时攻击两个目标，对【苗圃】中的我方单位造成高额法术伤害&amp;lt;br&amp;gt;·每次移动后将2处可部署位置变为【苗圃】，大幅降低其中我方单位的攻击速度并持续造成法术伤害&amp;lt;br&amp;gt;·首次被击倒后，攻击力提升&amp;lt;br&amp;gt;·战斗经过较长时间后，将全场可部署位置变为【苗圃】，并扣除30目标生命
+|登场活动=探索者的银凇止境
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=如思维般混沌的本能。{{color|#00FFFF|无敌}}
+|数量=1
+|攻击范围半径=3.5
+|最大生命值=80000
+|攻击力=1000
+|防御力=1500
+|法术抗性=50
+|移动速度=0.0
+|攻击速度=100
+|攻击间隔=5.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=0
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=无
+|恐惧抗性=有
+|技能0=闪现
+|技能0初始=/
+|技能0消耗=/
+|技能0效果=闪现至下一检查点&amp;lt;br&amp;gt;闪现开始1.2s后，将自身攻击范围内距离自身最近的&amp;gt;随机2个未变为【苗圃】的可部署地块变为【苗圃】
+|天赋={{异常效果|无敌}}（可使用[[空间稳定设施]]令无敌短暂失效），{{异常效果|自缚}}，{{异常效果|免疫失衡}}，无法被阻挡&amp;lt;br&amp;gt;【苗圃】：位于其中的我方单位攻击速度-50，每秒受到50点无来源法术伤害&amp;lt;br&amp;gt;普通攻击同时攻击两个目标，造成法术伤害，对【苗圃】中的我方单位造成的伤害提升至200%&amp;lt;br&amp;gt;自身位于移动检查点且不处于攻击状态时，强制触发技能【闪现】&amp;lt;br&amp;gt;首次被击倒后进行持续5s的重生，恢复100%生命值；重生开始时释放当前波次，重生结束后攻击力+50%&amp;lt;br&amp;gt;登场600秒后，令场上的[[空间稳定设施]]强制退场，将全场可部署位置变为【苗圃】，扣除30点目标生命，随后自身退场&amp;lt;!--[
+    {
+        "key": "Reborn.duration",
+        "value": 5.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.max_hp",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.atk",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "Attack.attack@value",
+        "value": -30.0,
+        "valueStr": null
+    },
+    {
+        "key": "Doom.duration",
+        "value": 600.0,
+        "valueStr": null
+    },
+    {
+        "key": "DamageUp.atk_scale",
+        "value": 2.0,
+        "valueStr": null
+    }
+]--&amp;gt;
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;ar3y2jsgk7n0vqgutiawzbr8cav63ak&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

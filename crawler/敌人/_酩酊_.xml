@@ -1,0 +1,160 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="71479" pageid="71479" ns="0" title="“酩酊”" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;“酩酊”&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;71479&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;320239&lt;/id&gt;
+      &lt;parentid&gt;320029&lt;/parentid&gt;
+      &lt;timestamp&gt;2024-09-09T10:44:52Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;Visu2209&lt;/username&gt;
+        &lt;id&gt;1119&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;/* 级别0 */&lt;/comment&gt;
+      &lt;origin&gt;320239&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="2750" sha1="emb4332gd5lavuszhpd7xlwm3zmhfv3" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=852
+|名称=“酩酊”
+|index=DT13
+|地位级别=精英
+|描述=悠闲的墨魉，名字是画家本人取的。身为点墨居然散发出奇异的酒香，兴许是墨汁里滴入了佳酿——某位好酌的故人开的玩笑。
+|伤害类型=物理
+|攻击方式=远程
+|行动方式=地面
+|耐久=A
+|攻击力=B
+|防御力=B+
+|移动速度=C
+|攻击速度=B+
+|法术抗性=B
+|元素抗性=E
+|损伤抵抗=E
+|种类=化物
+|能力=·使经过自身周围的其他地面非领袖敌人攻击速度，移动速度增加，且受到的物理与法术伤害减少&amp;lt;br&amp;gt;·很喜欢&amp;lt;闪亮果实&amp;gt;
+|登场活动=泰拉饭
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=使经过自身周围的其他地面非领袖敌人攻击速度，移动速度增加，且受到的物理与法术伤害减少，很喜欢闪亮果实。
+|数量=1
+|攻击范围半径=0.9
+|最大生命值=15000
+|攻击力=600
+|防御力=800
+|法术抗性=20
+|移动速度=0.6
+|攻击速度=100
+|攻击间隔=2.3
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=6
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=无
+|沉默抗性=无
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=无
+|战栗抗性=无
+|恐惧抗性=无
+|天赋=经过自身所在格的地面非领袖敌方单位在300s内获得下述效果：攻击速度+50，移动速度+150%，受到的物理/法术伤害-50%&amp;lt;!--攻击时，再-40%?--&amp;gt;&amp;lt;br/&amp;gt;攻击范围内存在[[闪亮果实]]时，移动至其所在位置并将其吞食；成功吞食后上述效果失效，变为我方单位，进入10s消化状态，期间视为干员{{popup|15px|内容=①此时会和一般的我方干员一样，被选择我方单位的技能选中&amp;lt;br/&amp;gt;②其职业为无职业，进行不判断实体类型的判定时会被视为所有职业，例如会被年视为重装干员}}&amp;lt;br/&amp;gt;消化完成后：最大生命值-50%，防御力-100%，不进行攻击，无法被阻挡，到达路径终点后掉落1个[[缤纷果酒]]&amp;lt;!--[
+    {
+        "key": "Aura.duration",
+        "value": 300.0,
+        "valueStr": null
+    },
+    {
+        "key": "Aura.attack_speed",
+        "value": 50.0,
+        "valueStr": null
+    },
+    {
+        "key": "Aura.move_speed",
+        "value": 1.5,
+        "valueStr": null
+    },
+    {
+        "key": "Aura.damage_resistance",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "Aura.attack@damage_resistance",
+        "value": 0.4,
+        "valueStr": null
+    },
+    {
+        "key": "Ally.def",
+        "value": -1.0,
+        "valueStr": null
+    },
+    {
+        "key": "Ally.max_hp",
+        "value": -0.5,
+        "valueStr": null
+    }
+]--&amp;gt;
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;emb4332gd5lavuszhpd7xlwm3zmhfv3&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

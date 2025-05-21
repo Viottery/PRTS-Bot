@@ -1,0 +1,144 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="52757" pageid="52757" ns="0" title="“变形者集群”" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;“变形者集群”&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;52757&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;303949&lt;/id&gt;
+      &lt;parentid&gt;291440&lt;/parentid&gt;
+      &lt;timestamp&gt;2024-04-23T15:33:31Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;调零修罗&lt;/username&gt;
+        &lt;id&gt;6713&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;有人谬读prts的文本（不含歧义），进行传谣。现改成“歧义”更小的版本&lt;/comment&gt;
+      &lt;origin&gt;303949&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="6757" sha1="0hvk9bovbm3zpit3vz1zmw0x69wnyjz" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{参阅|“变形者集群”(DC3)|在[[12-16 天边的火烧云]]中出场的“变形者集群”}}
+&amp;lt;div class="nomobile"&amp;gt;[[文件:Avg avg npc 426 1-1$1.png|缩略图|&amp;lt;center&amp;gt;“变形者集群”&amp;lt;/center&amp;gt;]]&amp;lt;/div&amp;gt;
+{{敌人信息/common
+|id=730
+|名称=“变形者集群”
+|index=DC1
+|地位级别=领袖
+|描述=游离于萨卡兹王庭之外的长生者。见证了种族的兴衰，体验了生命的迭代，但“变形者集群”依然没有找到“何为生存”的答案。
+|伤害类型=物理
+|攻击方式=近战
+|位置=地面
+|耐久=S
+|攻击力=B
+|防御力=B
+|移动速度=C
+|攻击速度=B+
+|法术抗性=A
+|元素抗性=E
+|损伤抵抗=E
+|能力=·密探&amp;lt;br&amp;gt;·每损失一定比例生命值召唤潜伏于地图或干员中的同构碎片，自身与同构碎片共享生命值；&amp;lt;br&amp;gt;·每出现一个同构碎片，自身与同构碎片获得一定比例的物理与法术减伤&amp;lt;br&amp;gt;·自身或同构碎片未显露真身时，获得无敌&amp;lt;br&amp;gt;·攻击造成{{术语|ba.dt.erosion|侵蚀损伤}}&amp;lt;br&amp;gt;{{color|#FF4F0B|第一形态}}&amp;lt;br&amp;gt;·周期性释放【次生迭代】自身与所有同构碎片同时对某一单位造成物理伤害&amp;lt;br&amp;gt;·首次被击倒后重生，重生阶段时，自身及同构碎片周围所有单位受到持续法术伤害&amp;lt;br&amp;gt;{{color|#FF4F0B|第二形态}}&amp;lt;br&amp;gt;·周期性释放【命脉勃发】锁定场上所有友方单位，一段时间后，对其及其周围四格所有单位造成法术伤害并在其位置召唤&amp;lt;解构畸变体&amp;gt;&amp;lt;br&amp;gt;·二阶段生命值首次低于一定比例时，召唤潜伏于干员中的同构碎片，召唤后该干员将无法上场，优先选择周围没有友方干员的目标
+|相关敌人=[[解构畸变体]]
+|登场活动=主线第十二章
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=游离于萨卡兹王庭之外的长生者。见证了种族的兴衰，体验了生命的迭代，但“变形者集群”依然没有找到“何为生存”的答案
+|数量=2
+|攻击范围半径=
+|最大生命值=100000
+|攻击力=550
+|防御力=750
+|法术抗性=50
+|移动速度=0.5
+|攻击速度=100
+|攻击间隔=2.5
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=3
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=无
+|技能0=次生迭代&amp;lt;br&amp;gt;[第一形态]&amp;lt;br&amp;gt;[第二形态]
+|技能0初始=10
+|技能0消耗=20
+|技能0效果=令自身与所有[[同构碎片]]对场上1名我方单位造成攻击力100%的物理普通伤害（不受阻挡状态影响）
+|技能1={{技能类型|一次性}}&amp;lt;br&amp;gt;潜伏解除&amp;lt;br&amp;gt;[第二形态]
+|技能1初始=0
+|技能1消耗=1
+|技能1效果=仅自身生命值低于50%时可触发：&amp;lt;br&amp;gt;以特殊索敌逻辑{{popup|内容=优先选择周围8格不存在我方干员的目标&amp;lt;br&amp;gt;以上条件相同时：选择最后部署的目标}}标记场上1名'''干员'''，随后令自身和所有[[同构碎片]]获得20s无敌；&amp;lt;br&amp;gt;被标记的干员在15s后强制退场，且以任意方式离场时正常计算再部署时间但{{color|red|无法再部署}}，并在其所在位置召唤1个飞行的[[同构碎片3]]&amp;lt;br&amp;gt;※目标干员模型顶部会出现鉴定图标（仅为演出效果）
+|技能2=命脉勃发&amp;lt;br&amp;gt;[第二形态]
+|技能2初始=0
+|技能2消耗=50
+|技能2效果=锁定所有在场我方单位的所在地块施加法阵，蓄力约6s后引爆所有法阵，每个法阵被引爆后对目标和周围4格的所有我方单位造成375点法术普通伤害，并在法阵中心以自身路径召唤一个飞行的[[解构畸变体]]
+|天赋={{异常效果|失衡免疫}}，{{异常效果|缴械|免疫}}&amp;lt;br&amp;gt;【同步】：①受到伤害后，将场上所有[[同构碎片]]生命值设置至与自身生命值相同&amp;lt;br&amp;gt;②自身受到的物理/法术伤害降低(20*场上[[同构碎片]]的数量)%&amp;lt;br&amp;gt;③处于消失状态时，令场上所有[[同构碎片]]获得{{异常效果|无敌}}&amp;lt;br&amp;gt;④退场时，令场上所有[[同构碎片]]退场&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;密探，通用机制：{{特殊机制|鉴定}}&amp;lt;br&amp;gt;未完成鉴定时：{{异常效果|无敌}}，不进行攻击；场上所有[[同构碎片]]获得{{异常效果|无敌}}&amp;lt;br&amp;gt;完成鉴定时：切换至{{color|orange|'''第一形态'''}}&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;{{color|orange|'''第一形态'''}}&amp;lt;br&amp;gt;仅进行近战攻击，造成物理伤害&amp;lt;br&amp;gt;损失50%生命值时，以关卡预设路径召唤1个[[同构碎片1]]，并令自身与所有[[同构碎片]]获得2s{{异常效果|无敌}}&amp;lt;br&amp;gt;{{color|orange|'''第一形态'''}}下被击败时，进入持续30s的重生，恢复100%生命值&amp;lt;br&amp;gt;重生期间，自身1.75半径范围内可选中的我方单位每秒受到100点无来源法术普通伤害(可叠加)&amp;lt;br&amp;gt;重生结束时，释放当前波次，切换至{{color|red|'''第二形态'''}}&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;{{color|red|'''第二形态'''}}&amp;lt;br&amp;gt;进入{{color|red|'''第二形态'''}}时，自身获得5s无敌&amp;lt;br&amp;gt;仅进行近战攻击，造成物理伤害
+}}
+
+==级别1==
+{{敌人信息/level
+|index=1
+|最大生命值=150000
+|攻击力=750
+|防御力=900
+|天赋={{异常效果|失衡免疫|color=orange}}，{{异常效果|缴械|免疫|color=orange}}&amp;lt;br&amp;gt;【同步】：①受到伤害后，将场上所有[[同构碎片|{{color|orange|同构碎片}}]]生命值设置至与自身生命值相同&amp;lt;br&amp;gt;②自身受到的物理/法术伤害降低(20*场上{{color|orange|同构碎片}}的数量)%&amp;lt;br&amp;gt;③处于消失状态时，令场上所有[[同构碎片|{{color|orange|同构碎片}}]]获得{{异常效果|无敌|color=orange}}&amp;lt;br&amp;gt;④退场时，令场上所有[[同构碎片|{{color|orange|同构碎片}}]]退场&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;密探，通用机制：{{特殊机制|鉴定|color=orange}}&amp;lt;br&amp;gt;未完成鉴定时：{{异常效果|无敌|color=orange}}，不进行攻击；场上所有[[同构碎片|{{color|orange|同构碎片}}]]获得{{异常效果|无敌|color=orange}}&amp;lt;br&amp;gt;完成鉴定时：切换至{{color|orange|'''第一形态'''}}&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;{{color|orange|'''第一形态'''}}&amp;lt;br&amp;gt;仅进行近战攻击，造成物理伤害&amp;lt;br&amp;gt;损失50%生命值时，以关卡预设路径召唤1个[[同构碎片1|{{color|orange|同构碎片1}}]]，并令自身与所有[[同构碎片|{{color|orange|同构碎片}}]]获得2s{{异常效果|无敌|color=orange}}&amp;lt;br&amp;gt;{{color|orange|'''第一形态'''}}下被击败时，进入持续30s的重生，恢复100%生命值&amp;lt;br&amp;gt;重生期间，自身1.75半径范围内可选中的我方单位每秒受到{{变动数值|150|+}}点无来源法术普通伤害(可叠加)&amp;lt;br&amp;gt;重生结束时，释放当前波次，切换至{{color|red|'''第二形态'''}}&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;{{color|red|'''第二形态'''}}&amp;lt;br&amp;gt;进入{{color|red|'''第二形态'''}}时，自身获得5s无敌&amp;lt;br&amp;gt;仅进行近战攻击，造成物理伤害
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;0hvk9bovbm3zpit3vz1zmw0x69wnyjz&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

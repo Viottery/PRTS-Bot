@@ -1,0 +1,125 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="50416" pageid="50416" ns="0" title="“搭档”" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;“搭档”&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;50416&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;288078&lt;/id&gt;
+      &lt;parentid&gt;278370&lt;/parentid&gt;
+      &lt;timestamp&gt;2023-12-06T06:54:21Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;更新抗性&lt;/comment&gt;
+      &lt;origin&gt;288078&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="2486" sha1="eubwwwijfsvs1vcb44lywdmger0q2pk" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=795
+|名称=“搭档”
+|index=SD21
+|地位级别=领袖
+|描述=王酋军精锐装甲师，所操纵的装甲由本人亲手拼装而成。装甲的自爆系统是装甲师唯一不满意的部分，比起王酋的命令，装甲师本人显然更在意自己的爱机。
+|伤害类型=物理
+|攻击方式=近战
+|位置=地面
+|耐久=SS
+|攻击力=A
+|防御力=A+
+|移动速度=B+
+|攻击速度=C
+|法术抗性=B+
+|元素抗性=E
+|损伤抵抗=E
+|能力={{color|#FF4F0B|第一形态}}&amp;lt;br&amp;gt;·只能被阻挡数大于等于2的单位阻挡&amp;lt;br&amp;gt;·攻击3次后，下一次攻击造成大量物理溅射伤害&amp;lt;br&amp;gt;·被击倒时，对周围我方单位造成物理伤害并晕眩数秒&amp;lt;br&amp;gt;{{color|#FF4F0B|第二形态}}&amp;lt;br&amp;gt;·驾驶员修理机甲，不攻击且不移动，获得{{术语|ba.invisible|隐匿}}效果，受到攻击时反弹物理伤害&amp;lt;br&amp;gt;·修一段时间后，驾驶员起身坐进机甲，重新回到第一形态
+|登场活动=沙中之火
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=王酋军精锐装甲师，所操纵的装甲由本人亲手拼装而成。
+|数量=30
+|攻击范围半径=
+|最大生命值=500000
+|攻击力=1000
+|防御力=1200
+|法术抗性=30
+|移动速度=0.9
+|攻击速度=100
+|攻击间隔=4.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=6
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=无
+|技能0=裂地&amp;lt;br&amp;gt;[机甲形态]
+|技能0初始=0
+|技能0消耗=3
+|技能0类型=攻击回复
+|技能0效果=对目标和其周围0.8半径范围内的我方单位造成攻击力300%的物理溅射伤害
+|天赋=占用2个阻挡数，无法被阻挡数小于2的单位阻挡&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;{{color|red|'''机甲形态'''}}&amp;lt;br&amp;gt;被击倒时进行持续3.5s的重生，恢复100%生命值&amp;lt;br&amp;gt;重生开始后一段时间对自身半径1.5范围内的所有我方单位造成100%攻击力的物理溅射伤害与10s晕眩&amp;lt;br&amp;gt;重生结束后进入{{color|red|'''修理工形态'''}}&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;{{color|red|'''修理工形态'''}}&amp;lt;br/&amp;gt;{{术语|ba.invisible|隐匿}}，不进行攻击，{{异常效果|束缚}}&amp;lt;br/&amp;gt;最大生命值-80%；受到伤害时令伤害来源受到相当于自身攻击力50%的无来源物理普通伤害&amp;lt;br/&amp;gt;若{{color|red|修理工形态}}持续30s没有被击败，则进行1.7s的重生，恢复100%生命值，随后进入{{color|red|机甲形态}}
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;eubwwwijfsvs1vcb44lywdmger0q2pk&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

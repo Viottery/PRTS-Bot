@@ -1,0 +1,140 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="72181" pageid="72181" ns="0" title="货运轨道车" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;货运轨道车&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;72181&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;323143&lt;/id&gt;
+      &lt;parentid&gt;322843&lt;/parentid&gt;
+      &lt;timestamp&gt;2024-10-21T20:25:15Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;CCl4&lt;/username&gt;
+        &lt;id&gt;51601&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;/* 级别0 */&lt;/comment&gt;
+      &lt;origin&gt;323143&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="2335" sha1="q5dtz9ii4qowksnk8vi73qe1518szea" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=877
+|名称=货运轨道车
+|index=LUD15
+|地位级别=普通
+|描述=维多利亚引以为傲的工业自动化成果，能大幅提升工厂间货物流转的效率。设计时为提速而放弃了防护能力，他们相信伦蒂尼姆不需要长期预防暴徒。
+|伤害类型=无
+|攻击方式=不攻击
+|行动方式=地面
+|耐久=C
+|攻击力=E
+|防御力=D
+|移动速度=D
+|攻击速度=E
+|法术抗性=E
+|元素抗性=E
+|损伤抵抗=E
+|能力=·不可阻挡，会受到敌人攻击&amp;lt;br&amp;gt;·被击倒时在周围掉落装备并{{术语|ba.stun|晕眩}}周围的所有单位，一段时间后恢复运行
+|相关敌人=[[未装配刀片]],[[防护背心]],[[冲击式施术单元]]
+|登场活动=追迹日落以西
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=不可阻挡，会被敌人攻击；被击倒时{{color|#00FFFF|晕眩}}周围所有单位并掉落装备，一段时间后恢复运行
+|数量=0
+|攻击范围半径=
+|最大生命值=3500
+|攻击力=0
+|防御力=150
+|法术抗性=0
+|移动速度=0.45
+|攻击速度=100
+|攻击间隔=10.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=0
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=无
+|沉默抗性=无
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=无
+|战栗抗性=无
+|恐惧抗性=无
+|天赋={{特殊机制|非首要目标}}，不计入待处理目标数量；嘲讽等级+1&amp;lt;br&amp;gt;中立单位：与敌对单位敌对，与我方单位中立（互不攻击或支援），无法被阻挡&amp;lt;br&amp;gt;被击倒后{{术语|ba.stun|晕眩}}该影响范围{{popup|15px|内容={{#widget:Range/x-5}}}}内的所有单位5s，并在相同范围内的地块中心各随机召唤1个[[未装配刀片]]或[[防护背心]]或[[冲击式施术单元]]&amp;lt;br&amp;gt;无法召唤在地穴/围墙/部分特殊地面/不可部署高台/有装备的地块/已部署单位无法受到或已经受到装备增益的地块&amp;lt;br/&amp;gt;随后进行10s的重生，恢复100%生命值&amp;lt;!--[
+    {
+        "key": "reborn.duration",
+        "value": 10.0,
+        "valueStr": null
+    },
+    {
+        "key": "stunAttack.stun",
+        "value": 5.0,
+        "valueStr": null
+    },
+    {
+        "key": "stunAttack.range_id",
+        "value": 0.0,
+        "valueStr": "x-5"
+    }
+]--&amp;gt;
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;q5dtz9ii4qowksnk8vi73qe1518szea&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

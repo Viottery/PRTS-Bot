@@ -1,0 +1,130 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="36812" pageid="36812" ns="0" title="伤心的大锁" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;伤心的大锁&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;36812&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;320762&lt;/id&gt;
+      &lt;parentid&gt;313135&lt;/parentid&gt;
+      &lt;timestamp&gt;2024-09-26T13:24:17Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;冬灵血巫大師&lt;/username&gt;
+        &lt;id&gt;19138&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;名词修正&lt;/comment&gt;
+      &lt;origin&gt;320762&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="2919" sha1="bzdxx2x8v3d27n6uvmhwel06man1fig" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=749
+|名称=伤心的大锁
+|index=DOL
+|地位级别=领袖
+|描述=剧团报幕人的作品之一，在剧团内不受好评。生硬地操纵玩偶不被承认是种艺术，粗糙的手法总受其他成员指摘。
+|伤害类型=物理
+|攻击方式=远程
+|位置=地面
+|耐久=S+
+|攻击力=B+
+|防御力=B
+|移动速度=E
+|攻击速度=C
+|法术抗性=A+
+|元素抗性=E
+|损伤抵抗=E
+|能力=·同时攻击2个目标&amp;lt;br&amp;gt;·耐久极高，具有强大的自愈能力，自身在场时会有源源不断的敌人出现&amp;lt;br&amp;gt;·周期性释放屏障保护自身，屏障期间停止攻击，但全场敌人移动速度提升且会持续出现额外的敌人&amp;lt;br&amp;gt;·每受到一定次数伤害后对全场我方单位造成法术伤害&amp;lt;br&amp;gt;·战斗经过较长时间后扣除30目标生命
+|登场活动=傀影与猩红孤钻
+}}
+
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=剧团报幕人的作品之一，耐久极高且具有{{color|#00FFFF|强大的自愈能力}}，释放的护盾存在期间会不断出现额外的敌人。
+|数量=1
+|攻击范围半径=全场
+|最大生命值=300000
+|攻击力=800
+|防御力=700
+|法术抗性=60
+|移动速度=0.1
+|攻击速度=100
+|攻击间隔=4.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=10
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=有
+|恐惧抗性=有
+|技能0=护盾
+|技能0初始=60
+|技能0消耗=45
+|技能0效果=获得可吸收相当于自身最大生命值15%的全类型伤害的{{术语|ba.barrier|屏障}}。{{术语|ba.barrier|屏障}}存在期间，自身不进行普通攻击，每20s（包括0s时）召唤一次额外敌人，全场敌人移动速度最终提升至200%&amp;lt;br&amp;gt;※施放后立刻进入冷却，生效期间无法重复施放
+|技能1=终结
+|技能1初始=480
+|技能1消耗=480
+|技能1效果=扣除30点关卡生命值&amp;lt;br&amp;gt;对场上全体我方单位造成自身攻击力200%的法术溅射伤害&amp;lt;br&amp;gt;技能结束后，自身立刻死亡
+|天赋=巨型单位：受击判定区域为长2.95宽2.95的长方形，向上偏移1。不可阻挡，无法移动&amp;lt;br&amp;gt;普通攻击可同时攻击2个目标&amp;lt;br&amp;gt;自愈：每秒回复最大生命0.25%的生命（可使用收藏品[[傀影与猩红孤钻/长生者宝盒#空白遗书|【空白遗书】]]无效化）&amp;lt;br&amp;gt;出场24s，48s，72s时，召唤一次第一类敌人&amp;lt;br&amp;gt;出场110s，130s，150s，170s时，召唤一次第二类敌人&amp;lt;br&amp;gt;出场180s后，每16s（不含180s时）召唤一次第三类敌人&amp;lt;br&amp;gt;每受到20次可触发受击回复的伤害后，对场上全体我方单位造成自身攻击力100%&amp;lt;!--Json数据写着150%，但因为不明原因并未生效--&amp;gt;的法术溅射伤害&amp;lt;br&amp;gt;※每受到10次可触发受击回复的伤害时触发预警特效，成功触发溅射伤害后消失
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;bzdxx2x8v3d27n6uvmhwel06man1fig&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

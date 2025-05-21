@@ -1,0 +1,154 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="63367" pageid="63367" ns="0" title="失控天桩-甲" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;失控天桩-甲&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;63367&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;331070&lt;/id&gt;
+      &lt;parentid&gt;330953&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-01-08T12:52:39Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;冬灵血巫大師&lt;/username&gt;
+        &lt;id&gt;19138&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;/* 级别0 */&lt;/comment&gt;
+      &lt;origin&gt;331070&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="3155" sha1="746ouq1khwrb0l4evv4mrq74i8c769c" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=765
+|名称=失控天桩-甲
+|index=HSL18
+|地位级别=精英
+|描述=基柱式试验地块综合监测-维护系统，天桩甲型。本来能对土壤状况、水源质量和作物病虫害进行实时监控，能释放配套的天桩乙型应急处理异常情况，但目前处于失控状态。
+|伤害类型=物理
+|攻击方式=不攻击
+|位置=地面
+|耐久=A+
+|攻击力=E
+|防御力=C
+|移动速度=A
+|攻击速度=A+
+|法术抗性=C
+|元素抗性=E
+|损伤抵抗=E
+|能力=·初始为友好单位，监测田地病害程度&amp;lt;br&amp;gt;·所在田地病害程度超过阈值后惊醒&amp;lt;br&amp;gt;·逐渐损失生命，每损失一定比例生命时，释放一定数量的失控天桩-乙
+|相关敌人=[[失控天桩-乙]]
+|登场活动=怀黍离
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=初始为友好单位，监测田地病害程度，所在田地{{color|#00FFFF|病害程度超过阈值}}后惊醒，逐渐损失生命，每损失一定比例生命时，释放一定数量的{{color|#00FFFF|失控天桩-乙}}
+|数量=0
+|攻击范围半径=
+|最大生命值=60000
+|攻击力=1
+|防御力=250
+|法术抗性=10
+|移动速度=1.0
+|攻击速度=100
+|攻击间隔=1.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=0
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=有
+|天赋={{特殊机制|非首要目标}}；常态持有{{异常效果|自缚}}，{{异常效果|不可阻挡}}，{{异常效果|免疫失衡}}，不进行普通攻击&amp;lt;br&amp;gt;退场后清除所在格的[[天桩(装置)]]&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;'''{{color|#888888|监测状态&amp;lt;初始形态&amp;gt;}}'''&amp;lt;br&amp;gt;持有{{异常效果|无敌}}，监测所在地块的{{特殊机制|病害值}}：重设自身生命百分比与所在地块{{特殊机制|病害值}}相同（每1%生命值对应1点{{特殊机制|病害值}}，不会导致死亡）&amp;lt;br&amp;gt;{{特殊机制|病害值}}≥70时顶部显示{{color|red|红色闪烁警告}}；{{特殊机制|病害值}}首次≥100后进入激活状态&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;'''{{color|#FF4F0B|激活状态}}'''&amp;lt;br&amp;gt;不再监测所在地块的{{特殊机制|病害值}}，每秒受到自身最大生命值1%的真实伤害&amp;lt;br&amp;gt;每次损失8%生命值，1~1.5s的随机延迟后，在当前位置1.0边长正方形范围内随机位置，以自身设定的路径召唤4个[[失控天桩-乙]]&amp;lt;!--[
+    {
+        "key": "CheckAwake.hp_ratio",
+        "value": 0.01,
+        "valueStr": null
+    },
+    {
+        "key": "CheckAwake.enemy_dhdcr_trigger_summon.hp_ratio",
+        "value": 0.08,
+        "valueStr": null
+    },
+    {
+        "key": "CheckAwake.value",
+        "value": 100.0,
+        "valueStr": null
+    },
+    {
+        "key": "CheckAwake.value_eff",
+        "value": 70.0,
+        "valueStr": null
+    },
+    {
+        "key": "CheckAwake.enemy_dhdcr_trigger_summon.enemy_key",
+        "value": 0.0,
+        "valueStr": "enemy_1399_dhtb_2"
+    },
+    {
+        "key": "CheckAwake.enemy_dhdcr_trigger_summon.cnt",
+        "value": 4.0,
+        "valueStr": null
+    }
+]--&amp;gt;
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;746ouq1khwrb0l4evv4mrq74i8c769c&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

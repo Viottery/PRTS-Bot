@@ -1,0 +1,168 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="65692" pageid="65692" ns="0" title="“贪婪捕手”" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;“贪婪捕手”&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;65692&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;303321&lt;/id&gt;
+      &lt;parentid&gt;303320&lt;/parentid&gt;
+      &lt;timestamp&gt;2024-04-19T03:49:24Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;Visu2209&lt;/username&gt;
+        &lt;id&gt;1119&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;/* 级别0 */&lt;/comment&gt;
+      &lt;origin&gt;303321&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="4227" sha1="ikp841a8swrpj7yaic94q8txwae41ce" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=953
+|名称=“贪婪捕手”
+|index=DL23
+|地位级别=领袖
+|描述=盒牌工业的秘密武器，“任性生物”的天敌，长得有点像抓娃娃机。现在，它的操控程序陷入了混乱，正失控地冲向多索雷斯街头，用它那些可以伸长的抓手到处捡拾好东西。离远一点，千万不要被闪烁着的霓虹灯广告吸引，别像那些贪婪的人一样被吞进它的肚子里！
+|伤害类型=物理
+|攻击方式=远程
+|位置=地面
+|耐久=A+
+|攻击力=B
+|防御力=A+
+|移动速度=C
+|攻击速度=D
+|法术抗性=B
+|元素抗性=E
+|损伤抵抗=E
+|种类=机械
+|能力=·周围有领袖以外的敌人时会将其装载为乘客（最多5个），攻击时投掷1名乘客，自身被击败时释放出全部乘客&amp;lt;br&amp;gt;·装载乘客时，攻击力、防御力、生命值大幅提升&amp;lt;br&amp;gt;·装载&amp;lt;“特别任性的生物”&amp;gt;后会立即释放出全部乘客，并晕眩较长一段时间&amp;lt;br&amp;gt;·【右右上左就这一抓】停止移动一段时间，期间攻击范围和攻击速度大幅提升；立即吸引最近的数名敌人到自身当前位置&amp;lt;br&amp;gt;·【赠品兑换】偷偷束缚当前攻击力最高的一名干员，使其无法攻击和释放技能，直至其离开战场。效果结束时将一个含有[[“特别任性的生物”]]的&amp;lt;黏黏的赠品&amp;gt;放入待部署区
+|相关敌人=[[“特别任性的生物”]]
+|登场活动=保全派驻Y4
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=盒牌工业的秘密武器，“任性生物”的天敌，长得有点像抓娃娃机。{{color|#00FFFF|最大生命值}}、{{color|#00FFFF|防御力}}和{{color|#00FFFF|攻击力}}在装载敌人后大幅提升
+|数量=3
+|攻击范围半径=2.4
+|最大生命值=90000
+|攻击力=650
+|防御力=1500
+|法术抗性=20
+|移动速度=0.6
+|攻击速度=100
+|攻击间隔=5.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=6
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=无
+|沉默抗性=无
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=无
+|战栗抗性=无
+|技能0=右右上左就这一抓
+|技能0初始=5
+|技能0消耗=18
+|技能0效果=在12s内停止移动，攻击速度+300，攻击半径+3.0，立刻将距离自身最近的最多5个单位的下个路径点修改为自身所在位置
+|技能1=赠品兑换
+|技能1初始=40
+|技能1消耗=40
+|技能1效果=选择未受到该技能效果影响的，当前攻击力最高的一名干员，使其获得持续时间无限的沉默与缴械&amp;lt;br/&amp;gt;受影响的干员离场时将一个含有&amp;lt;“特别任性的生物”&amp;gt;的[[“黏黏的赠品”]]放入待部署区
+|天赋=自身未处于消失/失衡/晕眩/冻结/浮空/睡眠，且已装载人数未达到上限时(上限为5)，除自身外的其他非领袖地面敌人进入自身半径0.5范围内时，被装载为乘客：成功被装载的乘客立刻消失，路径被覆盖为距离保护目标点最近的路径&amp;lt;br/&amp;gt;最大生命值+（'''装载乘客数×50%'''），攻击力+（'''装载乘客数×50%'''），防御力+（'''装载乘客数×100%'''）&amp;lt;br/&amp;gt;仅攻击位于近战位上的我方单位；攻击时如果装载有乘客，则投掷并释放最晚装载的乘客，令其出现在攻击目标所在格中心&amp;lt;br/&amp;gt;※装载[[“特别任性的生物”]]后{{术语|ba.stun|晕眩}}20s，将所有其他乘客移动至自身所在位置并释放，且持续时间内无法装载乘客&amp;lt;br/&amp;gt;死亡时将所有其他乘客移动至自身所在位置并释放&amp;lt;!--[
+    {
+        "key": "Eat.max_cnt",
+        "value": 5.0,
+        "valueStr": null
+    },
+    {
+        "key": "Eat.max_hp",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "Eat.atk",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "Eat.def",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "Eat.stun_duration",
+        "value": 20.0,
+        "valueStr": null
+    },
+    {
+        "key": "Eat.range_radius",
+        "value": 1.2,
+        "valueStr": null
+    },
+    {
+        "key": "Eat.power_cnt",
+        "value": 1.0,
+        "valueStr": null
+    }
+]--&amp;gt;
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;ikp841a8swrpj7yaic94q8txwae41ce&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

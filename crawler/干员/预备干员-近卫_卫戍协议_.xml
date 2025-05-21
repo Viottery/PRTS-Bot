@@ -1,0 +1,304 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="73657" pageid="73657" ns="0" title="预备干员-近卫(卫戍协议)" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;预备干员-近卫(卫戍协议)&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;73657&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;328176&lt;/id&gt;
+      &lt;parentid&gt;328172&lt;/parentid&gt;
+      &lt;timestamp&gt;2024-12-03T17:18:05Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;RaYmondCheung&lt;/username&gt;
+        &lt;id&gt;26948&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;minor/&gt;
+      &lt;comment&gt;[InPageEdit]&lt;/comment&gt;
+      &lt;origin&gt;328176&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="5718" sha1="gu47kwkov9fimjbb42xqt37ikllikl0" xml:space="preserve"&gt;{{干员页面名|预备干员-近卫(卫戍协议)|预备干员-近卫(卫戍协议)|预备干员-近卫(卫戍协议)}}{{pathnav2|干员一览}}
+{{ads/normal}}{{ads/mobile}}
+{{参阅|干员一览/专属干员|其他卫戍协议原型干员}}
+==干员信息==
+{{CharinfoV2
+&amp;lt;!--下方为自动更新部分，您的修改可能会被覆盖--&amp;gt;
+|干员名=预备干员-近卫(卫戍协议)
+|自定义干员名=预备干员-近卫
+|干员外文名=Reserve Operator - Guard
+|干员id=char_601_cguard
+|干员序号=-1
+|特性=能够阻挡一个敌人
+|稀有度=3
+|职业=近卫
+|分支=无畏者
+|情报编号=None
+|所属国家=
+|所属组织=
+|所属团队=
+|位置=近战位
+|标签=输出
+|画师=
+|日文配音=
+|精英0介绍=
+&amp;lt;!--上方为自动更新部分，您的修改可能会被覆盖--&amp;gt;
+|精英0缩放=1.8
+|精英0坐标x=50
+|精英0坐标y=20
+|精英2缩放=1.8
+|精英2坐标x=50
+|精英2坐标y=20
+}}
+
+==获得方式==
+{{干员获得方式
+|获得方式=无
+|上线时间=2024-11-15 16:00
+}}
+
+==属性==
+{{属性
+|再部署=70s
+|部署费用=14→16
+|阻挡数=1
+|攻击速度=1.5s
+|精英0_1级_生命上限=1442
+|精英0_1级_攻击=377
+|精英0_1级_防御=66
+|精英0_1级_法术抗性=0
+|精英0_满级=45
+|精英0_满级_生命上限=1923
+|精英0_满级_攻击=563
+|精英0_满级_防御=95
+|精英0_满级_法术抗性=0
+|精英1_满级=60
+|精英1_满级_生命上限=2564
+|精英1_满级_攻击=722
+|精英1_满级_防御=124
+|精英1_满级_法术抗性=0
+|精英2_满级=70
+|精英2_满级_生命上限=3465
+|精英2_满级_攻击=870
+|精英2_满级_防御=148
+|精英2_满级_法术抗性=0
+|信赖加成_生命上限=420
+|信赖加成_攻击=0
+|信赖加成_防御=0
+|潜能上限=1
+}}
+==攻击范围==
+{{干员攻击范围
+|精英0范围=1-1
+|精英1范围=1-1
+|精英2范围=1-1
+}}
+==天赋==
+{{天赋列表
+|第一天赋1=攻击提升
+|第一天赋1条件=精英1
+|第一天赋1效果=攻击力+4%
+|第一天赋2=攻击提升
+|第一天赋2条件=精英2
+|第一天赋2效果=攻击力+8%
+}}
+==潜能提升==
+该干员无法提升潜能
+==技能==
+'''技能1（精英0开放）'''
+{{技能
+|技能名=攻击力强化·α型
+|技能类型1=自动回复
+|技能类型2=手动触发
+|技能1描述=攻击力{{color|#0098DC|+10%}}
+|技能1初始=0
+|技能1消耗=50
+|技能1持续=20
+|技能2描述=攻击力{{color|#0098DC|+15%}}
+|技能2初始=0
+|技能2消耗=50
+|技能2持续=20
+|技能3描述=攻击力{{color|#0098DC|+20%}}
+|技能3初始=0
+|技能3消耗=50
+|技能3持续=20
+|技能4描述=攻击力{{color|#0098DC|+30%}}
+|技能4初始=0
+|技能4消耗=45
+|技能4持续=20
+|技能5描述=攻击力{{color|#0098DC|+35%}}
+|技能5初始=0
+|技能5消耗=45
+|技能5持续=20
+|技能6描述=攻击力{{color|#0098DC|+40%}}
+|技能6初始=0
+|技能6消耗=45
+|技能6持续=20
+|技能7描述=攻击力{{color|#0098DC|+50%}}
+|技能7初始=0
+|技能7消耗=40
+|技能7持续=20
+}}
+'''技能2（精英1开放）'''
+{{技能
+|技能名=攻击力强化·β型
+|技能类型1=自动回复
+|技能类型2=手动触发
+|技能1描述=攻击力{{color|#0098DC|+20%}}
+|技能1初始=0
+|技能1消耗=40
+|技能1持续=25
+|技能2描述=攻击力{{color|#0098DC|+25%}}
+|技能2初始=0
+|技能2消耗=40
+|技能2持续=25
+|技能3描述=攻击力{{color|#0098DC|+30%}}
+|技能3初始=0
+|技能3消耗=40
+|技能3持续=25
+|技能4描述=攻击力{{color|#0098DC|+35%}}
+|技能4初始=0
+|技能4消耗=37
+|技能4持续=25
+|技能5描述=攻击力{{color|#0098DC|+40%}}
+|技能5初始=0
+|技能5消耗=37
+|技能5持续=25
+|技能6描述=攻击力{{color|#0098DC|+45%}}
+|技能6初始=0
+|技能6消耗=37
+|技能6持续=25
+|技能7描述=攻击力{{color|#0098DC|+50%}}
+|技能7初始=5
+|技能7消耗=37
+|技能7持续=25
+|技能专精1描述=攻击力{{color|#0098DC|+60%}}
+|技能专精1初始=5
+|技能专精1消耗=37
+|技能专精1持续=25
+|技能专精2描述=攻击力{{color|#0098DC|+70%}}
+|技能专精2初始=5
+|技能专精2消耗=37
+|技能专精2持续=25
+|技能专精3描述=攻击力{{color|#0098DC|+80%}}
+|技能专精3初始=10
+|技能专精3消耗=35
+|技能专精3持续=25
+}}
+'''技能3（精英1开放）'''
+{{技能
+|技能名=攻击力强化·γ型
+|技能类型1=自动回复
+|技能类型2=手动触发
+|技能1描述=攻击力{{color|#0098DC|+30%}}
+|技能1初始=0
+|技能1消耗=40
+|技能1持续=30
+|技能2描述=攻击力{{color|#0098DC|+35%}}
+|技能2初始=0
+|技能2消耗=40
+|技能2持续=30
+|技能3描述=攻击力{{color|#0098DC|+40%}}
+|技能3初始=0
+|技能3消耗=40
+|技能3持续=30
+|技能4描述=攻击力{{color|#0098DC|+45%}}
+|技能4初始=5
+|技能4消耗=37
+|技能4持续=30
+|技能5描述=攻击力{{color|#0098DC|+50%}}
+|技能5初始=5
+|技能5消耗=37
+|技能5持续=30
+|技能6描述=攻击力{{color|#0098DC|+55%}}
+|技能6初始=5
+|技能6消耗=37
+|技能6持续=30
+|技能7描述=攻击力{{color|#0098DC|+60%}}
+|技能7初始=10
+|技能7消耗=35
+|技能7持续=30
+|技能专精1描述=攻击力{{color|#0098DC|+75%}}
+|技能专精1初始=10
+|技能专精1消耗=34
+|技能专精1持续=30
+|技能专精2描述=攻击力{{color|#0098DC|+90%}}
+|技能专精2初始=10
+|技能专精2消耗=33
+|技能专精2持续=30
+|技能专精3描述=攻击力{{color|#0098DC|+100%}}
+|技能专精3初始=15
+|技能专精3消耗=30
+|技能专精3持续=30
+}}
+==后勤技能==
+该干员无后勤技能
+==精英化材料==
+该干员无精英化材料需求
+==技能升级材料==
+该干员无技能升级材料需求
+==相关道具==
+该干员无相关道具
+
+==干员档案==
+该干员无人员档案
+==语音记录==
+该干员无语音记录
+==干员模型==
+{{spineId}}
+==注释与链接==
+&amp;lt;references/&amp;gt;
+{{干员导航}}[[分类:专属干员]]&lt;/text&gt;
+      &lt;sha1&gt;gu47kwkov9fimjbb42xqt37ikllikl0&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

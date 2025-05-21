@@ -1,0 +1,92 @@
+{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=1286
+|名称=叶毯
+|index=SFR09
+|地位级别=精英
+|描述=Sharp带到罗德岛的孤儿。有着极高的速度，发挥全力的状态下，曾让Sharp都感到棘手，并因此被认可加入了Sharp的小队。对于Sharp经常独自行动感到不满。
+|伤害类型=无
+|攻击方式=不攻击
+|行动方式=地面
+|耐久=S
+|攻击力=B
+|防御力=E
+|移动速度=D
+|攻击速度=C
+|法术抗性=E
+|元素抗性=E
+|损伤抵抗=E
+|能力=·不可阻挡&lt;br&gt;·移动时逐渐加速，使经过的目标{{术语|ba.stun|晕眩}}数秒，并对其造成与自身移动速度相关的物理伤害&lt;br&gt;·移动被打断时自身在短时间内获得高额{{术语|ba.fragile|脆弱}}
+|登场活动=矢量突破S1
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=不可阻挡；移动时逐渐{{color|#00FFFF|加速}}，并对经过的目标根据移动速度造成伤害和{{color|#00FFFF|晕眩}}，自身被打断会获得{{color|#00FFFF|高额脆弱}}
+|数量=1
+|攻击范围半径=0.3
+|最大生命值=100000
+|攻击力=600
+|防御力=0
+|法术抗性=0
+|移动速度=0.3
+|攻击速度=100
+|攻击间隔=4.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=3
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=有
+|沉默抗性=无
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=无
+|战栗抗性=无
+|恐惧抗性=无
+|天赋=无法被阻挡；出场后进入加速状态&lt;br&gt;加速状态下：每0.333s尝试获得1层移动速度+50%的增益，最多尝试30次（每次加速状态的前5s内的尝试不生效）&lt;br&gt;退出加速状态时清空移速叠加并重置加速尝试次数&lt;br&gt;因{{异常效果|沉睡}}以外的效果导致加速状态被打断时，退出加速状态，6s内获得100%的{{术语|ba.fragile|脆弱}}；以上状态结束后/解除阻挡后，重新进入加速状态&lt;br&gt;自主移动时对进入自身半径0.5范围内部署于地面的我方单位造成'''当前移动速度×600'''的物理普通伤害与4s{{术语|ba.stun|晕眩}}&lt;!--[
+    {
+        "key": "rush.mcnrsh_t[trigger].move_speed",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "rush.mcnrsh_t[trigger].interval",
+        "value": 0.333,
+        "valueStr": null
+    },
+    {
+        "key": "rush.mcnrsh_t[trigger].trig_cnt",
+        "value": 30.0,
+        "valueStr": null
+    },
+    {
+        "key": "rush.mcnrsh_t_predelay.predelay",
+        "value": 5.0,
+        "valueStr": null
+    },
+    {
+        "key": "rush.weak[limit]",
+        "value": 6.0,
+        "valueStr": null
+    },
+    {
+        "key": "rush.damage_scale",
+        "value": 2.0,
+        "valueStr": null
+    },
+    {
+        "key": "crash.stun",
+        "value": 4.0,
+        "valueStr": null
+    },
+    {
+        "key": "crash.atk_scale",
+        "value": 600.0,
+        "valueStr": null
+    }
+]--&gt;
+}}
+
+==敌人模型==
+{{spine}}&lt;references/&gt;{{敌人导航}}

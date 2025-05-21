@@ -1,0 +1,138 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="60385" pageid="60385" ns="0" title="勘察用自走车(敌人)" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;勘察用自走车(敌人)&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;60385&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;334919&lt;/id&gt;
+      &lt;parentid&gt;317786&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-02-15T19:45:46Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;Xkzl&lt;/username&gt;
+        &lt;id&gt;79093&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;minor/&gt;
+      &lt;origin&gt;334919&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="2231" sha1="5z029yeiligyt5kve8r8ag4fpfb6lsg" xml:space="preserve"&gt;{{敌人信息/uncommon
+|名称=勘察用自走车(敌人)
+|显示名=勘察用自走车
+|index=SMC0
+|无头像=yes
+|地位级别=普通
+|描述=碰到敌人时对其造成物理伤害，并获得逐次提升的调查熟练度。
+|伤害类型=物理
+|攻击方式=不攻击
+|位置=地面
+|耐久=E
+|攻击力=B
+|防御力=E
+|移动速度=SS
+|攻击速度=A+
+|法术抗性=E
+|元素抗性=E
+|损伤抵抗=E
+|能力=·碰到敌人时对其造成物理伤害，并获得逐次提升的调查熟练度
+|登场活动=探索者的银凇止境
+}}
+
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=碰到敌方单位获取调查熟练度（最多50次），连续碰到时每次获取量增加
+|数量=1
+|攻击范围半径=
+|最大生命值=100
+|攻击力=500
+|防御力=0
+|法术抗性=0
+|移动速度=2.0
+|攻击速度=100
+|攻击间隔=1.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=1
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=无
+|沉默抗性=无
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=无
+|天赋=视为友方单位；不进行攻击，无法被阻挡&amp;lt;br&amp;gt;持有无敌/隐匿/孤立，免疫晕眩/寒冷/冻结/束缚&amp;lt;br&amp;gt;自走车在生成60s后/碰撞至不可正常通行的地块时/碰撞至'''冲浪教练'''{{popup|问号大小=15px|内容=包含以下敌人：&amp;lt;br&amp;gt;[[钢铁冲浪教练]]、[[合金冲浪教练]]}}前自行销毁&amp;lt;br&amp;gt;0.2半径内存在[[自走车单行道]]时，自身移动速度提升50%，持续0.5s，并在移动0.5格后转向（单个单位最多触发一次）；0.2半径内存在我方单位时，在移动0.5格后转向（单个单位最多触发一次）&amp;lt;br&amp;gt;{{color|blue|'''对进入自身0.4半径内的可选地面敌方单位时造成攻击力100%物理伤害（对单个目标存在2s冷却），并获得2+（撞击次数-1）调查熟练度；每个自走车以此办法最多获得50次调查经验'''}}
+    &amp;lt;!--{
+        "key": "Suicide.duration",
+        "value": 60.0,
+        "valueStr": null
+    },
+    {
+        "key": "HitEnemy.atk_scale",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "HitEnemy.base_exp",
+        "value": 2.0,
+        "valueStr": null
+    }
+]--&amp;gt;
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;5z029yeiligyt5kve8r8ag4fpfb6lsg&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

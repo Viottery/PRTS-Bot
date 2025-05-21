@@ -1,0 +1,142 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="57415" pageid="57415" ns="0" title="风情街“飞空员”" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;风情街“飞空员”&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;57415&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;287820&lt;/id&gt;
+      &lt;parentid&gt;278191&lt;/parentid&gt;
+      &lt;timestamp&gt;2023-12-06T04:15:39Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;更新抗性&lt;/comment&gt;
+      &lt;origin&gt;287820&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="2160" sha1="abo66ht7xuxk7i0v9rb64qhgn1i5q7v" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=671
+|名称=风情街“飞空员”
+|index=FF7
+|地位级别=精英
+|描述=从飞行玩具店找到了好东西的毛绒绒生物，会飞但不太熟练。它们有时会飘得更高，别看错了，那可不是粉色的云！
+|伤害类型=物理
+|攻击方式=近战
+|位置=未知
+|耐久=A
+|攻击力=B
+|防御力=E
+|移动速度=D
+|攻击速度=C
+|法术抗性=B
+|元素抗性=E
+|损伤抵抗=E
+|能力=·{{术语|ba.float|近地悬浮}}&amp;lt;br&amp;gt;·与风情街“操盘手”一起“叠叠乐”，组合后可以进行远程攻击
+|相关敌人=[[风情街“操盘手”]]
+|登场活动=火山旅梦
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=近地悬浮，可与风情街“操盘手”一起“叠叠乐”
+|数量=1
+|攻击范围半径=2.0
+|最大生命值=18000
+|攻击力=550
+|防御力=50
+|法术抗性=20
+|移动速度=0.35
+|攻击速度=100
+|攻击间隔=3.5
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=1
+|眩晕抗性=无
+|沉默抗性=无
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=无
+|战栗抗性=无
+|天赋=飞行模式下，{{术语|ba.float|近地悬浮}}，{{异常效果|失衡免疫}}，不进行攻击，可与[[风情街“操盘手”]]进行{{特殊机制|“叠叠乐”}}&amp;lt;br&amp;gt;组合模式下，{{术语|ba.float|近地悬浮}}，{{异常效果|失衡免疫}}，可进行远程攻击，优先攻击部署于地面，最后部署的我方单位&amp;lt;br&amp;gt;处于{{异常效果|晕眩}}/{{异常效果|冻结}}/{{异常效果|沉睡}}效果时，解除{{术语|ba.float|近地悬浮}}，切换至地面模式&amp;lt;br&amp;gt;地面模式下，无法进行{{特殊机制|“叠叠乐”}}，仅进行近战攻击&amp;lt;!--[
+    {
+        "key": "Bus.enemy_key",
+        "value": 0.0,
+        "valueStr": "enemy_1345_tplamb"
+    },
+    {
+        "key": "Bus.max_cnt",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "Bus.mode",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "Fly.enemy_key",
+        "value": 0.0,
+        "valueStr": "enemy_1345_tplamb"
+    }
+]--&amp;gt;
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;abo66ht7xuxk7i0v9rb64qhgn1i5q7v&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

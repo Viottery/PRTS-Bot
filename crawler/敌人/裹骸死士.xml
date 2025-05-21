@@ -1,0 +1,137 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="65684" pageid="65684" ns="0" title="裹骸死士" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;裹骸死士&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;65684&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;304099&lt;/id&gt;
+      &lt;parentid&gt;302321&lt;/parentid&gt;
+      &lt;timestamp&gt;2024-04-25T10:16:48Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;RaYmondCheung&lt;/username&gt;
+        &lt;id&gt;26948&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;origin&gt;304099&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="2373" sha1="8c5wmsg77hchr3n8h0ueq16k1r8i5z4" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+&amp;lt;div class="nomobile"&amp;gt;[[文件:Avg avg npc 1307 1$1.png|缩略图|&amp;lt;center&amp;gt;裹骸死士&amp;lt;/center&amp;gt;]]&amp;lt;/div&amp;gt;
+{{敌人信息/common
+|id=805
+|名称=裹骸死士
+|index=UDF1
+|地位级别=精英
+|描述=抛却名字，自断犄角的萨卡兹刺客。紧束的裹布之中，乃是赤诚的狂热和既定的命运。
+|伤害类型=物理
+|攻击方式=近战
+|位置=地面
+|耐久=A
+|攻击力=A+
+|防御力=B+
+|移动速度=B
+|攻击速度=B
+|法术抗性=A+
+|元素抗性=E
+|损伤抵抗=E
+|种类=萨卡兹
+|能力=·{{术语|ba.invisible|隐匿}}，{{术语|ba.invisible|隐匿}}效果失效后的下一次攻击造成更高伤害&amp;lt;br&amp;gt;·拥有物理与法术闪避&amp;lt;br&amp;gt;·遇到稳固铁链后，一段时间内失去隐匿，物理和法术闪避效果&amp;lt;br&amp;gt;·生命值降至一半时，能够穿过一次阻挡其的单位
+|登场活动=巴别塔
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=萨卡兹刺客，拥有{{color|#00FFFF|隐匿}}和极高的物理和法术闪避，不擅长对付稳固铁链。低体力时会敏捷的穿过阻挡其的单位。
+|数量=1
+|攻击范围半径=1.4
+|最大生命值=24000
+|攻击力=1500
+|防御力=800
+|法术抗性=60
+|移动速度=0.8
+|攻击速度=100
+|攻击间隔=3.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=4
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=无
+|沉默抗性=有
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=无
+|战栗抗性=无
+|技能0=闪现
+|技能0初始=0
+|技能0消耗=99999
+|技能0效果=仅生命值低于50%且被阻挡时可触发：获得0.2s{{异常效果|不可阻挡}}，向下个检查点方向&amp;gt;当前移动方向闪现1.5格距离
+|技能1=强击
+|技能1初始=0
+|技能1消耗=0
+|技能1效果=仅持有强击标记时可触发：对阻挡目标造成攻击力200%的物理伤害，并清除强击标记
+|天赋=通常仅进行近战攻击；可远程攻击[[特蕾西娅，“魔王”]]&amp;lt;br&amp;gt;{{术语|ba.invisible|隐匿}}(解除阻挡0秒后恢复，且恢复时获得强击标记），拥有40%的物理/法术闪避；接触{{特殊机制|稳固锁链}}后15s内，上述效果失效&amp;lt;br&amp;gt;退场时，若半径10.0范围内不存在其他[[裹骸死士]]，则结束当前波次&amp;lt;!--[
+    {
+        "key": "Evade.prob",
+        "value": 0.4,
+        "valueStr": null
+    }
+]--&amp;gt;
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;8c5wmsg77hchr3n8h0ueq16k1r8i5z4&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

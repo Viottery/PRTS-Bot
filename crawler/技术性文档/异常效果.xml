@@ -1,0 +1,210 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="18936" pageid="18936" ns="0" title="异常效果" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;异常效果&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;18936&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;344955&lt;/id&gt;
+      &lt;parentid&gt;344544&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-11T08:04:51Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;Visu2209&lt;/username&gt;
+        &lt;id&gt;1119&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;origin&gt;344955&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="12728" sha1="qp1u7tgqtpab8ivpbxvjw1x1ewaketa" xml:space="preserve"&gt;[[分类:技术性文档]]
+*该页面最近一次更新时，参考的游戏客户端版本号为'''2.5.60'''（简体中文版客户端）。
+** 该版本客户端中共有'''41'''个异常效果，以及同等数量的异常免疫与异常反制。其中有'''2'''个占位用异常效果（未实装进游戏或已弃用）。
+** 该版本客户端中共有'''2'''个异常组合，以及同等数量的异常组合免疫。
+** 该版本客户端中共有'''8'''种抗性。
+===异常效果(AbnormalFlag)===
+持有异常效果（AbnormalFlag）的单位会受到此异常效果相关联的效果。
+* 异常效果的本质是一个开关型二进制数据，通过Buff和状态机控制开关状态和持续时间，其本质可理解为一个效果黑箱和指示灯。参见章节“[[#异常效果标记(AbnormalFlagMask)|异常效果标记(AbnormalFlagMask)]]”。
+* '''注意：'''异常效果（AbnormalFlag）不是Buff，不存在持续时间或叠加，许多游戏内产生的效果实际是Buff和异常效果的共同作用，站内所有使用'''获得数秒某异常效果'''的描述实际意义为获得一个或数个携带这个异常效果的Buff。
+* 部分异常效果包含“可选性效果”以干扰部分对象选取/被索敌。
+: 但这些可选性效果并不绝对生效，部分选取源可以通过无视的方式来“无效化”此类干扰效果从而命中目标（但仅针对“对象选取命中”，其它效果仍然受到其它条件的制约）
+{|class="wikitable&amp;lt;includeonly&amp;gt; mw-collapsible mw-collapsed&amp;lt;/includeonly&amp;gt;" style="width:950px; display:table; text-align:center; white-space:normal;"
+!ID
+!内部ID
+!style="width:100px;"|站内称呼
+!举例
+!效果
+{{异常效果表格|0|STUNNED|晕眩|[[文件:技能 鞘击.png|50px|link=陈#技能]]|状态机尝试切换至STUN&amp;lt;br&amp;gt;(无法攻击、阻挡、释放技能)}}
+{{异常效果表格|1|SP_RECOVER_STOPPED|阻回|[[文件:头像 森蚺.png|50px|link=森蚺]]|停止并阻止任意形式的技力回复}}
+{{异常效果表格|2|TARGET_FREE|不可选中|[[文件:头像 狮蝎.png|50px|link=狮蝎]]|无法被敌对阵营选中（可选性效果）}}
+{{异常效果表格|3|BLOCK_FREE|不可阻挡|[[文件:头像 敌人 浮士德.png|50px|link=浮士德]]|无法阻挡/被阻挡，自动解除阻挡}}
+{{异常效果表格|4|HIDDEN|隐藏|无|无法被选中，阻挡/被阻挡时无效}}
+{{异常效果表格|5|INVINCIBLE|无敌|[[文件:头像 敌人 霜星，“冬痕”.png|50px|link=霜星，“冬痕”]]|无法被敌对阵营选中（可选性效果），受到的伤害变为0，[[元素|元素值]]不会损失}}
+{{异常效果表格|6|UNDEADABLE|不死|[[文件:头像 敌人 萨卡兹哨兵组长.png|50px|link=萨卡兹哨兵组长]]|重设HP时不会使其低于1}}
+{{异常效果表格|7|HEAL_FREE|禁疗|[[文件:头像 赫拉格.png|50px|link=赫拉格]]|无法成为治疗类能力的目标（可选性效果），受到的治疗量变为0&amp;lt;br&amp;gt;※治疗类能力包括绝大部分直接的治疗与伤害类型为治疗的攻击；增减生命回复速度或生命回复速度（百分比）属性的效果不会被识别为治疗类能力}}
+{{异常效果表格|8|UNBALANCE_IMMUNE|失衡免疫|[[文件:头像 敌人 泥岩.png|50px|link=泥岩(敌方)]]|不会被位移影响，状态机无法切换至UNBALANCE&amp;lt;br&amp;gt;※“失衡”并非异常效果，此效果也并非其异常免疫。}}
+{{异常效果表格|9|INVISIBLE|隐匿|[[文件:技能 环境伪装.png|50px|link=守林人#技能]]|无法被敌对阵营选中（可选性效果）&amp;lt;br&amp;gt;※隐匿与“阻挡时解除”没有直接关系，该机制通常由其他效果实现}}
+{{异常效果表格|10|UNUSED_PLACEHOLDER_1|×|×|（曾为反隐，已不再被使用）}}
+{{异常效果表格|11|DISARMED|缴械|[[文件:头像 敌人 寻路者信使.png|50px|link=寻路者信使]]|无法进行攻击，持有无敌时无效&amp;lt;br&amp;gt;※也无法进行其他攻击行为（如猎手装弹、秘术师储存能量）}}
+{{异常效果表格|12|SILENCED|沉默|[[文件:头像 拉普兰德.png|50px|link=拉普兰德]]|无法触发技能&amp;lt;br&amp;gt;部分能力识别到沉默时自行失效}}
+{{异常效果表格|13|UNMOVABLE|束缚|[[文件:技能 反制电磁脉冲.png|50px|link=格劳克斯#技能]]|无法移动}}
+{{异常效果表格|14|UNUSED_PLACEHOLDER_2|×|×|×}}
+{{异常效果表格|15|ALLY_TARGET_FREE|孤立|[[文件:头像 装置 干扰装置.png|50px|link=干扰装置]]|无法被同阵营选中（可选性效果）}}
+{{异常效果表格|16|FROZEN|冻结|[[文件:头像 敌人 雪怪术师.png|50px|link=雪怪术师]]|状态机尝试切换至FROZEN (无法攻击、释放技能)&amp;lt;br&amp;gt;※术语{{术语|ba.frozen|冻结}}的法抗增减为BUFF效果，非异常效果'''冻结'''本身的效果}}
+{{异常效果表格|17|CAMOUFLAGE|迷彩|[[文件:技能 保护色隐蔽.png|50px|link=稀音#技能]]|无法被敌对方非溅射攻击类型动画能力和部分弹道选中（可选性效果）；会因隐匿免疫而失效&amp;lt;br&amp;gt;※迷彩与“阻挡时解除”没有直接关系，该机制通常由其他效果实现}}
+{{异常效果表格|18|FORCE_DISARMED|强制缴械|[[文件:技能_法术传输协议.png|50px|link=L-44"留声机"]]|无法进行普通攻击等攻击行为&amp;lt;br&amp;gt;※效果与'''缴械'''相近，但不会被识别为'''缴械'''&amp;lt;br&amp;gt;※也无法进行其他攻击行为（如猎手装弹、秘术师储存能量）}}
+{{异常效果表格|19|STUNNED_NO_AMPLIFY_DAMAGE|无法行动|暂无|状态机尝试切换至STUN (无法攻击，阻挡，释放技能)}}
+{{异常效果表格|20|DISABLE_COMBAT|禁用近战|[[文件:头像 嵯峨.png|50px|link=嵯峨]]|敌人类实体无法进行阻挡攻击，无法被阻挡，不会自动解除阻挡}}
+{{异常效果表格|21|ELEMENT_FREE_ALL|元素免疫|暂无|[[元素|元素值]]不会损失}}
+{{异常效果表格|22|UNMOVABLE_PRIVATE|自缚|[[文件:头像 敌人 血骑士狄开俄波利斯.png|50px|link=血骑士狄开俄波利斯]]|无法移动&amp;lt;br&amp;gt;※效果与'''束缚'''相同，但不会被识别为'''束缚'''}}
+{{异常效果表格|23|COLD|寒冷|[[文件:头像 灵知.png|50px|link=灵知]]|无效果&amp;lt;br&amp;gt;※术语{{术语|ba.cold|寒冷}}的攻速增减为BUFF效果，非异常效果'''寒冷'''本身的效果}}
+{{异常效果表格|24|SKILL_NOT_ACTIVATABLE|静默|[[文件:图标_元素_dark.png|50px|link=元素]]|无法触发技能&amp;lt;br&amp;gt;※效果与'''沉默'''相同，但不会被识别为'''沉默'''}}
+{{异常效果表格|25|LEVITATE|浮空|[[文件:头像 艾丽妮.png|50px|link=艾丽妮]]|状态机尝试切换至LEVITATE (视为空中单位，无法攻击、释放技能)}}
+{{异常效果表格|26|DURANCE|禁锢|[[文件:头像 敌人 粗圆岩.png|50px|link=粗圆岩]]|保全派驻模式下，无法被接力替换下场}}
+{{异常效果表格|27|NOT_WITHDRAWABLE|无法撤退|[[文件:头像 敌人 扎罗，“狼之主”.png|50px|link=扎罗，“狼之主”]]|无法执行手动撤退}}
+{{异常效果表格|28|OUT_OF_GROUND|离地|[[文件:头像_敌人_“最后的蒸汽骑士”.png|50px|link=“最后的蒸汽骑士”]]|中断以自身为目标的套索式弹道}}
+{{异常效果表格|29|SP_MODIFY_STOPPED|技力封闭|[[文件:头像 琳琅诗怀雅.png|50px|link=琳琅诗怀雅]]|无法被非强制性modifier修改技力}}
+{{异常效果表格|30|ANTI_STATUS_RESISTABLE|状态免疫|[[文件:技能_苦修破誓.png|50px|link=止颂]]|无法被添加可抵抗Buff}}
+{{异常效果表格|31|DISARMED_COMBAT|战栗|[[文件:头像 锏.png|50px|link=锏]]|若状态机处于COMBAT则无法触发普通攻击}}
+{{异常效果表格|32|TOWER_TARGET_FREE|未知|未知|未知}}
+{{异常效果表格|33|FEARED|恐惧|[[文件:技能 怵然震爆.png|50px|link=妮芙]]|未知&amp;lt;br&amp;gt;※恐惧的详细机制请参见页面[[恐惧]]}}
+{{异常效果表格|34|SKILL_ACTIVABLE_IN_ABNORMAL|技能强启|[[文件:技能 盖戳！.png|50px|link=佩佩]]|处于[[可抵抗状态]]时仍能开启}}
+{{异常效果表格|35|MOTION_TARGET_FREE|机动|[[文件:头像 云迹.png|50px|link=云迹]]|无法被敌对阵营中非飞行单位选中（可选性效果）}}
+{{异常效果表格|36|FORCE_LEVITATE|强制浮空|-|状态机强制切换至LEVITATE (视为空中单位，无法攻击、释放技能)&amp;lt;br&amp;gt;※效果与'''浮空'''相近，但不会被识别为'''浮空'''}}
+{{异常效果表格|37|BUFF_ADD_CAN_BE_CANCELED_IF_DEFENSE|BUFF可抵挡|[[入梦砖]]|令自身施加的BUFF'''变为可以失效'''&amp;lt;br&amp;gt;受该效果影响的单位对持有'''异常效果：BUFF抵挡'''的敌人施加的效果将真正地无效；绝大部分天赋/职业特性依赖BUFF运作，其也会因此被无效}}
+{{异常效果表格|38|DEFENSE_BUFF_ADD_IF_CANCELABLE_BUFF|BUFF抵挡|/|令自身受到的'''可以失效的BUFF'''失效&amp;lt;br&amp;gt;受该效果影响的单位受到来自持有'''异常效果：BUFF可抵挡'''的单位的效果无效}}
+{{异常效果表格|39|PALSY|麻痹|[[文件:图标_元素_sanity.png|50px|link=元素]]|状态机尝试切换至PALSY&amp;lt;br/&amp;gt;※术语{{术语|ba.palsy|麻痹}}的叠层次数与层数流失为BUFF效果，非异常效果'''麻痹'''本身的效果}}
+{{异常效果表格|40|PALSYING|麻痹中|未知|强制中断当前正在进行的普通攻击动作&amp;lt;br/&amp;gt;※与异常效果'''麻痹'''绑定，无法被独立添加}}
+|}
+
+===异常组合(AbnormalCombo)===
+异常组合（AbnormalCombo）为包括了一个或多个的异常效果（AbnormalFlag）的组合。
+
+持有该组合即'''视为'''同时拥有这些异常效果（AbnormalFlag），但不会受到针对于单一异常效果免疫或无视的影响。
+{|class="wikitable&amp;lt;includeonly&amp;gt; mw-collapsible mw-collapsed&amp;lt;/includeonly&amp;gt;" style="width:800px; display:table; text-align:center; white-space:normal;"
+!ID
+!内部ID
+!站内称呼
+!举例
+!组合内容
+{{异常效果表格|0|SLEEPING|沉睡|[[文件:技能 睡眠之歌.png|50px|link=空#技能]]|无法行动+无敌+不可阻挡|组合=T}}
+{{异常效果表格|1|SHELTERING|闭锁|[[文件:技能_秽壤的血脉.png|50px|link=泥岩#技能]]|强制缴械+无敌+不可阻挡|组合=T}}
+|}
+
+===异常免疫(AbnormalImmune)===
+持有异常免疫时（AbnormalImmune），该异常免疫对应的异常效果（AbnormalFlag）无法生效，无法被检测（但不会清除此异常效果，异常免疫结束时此异常效果可重新生效）。
+
+====反隐（隐匿免疫）====
+'''隐匿免疫'''效果又称'''反隐'''，其不仅可以阻止隐匿效果的生效，也同时可以阻止迷彩效果的生效，不过其与'''迷彩免疫'''不同，无法阻止对迷彩的检测。
+
+===异常组合免疫(AbnormalComboImmune)===
+持有异常组合免疫时（AbnormalComboImmune），该异常组合免疫对应的异常组合（AbnormalCombo）无法生效，无法被检测。
+
+===异常反制(AbnormalAnti)===
+获得包含异常反制（AbnormalAnti）效果的buff时，包含了对应异常效果（AbnormalFlag）的Buff会被'''立刻清除'''。
+
+异常反制生效期间，包含对应异常效果（AbnormalFlag）的Buff无法被添加。
+
+※区别于异常免疫（AbnormalImmune），异常反制会清除掉包含对应异常效果的BUFF，且阻止此类BUFF被添加；而异常免疫只会令对应的异常效果暂时无法生效。
+
+===异常效果标记(AbnormalFlagMask)===
+使用标志枚举的方法将该Buff的所有异常效果（AbnormalFlag）合并为一个值，其中的每个位标志相当于 1 &amp;lt;&amp;lt; abnormalFlag的ID。
+
+例如，一个同时附带STUNNED（晕眩）和TARGET_FREE（不可选中）的Buff，其异常效果标记（AbnormalFlagMask）等于 1 &amp;lt;&amp;lt; 0 | 1 &amp;lt;&amp;lt; 2 = 5。
+
+===异常抗性===
+敌人与干员的配置中有数个以'''布尔型变量'''形式存在的设置。
+
+该类设置被设置为'''TRUE'''时，该干员与敌人将在初始化时获得对应的异常免疫（AbnormalImmune）或异常组合免疫（AbnormalComboImmune）
+
+该类设置的名称同样为“Immune”，为了区分这些内容，通常我们称其为“异常抗性”。
+{|class="wikitable&amp;lt;includeonly&amp;gt; mw-collapsible mw-collapsed&amp;lt;/includeonly&amp;gt;" style="width:800px; display:table; text-align:center; white-space:normal;"
+!变量名
+!称呼
+!针对的异常效果/异常组合
+|-
+|stunImmune
+|晕眩抗性
+|STUNNED（晕眩）
+|-
+|silenceImmune
+|沉默抗性
+|SILENCED（沉默）
+|-
+|sleepImmune
+|沉睡抗性
+|SLEEPING（沉睡）
+|-
+|frozenImmune
+|冻结抗性
+|FROZEN（冻结）
+|-
+|levitateImmune
+|浮空抗性
+|LEVITATE（浮空）
+|-
+|disarmedCombatImmune
+|战栗抗性
+|DISARMED_COMBAT（战栗）
+|-
+|fearedImmune
+|恐惧抗性
+|FEARED（恐惧）
+|-
+|palsyImmune
+|麻痹抗性
+|PALSY（麻痹）
+|}
+&amp;lt;noinclude&amp;gt;[[分类:游戏数据]]&amp;lt;/noinclude&amp;gt;&lt;/text&gt;
+      &lt;sha1&gt;qp1u7tgqtpab8ivpbxvjw1x1ewaketa&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

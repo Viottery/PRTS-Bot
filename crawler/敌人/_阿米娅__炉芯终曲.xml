@@ -1,0 +1,189 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="74859" pageid="74859" ns="0" title="“阿米娅”，炉芯终曲" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;“阿米娅”，炉芯终曲&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;74859&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;336191&lt;/id&gt;
+      &lt;parentid&gt;335592&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-03-08T04:19:22Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;Enko&lt;/username&gt;
+        &lt;id&gt;394&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;/* 级别0 */"Redundant as Amiya deducts 999 Life Points when entering a Protection Objective." -- Terra Wiki. For a nice tip: Every single word on PRTS is nothing useless.&lt;/comment&gt;
+      &lt;origin&gt;336191&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="6861" sha1="odtikk79peoy1o3lq1xp23mjb8pbbo5" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{参阅|阿米娅|作为我方干员登场以及明日方舟主要角色之一的阿米娅}}
+&amp;lt;div class="nomobile"&amp;gt;[[文件:Avg avg npc 6666 1-1$1.png|缩略图|&amp;lt;center&amp;gt;“阿米娅”，炉芯终曲&amp;lt;/center&amp;gt;]]&amp;lt;/div&amp;gt;
+{{敌人信息/common
+|id=1109
+|名称=“阿米娅”，炉芯终曲
+|index=AFF
+|地位级别=领袖
+|描述=存在于每个故事尽头，带走每位角色，封闭每种可能，停止每段讲述。它是对终结的想象，亦是所有想象的终结，它是一切，唯独不是你熟悉的人。
+|伤害类型=法术
+|攻击方式=远程
+|行动方式=地面
+|耐久=S
+|攻击力=B
+|防御力=SS
+|移动速度=D
+|攻击速度=D
+|法术抗性=S
+|元素抗性=E
+|损伤抵抗=E
+|能力=·【仅剩的创意】战场上存在若干“仅剩的创意”，“仅剩的创意”会在触碰到昔日道标或地形时改变移动方向，若触碰昔日道标则释放其中的敌人或友方干员&amp;lt;br&amp;gt;{{color|#FF4F0B|第一形态}}&amp;lt;br&amp;gt;·【不应存在之人】阿米娅受到的物理与法术伤害降低50%，生命值首次低于50%时，获得无敌&amp;lt;br&amp;gt;·【尽头重现】当博卓卡斯替，圣卫铳骑、特雷西斯，黑冠尊主、奎隆，摩诃萨埵权化、曼弗雷德被击倒或离开战场时回复技力，技力满时施放【存续先兆】&amp;lt;br&amp;gt;·【存续先兆】停止攻击，逐渐消灭所有场地及其上的单位，每消灭一个昔日道标或敌人，扣除相应敌人的目标生命值，随后进入下一场地作战，思维混乱时，存续先兆所需的技力大幅降低&amp;lt;br&amp;gt;{{color|#FF4F0B|第二形态}}&amp;lt;br&amp;gt;·【黑冠余威】进入第二形态后，立即对周围最多7个目标造成一次真实伤害，同时，每次碰触“仅剩的创意”时立即对周围最多7个目标造成一次真实伤害&amp;lt;br&amp;gt;·【无言的期盼】每隔一段时间，召唤一个仅剩的创意&amp;lt;br&amp;gt;·【永恒存续】消灭场上所有的敌人、干员、昔日道标，随后结束作战
+|登场活动=萨卡兹的无终奇语
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=存在于每个故事尽头，带走每位角色，封闭每种可能，停止每段讲述。它是对终结的想象，亦是所有想象的终结，它是一切，唯独不是你熟悉的人。
+|数量=999
+|攻击范围半径=10.0
+|最大生命值=200000
+|攻击力=600
+|防御力=8000
+|法术抗性=70
+|移动速度=0.35
+|攻击速度=100
+|攻击间隔=5.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=10
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=有
+|恐惧抗性=有
+|技能0=存续先兆
+|技能0初始=0
+|技能0消耗=180&amp;lt;br&amp;gt;180&amp;lt;br&amp;gt;180&amp;lt;br&amp;gt;280
+|技能0类型=自动回复
+|技能0效果=※此技能的4种技力消耗分别对应：第一形态·第1/2/3区域 及 第二形态&amp;lt;br&amp;gt;持续施法35/35/60/60s，期间每3.5/3.5/6/6s封印当前场地最左侧一列未被封印的地块（不含保护目标点），并强制击倒其中除自身外所有单位(不会使敌人触发特殊能力)，击倒[[昔日道标]]及敌方单位时扣除等同于其目标价值的目标生命值([[托生莲座]]的目标价值视为1点)&amp;lt;br&amp;gt;※思维混乱时，技力消耗分别降至100/100/100/200&amp;lt;br&amp;gt;※持有【终结的实相】时，第二形态下的技能技力消耗降至120
+|技能1=黑冠余威&amp;lt;br&amp;gt;[第二形态]
+|技能1初始=0
+|技能1消耗=0
+|技能1效果=仅技能计数&amp;gt;0时可触发，触发时计数-1：&amp;lt;br&amp;gt;对攻击范围内最多7个我方单位造成自身攻击力250%的真实伤害
+|技能2=无言的期盼&amp;lt;br&amp;gt;[第二形态]
+|技能2初始=15
+|技能2消耗=15
+|技能2效果=以预设路径召唤1个[[仅剩的创意]]
+|天赋=&amp;lt;span style="color:#fff;background:red;padding-inline:0.5em;box-shadow:0 0 5px red;"&amp;gt;{{mdi|skull}} '''自身到达路径终点时，作战行动强制失败''' {{popup|颜色=white|内容=该效果为'''机制效果'''：无视当前目标生命值，强制判定行动失败。}}&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;{{异常效果|免疫失衡}}，免疫{{术语|ba.dying|重伤}}&amp;lt;br&amp;gt;普通攻击造成真实伤害，优先攻击嘲讽等级最高&amp;gt;最后部署的我方单位&amp;lt;br&amp;gt;自身所属关卡内，我方'''{{color|orange|干员}}'''在部署（不包括移动）时被'''封印'''：&amp;lt;br&amp;gt;获得{{异常效果|晕眩}}，{{异常效果|不可选中}}，阻挡数-99，持续时间无限&amp;lt;br&amp;gt;（受[[仅剩的创意]]影响时解除）&amp;lt;br&amp;gt;【尽头重现】：[[博卓卡斯替，圣卫铳骑]]、[[特雷西斯，黑冠尊主]]、[[奎隆，摩诃萨埵权化]]、[[曼弗雷德]]退场时，自身立即获得250SP&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;{{color|#FF4F0B|'''第一形态'''}}&amp;lt;br&amp;gt;【不应存在之人】：受到的物理/法术伤害-50%；持有{{异常效果|不死}}，且生命值低于50%时，持续获得无敌（进入第三区域后失效）&amp;lt;br&amp;gt;于第1/2区域释放【存续先兆】后：闪现至下一区域，随后释放波次，移动场地，清空自身SP，并以全新的路径行动；进入新场地时，前一区域中封印地块上的单位受到和【存续先兆】中相同的强制退场+扣除目标生命值效果，进入新场地8s后，解除上一场地的地面封印效果&amp;lt;br&amp;gt;被击倒后，保留自身SP，进行持续10s的重生，恢复100%生命值；重生期间自身SP暂停回复，重生结束后进入{{color|#FF4F0B|第二形态}}&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;{{color|#FF4F0B|'''第二形态'''}}&amp;lt;br&amp;gt;【黑冠余威】的初始技能计数为1；[[仅剩的创意]]进入自身半径0.5范围内时，令其退场并使该技能计数+1&amp;lt;br&amp;gt;被击倒后进行持续2.5s的重生，恢复100%生命值，重生后立即释放【永恒存续】：强制击倒场上除自身外所有单位(不会使敌人触发特殊能力)，随后自身退场&amp;lt;!--[
+    {
+        "key": "ReduceDamageS1.damage_resistance",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "ReduceDamageS2.damage_resistance",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "ReduceDamageS3.damage_resistance",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "Blink1.location",
+        "value": 0.0,
+        "valueStr": "(5,15)"
+    },
+    {
+        "key": "Blink2.location",
+        "value": 0.0,
+        "valueStr": "(3,26)"
+    },
+    {
+        "key": "InvincibleS1.hp_ratio",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "InvincibleS2.hp_ratio",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "RebornS3.duration",
+        "value": 10.0,
+        "valueStr": null
+    },
+    {
+        "key": "RebornS4.duration",
+        "value": 2.5,
+        "valueStr": null
+    },
+    {
+        "key": "AbsorbSkzamb.range_radius",
+        "value": 0.5,
+        "valueStr": null
+    }
+]--&amp;gt;
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;odtikk79peoy1o3lq1xp23mjb8pbbo5&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

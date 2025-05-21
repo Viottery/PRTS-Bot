@@ -1,0 +1,291 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="20282" pageid="20282" ns="0" title="Touch" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;Touch&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;20282&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;327363&lt;/id&gt;
+      &lt;parentid&gt;312836&lt;/parentid&gt;
+      &lt;timestamp&gt;2024-11-17T16:19:24Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;S.Staf&lt;/username&gt;
+        &lt;id&gt;81546&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;origin&gt;327363&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="8011" sha1="ti1ry5wsaiz68vfilk1zk5f4t65fj7q" xml:space="preserve"&gt;{{干员页面名|Touch|Touch|Touch}}{{pathnav2|干员一览}}
+{{参阅|干员一览/专属干员|其他集成战略专属干员}}
+{{参阅|Touch(卫戍协议)|作为在[[卫戍协议]]中作为原型干员登场的Touch}}
+==干员信息==
+{{CharinfoV2
+&amp;lt;!--下方为自动更新部分，您的修改可能会被覆盖--&amp;gt;
+|干员名=Touch
+|干员名jp=Touch
+|干员外文名=Touch
+|干员id=char_510_amedic
+|干员序号=-1
+|特性=恢复友方单位生命
+|稀有度=4
+|职业=医疗
+|分支=医师
+|情报编号=RE18
+|所属国家=罗德岛
+|所属组织=罗德岛-精英干员
+|所属团队=
+|位置=远程位
+|标签=治疗
+|画师=熊太
+|中文配音=特薇佐
+|日文配音=柚木凉香 
+|英文配音=Elsie Bennett
+|精英0介绍=
+&amp;lt;!--上方为自动更新部分，您的修改可能会被覆盖--&amp;gt;
+|精英0缩放=2
+|精英0坐标x=10
+|精英0坐标y=-68
+|精英2缩放=2
+|精英2坐标x=10
+|精英2坐标y=-68
+}}
+==获得方式==
+{{干员获得方式
+|获得方式=无
+|上线时间=2020-08-25 16:00
+}}
+
+==属性==
+{{属性
+|再部署=60s
+|部署费用=16→18
+|阻挡数=1
+|攻击速度=2.85s
+|精英0_1级_生命上限=865
+|精英0_1级_攻击=210
+|精英0_1级_防御=59
+|精英0_1级_法术抗性=0
+|精英0_满级=50
+|精英0_满级_生命上限=1219
+|精英0_满级_攻击=345
+|精英0_满级_防御=86
+|精英0_满级_法术抗性=0
+|精英1_满级=70
+|精英1_满级_生命上限=1469
+|精英1_满级_攻击=493
+|精英1_满级_防御=108
+|精英1_满级_法术抗性=0
+|精英2_满级=80
+|精英2_满级_生命上限=1633
+|精英2_满级_攻击=595
+|精英2_满级_防御=135
+|精英2_满级_法术抗性=0
+|信赖加成_生命上限=0
+|信赖加成_攻击=0
+|信赖加成_防御=0
+|潜能上限=1
+}}
+==攻击范围==
+{{干员攻击范围
+|精英0范围=3-1
+|精英1范围=3-3
+|精英2范围=3-3
+}}
+==天赋==
+{{天赋列表3
+|天赋=第一天赋
+|天赋1=攫升
+|天赋1条件=精英1
+|天赋1效果=治疗目标时使其获得+2技力
+|天赋2=攫升
+|天赋2条件=精英2
+|天赋2效果=治疗目标时使其获得+3技力
+}}
+
+==潜能提升==
+该干员无法提升潜能
+==技能==
+'''技能1（精英0开放）'''
+{{技能2
+|技能名=宛如天启
+|技能名jp=天啓の光
+|技能名en=Apocalyptic Scene
+|技能类型1=自动回复
+|技能类型2=手动触发
+|技能1描述=自身攻击距离{{color|#0098DC|+1}}，每次治疗{{color|#0098DC|2}}个目标，所有医疗干员攻击力{{*|10%|{{color|#0098DC|+10%}}}}
+|技能1初始=0
+|技能1消耗=40
+|技能1持续=30
+|技能2描述=自身攻击距离{{color|#0098DC|+1}}，每次治疗{{color|#0098DC|2}}个目标，所有医疗干员攻击力{{*|10%|{{color|#0098DC|+10%}}}}
+|技能2初始=1
+|技能2消耗=39
+|技能2持续=30
+|技能3描述=自身攻击距离{{color|#0098DC|+1}}，每次治疗{{color|#0098DC|2}}个目标，所有医疗干员攻击力{{*|10%|{{color|#0098DC|+10%}}}}
+|技能3初始=2
+|技能3消耗=38
+|技能3持续=30
+|技能4描述=自身攻击距离{{color|#0098DC|+1}}，每次治疗{{color|#0098DC|2}}个目标，所有医疗干员攻击力{{*|15%|{{color|#0098DC|+15%}}}}
+|技能4初始=3
+|技能4消耗=37
+|技能4持续=30
+|技能5描述=自身攻击距离{{color|#0098DC|+1}}，每次治疗{{color|#0098DC|2}}个目标，所有医疗干员攻击力{{*|15%|{{color|#0098DC|+15%}}}}
+|技能5初始=4
+|技能5消耗=36
+|技能5持续=30
+|技能6描述=自身攻击距离{{color|#0098DC|+1}}，每次治疗{{color|#0098DC|2}}个目标，所有医疗干员攻击力{{*|15%|{{color|#0098DC|+15%}}}}
+|技能6初始=5
+|技能6消耗=35
+|技能6持续=30
+|技能7描述=自身攻击距离{{color|#0098DC|+1}}，每次治疗{{color|#0098DC|2}}个目标，所有医疗干员攻击力{{*|20%|{{color|#0098DC|+20%}}}}
+|技能7初始=6
+|技能7消耗=34
+|技能7持续=30
+|技能专精1描述=自身攻击距离{{color|#0098DC|+1}}，每次治疗{{color|#0098DC|2}}个目标，所有医疗干员攻击力{{*|23%|{{color|#0098DC|+23%}}}}
+|技能专精1初始=7
+|技能专精1消耗=33
+|技能专精1持续=30
+|技能专精2描述=自身攻击距离{{color|#0098DC|+1}}，每次治疗{{color|#0098DC|2}}个目标，所有医疗干员攻击力{{*|26%|{{color|#0098DC|+26%}}}}
+|技能专精2初始=8
+|技能专精2消耗=32
+|技能专精2持续=30
+|技能专精3描述=自身攻击距离{{color|#0098DC|+2}}，每次治疗{{color|#0098DC|2}}个目标，所有医疗干员攻击力{{*|30%|{{color|#0098DC|+30%}}}}
+|技能专精3初始=10
+|技能专精3消耗=30
+|技能专精3持续=30
+}}
+
+==后勤技能==
+该干员无后勤技能
+==精英化材料==
+该干员无精英化材料需求
+==技能升级材料==
+该干员无技能升级材料需求
+==相关道具==
+该干员无相关道具
+
+==干员档案==
+{{人员档案set
+|代号=触痕
+|性别=女
+|战斗经验=二十年
+|出身地=莱塔尼亚
+|生日=11月12日
+|种族=卡普里尼
+|身高=152cm
+|矿石病感染情况=参照医学检测报告，确认为感染者。
+|是否感染者=感染者
+
+|物理强度=标准
+|战场机动=标准
+|生理耐受=标准
+|战术规划=优良
+|战斗技巧=卓越
+|源石技艺适应性=卓越
+
+|体细胞与源石融合率=8%
+|血液源石结晶密度=0.23u/L
+}}
+{{人员档案
+|档案1=基础档案
+|档案1条件=通关主题曲[[3-8]]开放
+|档案1文本=【代号】触痕
+【性别】女
+【战斗经验】二十年
+【出身地】莱塔尼亚
+【生日】11月12日
+【种族】卡普里尼
+【身高】152cm
+【矿石病感染情况】参照医学检测报告，确认为感染者。
+|档案2=综合体检测试
+|档案2条件=通关主题曲[[3-8]]开放
+|档案2文本=【物理强度】标准
+【战场机动】标准
+【生理耐受】标准
+【战术规划】优良
+【战斗技巧】卓越
+【源石技艺适应性】卓越
+|档案3=客观履历
+|档案3条件=通关主题曲[[3-8]]开放
+|档案3文本=触痕，罗德岛精英医疗干员，植物学、医学专家，熟练掌握极稀有的源石技艺。
+现根据罗德岛决议，长期担任外勤小队指挥，主要负责矿石病援助与医疗调查任务。
+|档案4=临床诊断分析
+|档案4条件=通关主题曲[[3-8]]开放
+|档案4文本=造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为矿石病感染者。
+
+【体细胞与源石融合率】16%
+体表尚无明显结晶，但肩部可见大片感染痕迹。
+
+【血液源石结晶密度】0.28u/L
+作为矿石病研究人员，触痕的具体病况将由她本人管理。仅高权限人员在定期核查时可申请阅览其病历档案。
+|档案5=档案资料一
+|档案5条件=通关主题曲[[3-8]]开放
+|档案5文本=莱塔尼亚人，传统术师家庭出身，罗德岛医疗干员中坚。
+触痕主要负责外勤医疗任务，执行任务时也会为罗德岛收集泰拉大地上的特殊矿石病病例。
+天生拥有着一种将物质恢复到原初状态的稀有源石技艺，秉持着这份天赋，触痕年轻时便成为了植物学讲师。然而随着研究的逐渐深入，她遇到了瓶颈，在自我否定和学校要求的双重压迫下，触痕铤而走险在研究中加入了过量源石溶液并不慎感染，从此失去了入主高塔的资格。
+在人生的低谷中，她接触到了哥伦比亚的生命科学理论，其中一些观点为她的研究提供了完美的佐证。因此，她前往哥伦比亚，从头开始学习现代医学理论，并在梅兰德基金会的资助下主攻矿石病研究。在此期间，她遇见了凯尔希。
+多年后，凯尔希邀请触痕加入巴别塔，但她以不参与政治纷争为由拒绝了邀请。罗德岛成立后，凯尔希再次邀请触痕加入，因认可罗德岛理念，触痕正式成为罗德岛医疗干员，协助凯尔希搭建医疗部班底。
+}}
+
+==语音记录==
+{{参阅三|{{FULLPAGENAME}}|yy}}
+{{:{{FULLPAGENAME}}/语音记录}}
+
+==干员模型==
+{{spineId}}
+==注释与链接==
+&amp;lt;references/&amp;gt;
+{{干员导航}}[[分类:专属干员]]&lt;/text&gt;
+      &lt;sha1&gt;ti1ry5wsaiz68vfilk1zk5f4t65fj7q&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

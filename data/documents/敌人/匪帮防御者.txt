@@ -1,0 +1,91 @@
+{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=692
+|名称=匪帮防御者
+|index=EG9
+|地位级别=精英
+|描述=被雇来制造混乱的佣兵，身着重型防护服，为了应对能量泄漏问题，会提前将装备充能。由于文化程度相对较高，其工作内容包括向雇主提供手写的热能增幅装置测试报告。
+|伤害类型=物理
+|攻击方式=近战
+|位置=地面
+|耐久=A
+|攻击力=C
+|防御力=B
+|移动速度=C
+|攻击速度=B
+|法术抗性=E
+|元素抗性=E
+|损伤抵抗=E
+|能力=·能量上限：20，能量达到上限时进入【过载】&lt;br&gt;·初始额外获得15点能量，但每隔10秒失去1点能量&lt;br&gt;·【过载】较长一段时间内攻击速度、防御力和法术抗性大幅提升
+|登场活动=不义之财
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=初始额外获得15点能量，但每10秒失去1点能量。能量上限：20
+|数量=1
+|攻击范围半径=
+|最大生命值=12000
+|攻击力=300
+|防御力=600
+|法术抗性=0
+|移动速度=0.5
+|攻击速度=100
+|攻击间隔=3.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=4
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=无
+|沉默抗性=无
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=无
+|战栗抗性=无
+|天赋=拥有15/20的{{特殊机制|能量}}，未处于{{color|green|'''过载'''}}状态时每10秒失去1点{{特殊机制|能量}}，{{特殊机制|能量}}达到上限时进入{{color|green|'''过载'''}}状态&lt;br/&gt;{{color|green|'''【过载】'''}}：在20s内攻击速度+120、防御力最终提升至200%、法术抗性+30，持续时间结束后清空{{特殊机制|能量}}&lt;!--[
+    {
+        "key": "over_energy.duration",
+        "value": 20.0,
+        "valueStr": null
+    },
+    {
+        "key": "over_energy.attack_speed",
+        "value": 120.0,
+        "valueStr": null
+    },
+    {
+        "key": "over_energy.def",
+        "value": 2.0,
+        "valueStr": null
+    },
+    {
+        "key": "over_energy.magic_resistance",
+        "value": 30.0,
+        "valueStr": null
+    },
+    {
+        "key": "blacksteel_energy.max_stack_cnt",
+        "value": 20.0,
+        "valueStr": null
+    },
+    {
+        "key": "dec_energy.dec_count",
+        "value": -1.0,
+        "valueStr": null
+    },
+    {
+        "key": "dec_energy.interval",
+        "value": 10.0,
+        "valueStr": null
+    },
+    {
+        "key": "blacksteel_energy.init_stack_cnt",
+        "value": 15.0,
+        "valueStr": null
+    }
+]--&gt;
+}}
+
+==敌人模型==
+{{spine}}&lt;references/&gt;{{敌人导航}}

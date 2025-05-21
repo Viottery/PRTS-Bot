@@ -1,0 +1,143 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="79437" pageid="79437" ns="0" title="巨声" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;巨声&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;79437&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;345618&lt;/id&gt;
+      &lt;parentid&gt;345579&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-18T13:45:23Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;Visu2209&lt;/username&gt;
+        &lt;id&gt;1119&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;/* 级别0 */&lt;/comment&gt;
+      &lt;origin&gt;345618&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="2051" sha1="p0lgbxsmgsq6wcrhoik0vrct10nwx0e" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=1288
+|名称=巨声
+|index=SFR11
+|地位级别=精英
+|描述=Stormeye的酒友。在Stormeye流浪时期就与他相识，后来一起加入了罗德岛。Stormeye的酒量完全就是被她锻炼出来的。
+|伤害类型=物理
+|攻击方式=近战 远程
+|行动方式=地面
+|耐久=A+
+|攻击力=A+
+|防御力=A+
+|移动速度=C
+|攻击速度=C
+|法术抗性=A+
+|元素抗性=E
+|损伤抵抗=E
+|能力=·未被阻挡受到伤害时，大幅降低该次所受到的物理或法术伤害，随后发射一轮箭雨，对伤害来源周围的单位造成溅射伤害并使其攻击速度大幅降低&amp;lt;br&amp;gt;·重生
+|登场活动=矢量突破S1
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=未被阻挡时，受到攻击会招架该次攻击并发射一轮箭雨反击；{{color|#00FFFF|重生}}
+|数量=1
+|攻击范围半径=1.3
+|最大生命值=30000
+|攻击力=1500
+|防御力=1200
+|法术抗性=60
+|移动速度=0.6
+|攻击速度=100
+|攻击间隔=3.5
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=4
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=无
+|沉默抗性=无
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=无
+|战栗抗性=无
+|恐惧抗性=无
+|技能0=反击箭雨
+|技能0初始=0
+|技能0消耗=4
+|技能0效果=未被阻挡而受到伤害时触发：发射箭雨，若存在伤害来源，则对伤害来源周围半径1.5范围内的我方单位造成攻击力120%的物理溅射伤害，使其在10s内获得攻击速度-50
+|天赋=未被阻挡时，受到的物理/法术伤害-80%（技能持续期间该效果失效）&amp;lt;br&amp;gt;首次被击倒后进行持续5.667s的重生，回复100%生命值&amp;lt;!--
+    {
+        "key": "special.damage_resistance",
+        "value": 0.8,
+        "valueStr": null
+    },
+    {
+        "key": "reborn.duration",
+        "value": 5.667,
+        "valueStr": null
+    },
+    {
+        "key": "reborn.duration_rest",
+        "value": 5.0,
+        "valueStr": null
+    }
+]--&amp;gt;
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;p0lgbxsmgsq6wcrhoik0vrct10nwx0e&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

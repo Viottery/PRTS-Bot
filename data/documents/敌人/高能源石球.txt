@@ -1,0 +1,117 @@
+{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=879
+|名称=高能源石球
+|index=IB26
+|地位级别=普通
+|描述=为了丰富球赛体验，仿照高能源......等等，它怎么动了，该不会是真的吧？！好吧，这是一只货真价实的球形高能源石虫，小心，它会爆炸！
+|伤害类型=无
+|攻击方式=不攻击
+|行动方式=地面
+|耐久=D
+|攻击力=SS
+|防御力=E
+|移动速度=A
+|攻击速度=A+
+|法术抗性=E
+|元素抗性=E
+|损伤抵抗=E
+|能力=·踢动时有概率爆炸，对周围造成晕眩和伤害&lt;br&gt;·只能被守门员或阻挡数不小于3的单位阻挡
+|登场活动=罗德岛促融共竞
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=被踢动时有概率{{color|#00FFFF|爆炸}}。只能被守门员或阻挡数不小于3的单位阻挡。
+|数量=1
+|攻击范围半径=
+|最大生命值=1000
+|攻击力=20000
+|防御力=0
+|法术抗性=0
+|移动速度=1.0
+|攻击速度=100
+|攻击间隔=1.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=1
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=无
+|沉默抗性=无
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=有
+|战栗抗性=无
+|天赋=足球类敌人（详细运作逻辑参见：标准参数的[[RMA70刺球]]）&lt;br&gt;摩擦力0.65倍，弹性0.3，默认推动力度390，累计伤害阈值3000&lt;br&gt;初始爆炸计数器为10；自身每次进入失衡状态时，爆炸计数器+[-6.0,-2.0)区间内的一个随机数&lt;br&gt;爆炸计数器降至0时，延迟1.5s后对半径1.5范围内所有单位造成3s晕眩与1500点真实伤害，随后重置爆炸计数器至10&lt;!--[
+    {
+        "key": "aura.block_cnt",
+        "value": 3.0,
+        "valueStr": null
+    },
+    {
+        "key": "physic.friction_factor",
+        "value": 0.65,
+        "valueStr": null
+    },
+    {
+        "key": "physic.restitution_factor",
+        "value": 0.3,
+        "valueStr": null
+    },
+    {
+        "key": "physic.value",
+        "value": 3000.0,
+        "valueStr": null
+    },
+    {
+        "key": "physic.force",
+        "value": 390.0,
+        "valueStr": null
+    },
+    {
+        "key": "boom.max_value",
+        "value": 10.0,
+        "valueStr": null
+    },
+    {
+        "key": "boom.range_radius",
+        "value": 1.5,
+        "valueStr": null
+    },
+    {
+        "key": "boom.duration",
+        "value": 1.5,
+        "valueStr": null
+    },
+    {
+        "key": "boom.stun",
+        "value": 3.0,
+        "valueStr": null
+    },
+    {
+        "key": "boom.add_value_min",
+        "value": -6.0,
+        "valueStr": null
+    },
+    {
+        "key": "boom.add_value_max",
+        "value": -2.0,
+        "valueStr": null
+    },
+    {
+        "key": "boom.damage",
+        "value": 1500.0,
+        "valueStr": null
+    }
+]--&gt;
+}}
+
+==级别1==
+{{敌人信息/level
+|index=1
+|最大生命值=80000
+|攻击力=2250
+}}
+==敌人模型==
+{{spine}}&lt;references/&gt;{{敌人导航}}

@@ -1,0 +1,115 @@
+{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=950
+|名称=纵尘者
+|index=SD36
+|地位级别=领袖
+|描述=萨尔贡王酋下属之一。沙砾弥天，尘影蔽日，生灵崩解，邪念尤盛。
+|伤害类型=物理
+|攻击方式=近战
+|位置=未知
+|耐久=SS
+|攻击力=A+
+|防御力=S
+|移动速度=C
+|攻击速度=E
+|法术抗性=S
+|元素抗性=E
+|损伤抵抗=E
+|能力=·【沙暴之尘】周围一定范围内敌人（包括自身）移速与攻击速度提高&lt;br&gt;·被阻挡时吞噬阻挡者（上限3），并且使【沙暴之尘】效果提升
+|登场活动=沙洲遗闻
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=萨尔贡王酋下属之一。沙砾弥天，尘影蔽日，生灵崩解，邪念尤盛。
+|数量=30
+|攻击范围半径=
+|最大生命值=750000
+|攻击力=1600
+|防御力=2500
+|法术抗性=70
+|移动速度=0.6
+|攻击速度=100
+|攻击间隔=8.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=5
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=无
+|技能0=崩解
+|技能0初始=5
+|技能0消耗=0
+|技能0效果=被非装置职业的单位阻挡时可触发：&lt;br&gt;将阻挡自身的单位强制击倒；被击倒的干员再部署时间归零但在自身被击倒前无法再部署，召唤物则进入再部署时间&lt;br&gt;※此技能单场战斗中最多触发3次&lt;br&gt;※干员被吞噬期间卡片顶部会带有特殊的{{color|#880d19|'''红黑色'''}}标志
+|天赋=【沙暴之尘】：本场战斗中，触发过0次/1次/2次/3次【崩解】时，自身半径3.0范围内的所有敌方单位移动速度+0%/+20%/+40%/+60%，攻击速度+20/+50/+80/+110&lt;br&gt;※与此敌人多次战斗时，不会继承【崩解】的已触发次数与【沙暴之尘】的强化层数&lt;!--[
+    {
+        "key": "Sand1.move_speed",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "Sand1.attack_speed",
+        "value": 20.0,
+        "valueStr": null
+    },
+    {
+        "key": "Sand2.move_speed",
+        "value": 0.2,
+        "valueStr": null
+    },
+    {
+        "key": "Sand2.attack_speed",
+        "value": 50.0,
+        "valueStr": null
+    },
+    {
+        "key": "Sand3.move_speed",
+        "value": 0.4,
+        "valueStr": null
+    },
+    {
+        "key": "Sand3.attack_speed",
+        "value": 80.0,
+        "valueStr": null
+    },
+    {
+        "key": "Sand4.move_speed",
+        "value": 0.6,
+        "valueStr": null
+    },
+    {
+        "key": "Sand4.attack_speed",
+        "value": 110.0,
+        "valueStr": null
+    },
+    {
+        "key": "Sand1.range_radius",
+        "value": 3.0,
+        "valueStr": null
+    },
+    {
+        "key": "Sand2.range_radius",
+        "value": 3.0,
+        "valueStr": null
+    },
+    {
+        "key": "Sand3.range_radius",
+        "value": 3.0,
+        "valueStr": null
+    },
+    {
+        "key": "Sand4.range_radius",
+        "value": 3.0,
+        "valueStr": null
+    }
+]--&gt;
+}}
+
+==敌人模型==
+{{spine}}&lt;references/&gt;{{敌人导航}}

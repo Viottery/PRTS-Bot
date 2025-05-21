@@ -1,0 +1,129 @@
+{{Navigator|敌人一览}}
+&lt;div class="nomobile"&gt;[[文件:Avg_avg_npc_1036_1-1$1.png|缩略图|&lt;center&gt;“桥夹”克里夫&lt;/center&gt;]]&lt;/div&gt;
+{{敌人信息/common
+|id=771
+|名称=“桥夹”克里夫
+|index=BSC
+|地位级别=领袖
+|描述=传奇佣兵，黑钢国际的创始人。战火将他摧毁，亦将他重塑。
+|伤害类型=物理
+|攻击方式=远程
+|位置=地面
+|耐久=A+
+|攻击力=A
+|防御力=S
+|移动速度=D
+|攻击速度=C
+|法术抗性=A+
+|元素抗性=E
+|损伤抵抗=E
+|能力=·攻击使数秒内目标防御力减少，该效果可叠加&lt;br&gt;·受到废热喷口的伤害时攻击力和防御力大幅降低&lt;br&gt;{{color|#FF4F0B|第一形态}}&lt;br&gt;·【闪电之手】晕眩目标和相邻单位，随后连续攻击3次&lt;br&gt;{{color|#FF4F0B|第二形态}}&lt;br&gt;·进入第二形态时立即清空场上所有废热喷口的技力&lt;br&gt;·攻击力和防御力提升，攻击速度大幅增加&lt;br&gt;·【雷霆之手】晕眩目标和相邻单位，随后连续攻击6次，若目标撤退或被击倒，快速穿过一段距离并刷新此技能
+|登场活动=不义之财
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=传奇佣兵，黑钢国际的创始人。受到废热喷口的伤害时{{color|#00FFFF|攻击力和防御力}}大幅降低
+|数量=2
+|攻击范围半径=2.2
+|最大生命值=45000
+|攻击力=1100
+|防御力=2500
+|法术抗性=60
+|移动速度=0.45
+|攻击速度=100
+|攻击间隔=4.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=6
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=无
+|恐惧抗性=无
+|技能0=闪电之手&lt;br&gt;[第一形态]
+|技能0初始=15
+|技能0消耗=30
+|技能0效果=令目标与周围4格的单位{{术语|ba.stun|晕眩}}6s，随后对主目标连续攻击3次&lt;br&gt;※此技能发动期间自身免疫失衡
+|技能1=雷霆之手&lt;br&gt;[第二形态]
+|技能1初始=15
+|技能1消耗=30
+|技能1效果=令目标与周围4格的单位{{术语|ba.stun|晕眩}}6s，随后对主目标连续攻击6次&lt;br&gt;若技能期间主目标以任意形式离场，则技能结束时自身向下个检查点方向(不存在下个检查点时改为移动方向)闪现1.5格，并刷新此技能的冷却时间&lt;br&gt;※此技能发动期间自身免疫失衡
+|天赋=每次普通攻击/技能攻击命中前令目标在6s内防御力-150（可无限叠加，每层独立计时）&lt;br/&gt;受到来自[[废热喷口]]的伤害时，攻击力-70%，防御力-70%，持续1s&lt;br&gt;&lt;br/&gt;'''第一形态'''下被击倒后，释放当前波次，进行持续20s的重生，回复100%生命值&lt;br&gt;重生结束后，清空场上所有[[废热喷口]]的SP，获得10s无敌，随后进入'''第二形态'''&lt;br&gt;'''第二形态'''下，自身攻击力+20%，攻击速度+100，防御力+1000&lt;!--[
+    {
+        "key": "reduce_def.duration",
+        "value": 6.0,
+        "valueStr": null
+    },
+    {
+        "key": "reduce_def.def",
+        "value": -150.0,
+        "valueStr": null
+    },
+    {
+        "key": "trap_debuff.debuff_time",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "trap_debuff.atk",
+        "value": -0.7,
+        "valueStr": null
+    },
+    {
+        "key": "trap_debuff.def",
+        "value": -0.7,
+        "valueStr": null
+    },
+    {
+        "key": "reborn.atk",
+        "value": 0.2,
+        "valueStr": null
+    },
+    {
+        "key": "reborn.attack_speed",
+        "value": 100.0,
+        "valueStr": null
+    },
+    {
+        "key": "reborn.def",
+        "value": 1000.0,
+        "valueStr": null
+    },
+    {
+        "key": "reborn.invincible_time",
+        "value": 10.0,
+        "valueStr": null
+    },
+    {
+        "key": "reborn.ban_attack_time",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "reborn.duration",
+        "value": 20.0,
+        "valueStr": null
+    },
+    {
+        "key": "reborn.rest_duration",
+        "value": 18.0,
+        "valueStr": null
+    }
+]--&gt;
+}}
+
+==级别1==
+{{敌人信息/level
+|index=1
+|最大生命值=65000
+|攻击力=1300
+|法术抗性=70
+}}
+
+==敌人模型==
+{{spine}}&lt;references/&gt;{{敌人导航}}

@@ -1,0 +1,136 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="42763" pageid="42763" ns="0" title="多萝西(敌方)" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;多萝西(敌方)&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;42763&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;323375&lt;/id&gt;
+      &lt;parentid&gt;323374&lt;/parentid&gt;
+      &lt;timestamp&gt;2024-10-24T02:27:17Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;CCl4&lt;/username&gt;
+        &lt;id&gt;51601&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;minor/&gt;
+      &lt;comment&gt;撤销[[Special:Contributions/CCl4|CCl4]]（[[User talk:CCl4|讨论]]）的版本323374&lt;/comment&gt;
+      &lt;origin&gt;323375&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="1870" sha1="0dwyew7ti6neomfyiom8ui0249kmh47" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+&amp;lt;noinclude&amp;gt;{{DISPLAYTITLE:多萝西}}&amp;lt;/noinclude&amp;gt;
+{{参阅|多萝西|作为特种干员登场的多萝西}}
+&amp;lt;div class="nomobile"&amp;gt;[[文件:Avg avg 4048 doroth 1-1$1.png|缩略图|&amp;lt;center&amp;gt;多萝西&amp;lt;/center&amp;gt;]]&amp;lt;/div&amp;gt;
+{{敌人信息/common
+|id=503
+|名称=多萝西
+|index=RO17
+|地位级别=精英
+|描述=多萝西·弗兰克斯，莱茵生命源石技艺应用科主任。借助科技与理想的力量，她希望人与人之间的差距可以被消除，弱小之人，能得到来自她的庇护。
+|伤害类型=物理
+|攻击方式=远程
+|位置=地面
+|耐久=A+
+|攻击力=B
+|防御力=B
+|移动速度=C
+|攻击速度=B
+|法术抗性=E
+|元素抗性=E
+|损伤抵抗=E
+|能力=·无法被阻挡&amp;lt;br&amp;gt;·部署陷阱，踩上去的友方单位受到法术伤害且{{术语|ba.stun|晕眩}}一段时间
+|登场活动=绿野幻梦
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=能够部署陷阱，撤回保护目标时不扣除关卡生命值
+|数量=0
+|攻击范围半径=2.0
+|最大生命值=37500
+|攻击力=650
+|防御力=600
+|法术抗性=0
+|移动速度=0.5
+|攻击速度=100
+|攻击间隔=3.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=5
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=无
+|天赋=无法被阻挡，免疫失衡
+|技能0=部署陷阱
+|技能0效果=在0.3半径内可部署地面单位且不存在陷阱的地块中心放置陷阱（陷阱为弹道，最长持续999s）：我方单位部署于此地块时陷阱爆炸，自身攻击力提升10%（最多叠加50层），对目标造成攻击力150%的法术普通伤害和10s晕眩。
+|技能0初始=0
+|技能0消耗=5
+}}
+
+==级别1==
+{{敌人信息/level
+|index=1
+|最大生命值=50000
+|攻击力=850
+|防御力=700
+|法术抗性=20
+}}
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;0dwyew7ti6neomfyiom8ui0249kmh47&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

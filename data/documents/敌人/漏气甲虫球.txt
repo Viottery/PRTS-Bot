@@ -1,0 +1,98 @@
+{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=1055
+|名称=漏气甲虫球
+|index=IB47
+|地位级别=普通
+|描述=为了丰富球赛体验，特邀一种源石甲虫来扮演的足球。这种甲虫在受惊时会快速吸气膨胀，只不过眼下的这一只似乎哪里漏了气，越是滚动，就越是干瘪......
+|伤害类型=无
+|攻击方式=不攻击
+|行动方式=地面
+|耐久=D
+|攻击力=SS
+|防御力=E
+|移动速度=A
+|攻击速度=A+
+|法术抗性=E
+|元素抗性=E
+|损伤抵抗=E
+|能力=·被踢动时会漏气变小，推动所需伤害变低&lt;br&gt;·只能被守门员或阻挡数不小于3的单位阻挡
+|登场活动=促融共竞S1
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=踢动时逐渐变小变轻
+|数量=1
+|攻击范围半径=
+|最大生命值=1000
+|攻击力=10000
+|防御力=0
+|法术抗性=0
+|移动速度=1.0
+|攻击速度=100
+|攻击间隔=1.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=1
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=无
+|沉默抗性=无
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=有
+|战栗抗性=无
+|恐惧抗性=无
+|天赋=足球类敌人（详细运作逻辑参见：标准参数的[[RMA70刺球]]）&lt;br&gt;摩擦力0.19倍，弹性1.0，默认推动力度260，累计伤害阈值7100&lt;br&gt;每次进入失衡状态时，累计伤害阈值-2200（最多叠加3次）&lt;!--[
+    {
+        "key": "aura.block_cnt",
+        "value": 3.0,
+        "valueStr": null
+    },
+    {
+        "key": "physic.friction_factor",
+        "value": 0.19,
+        "valueStr": null
+    },
+    {
+        "key": "physic.restitution_factor",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "physic.value",
+        "value": 7100.0,
+        "valueStr": null
+    },
+    {
+        "key": "physic.force",
+        "value": 260.0,
+        "valueStr": null
+    },
+    {
+        "key": "airleakage.value",
+        "value": -2200.0,
+        "valueStr": null
+    },
+    {
+        "key": "airleakage.kick_times",
+        "value": 3.0,
+        "valueStr": null
+    },
+    {
+        "key": "airleakage.extra_value",
+        "value": -0.05,
+        "valueStr": null
+    }
+]--&gt;
+}}
+
+==级别1==
+{{敌人信息/level
+|index=1
+|最大生命值=80000
+|攻击力=2250
+}}
+==敌人模型==
+{{spine}}&lt;references/&gt;{{敌人导航}}

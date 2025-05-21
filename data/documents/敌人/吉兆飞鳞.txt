@@ -1,0 +1,107 @@
+{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=918
+|名称=吉兆飞鳞
+|index=PI7
+|地位级别=普通
+|描述=繁殖期会频繁跃出盐层的雌性飞鳞，它会在空中短暂地滑翔，并散播清香的信息素。若在出航时遇到一头栽倒在甲板上的它，船员们便会将之视作吉兆。
+|伤害类型=无
+|攻击方式=不攻击
+|行动方式=地面
+|耐久=B+
+|攻击力=E
+|防御力=E
+|移动速度=C
+|攻击速度=A+
+|法术抗性=C
+|元素抗性=E
+|损伤抵抗=E
+|能力=·{{术语|ba.float|近地悬浮}}，失去{{术语|ba.float|近地悬浮}}后{{术语|ba.stun|晕眩}}一定时间重新起飞&lt;br&gt;·首次受到伤害后移动速度短暂提升，有时会携带&lt;寻险水手&gt;
+|相关敌人=[[寻险水手]]
+|登场活动=出苍白海
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述={{color|#00FFFF|近地悬浮}}，失去{{color|#00FFFF|近地悬浮}}后晕眩数秒重新起飞。首次受到伤害后移动速度短暂提升，有时会携带&lt;寻险水手&gt;
+|数量=1
+|攻击范围半径=
+|最大生命值=10000
+|攻击力=100
+|防御力=0
+|法术抗性=10
+|移动速度=0.6
+|攻击速度=100
+|攻击间隔=1.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=0
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=无
+|沉默抗性=无
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=无
+|战栗抗性=无
+|恐惧抗性=无
+|技能0=“丢下去！”
+|技能0初始=0
+|技能0消耗=0
+|技能0效果=位于特定地块且携带了[[寻险水手]]时可触发：在自身所在格释放并召唤[[寻险水手]]
+|天赋={{术语|ba.float|近地悬浮}}：受到部分控制效果影响1s后失去{{术语|ba.float|近地悬浮}}并{{术语|ba.stun|晕眩}}8s，期间无法被阻挡，8s后重新获得{{术语|ba.float|近地悬浮}}&lt;br&gt;如果自身携带[[寻险水手]]，会在失去{{术语|ba.float|近地悬浮}}/死亡时于自身所在格释放并召唤[[寻险水手]]&lt;br/&gt;首次受到伤害后5s内，移动速度提升至300%&lt;!--[
+    {
+        "key": "M0SpeedUp.duration",
+        "value": 5.0,
+        "valueStr": null
+    },
+    {
+        "key": "M0SpeedUp.move_speed",
+        "value": 3.0,
+        "valueStr": null
+    },
+    {
+        "key": "ThrowEnemy.checkpoint",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "M1SpeedUp.duration",
+        "value": 5.0,
+        "valueStr": null
+    },
+    {
+        "key": "M1SpeedUp.move_speed",
+        "value": 3.0,
+        "valueStr": null
+    },
+    {
+        "key": "Stun.duration",
+        "value": 8.0,
+        "valueStr": null
+    },
+    {
+        "key": "Mode.mode",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "StateController.enemy_key",
+        "value": 0.0,
+        "valueStr": "enemy_10043_sailor"
+    },
+    {
+        "key": "StateController.cnt",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "StateController.delay",
+        "value": 1.0,
+        "valueStr": null
+    }
+]--&gt;
+}}
+
+==敌人模型==
+{{spine}}&lt;references/&gt;{{敌人导航}}

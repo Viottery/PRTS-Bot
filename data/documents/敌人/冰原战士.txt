@@ -1,0 +1,56 @@
+{{Navigator|敌人一览}}&lt;div class="nomobile thumb tright"&gt;
+{|class="wikitable" align="right" style="width: 350px"
+|'''该敌人具有两种形态的立绘，故本页对其立绘作了差分'''&lt;br&gt;
+&lt;tabber&gt;
+Ver.1=
+[[文件:Avg avg npc 283 1$1.png|300px]]&lt;center&gt;&lt;font size=1&gt;&lt;/font&gt;&lt;/center&gt;
+|-|
+Ver.2=
+[[文件:Avg avg npc 284 1$1.png|300px]]&lt;center&gt;&lt;font size=1&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;/tabber&gt;
+|}&lt;/div&gt;
+{{敌人信息/common
+|id=371
+|名称=冰原战士
+|index=IL5
+|地位级别=普通
+|描述=擅长冰原作战的战士。长期在冰原环境下的生活锻炼了他们的意志和体魄。
+|伤害类型=物理
+|攻击方式=近战
+|位置=地面
+|耐久=D
+|攻击力=C
+|防御力=D
+|移动速度=B+
+|攻击速度=B+
+|法术抗性=B
+|元素抗性=E
+|损伤抵抗=E
+|登场活动=风雪过境
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=擅长冰原作战的战士
+|数量=1
+|攻击范围半径=
+|最大生命值=3000
+|攻击力=300
+|防御力=100
+|法术抗性=20
+|移动速度=0.9
+|攻击速度=100
+|攻击间隔=2.2
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=1
+|眩晕抗性=无
+|沉默抗性=无
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=无
+|战栗抗性=无
+}}
+
+==敌人模型==
+{{spine}}&lt;references/&gt;{{敌人导航}}

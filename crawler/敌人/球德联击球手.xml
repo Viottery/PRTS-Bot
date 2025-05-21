@@ -1,0 +1,157 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="76787" pageid="76787" ns="0" title="球德联击球手" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;球德联击球手&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;76787&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;338193&lt;/id&gt;
+      &lt;parentid&gt;338112&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-03-25T05:01:45Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;Tresl84&lt;/username&gt;
+        &lt;id&gt;5575&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;minor/&gt;
+      &lt;origin&gt;338193&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="2141" sha1="9ec10znsc8uk7ker3xfzpqk7ghoz3uw" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=1049
+|名称=球德联击球手
+|index=IB41
+|地位级别=普通
+|描述=球德联全称“球德践行联盟”，其理念非常简单：只要把敌方选手都揍趴下，就不怕进不了球！浑身长满尖刺的球德联击球手，能让所有敌方选手在拼抢时退让三分。
+|伤害类型=物理
+|攻击方式=近战
+|行动方式=地面
+|耐久=A+
+|攻击力=A
+|防御力=B
+|移动速度=A+
+|攻击速度=B
+|法术抗性=B
+|元素抗性=E
+|损伤抵抗=E
+|能力=·射门力度更大，踢出的球会撞伤经过的我方目标
+|登场活动=促融共竞S1
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=射门力度更大，足球会撞伤我方单位
+|数量=1
+|攻击范围半径=
+|最大生命值=30000
+|攻击力=1200
+|防御力=500
+|法术抗性=20
+|移动速度=1.2
+|攻击速度=100
+|攻击间隔=3.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=0
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=无
+|沉默抗性=有
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=无
+|战栗抗性=无
+|恐惧抗性=无
+|技能0=射门
+|技能0初始=/
+|技能0消耗=/
+|技能0效果=射门力度：1.6倍；以此效果踢出的足球在10s内每1.5s一次对周围的我方单位造成1000伤害
+|技能1=传球
+|技能1初始=/
+|技能1消耗=/
+|技能1效果=传球力度：1.35倍
+|天赋=球员类敌人；持续追踪半径2.5范围内的足球类敌人进行移动&amp;lt;br&amp;gt;被击倒时进行持续20s的重生，恢复100%生命值（无次数限制）&amp;lt;br&amp;gt;详细运作逻辑参见：[[阵地击球手]]&amp;lt;!--[
+    {
+        "key": "Reborn.duration",
+        "value": 20.0,
+        "valueStr": null
+    },
+    {
+        "key": "football.passing_force",
+        "value": 1.35,
+        "valueStr": null
+    },
+    {
+        "key": "football.slapshot_force",
+        "value": 1.6,
+        "valueStr": null
+    },
+    {
+        "key": "searchBall.range_radius",
+        "value": 2.5,
+        "valueStr": null
+    }
+]--&amp;gt;
+}}
+==级别1==
+{{敌人信息/level
+|index=1
+|最大生命值=80000
+|攻击力=2250
+}}
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;9ec10znsc8uk7ker3xfzpqk7ghoz3uw&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

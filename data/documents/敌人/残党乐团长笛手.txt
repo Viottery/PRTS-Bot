@@ -1,0 +1,106 @@
+{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=712
+|名称=残党乐团长笛手
+|index=OCS1
+|地位级别=普通
+|描述=希望加入君王乐团的长笛手。如此天赋平平的俗人未曾目睹过那般盛景，也因此变得异常狂热。
+|伤害类型=物理
+|攻击方式=近战
+|位置=地面
+|耐久=C
+|攻击力=D
+|防御力=D
+|移动速度=B
+|攻击速度=B+
+|法术抗性=C
+|元素抗性=E
+|损伤抵抗=E
+|能力=※攻击2次后，下一次攻击力提升
+|登场活动=崔林特尔梅之金
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=希望加入君王乐团的长笛手。每攻击数次，下一次攻击力提升
+|数量=1
+|攻击范围半径=
+|最大生命值=4000
+|攻击力=280
+|防御力=150
+|法术抗性=10
+|移动速度=0.8
+|攻击速度=100
+|攻击间隔=2.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=1
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=无
+|沉默抗性=无
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=无
+|战栗抗性=无
+|技能0=狂热
+|技能0初始=0
+|技能0消耗=2
+|技能0类型=攻击回复
+|技能0效果=造成攻击力130%的物理伤害
+|天赋={{color|#8e7cc0|'''沉郁变奏'''}}持续期间：攻击力+20%，攻击速度-50，移动速度最终降低至50%&lt;br&gt;{{color|#dcbd85|'''激昂变奏'''}}持续期间：攻击速度+50，移动速度最终提升至200%，防御力-50%&lt;!--[
+    {
+        "key": "buff.sp_ratio",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "buff.enemy_act29side[buff_depressed_lite].attack_speed",
+        "value": -50.0,
+        "valueStr": null
+    },
+    {
+        "key": "buff.enemy_act29side[buff_depressed_lite].atk",
+        "value": 0.2,
+        "valueStr": null
+    },
+    {
+        "key": "buff.enemy_act29side[buff_depressed_lite].move_speed",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "buff.enemy_act29side[buff_depressed_lite].def",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "buff.enemy_act29side[buff_enthu_lite].attack_speed",
+        "value": 50.0,
+        "valueStr": null
+    },
+    {
+        "key": "buff.enemy_act29side[buff_enthu_lite].move_speed",
+        "value": 2.0,
+        "valueStr": null
+    },
+    {
+        "key": "buff.enemy_act29side[buff_enthu_lite].def",
+        "value": -0.5,
+        "valueStr": null
+    },
+    {
+        "key": "buff.enemy_act29side[buff_enthu_lite].atk",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "buff.type",
+        "value": 0.0,
+        "valueStr": "enthusiastic"
+    }
+]--&gt;
+}}
+
+==敌人模型==
+{{spine}}&lt;references/&gt;{{敌人导航}}

@@ -1,0 +1,104 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="59618" pageid="59618" ns="0" title="缠身恶焰" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;缠身恶焰&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;59618&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;342676&lt;/id&gt;
+      &lt;parentid&gt;279464&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-04-29T12:29:58Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;Visu2209&lt;/username&gt;
+        &lt;id&gt;1119&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;origin&gt;342676&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="1610" sha1="cisnmilr5vzq0ljkkxiil6rqzazeizo" xml:space="preserve"&gt;{{敌人信息/uncommon
+|名称=缠身恶焰
+|地位级别=普通
+}}
+==通常召唤的缠身恶焰==
+{{敌人信息/level
+|index=0
+|描述=
+|数量=1
+|最大生命值=8000
+|攻击力=100
+|防御力=750
+|法术抗性=0
+|移动速度=0.7
+|攻击速度=100
+|攻击间隔=1.0
+|攻击范围半径=
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=0
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|天赋={{异常效果|束缚}}，{{异常效果|失衡免疫}}，无法被阻挡，不进行普通攻击，嘲讽等级+1&amp;lt;br&amp;gt;{{特殊机制|附着：}}作为附着对象的，自身0.3半径范围内的我方干员获得{{异常效果|阻回}}，{{异常效果|缴械}}，{{异常效果|静默}}，{{异常效果|束缚}}，{{异常效果|失衡免疫}}，每秒受到150点法术生命流失&amp;lt;br&amp;gt;附着对象退场时，自身切换至镇压形态；直到自身退场前：目标再部署时间归零但无法再部署，自身所在地块被被重写为不可部署&amp;lt;br&amp;gt;镇压形态下，自身防御力+200%
+}}
+
+==【夷灭】召唤的缠身恶焰==
+{{敌人信息/level
+|index=1
+|天赋=附着型敌人，{{异常效果|无敌|color=orange}}，{{异常效果|束缚|color=orange}}，{{异常效果|失衡免疫|color=orange}}，无法被阻挡，不进行普通攻击&amp;lt;br&amp;gt;{{特殊机制|附着：}}作为附着对象的，自身0.3半径范围内的我方干员获得{{异常效果|阻回|color=orange}}，{{异常效果|缴械|color=orange}}，{{异常效果|静默|color=orange}}，{{异常效果|束缚|color=orange}}，{{异常效果|失衡免疫|color=orange}}
+}}&lt;/text&gt;
+      &lt;sha1&gt;cisnmilr5vzq0ljkkxiil6rqzazeizo&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

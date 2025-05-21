@@ -1,0 +1,231 @@
+{{Navigator|敌人一览}}
+&lt;div class="nomobile"&gt;[[文件:Avg avg npc 1778 1$1.png|缩略图|&lt;center&gt;“圣徒”&lt;/center&gt;]]&lt;/div&gt;
+{{敌人信息/common
+|id=1171
+|名称=“圣徒”
+|index=ST
+|地位级别=领袖
+|描述=拉特兰最初的圣徒。曾经，还是提卡兹的它与“律法”相遇，“萨科塔”自此始，拉特兰自此始。
+|伤害类型=物理 法术
+|攻击方式=近战 远程
+|行动方式=地面
+|耐久=A
+|攻击力=B
+|防御力=A
+|移动速度=C
+|攻击速度=D
+|法术抗性=A+
+|元素抗性=E
+|损伤抵抗=E
+|能力={{color|#FF4F0B|第一形态}}&lt;br&gt;·拥有较高的防御力&lt;br&gt;·攻击造成近战物理伤害&lt;br&gt;{{color|#FF4F0B|第二形态}}&lt;br&gt;·攻击造成3次法术伤害，优先攻击不同的目标&lt;br&gt;·【启圣仪式】锁定身边人数最多的我方单位，每秒造成真实伤害，持续一定时间&lt;br&gt;·【寻根圣事】能以第二形态重新返回战场，自身在地面和飞行状态间切换，属性、攻击和技能获得强化，并开拓更大的战场区域
+|登场活动=众生行记
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=拉特兰最初的圣徒。能进行&lt;启圣仪式&gt;造成群体伤害，被击倒后通过&lt;寻根圣事&gt;返回战场
+|数量=3
+|攻击范围半径=3.5
+|最大生命值=20000
+|攻击力=600
+|防御力=1000
+|法术抗性=60
+|移动速度=0.6
+|攻击速度=100
+|攻击间隔=6.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=10
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=无
+|恐惧抗性=有
+|技能0=多重普通攻击&lt;br&gt;[第二形态]
+|技能0初始=0
+|技能0消耗=0
+|技能0效果=在1.5s(地面)/1.7s(飞行)内进行远程法术攻击，造成攻击力100%的法术伤害，共重复3次（优先攻击不同目标）；技能最多触发99次&lt;br/&gt;※每次切换形态后，攻击持续时间+0.2s，重复次数+1
+|技能1=启圣仪式&lt;br&gt;[第二形态]
+|技能1初始=13
+|技能1消耗=20
+|技能1效果=锁定周围8格我方单位数量最多的我方单位所在地块，蓄力7.5s后对目标及其周围8格的范围释放持续4s的仪式：仪式影响范围内的我方单位每秒受到自身攻击力50%的真实伤害&lt;br&gt;※不存在可锁定目标时，选择自身所在地块释放仪式&lt;br/&gt;※每次切换形态后，仪式持续时间+1s
+|天赋=免疫传送&lt;br&gt;在路径终点添加{{color|#0098dc|'''保护目标'''}}模型作为提示&lt;br&gt;（不改变实际地形，可以与已有保护目标重叠；消失时撤销本次添加的保护目标）&lt;br&gt;&lt;br&gt;'''{{color|red|第一形态}}'''&lt;br&gt;最大生命值+10000，攻击力+2400，防御力+1500，法术抗性-20，移动速度提升至150%&lt;br&gt;仅进行近战攻击，造成物理伤害&lt;br&gt;生命值不高于1%时，进行持续7.67s的重生，回复100%生命值，重生结束后进入{{color|red|第二形态}}&lt;br&gt;&lt;br&gt;'''{{color|red|第二形态}}'''&lt;br&gt;攻击力+0%，防御力+0，法术抗性+0&lt;br&gt;第'''奇数'''次进入时为'''地面单位'''，第'''偶数'''次进入时为'''飞行单位'''&lt;br&gt;'''各地空状态分别拥有一定的复活次数'''&lt;br&gt;被击倒后：①若当前地空状态仍有剩余复活次数，则进行持续6s的重生，每秒回复16.7%的生命值，重生结束后释放当前波次，暂时消失：在下个波次开始时令[[寻根圣事]]激活隐藏的地图剩余地块，行动路径变更&lt;br&gt;②否则：则自身退场&lt;br&gt;{{color|red|第二形态}}下每次切换地空状态后，攻击力+12%，防御力+400，法术抗性+5，属性加成可叠加&lt;!--[
+    {
+        "key": "M0Reborn.hp_ratio",
+        "value": 0.01,
+        "valueStr": null
+    },
+    {
+        "key": "M0Reborn.duration",
+        "value": 0.767,
+        "valueStr": null
+    },
+    {
+        "key": "AttributeMinus.max_hp",
+        "value": 10000.0,
+        "valueStr": null
+    },
+    {
+        "key": "AttributeMinus.atk",
+        "value": 2400.0,
+        "valueStr": null
+    },
+    {
+        "key": "AttributeMinus.def",
+        "value": 1500.0,
+        "valueStr": null
+    },
+    {
+        "key": "AttributeMinus.magic_resistance",
+        "value": -20.0,
+        "valueStr": null
+    },
+    {
+        "key": "AttributeMinus.move_speed",
+        "value": 1.5,
+        "valueStr": null
+    },
+    {
+        "key": "R1Passive.r1_revive_duration",
+        "value": 6.0,
+        "valueStr": null
+    },
+    {
+        "key": "R1Passive.hp_recovery_per_sec_by_max_hp_ratio",
+        "value": 0.167,
+        "valueStr": null
+    },
+    {
+        "key": "M1Reborn.max_respawn_cnt",
+        "value": 2.0,
+        "valueStr": null
+    },
+    {
+        "key": "M1Reborn.hp_ratio",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "M1Reborn.duration",
+        "value": 1.167,
+        "valueStr": null
+    },
+    {
+        "key": "M1Reborn.after_wave_cnt",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "M1WaveManager.after_wave_cnt",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "M2Reborn.max_respawn_cnt",
+        "value": 2.0,
+        "valueStr": null
+    },
+    {
+        "key": "M2Reborn.hp_ratio",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "M2Reborn.duration",
+        "value": 0.967,
+        "valueStr": null
+    },
+    {
+        "key": "M2Reborn.after_wave_cnt",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "M2WaveManager.after_wave_cnt",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "ParamStorage.s_duration",
+        "value": 1.5,
+        "valueStr": null
+    },
+    {
+        "key": "ParamStorage.times",
+        "value": 3.0,
+        "valueStr": null
+    },
+    {
+        "key": "ParamStorage.projectile_life_time",
+        "value": 4.0,
+        "valueStr": null
+    },
+    {
+        "key": "ParamStorage.level_up_add_attack_times",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "ParamStorage.level_up_add_anim_time",
+        "value": 0.2,
+        "valueStr": null
+    },
+    {
+        "key": "ParamStorage.level_up_add_projectile_life_time",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "ParamStorage.atk",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "ParamStorage.atk_add",
+        "value": 0.12,
+        "valueStr": null
+    },
+    {
+        "key": "ParamStorage.def",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "ParamStorage.def_add",
+        "value": 400.0,
+        "valueStr": null
+    },
+    {
+        "key": "ParamStorage.magic_resistance",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "ParamStorage.magic_resistance_add",
+        "value": 5.0,
+        "valueStr": null
+    },
+    {
+        "key": "ParamStorage.branch_id",
+        "value": 0.0,
+        "valueStr": "popeRoute"
+    },
+    {
+        "key": "ParamStorage.rect_index",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "ParamStorage.action_index",
+        "value": 0.0,
+        "valueStr": null
+    }
+]--&gt;
+}}
+
+==敌人模型==
+{{spine}}&lt;references/&gt;{{敌人导航}}

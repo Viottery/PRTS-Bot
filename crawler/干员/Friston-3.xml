@@ -1,0 +1,288 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="54983" pageid="54983" ns="0" title="Friston-3" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;Friston-3&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;54983&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;309269&lt;/id&gt;
+      &lt;parentid&gt;289132&lt;/parentid&gt;
+      &lt;timestamp&gt;2024-05-27T04:55:29Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;调零修罗&lt;/username&gt;
+        &lt;id&gt;6713&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;（实装天赋列表3）&lt;/comment&gt;
+      &lt;origin&gt;309269&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="11708" sha1="jozyozhio1le0zdtxu174nq7m6nd7ko" xml:space="preserve"&gt;{{干员页面名|Friston-3|Friston-3|Friston-3}}{{pathnav2|干员一览}}
+{{ads/normal}}{{ads/mobile}}
+==干员信息==
+{{CharinfoV2
+&amp;lt;!--下方为自动更新部分，您的修改可能会被覆盖--&amp;gt;
+|干员名=Friston-3
+|干员名jp=Friston-3
+|干员外文名=Friston-3
+|干员id=char_4093_frston
+|干员序号=283
+|特性=能够阻挡三个敌人，且不受{{color|#00B0FF|部署数量}}限制，但再部署时间极长
+|稀有度=0
+|职业=重装
+|分支=铁卫
+|情报编号=RCX5
+|所属国家=罗德岛
+|所属组织=
+|所属团队=
+|位置=近战位
+|标签=支援机械 防护
+|画师=过失帝国
+|中文配音=董胜章
+|日文配音=池田秀一
+|韩文配音=林彩彬
+|英文配音=John Kassir
+|精英0介绍=一副机械的身躯、一些程式、一个新的模样。他已找不回他所遗忘的，还记得的也已不多。但他依然能见证，他依然能记录，他依然能分析，他依然有资格面对残忍的命运。
+&amp;lt;!--上方为自动更新部分，您的修改可能会被覆盖--&amp;gt;
+|精英0缩放=1.8
+|精英0坐标x=100
+|精英0坐标y=-50
+}}
+
+==获得方式==
+{{干员获得方式
+|获得方式=公开招募 活动获得
+|覆盖=公开招募 [[尖灭测试作战|{{color|orange|尖灭测试作战}}]]活动获得
+|上线时间=2023-05-22 16:00
+}}
+
+==属性==
+{{属性
+|再部署=200s
+|部署费用=3
+|阻挡数=3
+|攻击速度=1.2s
+|精英0_1级_生命上限=921
+|精英0_1级_攻击=158
+|精英0_1级_防御=188
+|精英0_1级_法术抗性=0
+|精英0_满级=30
+|精英0_满级_生命上限=1152
+|精英0_满级_攻击=198
+|精英0_满级_防御=235
+|精英0_满级_法术抗性=0
+|信赖加成_生命上限=100
+|信赖加成_攻击=0
+|信赖加成_防御=70
+}}
+==攻击范围==
+{{干员攻击范围
+|精英0范围=0-1
+}}
+==天赋==
+{{天赋列表3
+|天赋=第一天赋
+|天赋1=存续·I
+|天赋1条件=——
+|天赋1效果=部署后10秒内周围八格的所有友方单位受到的伤害降低50点
+|天赋2=存续·II
+|天赋2条件=潜能2
+|天赋2效果=部署后10秒内周围八格的所有友方单位受到的伤害降低55点
+|天赋3=存续·III
+|天赋3条件=潜能3
+|天赋3效果=部署后10秒内周围八格的所有友方单位受到的伤害降低60点
+|天赋4=存续·IV
+|天赋4条件=潜能4
+|天赋4效果=部署后10秒内周围八格的所有友方单位受到的伤害降低65点
+|天赋5=存续·V
+|天赋5条件=潜能5
+|天赋5效果=部署后10秒内周围八格的所有友方单位受到的伤害降低70点
+|天赋6=存续·VI
+|天赋6条件=潜能6
+|天赋6效果=部署后10秒内周围八格的所有友方单位受到的伤害降低75点
+|备注=※天赋效果只在Friston-3在场时生效，生效优先级+2000
+}}
+
+==潜能提升==
+{{潜能提升
+|潜能2=天赋效果加强
+|潜能3=天赋效果加强
+|潜能4=天赋效果加强
+|潜能5=天赋效果加强
+|潜能6=天赋效果加强
+}}
+==技能==
+该干员没有技能
+==后勤技能==
+{{后勤技能
+|后勤技能1-1=备用能源
+|后勤技能1-1阶段=精英0
+|后勤技能2-1=“愉快的对谈”
+|后勤技能2-1阶段=精英0
+|后勤技能2-1等级=30级
+}}
+&amp;lt;!--如需修改技能信息，请前往[[后勤技能一览]]页面--&amp;gt;
+==精英化材料==
+该干员无法精英化
+==技能升级材料==
+该干员没有技能
+==相关道具==
+{{相关道具
+|干员简介=罗德岛重装机器人Friston-3，被工程师可露希尔派遣来执行战地作战任务。
+|干员简介补充=他不认为自己是一台机器人。
+|信物用途=用于提升Friston-3的潜能。
+|信物描述=一张拍立得照片。面对这片陌生的大地，他会拍下任何有研究价值的存在。
+}}
+==干员档案==
+{{人员档案set
+|性别=男
+|设定性别=男
+|战斗经验=
+|出身地=
+|出厂日=11月13日
+|种族=
+|身高=
+|矿石病感染情况=
+|是否感染者=
+
+|物理强度=
+|战场机动=
+|生理耐受=
+|战术规划=
+|战斗技巧=
+|源石技艺适应性=
+
+|体细胞与源石融合率=
+|血液源石结晶密度=
+}}
+{{人员档案
+|档案1=基础档案
+|档案1条件=初始开放
+|档案1文本=【型号】Friston-3
+【设定性别】男
+【出厂时间】少于一年
+【制造商】罗德岛
+【产地】罗德岛
+【出厂日】11月13日
+【高度】145cm
+【重量】保密
+【维护检测情况】
+外壳有少量磨损，结构完整，强度超过正常标准。发动机与底盘状况良好。能量防护系统运行正常，数据库已更新，使用正常。ECU状况良好。
+|档案2=综合体检测试
+|档案2条件=初始开放
+|档案2文本=【最高速度】24km/h 
+【爬坡能力】标准 
+【制动效能】标准 
+【通过性】标准
+【续航】标准 
+【结构稳定性】优良
+|档案3=客观履历
+|档案3条件=初始开放
+|档案3文本=S-C型四轮作业平台Friston-3，罗德岛智能作业平台研发团队正式成立后的首个成果。Friston-3由可露希尔亲自主持概念设计、落地组装与测试应用，依托于PRTS，实现了从底层代码到外部模块的全面革新。相比罗德岛上的其他改型作业平台，他更加轻便，却拥有更为全面也更为稳定的性能，现作为重装干员参与相关作战任务。
+【权限记录】
+有关Friston-3核心代码的来源、编写思路及更多的设计细节，暂不向各位干员开放查询权限，如有疑问可直接咨询可露希尔。
+|档案4=档案资料一
+|档案4条件=提升信赖至25%以查看
+|档案4文本=作为罗德岛首个全自研智能作业平台，可露希尔在Friston-3身上倾注了太多心血，一个具体的表现便是“过度设计”——
+“他应该拥有性能最好的作战装备”，所以Friston-3配备了工程部最新研制的能量防护发生器；“他应该具备深度学习与自适应能力”，所以Friston-3应用了语料库自更新网络、阅读扫描系统与悬浮导航模块；“他应该拥有不输人类的丰富的‘副语言符号系统’”，所以Friston-3内置了一套简洁但生动的表情涂装，并以每季度一次的频率进行更新；“他应该拥有自我调节的娱乐意识”，所以Friston-3加装了一台拍立得，方便他“拍拍风景”，采购部的胶片购置需求也随之增加了一倍......且此类设计在每次定期维护检修后都会增加，可露希尔乐此不疲，Friston-3非常抗拒。
+谈及为什么不再依托雷神工业的原产作业平台进行客制化，罗德岛首席工程师可露希尔小姐表示：“我们早就该这么干了！我讨厌在核心技术上受制于人的感觉！而且我总觉得那些哥伦比亚的企业会在智能设备里偷偷装一些后门插件......至于为什么从Friston-3开始自研，当然是因为我们完成了技术积累啊，工程部可是从Lancet-2时期就在筹备了。还有就是，Friston-3的核心数据是凯尔希从特里蒙带回来的，不太适合让哥伦比亚的企业再经手它的任何流程......这里面的考量就复杂了。闲聊到此结束，接下来测试Friston-3的劲歌播放组件。遥控器？遥控器当然要由我保管。”
+|档案5=档案资料二
+|档案5条件=提升信赖至50%以查看
+|档案5文本=“THRM-EX热情过头了，Castle-3大哥经历得多所以懂的也多，Lancet-2嘛，就像一个胆小又较真的小姑娘，经常自己把自己给绕进去......除了贾维，我们都知道这只是一种形容啦，但Friston-3真的很像人类，很像很像！”
+——掠风
+
+“Friston-3出现之后，Lancet-2他们就成了鲁特拉工作室的常客。为什么？Friston-3每次都会一本正经地给其他小车灌输真正的人工智能已经发展到了什么阶段，应用前景与社会舆论又是怎样的，引导他们去反思自己的存在，什么‘工具论’‘意识的定义’之类的，Lancet-2的认知模块已经过载了三次了！”
+——梅尔
+
+“我已经聘请Friston-3先生为罗德岛生物工程研究室的特别顾问，这个决定当然是慎重的。Friston-3先生在生物学、生物工程学、神经科学、信息科学等方面的知识储备令人吃惊，那些知识不被记录在他所连接的任何数据库中......他对生命演化和社会形态的理解极具前瞻性，屡次颠覆我们的认知体系，但他口中的一切又都有迹可循，你甚至能就此构想出一个并行不悖、隐隐关联却又完全陌生的遥远所在......令人有些不安。
+“但他并不好说话。他过于偏执、过于强势、过于精益求精，在科学研究方面的控制欲很强，对现今学界实验数据的部分基础验证模式并不信任，而且在多数的时间无法被说服。好在他同样对于我们现在许多技术领域的发展现状感到好奇，我们的交流还是可达成的，也是有效的。再说了，越顶级的科学家越难相处......科学家机器人脾气怪一点也不难理解。”
+——温蒂
+
+——以上均摘自各位干员在《罗德岛智能作业平台服役调研表》上填写的内容
+
+“他们的交流肯定不友好，主要是他不友好。很正常啦，别去管。看见凯尔希被一台机器怼得哑口无言可是很难得的......哈哈，也不怎么好笑。他很愤怒、很屈辱，又有太多问题要问......能怎么办呢？我早就警告过凯尔希了。”
+——工程部录音，在部分干员反映Friston-3经常去找凯尔希后，可露希尔的回答
+|档案6=档案资料三
+|档案6条件=提升信赖至100%以查看
+|档案6文本=【权限记录】
+......
+“不过凯尔希，说真的，真要这么做吗？我研究过你带回来的数据，虽然只剩下极少的一部分，但人格程式是完整的，完整到无法全部解读。到时候，与其说他是比Lancet-2他们更智能的机械，不如说，他是一个失忆的人......”
+“‘将一个人的灵魂塞进机器’，你觉得残忍吗？”
+“我得承认我甚至有点兴奋......但是这真的合适吗？”
+“我并不确定这是否合适。
+“虽然他曾在‘生命’的最后，表示愿意游历如今的泰拉，但我并不确定，这对他而言，是否算得上一种新生。他会发现自己被困在完全陌生的躯壳、完全陌生的一艘船、完全陌生的大地......
+“他的记忆会停留在数万年前那个离开家乡的时刻，他在期待着接下来的浩瀚征途......
+“而我会告诉他，旅程早已结束。”
+“唔，这换谁受得了啊......目前我们自研的核心元件还是测试版，他的人格程式与我们制造的模块的适应度有多高还很难讲，如果他的‘情绪波动’超过了PRTS所能调控的范围，以工程部掌握的技术，准确说，以这片大地现在的技术......
+“说得简单点吧，我不保证他不会失控，凯尔希。”
+“......我会为此负责。”
+“你居然会做自己都不笃定的事情......”
+“我们需要特雷弗·弗里斯顿的知识。关于人类，关于危机，关于泰拉，关于泰拉之外的一切......我们需要他，即使这是他生命中第二次接受这么残忍的命运。我会说服他，毕竟他就是那样的人。”
+“行啦行啦，既然你做好了决定，我当然是一百个乐意啦。我保证，他会成为我最棒的作品！”
+“......别让他被太多人打扰。”
+“放心，Friston-3的资料我已经标注为‘机密’。但他作为咱们的第一款自研平台，在宣传上该出的力还是要出的。”
+......
+——工程部智能作业平台实验室录音，待销毁
+}}
+
+==语音记录==
+{{参阅三|{{FULLPAGENAME}}|yy}}
+{{:{{FULLPAGENAME}}/语音记录}}
+==干员模型==
+{{spineId}}
+==注释与链接==
+&amp;lt;references/&amp;gt;
+{{干员导航}}&lt;/text&gt;
+      &lt;sha1&gt;jozyozhio1le0zdtxu174nq7m6nd7ko&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

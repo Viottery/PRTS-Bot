@@ -1,0 +1,133 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="54431" pageid="54431" ns="0" title="行星碎屑" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;行星碎屑&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;54431&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;323358&lt;/id&gt;
+      &lt;parentid&gt;323316&lt;/parentid&gt;
+      &lt;timestamp&gt;2024-10-24T01:18:09Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;CCl4&lt;/username&gt;
+        &lt;id&gt;51601&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;minor/&gt;
+      &lt;comment&gt;/* 级别1 */ 修正笔误&lt;/comment&gt;
+      &lt;origin&gt;323358&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="6655" sha1="dj7iw56zscefxs41bv9tu3a4pgdr4p3" xml:space="preserve"&gt;{{敌人信息/uncommon
+|名称=行星碎屑
+|地位级别=领袖
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=
+|数量=0
+|最大生命值=12000
+|攻击力=100
+|防御力=3300
+|法术抗性=60
+|元素抗性=0
+|损伤抵抗=0
+|移动速度=4.5
+|攻击速度=100
+|攻击间隔=0.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=4
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=无
+|恐惧抗性=有
+|技能0=星爆
+|技能0效果=2s延迟后对场上所有我方单位造成攻击力700%的法术普通伤害
+|技能0初始=/
+|技能0消耗=/
+|技能1=星环&amp;lt;br&amp;gt;[星环形态]
+|技能1效果=对自身及周围8格的我方单位造成攻击力100%的法术普通伤害；[[克丽斯腾]]'''{{color|darkred|第二形态}}'''下，该伤害提升至120%
+|技能1初始=/
+|技能1消耗=/
+|天赋={{特殊机制|非首要目标}}，不计入待处理目标数量；{{异常效果|不可阻挡}}，{{异常效果|不死}}，免疫停顿，无法被推/拉正常影响&amp;lt;br&amp;gt;受击判定区域半径0.4；未移动时，重写所在格为不可通行不可部署地块（于移动时解除）&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;{{color|blue|'''行星碎屑形态'''}}&amp;lt;br&amp;gt;自身嘲讽等级-1；仅可被位于自身所在地块周围4格的我方单位选中；受到的伤害不会使自身生命值低于100%&amp;lt;br&amp;gt;每次受到有来源的伤害时，获得1点充能；自主移动开始时/退出此形态时，清空所有充能&amp;lt;br&amp;gt;获得20点充能/自身被推力成功推动后拥有0s无视[[重力]]的时间，并尝试自主移动{{popup|15px|内容=①伤害来源非逆重力方向时，若在上次伤害来源所朝方向有可通行的轨道，则设置自身所在轨道此朝向尽头所在格中心为自身下个路径点，并向路径点自主移动&amp;lt;br/&amp;gt;②无视重力时间&amp;gt;0s，且伤害来源为逆重力方向时，设置自身所在轨道此朝向尽头所在格中心为自身下个路径点，并向路径点自主移动&amp;lt;br/&amp;gt;③部分特殊关卡内可手动设置路径点，其会向路径点自主移动}}；开始移动0.2s内，获得{{异常效果|无敌}}，且移动速度+100%&amp;lt;br&amp;gt;自主移动期间：①对0.6半径范围内的我方单位造成3000点物理持续伤害，伤害倍率100%，冷却2s&amp;lt;br&amp;gt;②将0.6半径范围内的地面敌方单位，向自身与其连线的最近的正方向以1的力度推开，并造成0s晕眩及3000点物理伤害，伤害倍率210%(对'''{{color|purple|第一形态}}'''的[[克丽斯腾]]造成的伤害减少70%)，冷却2s&amp;lt;br/&amp;gt;受到[[克丽斯腾]]影响后可切换至{{color|goldenrod|'''星环形态'''}}&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;{{color|goldenrod|'''星环形态'''}}&amp;lt;br&amp;gt;自身嘲讽等级+1；[[克丽斯腾]]'''{{color|darkred|第二形态}}'''下，自身最大生命值+50%&amp;lt;br&amp;gt;场上的[[克丽斯腾]]占用阻挡数+1（可叠加），受到伤害降低30%（可乘算叠加）&amp;lt;br&amp;gt;每次受到伤害时，自身防御力-50，法术抗性-1，最多叠加80次（于受到第10/30/50次伤害时出现特征变化）&amp;lt;br&amp;gt;自身及周围8格的我方单位攻击速度-25&amp;lt;br&amp;gt;自身生命值变为0/受[[克丽斯腾]]【引爆】时切换至{{color|blue|'''行星碎屑形态'''}}，重置自身防御/法术抗性，恢复所有生命值&amp;lt;br&amp;gt;[[克丽斯腾]]{{color|darkred|第二形态}}下，自身生命值变为0时视为受[[克丽斯腾]]【引爆】&amp;lt;br&amp;gt;被[[克丽斯腾]]【引爆】时，切换后额外触发技能【星爆】，获得2.5s无敌+自缚；[[克丽斯腾]]{{color|darkred|第二形态}}下，【引爆】后额外获得【热寂】：场上所有敌方单位移动速度+10%（可无限叠加）&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;可通过[[孤星/综合调查数据库#指令面板|特别行动指令]]获得功能修补
+}}
+
+==级别1==
+{{敌人信息/level
+|index=1
+|最大生命值=15000
+|防御力=3550
+|法术抗性=70
+|技能0效果=2s延迟后对场上所有我方单位造成攻击力{{变动数值|900%|+}}的法术普通伤害
+|技能1效果=对自身及周围8格的我方单位造成攻击力{{变动数值|120%|+}}的法术普通伤害；[[克丽斯腾|{{color|orange|克丽斯腾}}]]'''{{color|orangered|第二形态}}'''下，该伤害提升至{{变动数值|140%|+}}
+|天赋=&amp;lt;仅记录变动部分&amp;gt;&amp;lt;br&amp;gt;{{color|gold|'''星环形态'''}}&amp;lt;br&amp;gt;自身嘲讽等级+1；[[克丽斯腾|{{color|orange|克丽斯腾}}]]'''{{color|orangered|第二形态}}'''下，自身最大生命值+50%&amp;lt;br&amp;gt;场上的[[克丽斯腾|{{color|orange|克丽斯腾}}]]占用阻挡数+1（可叠加），受到伤害降低{{变动数值|35%|+}}（可乘算叠加）&amp;lt;br&amp;gt;每次受到伤害时，自身防御力-50，法术抗性-1，最多叠加80次（于受到第10/30/50次伤害时出现特征变化）&amp;lt;br&amp;gt;自身及周围8格的我方单位攻击速度-25&amp;lt;br&amp;gt;自身生命值变为0/受[[克丽斯腾|{{color|orange|克丽斯腾}}]]影响时切换至{{color|cyan|'''行星碎屑形态'''}}，重置自身防御/法术抗性，恢复所有生命值&amp;lt;br&amp;gt;被[[克丽斯腾|{{color|orange|克丽斯腾}}]]【引爆】/[[克丽斯腾|{{color|orange|克丽斯腾}}]]{{color|orangered|第二形态}}下，切换后额外触发技能【星爆】，获得2.5s无敌+自缚；[[克丽斯腾|{{color|orange|克丽斯腾}}]]{{color|orangered|第二形态}}下，额外获得【热寂】：场上所有敌方单位移动速度+10%（可无限叠加）
+}}
+
+==级别2==
+{{敌人信息/level
+|index=2
+|最大生命值=15000
+|防御力=3550
+|法术抗性=70
+|重量等级=2
+|天赋=&amp;lt;仅记录变动部分&amp;gt;&amp;lt;br&amp;gt;{{color|cyan|'''行星碎屑形态'''}}&amp;lt;br&amp;gt;自身嘲讽等级-1；仅可被位于自身所在地块周围4格的我方单位选中；受到的伤害不会使自身生命值低于100%&amp;lt;br&amp;gt;每次受到有来源的伤害时，获得1点充能&amp;lt;br&amp;gt;获得20点充能/自身被推力成功推动后，若在上次伤害来源所朝方向有可通行的轨道，则设置自身所在轨道此朝向尽头所在格中心为自身下个路径点，并向路径点自主移动；开始移动0.2s内，获得{{异常效果|无敌|color=orange}}，且移动速度+100%&amp;lt;br&amp;gt;自主移动期间：①对0.6半径范围内的我方单位造成3000点物理持续伤害，伤害倍率{{变动数值|40%|-}}，冷却2s&amp;lt;br&amp;gt;②将0.6半径范围内的敌方单位，向自身与其连线的最近的正方向以1的力度推开，并造成0s晕眩与3000点物理伤害，伤害倍率{{变动数值|320%|+}}(对'''{{color|mediumpurple|第一形态}}'''的[[克丽斯腾|{{color|orange|克丽斯腾}}]]造成的伤害减少70%)，冷却2s&amp;lt;br/&amp;gt;受到[[克丽斯腾|{{color|orange|克丽斯腾}}]]影响后可切换至{{color|goldenrod|'''星环形态'''}}
+&amp;lt;!--HitCounter.anti_duration: 2.5--&amp;gt;
+}}&lt;/text&gt;
+      &lt;sha1&gt;dj7iw56zscefxs41bv9tu3a4pgdr4p3&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

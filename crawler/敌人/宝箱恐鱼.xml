@@ -1,0 +1,169 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="71483" pageid="71483" ns="0" title="宝箱恐鱼" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;宝箱恐鱼&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;71483&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;320241&lt;/id&gt;
+      &lt;parentid&gt;319808&lt;/parentid&gt;
+      &lt;timestamp&gt;2024-09-09T10:49:43Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;Visu2209&lt;/username&gt;
+        &lt;id&gt;1119&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;/* 级别0 */&lt;/comment&gt;
+      &lt;origin&gt;320241&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="2458" sha1="sq4vkt2ba4a78dpiowz53mq8cjf3oz8" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=854
+|名称=宝箱恐鱼
+|index=DT15
+|地位级别=精英
+|描述=伪装成宝箱的恐鱼，会发出高频声波以干扰误触之人的脑波，寻宝者常落入其圈套。
+|伤害类型=物理
+|攻击方式=近战
+|行动方式=地面
+|耐久=B+
+|攻击力=C
+|防御力=B
+|移动速度=B
+|攻击速度=B+
+|法术抗性=B+
+|元素抗性=E
+|损伤抵抗=E
+|种类=海怪
+|能力=·惊醒后原地尖叫一段时间，持续对周围我方单位造成{{术语|ba.dt.neural|神经损伤}}&amp;lt;br&amp;gt;·攻击造成{{术语|ba.dt.neural|神经损伤}}&amp;lt;br&amp;gt;·被击倒掉落&amp;lt;宝箱的肉?&amp;gt;
+|登场活动=泰拉饭
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=惊醒后原地尖叫，持续对周围我方单位造成神经损伤。攻击附带神经损伤。
+|数量=1
+|攻击范围半径=
+|最大生命值=10000
+|攻击力=450
+|防御力=700
+|法术抗性=40
+|移动速度=0.7
+|攻击速度=100
+|攻击间隔=1.7
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=4
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=无
+|沉默抗性=无
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=无
+|战栗抗性=无
+|恐惧抗性=无
+|技能0=尖叫
+|技能0初始=0
+|技能0消耗=10
+|技能0效果=被激活后可触发1次：&amp;lt;br&amp;gt;10s内持续施法，每0.2s对半径？范围内的我方单位造成20{{术语|ba.dt.neural|神经损伤}}
+|天赋=每次攻击附加自身攻击力20%的{{术语|ba.dt.neural|神经损伤}}&amp;lt;br/&amp;gt;被击倒后掉落3个[[宝箱的肉？]]，【尖叫】技能结束时改为掉落1个[[宝箱的肉？]]&amp;lt;!--[
+    {
+        "key": "DropEx.cnt",
+        "value": 3.0,
+        "valueStr": null
+    },
+    {
+        "key": "DropEx.token_key",
+        "value": 0.0,
+        "valueStr": "trap_177_tentcl"
+    },
+    {
+        "key": "ScreamDebuff.interval",
+        "value": 0.2,
+        "valueStr": null
+    },
+    {
+        "key": "ScreamDebuff.ep_damage_value",
+        "value": 20.0,
+        "valueStr": null
+    },
+    {
+        "key": "ScreamDebuff.element_type",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "Drop.cnt",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "Drop.attack@ep_damage_ratio",
+        "value": 0.2,
+        "valueStr": null
+    },
+    {
+        "key": "Drop.token_key",
+        "value": 0.0,
+        "valueStr": "trap_177_tentcl"
+    }
+]--&amp;gt;
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;sq4vkt2ba4a78dpiowz53mq8cjf3oz8&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

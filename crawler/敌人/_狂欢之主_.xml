@@ -1,0 +1,225 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="72952" pageid="72952" ns="0" title="“狂欢之主”" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;“狂欢之主”&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;72952&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;344239&lt;/id&gt;
+      &lt;parentid&gt;327708&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-03T16:20:27Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;圣金源锭&lt;/username&gt;
+        &lt;id&gt;11193&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;minor/&gt;
+      &lt;origin&gt;344239&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="9281" sha1="t9sw5gscbb70p9vbtmh7klzbo8k8hx1" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{参阅|荒芜拉普兰德|作为术师干员登场的“狂欢之主”}}
+&amp;lt;div class="nomobile"&amp;gt;[[文件:Avg avg 1038 whitw2 1-1$2.png|缩略图|&amp;lt;center&amp;gt;“狂欢之主”&amp;lt;/center&amp;gt;]]&amp;lt;/div&amp;gt;
+{{敌人信息/common
+|id=1040
+|名称=“狂欢之主”
+|index=LOM
+|地位级别=领袖
+|描述=狂欢之主终于登场，这场混乱的狂欢由她而始，也将由她亲手引领至高潮。漫长的狂欢，荒芜的玩笑。
+|伤害类型=物理 法术
+|攻击方式=近战 远程
+|行动方式=飞行
+|耐久=A+
+|攻击力=C
+|防御力=B
+|移动速度=A
+|攻击速度=D
+|法术抗性=B+
+|元素抗性=E
+|损伤抵抗=E
+|能力=·无法被阻挡，站在陆行舰上时视为空中单位，只受对空攻击影响；可操作浮游单元造成法术伤害&amp;lt;br&amp;gt;·平时优先攻击我方单位，对敌方单位伤害大幅度降低；狂欢时刻优先攻击敌方单位，对敌方单位伤害大幅度提升&amp;lt;br&amp;gt;·受到的物理和法术伤害大幅降低，狂欢结束时若击杀数低于我方则减伤失效一段时间&amp;lt;br&amp;gt;{{color|#FF4F0B|第一形态}}&amp;lt;br&amp;gt;·不移动，攻击造成法术伤害&amp;lt;br&amp;gt;·【与狼同舞】使浮游单元攻击范围扩大到全场，攻击力降低，锁定一个目标攻击，持续一段时间&amp;lt;br&amp;gt;·【焦点观众】蓄力一段时间后对目标及其周围所有单位造成大量法术伤害&amp;lt;br&amp;gt;·生命值首次降为0时，重生后进入第二形态，空降至地面，并加速点燃烟花发射器，若已经点燃则使其生命值回满&amp;lt;br&amp;gt;{{color|#FF4F0B|第二形态}}&amp;lt;br&amp;gt;·攻击造成物理伤害，可同时攻击2个目标&amp;lt;br&amp;gt;·狂欢时刻使所有我方干员与敌方单位血量大幅度上升，但防御力变为0&amp;lt;br&amp;gt;·【再登台】瞬移至下一个检查点，并对周围所有我方与敌方单位造成物理伤害；狂欢时刻瞬移间隔缩短&amp;lt;br&amp;gt;·【“观戏不语”】使攻击范围内2个我方单位无法开启技能，持续一段时间
+|登场活动=揭幕者们
+}}
+
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=狂欢之主终于登场，这场混乱的狂欢由她而始，也将由她亲手引领至高潮。漫长的狂欢，荒芜的玩笑。
+|数量=2
+|攻击范围半径=4.5
+|最大生命值=60000
+|攻击力=425
+|防御力=500
+|法术抗性=30
+|移动速度=1.0
+|攻击速度=100
+|攻击间隔=5.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=5
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=有
+|战栗抗性=有
+|恐惧抗性=有
+|技能0=焦点观众&amp;lt;br&amp;gt;[第一形态]
+|技能0初始=5
+|技能0消耗=20
+|技能0效果=以'''特殊索敌'''锁定1个单位所在格，蓄力约5s后对以该格为中心较大范围{{popup|内容={{#widget:Range/x-3}}}}内的所有单位(不含自身)造成攻击力100%的法术伤害
+|技能1=与狼同舞&amp;lt;br&amp;gt;[第一形态]
+|技能1初始=50
+|技能1消耗=50
+|技能1效果=释放浮游单元令其以'''特殊索敌'''锁定场上的1个单位。浮游单元每秒对此单位造成2次自身攻击力30%的法术伤害，15s后/目标退场时技能效果结束，浮游单元回归。&amp;lt;br&amp;gt;※此技能持续仅包含释放动画，浮游单元回归前自身无法重复释放此技能
+|技能2=再登台&amp;lt;br&amp;gt;[第二形态]
+|技能2初始=0
+|技能2消耗=15
+|技能2类型=自动回复
+|技能2效果=获得2s{{异常效果|无敌}}+{{异常效果|冻结|免疫}}+{{异常效果|沉睡|免疫}}，随后闪现至预设位置，并以'''特殊索敌'''对自身半径1.5范围内单位造成攻击力100%的物理伤害&amp;lt;br&amp;gt;※进入'''第二形态'''200s内，此技能将使自身在预设位置间循环闪现；200s后，此技能将使自身闪现至下一检查点/'''{{color|red|终点}}'''&amp;lt;br&amp;gt;
+|技能3=“观戏不语”&amp;lt;br&amp;gt;[第二形态]
+|技能3初始=20
+|技能3消耗=10
+|技能3效果=对攻击范围内除[[烟花发射器]]外的最多2个我方单位施加持续10s的{{异常效果|静默}}和{{异常效果|阻回}}
+|技能4=点火&amp;lt;br&amp;gt;[第二形态]
+|技能4初始=/
+|技能4消耗=/
+|技能4效果=释放浮游单元令其锁定场上的[[引线火焰]]“持续攻击”直到其退场，被锁定的[[引线火焰]]立刻回复SP至上限，移动速度最终提升至500%（自身退场时效果消失）&amp;lt;br&amp;gt;若场上不存在[[引线火焰]]，则令场上的[[烟花发射器]]恢复所有生命值
+|天赋=飞行单位，{{异常效果|自缚}}；受到的物理/法术伤害-90%&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;拥有'''特殊索敌'''：&amp;lt;br&amp;gt;能够选择除自身/[[烟花发射器]]/[[节日气球]]/[[巡游气球]]以外的所有我方或敌方单位为攻击目标&amp;lt;br&amp;gt;非{{color|red|'''狂欢时刻'''}}时：优先选择我方单位，对敌方单位的伤害倍率降低至10%；&amp;lt;br&amp;gt;{{color|red|'''狂欢时刻'''}}期间：优先选择敌方单位，且对敌方单位的伤害倍率提升至800%&amp;lt;br&amp;gt;※相同阵营内仇恨值降序排序&amp;lt;br&amp;gt;※对生命比例低于50%的敌方单位造成伤害时，攻击倍率提升至100%&amp;lt;!--&amp;lt;br&amp;gt;{{color|red|'''※'''自身与其他敌方单位互相敌对，可以被其他敌方单位视为攻击目标}}该情况有待测试]--&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;进入{{color|red|'''狂欢时刻'''}}时会与我方展开{{color|orange|'''竞赛'''}}：比拼{{color|red|'''狂欢时刻'''}}期间的'''歼敌数'''{{popup|问号大小=15px|内容=画面左下方将显示歼敌计分板&amp;lt;br&amp;gt;{{color|darkred|'''LAPPLAND THE DECADENZA(荒芜拉普兰德)'''}}：为{{color|darkred|'''“狂欢之主”'''}}的当前歼敌数&amp;lt;br&amp;gt;{{color|blue|'''RHODES ISLAND(罗德岛)'''}}：为{{color|blue|'''在场我方单位'''}}的当前歼敌数&amp;lt;br&amp;gt;{{color|red|'''狂欢时刻'''期间会持续出现额外敌人以保证竞赛顺利进行}}}}&amp;lt;br&amp;gt;{{color|red|'''狂欢时刻'''}}结束时，歼敌数较多的一方获得胜利&amp;lt;br&amp;gt;①若我方{{color|blue|'''胜利'''}}：自身伤害减免效果失效一定时间，下次{{color|red|'''狂欢时刻'''}}期间[[烟花发射器]]产生更强效果&amp;lt;br&amp;gt;②若[[“狂欢之主”]]{{color|darkred|'''胜利'''}}：下次{{color|red|'''狂欢时刻'''}}期间[[烟花发射器]]将无法产生部分效果&amp;lt;br&amp;gt;{{color|red|※平局时'''先达到此数量的一方'''视为胜利，若歼敌数均为0则总是视为'''“狂欢之主”'''胜利}}&amp;lt;br&amp;gt;{{color|#4b4b4b|※若'''“狂欢之主”'''于竞赛期间被击败或【再登台】闪现至终点离场，竞赛将立即中止，不会产生胜负结算效果}}&amp;lt;br&amp;gt;{{color|goldenrod|'''※不同关卡中的竞赛胜利/失败的额外效果存在差异，请前往具体关卡页面查阅详细资料！'''}}&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;'''第一形态'''&amp;lt;br&amp;gt;普通攻击使用'''特殊索敌'''，对1个目标造成攻击力100%的法术伤害&amp;lt;br&amp;gt;若未处于【与狼同舞】效果期间，进行普通攻击时，令浮游单元以'''特殊索敌'''对1个目标额外造成2次攻击力50%的法术伤害&amp;lt;br&amp;gt;首次被击倒后进行持续10s的重生，恢复100%生命值；重生结束时，释放当前波次，切换至'''第二形态'''&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;'''第二形态'''&amp;lt;br&amp;gt;自身攻击力+300，攻击速度+50%，攻击范围半径-2.5&amp;lt;br&amp;gt;进入'''第二形态'''时，立刻释放一次【再登台】，随后变为地面单位，并强制释放一次【点火】&amp;lt;br&amp;gt;在场且处于{{color|red|'''狂欢时刻'''}}期间时，场上所有我方{{color|blue|'''干员'''}}与除自身外的敌方单位：最大生命值+100%，防御力降至0&amp;lt;br&amp;gt;进入此形态200s内的狂欢时刻下，自身每秒回复1点SP&amp;lt;br&amp;gt;普通攻击使用'''特殊索敌'''，对最多2个目标造成攻击力100%的物理伤害&amp;lt;br&amp;gt;若未处于【点火】效果期间，进行普通攻击时，令浮游单元以'''特殊索敌'''对1个目标额外造成2次攻击力50%的法术伤害&amp;lt;!--[
+    {
+        "key": "p2passive.atk",
+        "value": 300.0,
+        "valueStr": null
+    },
+    {
+        "key": "p2passive.attack_speed",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "p2passive.max_hp",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "p2passive.ability_range_forward_extend",
+        "value": -2.5,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.duration",
+        "value": 10.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.loop_duration",
+        "value": 200.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.sp",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.interval",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "passive.hp_ratio",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "passive.atk_scale",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "passive.damage_resistance_full",
+        "value": 0.9,
+        "valueStr": null
+    },
+    {
+        "key": "passive.damage_resistance_weak",
+        "value": 0.9,
+        "valueStr": null
+    },
+    {
+        "key": "passive.damage_scale_up",
+        "value": 8.0,
+        "valueStr": null
+    },
+    {
+        "key": "passive.damage_scale_down",
+        "value": 0.1,
+        "valueStr": null
+    }
+]--&amp;gt;
+}}
+
+==级别1==
+{{敌人信息/level
+|index=1
+|最大生命值=90000
+|攻击力=600
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;t9sw5gscbb70p9vbtmh7klzbo8k8hx1&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

@@ -1,0 +1,188 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="67756" pageid="67756" ns="0" title="弹道" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;弹道&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;67756&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;313836&lt;/id&gt;
+      &lt;parentid&gt;313835&lt;/parentid&gt;
+      &lt;timestamp&gt;2024-07-17T08:53:50Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;调零修罗&lt;/username&gt;
+        &lt;id&gt;6713&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;(InPageEdit-preference-summary-default)&lt;/comment&gt;
+      &lt;origin&gt;313836&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="5564" sha1="2aqbf7ccw4q3cbcrupy2ihu18q6uxls" xml:space="preserve"&gt;[[分类:技术性文档]]
+*该页面最近一次更新时，参考的游戏客户端版本号为'''2.2.61'''（简体中文版客户端）。
+
+游戏内接近半数的远程攻击都有着'''弹道'''。
+
+弹道，又称'''抛射物'''，在明日方舟中可以是一根弩箭、一发导弹、乃至一枚法术飞弹、一滴水滴、或是别的什么东西。
+
+抛射物拥有碰撞体积，且有很大一部分具有自己的目标。抛射物携带着许多完成一次攻击所需的信息，毕竟它本身就是一种攻击方式。
+*判断一个攻击是否为弹道的'''粗略'''方法是看实体发射这个弹道时，攻击伤害和特效等是不是即时的，如果需要一段时间则它即为弹道。
+*部分攻击（例如[[能天使]]的普通攻击）虽然看似有弹道，但实际不具有弹道。其攻击与伤害之间的“子弹”仅为特效，并非弹道效果。
+
+===移动行为===
+弹道的移动行为决定了它“视觉上是如何运动”的，尽管实际游戏中的复杂情况可能导致其偏离自己所产生的视觉效果（例如'''直线'''移动的弹道可能因为敌人的高速移动而看起来像曲线运动等）。
+{|class="wikitable&amp;lt;includeonly&amp;gt; mw-collapsible mw-collapsed&amp;lt;/includeonly&amp;gt;" style="width:950px; display:table; text-align:center; white-space:normal;"
+!内部ID
+!站内称呼
+!视觉效果
+!移动方式
+!移动类型
+!举例
+|-
+|AdvancedMovement
+|直线
+|直线运动
+|以弹道当前位置直线向目标移动
+|{{color|lime|可变}}
+|{{敌人头像|弩手|px=50}}
+|-
+|ParacurveMovement
+|抛物线
+|抛物运动（如炮手的炮弹）
+|以弹道当前位置直线向目标移动
+|{{color|lime|可变}}
+|{{敌人头像|炮手|px=50}}
+|-
+|RotateAroundMovement
+|环绕
+|环绕目标旋转的运动（如[[特蕾西娅]]的永恒尘埃）
+|根据角速度与半径绕目标旋转移动
+|{{color|lime|可变}}
+|{{敌人头像|特蕾西娅|px=50}}
+|-
+|NetCatcherMovement
+|捕网
+|见[[雪雉]]的捕网
+|？
+|{{color|lime|可变}}
+|{{干员头像|雪雉|46px}}
+|-
+|？
+|静止
+|固定在原地的东西
+|不进行移动
+|{{color|red|不可变}}
+|{{干员头像|锡人|46px}}
+|-
+|AttachToTarget
+|附着
+|直接在目标上出现
+|跟随目标移动
+|{{color|red|不可变}}
+|{{敌人头像|萨卡兹积怨者|px=50}}
+|-
+|HarpoonMovement
+|套索弹道
+|持续锁定目标，在发出点与目标之间画出一条“线”
+|以弹道当前位置直线向目标移动，之后跟随目标移动
+|{{color|red|不可变}}
+|{{敌人头像|萨卡兹术师|px=50}}
+|-
+|AmiyaDefaultMovement
+|阿米娅的普通攻击
+|在周围随机位置上出现多个子弹（仅为视觉效果）一齐飞向某一目标
+|以弹道当前位置直线向目标移动
+|{{color|red|不可变}}
+|{{干员头像|阿米娅|46px}}
+|-
+|AmiyaS2Movement
+|阿米娅的2技能
+|在周围随机位置上出现多个子弹（仅为视觉效果）分别飞向复数目标
+|以弹道当前位置直线向目标移动
+|{{color|red|不可变}}
+|{{敌人头像|“偏执泡影”|px=50}}
+|-
+|GroupedMovement
+|组合
+|？
+|？
+|特殊{{popup|size=24px|内容=需包含的Movement全部为可变才为可变；否则为不可变}}
+|暂无
+|}
+※注意，视觉效果通常与实际移动方式无关
+
+===最大存在时间===
+大部分有'''目标'''的弹道具有被称为“'''最大存在时间'''”的参数，该参数将决定弹道从出现开始，最多能存在多长时间。
+*弹道达到其存在时间上限后将自动消失。
+*存在时间归零时，'''若弹道仍未击中其目标，则弹道立刻视为击中了目标'''。
+*注意，目前存在大量抛射物具有5秒的存在时长；部分技能与其弹道绑定，若出现弹道因各种原因无法消失，技能可能因此将要持续维持到弹道自动消失为止。
+
+===可变速模式===
+[[逻各斯]]的3技能[[逻各斯#技能|延异视阈]]的效果中提及了"使攻击范围内敌方子弹的飞行速度大幅降低"（以下简称为'''视阈'''），该机制将受弹道的'''可变速模式'''影响。
+*若弹道的移动类型为{{color|lime|可变}}，则根据弹道的可变速模式决定：
+*若弹道的移动类型为{{color|red|不可变}}时，始终不可变速（NO）。
+弹道有3种可变速模式：'''自动识别（AUTOMATIC）'''，'''可变速（YES）''', '''不可变速（NO）'''
+*可变速模式为'''自动识别（AUTOMATIC）'''时，若弹道包含一个可见的视觉特效，则可被视阈减速；否则不可被视阈减速；
+*可变速模式为'''可变速（YES）'''时，可被视阈减速；
+*可变速模式为'''不可变速（NO）'''时，不可被视阈减速。
+
+===可消除模式===
+[[逻各斯]]的3技能[[逻各斯#技能|延异视阈]]的效果中还提及了"将其（攻击范围内敌方子弹）全部清除"（以下简称为'''视阈'''），该机制将受弹道的'''可消除模式'''影响。
+
+弹道有3种可消除模式：'''自动识别（AUTOMATIC）'''，'''可消除（YES）''', '''不可消除（NO）'''
+*可变速模式为'''自动识别（AUTOMATIC）'''时，可被视阈消除与否与可变速模式的结果保持一致（可减速即可消除，不可减速即不可消除）；
+*可消除模式为'''可消除（YES）'''时，可被视阈消除
+*可消除模式为'''不可消除（NO）'''时，不可被视阈消除
+非自动识别模式下，可变速模式与可消除模式没有直接关系，因此可能存在'''可以被减速但无法被消除的弹道'''，也可能存在'''可以被消除但无法被减速的弹道'''。&lt;/text&gt;
+      &lt;sha1&gt;2aqbf7ccw4q3cbcrupy2ihu18q6uxls&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

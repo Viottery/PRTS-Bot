@@ -1,0 +1,245 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="77328" pageid="77328" ns="0" title="拟态机械" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;拟态机械&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;77328&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;342211&lt;/id&gt;
+      &lt;parentid&gt;342210&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-04-26T09:10:26Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;Visu2209&lt;/username&gt;
+        &lt;id&gt;1119&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;/* 级别0 */&lt;/comment&gt;
+      &lt;origin&gt;342211&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="7164" sha1="lcivgnzf9t1moibc6guc5xa5siz5e8q" xml:space="preserve"&gt;{{#Widget:Mojibake}}
+{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=1150
+|名称=拟态机械
+|index=RI2
+|地位级别=领袖
+|描述=PRTS将存储数据中罗德岛的熟悉之物变成了实体的威胁，绝对理性的机械不会理解何为恐惧。
+|伤害类型=法术
+|攻击方式=远程
+|行动方式=地面
+|耐久=A+
+|攻击力=B
+|防御力=S+
+|移动速度=C
+|攻击速度=C
+|法术抗性=S
+|元素抗性=E
+|损伤抵抗=C
+|种类=源石造物
+|能力=·【“重构”】&amp;lt;PRTS，“源代码”&amp;gt;未被击败时，&amp;lt;拟态机械&amp;gt;每次被击倒后都会复原，并且每次复原后攻击力会提升，最多提升5次&amp;lt;br&amp;gt;·【限制写入】出场后封锁我方手牌中部署费用最高的4名干员一段时间。第一次复原后将获得强化，封锁更多功能&amp;lt;br&amp;gt;·【重离子弹性反冲】选择距离自身最近的单位为目标，发射一枚光球向目标缓慢飞行，命中目标后造成法术溅射伤害；光球飞行时间越久，造成的伤害越低、溅射范围越小&amp;lt;br&amp;gt;·【动态部署】被&amp;lt;PRTS，“源代码”&amp;gt;抓取转化为{{术语|ba.float|近地悬浮}}，攻击范围扩大，攻击间隔缩短，并且同时攻击两个目标；&amp;lt;拟态机械&amp;gt;受到一定伤害后会被提前击落。第一次复原后将获得强化&amp;lt;br&amp;gt;·【链式反应】第一次复原后可以释放；被&amp;lt;PRTS，“源代码”&amp;gt;抓取转化为{{术语|ba.float|近地悬浮}}，选择场上所有处于中立或者被PRTS激活的弱化节点为目标发射一束光线，对光线路径上的单位造成伤害；&amp;lt;拟态机械&amp;gt;受到一定伤害后会被提前击落
+|相关敌人=[[PRTS，“源代码”]]
+|登场活动=主线第十五章
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=PRTS将存储数据中罗德岛的熟悉之物变成了实体的威胁，绝对理性的机械不会理解何为恐惧。
+|数量=3
+|攻击范围半径=2.5
+|最大生命值=25000
+|攻击力=600
+|防御力=3000
+|法术抗性=75
+|移动速度=0.5
+|攻击速度=100
+|攻击间隔=4.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=6
+|元素抗性=0
+|损伤抵抗=10
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=有
+|恐惧抗性=有
+|技能0=限制写入
+|技能0初始=5
+|技能0消耗=999
+|技能0效果=向{{font|终端上的待部署区域|color=#fff|bgcolor=#2f2f2f|css=padding-inline:0.5em}}发射炮弹&amp;lt;br&amp;gt;炮弹抵达'''顶边'''爆炸后：使用源石封印 {{popup|内容=与一般封印不同，该封印显示源石符号，且'''无法点选该单位'''；受拟态机械的效果而被封印的单位可以进行部署}} 我方待部署区域中当前未被封印且未处于再部署时间的，部署费用最高的&amp;gt;最右侧的4个单位，持续20s&amp;lt;br&amp;gt;※弹道速度固定，实际生效时间取决于弹道与UI顶边的现实距离&amp;lt;br&amp;gt;若重生过：炮弹爆炸时额外封印{{font|终端顶部按钮|color=#fff|bgcolor=#2f2f2f|css=padding-inline:0.5em}}（设置·退出/倍速调整/暂停无法使用，且当前速度锁定为二倍速，不影响子弹时间）
+|技能1=重离子弹性反冲
+|技能1初始=12
+|技能1消耗=12
+|技能1效果=未被抓取时可触发：蓄力完成后选择距离自身最近的单位为目标，对其发射一枚缓慢飞行的光球&amp;lt;br&amp;gt;光球碰撞半径1.0，碰撞到我方干员时缓慢爆炸，对自身半径1.5范围内的我方单位造成攻击力240%的法术伤害&amp;lt;br&amp;gt;光球每飞行0.25s，碰撞半径-0.05，影响半径-0.075，攻击倍率-10%（最多各衰减14次）
+|技能2=动态部署&amp;lt;br&amp;gt;[重生前/重生后]
+|技能2初始=20/50
+|技能2消耗=35/50
+|技能2效果=停止攻击与移动，等待[[侵入式调用]]将自身抓取；被抓取后：&amp;lt;br&amp;gt;25s内获得{{术语|ba.float|近地悬浮}}，攻击半径变为3.5，攻击间隔-0.5，可同时攻击2个目标&amp;lt;br&amp;gt;持续时间结束或期间损失当前生命值的30%后降落&amp;lt;br&amp;gt;若重生过：攻击半径变为4.5，攻击间隔改为-1.0
+|技能3=链式反应&amp;lt;br&amp;gt;[重生后]
+|技能3初始=10
+|技能3消耗=30
+|技能3效果=场上存在至少1个处于中立或者被PRTS激活的[[弱化节点]]时可以触发：停止攻击与移动，期间{{color|red|炮口出现红色闪烁特效并上抬}}，等待[[侵入式调用]]将自身抓取；被抓取后：&amp;lt;br&amp;gt;25s内获得{{术语|ba.float|近地悬浮}}，选择场上所有处于中立或者被PRTS激活的[[弱化节点]]为目标，'''自炮口'''发射持续20s的光线，对光线上的我方单位每1s造成攻击力50%的法术伤害，持续时间结束或期间损失当前生命值的30%后降落&amp;lt;br&amp;gt;※不会因为节点被我方启动而断开光线连接
+|天赋=【“重构”】[[PRTS，“源代码”]]未被击败时，被击倒后进入重生状态，恢复100%生命值；若是首次被击倒，还会释放当前波次&amp;lt;br&amp;gt;自身每次因[[PRTS，“源代码”]]解除重生状态时，获得攻击力+100（可叠加5层）&amp;lt;br&amp;gt;[[PRTS，“源代码”]]被击倒时自身退场&amp;lt;!--[
+    {
+        "key": "MoveFly_p1.attack@max_target",
+        "value": 2.0,
+        "valueStr": null
+    },
+    {
+        "key": "MoveFly_p1.attack@ability_range_radius",
+        "value": 3.5,
+        "valueStr": null
+    },
+    {
+        "key": "MoveFly_p1.base_attack_time",
+        "value": -0.5,
+        "valueStr": null
+    },
+    {
+        "key": "MoveFly_p1.duration",
+        "value": 25.0,
+        "valueStr": null
+    },
+    {
+        "key": "MoveFly_p1.hp_ratio_offset",
+        "value": -0.3,
+        "valueStr": null
+    },
+    {
+        "key": "MoveFly_p1.skill_name",
+        "value": 0.0,
+        "valueStr": "Land"
+    },
+    {
+        "key": "MoveFly_p2.attack@max_target",
+        "value": 2.0,
+        "valueStr": null
+    },
+    {
+        "key": "MoveFly_p2.attack@ability_range_radius",
+        "value": 4.5,
+        "valueStr": null
+    },
+    {
+        "key": "MoveFly_p2.base_attack_time",
+        "value": -1.0,
+        "valueStr": null
+    },
+    {
+        "key": "MoveFly_p2.duration",
+        "value": 25.0,
+        "valueStr": null
+    },
+    {
+        "key": "MoveFly_p2.hp_ratio_offset",
+        "value": -0.3,
+        "valueStr": null
+    },
+    {
+        "key": "MoveFly_p2.skill_name",
+        "value": 0.0,
+        "valueStr": "LandP2"
+    },
+    {
+        "key": "FlyRay.duration",
+        "value": 20.0,
+        "valueStr": null
+    },
+    {
+        "key": "FlyRay.hp_ratio_offset",
+        "value": -0.3,
+        "valueStr": null
+    },
+    {
+        "key": "FlyRay.attack@interval",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "FlyRay.attack@ray_atk_scale",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "FlyRay.skill_name",
+        "value": 0.0,
+        "valueStr": "Skill_4_End"
+    },
+    {
+        "key": "Reborn.max_stack_cnt",
+        "value": 5.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.atk",
+        "value": 100.0,
+        "valueStr": null
+    }
+]--&amp;gt;
+}}
+
+==级别1==
+{{敌人信息/level
+|index=1
+|最大生命值=30000
+|攻击力=700
+|移动速度=0.7
+}}
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;lcivgnzf9t1moibc6guc5xa5siz5e8q&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

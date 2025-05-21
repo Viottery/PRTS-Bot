@@ -1,0 +1,263 @@
+{{Navigator|敌人一览}}
+&lt;div class="nomobile"&gt;[[文件:Avg avg npc 1116 1-1$2.png|缩略图|&lt;center&gt;赫尔昏佐伦，“巫王”&lt;/center&gt;]]&lt;/div&gt;
+{{敌人信息/common
+|id=807
+|名称=赫尔昏佐伦，“巫王”
+|index=HH
+|地位级别=领袖
+|描述=漫长的噩梦即将苏醒，创造的幻夜迎来黎明。上前来，见证君王之死，见证造物之始源如何灭亡。
+|伤害类型=法术
+|攻击方式=远程
+|位置=地面
+|耐久=A+
+|攻击力=B+
+|防御力=B
+|移动速度=A
+|攻击速度=C
+|法术抗性=S+
+|元素抗性=E
+|损伤抵抗=E
+|能力=·无法被阻挡，攻击造成溅射伤害&lt;br&gt;·【造物灭亡】战斗经过较长时间后，对全场我方单位造成法术溅射伤害, 并扣除所有目标生命&lt;br&gt;'''{{color|#0e0e0f|第一形态}}'''&lt;br&gt;·每隔一段时间瞬移至下一个检查点&lt;br&gt;·【痴愚惩戒】每损失一定比例生命值，吞噬两名我方干员并随机选择两个位置再部署&lt;br&gt;·【慵钝惩戒】周期性锁定攻击范围内两名我方干员打上“慵钝之印”（需要5次伤害击破），使其无法攻击、释放技能，且更容易受到敌人攻击。下一次释放该技能时，将强制击倒场上已被附着“慵钝之印”的干员，并对其周围4格造成法术溅射伤害&lt;br&gt;·首次被击倒后重生，对全场我方单位造成法术溅射伤害，并释放【痴愚惩戒】，重生结束后切换至第二形态，并重置【造物灭亡】计时&lt;br&gt;'''{{color|#0e0e0f|第二形态}}'''&lt;br&gt;·无法移动，生成一个单向防御护盾，抵挡来源于盾侧的物理和法术伤害&lt;br&gt;·攻击范围扩大至整个战场，攻击力大幅降低，攻击溅射范围扩大，防御力大幅提升&lt;br&gt;·夺取指挥权，使场上所有的“调谐节点”失效&lt;br&gt;·【君王诏制】周期性控制变奏；变奏期间强化敌人属性并持续检测乐团节奏，受到{{术语|ba.stun|晕眩}}未跟上巫王节奏的敌人将被打上印记，变奏结束时受到高额法术伤害惩戒&lt;br&gt;·【慵钝惩戒】变为只选择一个目标释放
+|登场活动=崔林特尔梅之金
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=漫长的噩梦即将苏醒，创造的幻夜迎来黎明。上前来，见证君王之死，见证造物之始源如何灭亡。
+|数量=2
+|攻击范围半径=2.2
+|最大生命值=80000
+|攻击力=750
+|防御力=600
+|法术抗性=80
+|移动速度=1.0
+|攻击速度=100
+|攻击间隔=4.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=10
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=无
+|恐惧抗性=有
+|技能0=造物灭亡
+|技能0初始=300
+|技能0消耗=300
+|技能0效果=对场上所有我方单位造成攻击力100%的法术溅射伤害，扣除100目标生命值，随后自身退场&lt;br/&gt;{{color|red|※战斗限时剩余20s时，自身脚下将出现收缩圈作为提示}}
+|技能1=闪现&lt;br&gt;[第一形态]
+|技能1初始=5
+|技能1消耗=30
+|技能1效果=闪现至下一检查点&lt;br&gt;闪现期间自身{{异常效果|无敌}}
+|技能2=慵钝惩戒&lt;br&gt;[第一形态]&lt;br&gt;[第二形态]
+|技能2初始=10
+|技能2消耗=45
+|技能2效果=仅攻击范围内存在干员时可触发：强制击倒场上所有被[[慵钝之印]]影响的我方单位，对这些单位周围4/8格的我方单位造成攻击力100%法术溅射伤害；随后在攻击范围内2/1名我方干员处各召唤1个[[慵钝之印]]，并对自身3.0半径范围内/全场的我方单位造成攻击力100%法术溅射伤害
+|技能3=痴愚惩戒
+|技能3初始=/
+|技能3消耗=/
+|技能3效果=短暂蓄力后锁定场上至多2名我方干员，将其分别强制移除再以随机方向部署于随机2个合法可部署地块（不消耗/返还费用，不会导致部署费用增加）
+|技能4=君王诏制&lt;br&gt;[第二形态]
+|技能4初始=10
+|技能4消耗=50
+|技能4效果=首次使用时覆盖原有变奏乐谱，演奏持续'''一段时间'''的'''某种变奏'''；&lt;br&gt;演奏结束后，乐谱将变为与上一次风格相反的、持续时间相同的变奏，并在释放此技能后继续演奏进程
+|天赋={{异常效果|自缚}}，{{异常效果|不可阻挡}}，{{异常效果|免疫失衡}}&lt;br&gt;&lt;br&gt;{{color|red|'''第一形态'''}}&lt;br&gt;场上除自身外所有敌方单位受到的物理/法术伤害降低20%&lt;br&gt;普通攻击对目标及周围4格的我方单位造成法术伤害&lt;br&gt;每损失50%生命值，强制触发技能【痴愚惩戒】&lt;br&gt;首次被击倒后进行持续10s的重生，恢复100%生命值；重生开始时：释放【痴愚惩戒】，并对场上所有我方单位造成攻击力50%法术溅射伤害；重生结束时：重置所有技能冷却至初始冷却，释放当前波次，进入{{color|red|'''第二形态'''}}&lt;br&gt;&lt;br&gt;{{color|red|'''第二形态'''}}&lt;br&gt;场上除自身外所有敌方单位受到的物理/法术伤害降低20%；生成一个单向护盾使自身免疫伤害来源位于盾侧的物理/法术伤害&lt;br&gt;自身攻击力-50%，防御力+50%；攻击范围扩大至全场，普通攻击对目标及周围8格的我方单位造成法术伤害&lt;br&gt;每损失50%生命值，强制触发技能【痴愚惩戒】&lt;br&gt;进入第二形态时，立刻闪现至特定位置，并使场上所有的[[调谐节点]]失效（清空其SP并赋予其无敌），并强制触发【君王诏制】&lt;br&gt;该形态下，{{color|#8e7cc0|'''沉郁变奏'''}}持续期间：令在变奏下有额外能力的敌人攻击力额外+10%，攻击速度额外+0&lt;br&gt;{{color|#dcbd85|'''激昂变奏'''}}持续期间：令在变奏下有额外能力的敌人攻击力额外+0%，攻击速度额外+10&lt;br&gt;变奏持续期间，每0.2s检测所有敌人的状态，检测时处于{{术语|ba.stun|晕眩}}的敌人获得标记，被标记的敌人在变奏结束时清除标记并受到5000点法术生命流失&lt;br/&gt;退场时立刻结束当前变奏阶段&lt;!--[
+    {
+        "key": "TriggerRebuildS1.hp_ratio",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "TriggerRebuildS2.hp_ratio",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.duration",
+        "value": 10.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.revive_duration",
+        "value": 7.5,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.atk_scale",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.direction",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "ReduceDamageS2.damage_resistance",
+        "value": 0.2,
+        "valueStr": null
+    },
+    {
+        "key": "ReduceDamageS1.damage_resistance",
+        "value": 0.2,
+        "valueStr": null
+    },
+    {
+        "key": "SideShield.direction",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "Supervision.damage_value",
+        "value": 5000.0,
+        "valueStr": null
+    },
+    {
+        "key": "Supervision.enemy_ltniak[enthu_buff_boost].atk",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "Supervision.enemy_ltniak[enthu_buff_boost].attack_speed",
+        "value": 10.0,
+        "valueStr": null
+    },
+    {
+        "key": "Supervision.enemy_ltniak[depressed_buff_boost].atk",
+        "value": 0.1,
+        "valueStr": null
+    },
+    {
+        "key": "Supervision.enemy_ltniak[depressed_buff_boost].attack_speed",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "AttributeUP.atk",
+        "value": -0.5,
+        "valueStr": null
+    },
+    {
+        "key": "AttributeUP.def",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "SuicideEffectS1.interval",
+        "value": 280.0,
+        "valueStr": null
+    },
+    {
+        "key": "SuicideEffectS2.interval",
+        "value": 280.0,
+        "valueStr": null
+    }
+]--&gt;
+}}
+
+==级别1==
+{{敌人信息/level
+|index=1
+|最大生命值=100000
+|攻击力=1000
+|防御力=700
+|天赋={{异常效果|自缚|color=orange}}，{{异常效果|不可阻挡|color=orange}}，{{异常效果|免疫失衡|color=orange}}&lt;br&gt;&lt;br&gt;{{color|red|'''第一形态'''}}&lt;br&gt;场上除自身外所有敌方单位受到的物理/法术伤害降低20%&lt;br&gt;普通攻击对目标及周围4格的我方单位造成法术伤害&lt;br&gt;每损失50%生命值，强制触发技能【痴愚惩戒】&lt;br&gt;首次被击倒后进行持续10s的重生，恢复100%生命值；重生开始时：释放【痴愚惩戒】，并对场上所有我方单位造成攻击力50%法术溅射伤害；重生结束时：重置所有技能冷却至初始冷却，释放当前波次，进入{{color|red|'''第二形态'''}}&lt;br&gt;&lt;br&gt;{{color|red|'''第二形态'''}}&lt;br&gt;场上除自身外所有敌方单位受到的物理/法术伤害降低20%；生成一个单向护盾使自身免疫伤害来源位于盾侧的物理/法术伤害&lt;br&gt;自身攻击力-50%，防御力+50%；攻击范围扩大至全场，普通攻击对目标及周围8格的我方单位造成法术伤害&lt;br&gt;每损失50%生命值，强制触发技能【痴愚惩戒】&lt;br&gt;进入第二形态时，立刻闪现至特定位置，并使场上所有的[[调谐节点|{{color|orange|调谐节点}}]]失效（清空其SP并赋予其无敌），并强制触发【君王诏制】&lt;br&gt;该形态下，{{color|#8e7cc0|'''沉郁变奏'''}}持续期间：令在变奏下有额外能力的敌人攻击力额外+10%，攻击速度额外+0&lt;br&gt;{{color|#dcbd85|'''激昂变奏'''}}持续期间：令在变奏下有额外能力的敌人攻击力额外+0%，攻击速度额外+10&lt;br&gt;变奏持续期间，每0.2s检测所有敌人的状态，检测时处于晕眩的敌人获得标记，被标记的敌人在变奏结束时清除标记并受到{{变动数值|8000|+}}点法术生命流失&lt;br/&gt;退场时立刻结束当前变奏阶段&lt;!--[
+    {
+        "key": "TriggerRebuildS1.hp_ratio",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "TriggerRebuildS2.hp_ratio",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.duration",
+        "value": 10.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.revive_duration",
+        "value": 7.5,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.atk_scale",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.direction",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "ReduceDamageS2.damage_resistance",
+        "value": 0.2,
+        "valueStr": null
+    },
+    {
+        "key": "ReduceDamageS1.damage_resistance",
+        "value": 0.2,
+        "valueStr": null
+    },
+    {
+        "key": "SideShield.direction",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "Supervision.damage_value",
+        "value": 8000.0,
+        "valueStr": null
+    },
+    {
+        "key": "Supervision.enemy_ltniak[enthu_buff_boost].atk",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "Supervision.enemy_ltniak[enthu_buff_boost].attack_speed",
+        "value": 10.0,
+        "valueStr": null
+    },
+    {
+        "key": "Supervision.enemy_ltniak[depressed_buff_boost].atk",
+        "value": 0.1,
+        "valueStr": null
+    },
+    {
+        "key": "Supervision.enemy_ltniak[depressed_buff_boost].attack_speed",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "AttributeUP.atk",
+        "value": -0.5,
+        "valueStr": null
+    },
+    {
+        "key": "AttributeUP.def",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "SuicideEffectS1.interval",
+        "value": 280.0,
+        "valueStr": null
+    },
+    {
+        "key": "SuicideEffectS2.interval",
+        "value": 280.0,
+        "valueStr": null
+    }
+]--&gt;
+}}
+
+==敌人模型==
+{{spine}}&lt;references/&gt;{{敌人导航}}

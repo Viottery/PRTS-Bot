@@ -1,0 +1,132 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="77362" pageid="77362" ns="0" title="侵入式调用" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;侵入式调用&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;77362&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;341118&lt;/id&gt;
+      &lt;parentid&gt;341109&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-04-13T06:56:58Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;Enko&lt;/username&gt;
+        &lt;id&gt;394&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;minor/&gt;
+      &lt;comment&gt;//&lt;/comment&gt;
+      &lt;origin&gt;341118&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="3044" sha1="l262p8ktzzcbvu5cecfjex4xvuz29b6" xml:space="preserve"&gt;{{敌人信息/uncommon
+|名称=侵入式调用
+|index=-
+|地位级别=普通
+|描述=-
+|伤害类型=无
+|攻击方式=不攻击
+|位置=飞行
+|耐久=B
+|攻击力=E
+|防御力=B
+|移动速度=E
+|攻击速度=A+
+|法术抗性=B
+|元素抗性=E
+|损伤抵抗=E
+}}
+
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=“我们已确认PRTS受未知因素干扰启动了重置进程，并且频繁检测到某条无法识别的危险调用指令。你看，那个标识不是一直都在这吗？欸......你说看不见是什么意思？”
+|数量=0
+|攻击范围半径=
+|最大生命值=10000
+|攻击力=1000
+|防御力=4000
+|法术抗性=80
+|移动速度=1.4
+|攻击速度=100
+|攻击间隔=1.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=0
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=有
+|恐惧抗性=有
+|技能0=指令：抓取
+|技能0效果=会从&amp;lt;未授权侵入界面&amp;gt;开始抓取一个预设的敌人或[[弱化节点]]
+|技能0消耗=/
+|技能0初始=/
+|技能1=指令：部署
+|技能1效果=将抓取的敌人或[[弱化节点]]尝试部署到指定的位置&amp;lt;br&amp;gt;※无视敌人的行动方式合法性，详见天赋与能力
+|技能1消耗=/
+|技能1初始=/
+|技能2=指令：激活
+|技能2效果=位于未激活的[[弱化节点]]时，将其激活
+|技能2消耗=/
+|技能2初始=/
+|技能3=指令？恼怒
+|技能3效果=执行【指令：部署】【指令：激活】失败时有所恼怒
+|技能3消耗=/
+|技能3初始=/
+|天赋=飞行单位，{{特殊机制|非首要目标}}，按预设路径与技能设置以其移动速度在场地上移动&amp;lt;br&amp;gt;其行动路径与技能可解释为'''PRTS侵入式指令'''&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;对于【指令：部署】：&amp;lt;br&amp;gt;目标部署位置以白色叉号菱形动态显示。&amp;lt;br&amp;gt;部署完成前若该近战位被'''实体类型为默认的我方单位'''占据/该远程位被占据，则部署失败且会有所恼怒&amp;lt;br&amp;gt;（无法阻止飞行单位的部署）&amp;lt;br&amp;gt;※部署于远程位上的静态敌人本质上是一个'''无法被点选的同名装置'''，其与对应敌人具有基本相同的属性与能力&amp;lt;br&amp;gt;（嘲讽等级-1，重量等级为0，损伤抵抗为0，部分异常状态因装置性质无法生效）&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;对于【指令：激活】：&amp;lt;br&amp;gt;场上存在充能完成的[[弱化节点]]时，会生成一个移动至该处并尝试【激活】的指令，并将其插入为下一个指令&amp;lt;br&amp;gt;如果激活失败（被我方抢先激活）则会有所恼怒&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;距离上一次【部署】999s内如未有新的【部署】指令，尝试在默认位置根据上一次放置单位：&amp;lt;br&amp;gt;①部署空中单位→[[无忧货运帮手]]，②部署高台单位→[[“寒灾回响”]]，③部署地面单位→[[内测版自助出餐终端]]的逻辑放置一个敌人&amp;lt;br&amp;gt;'''如果尝试放置的敌人不包含在关卡配置中，将导致游戏崩溃'''&amp;lt;br&amp;gt;距离上一次【部署】[[弱化节点]]的999s内如未有新的【部署】指令，尝试在默认位置部署[[弱化节点]]
+}}&lt;/text&gt;
+      &lt;sha1&gt;l262p8ktzzcbvu5cecfjex4xvuz29b6&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

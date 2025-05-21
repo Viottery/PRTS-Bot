@@ -1,0 +1,166 @@
+{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=1010
+|名称=博卓卡斯替，圣卫铳骑
+|index=SPT
+|地位级别=领袖
+|描述=守卫圣城大门的教宗骑士。他相信秩序，愿意为律法治下的和平服务，但从不放弃心中的质疑。在未来，他将成为卡兹戴尔真正的“爱国者”。
+|伤害类型=物理
+|攻击方式=近战 远程
+|行动方式=地面
+|耐久=S
+|攻击力=S+
+|防御力=SS
+|移动速度=D
+|攻击速度=C
+|法术抗性=S+
+|元素抗性=E
+|损伤抵抗=E
+|种类=萨卡兹
+|能力=·【劝谕仪礼】更容易受到攻击，主动撤退的单位再部署时间大幅延长&lt;br&gt;·【圣城照护仪礼】距离博卓卡斯替，圣卫铳骑一定距离之外的单位对博卓卡斯替，圣卫铳骑造成的物理与法术伤害大幅降低&lt;br&gt;·受到博卓卡斯替，圣卫铳骑伤害后，攻击力和受到的伤害提升&lt;br&gt;{{color|#FF4F0B|第一形态}}&lt;br&gt;·【自动自卫仪礼】每隔一段时间召唤数个圣卫自动机&lt;br&gt;{{color|#FF4F0B|第二形态}}&lt;br&gt;·攻击变为远程，每次攻击造成一定物理溅射伤害&lt;br&gt;·【扫射仪礼】锁定场上所有高台位置，依次对所有高台进行一轮扫射造成一定物理伤害&lt;br&gt;·【自动导引仪礼】进入第二形态后立刻召唤数个圣卫坚盾&lt;br&gt;{{color|#FF4F0B|第三形态}}&lt;br&gt;·思维混乱时，博卓卡斯替，圣卫铳骑会进入第三形态，攻击力提升并召唤数个精英敌人
+|登场活动=萨卡兹的无终奇语
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=守卫圣城大门的教宗骑士。
+|数量=30
+|攻击范围半径=2.0
+|最大生命值=150000
+|攻击力=3000
+|防御力=5000
+|法术抗性=80
+|移动速度=0.35
+|攻击速度=100
+|攻击间隔=3.8
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=10
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=有
+|恐惧抗性=无
+|技能0=自动自卫仪礼&lt;br&gt;[第一形态]&lt;br&gt;[第二形态]
+|技能0初始=20
+|技能0消耗=25
+|技能0效果=以预设路径召唤[[圣卫自动机]]
+|技能1=自动导引仪礼&lt;br&gt;[第二形态]
+|技能1初始=0
+|技能1消耗=9999
+|技能1效果=在预设位置召唤[[圣卫坚盾]]
+|技能2=扫射仪礼&lt;br&gt;[第二形态]
+|技能2初始=0
+|技能2消耗=30
+|技能2效果=锁定场上所有可部署高台位置，以大致顺时针的方向进行扫射，对处于目标地块的我方单位造成攻击力50%的物理伤害
+|天赋=【劝谕仪礼】：自身嘲讽等级+1&lt;br&gt;自身在场时，每次手动撤退干员触发【圣卫铳骑的劝导】{{Popup|内容=&lt;span style="color:#2f2f2f;background: #e5e5e5;box-shadow: 0 0 4px #676562;padding-inline:0.5em;"&gt;'''战士应当视死如归'''&lt;/span&gt;}}，使该干员当次再部署时间延长至200%&lt;br&gt;【圣城照护仪礼】：受到物理/法术伤害时，若伤害来源与自身距离&gt;2.0，则此伤害倍率降低80%（无来源伤害始终视为来自范围外）&lt;br&gt;成功受到自身伤害的单位获得下述效果：攻击力+30%，受到的物理/法术/真实伤害提升至150%（不叠加，持续时间无限）&lt;br&gt;&lt;br&gt;'''第一形态'''&lt;br&gt;仅进行近战攻击&lt;br&gt;被击倒后进行持续10s的重生，恢复100%生命值，重生结束后结束当前波次，切换至第二形态并获得15s无敌&lt;br&gt;&lt;br&gt;'''第二形态'''&lt;br&gt;未被阻挡时可进行远程攻击，远程攻击溅射半径1.1&lt;br&gt;被阻挡时进行近战攻击，近战攻击对自身半径1.1范围内的所有目标造成物理溅射伤害&lt;br&gt;此形态下首次被击倒后，若①思维清晰，则退场&lt;br&gt;②否则进入持续10s的重生，恢复50%生命值；重生结束后以预设路径召唤[[“门”]]，重新进入第二形态并获得6s无敌，攻击力提升25%
+&lt;!--[
+    {
+        "key": "Shield_S1.range_radius",
+        "value": 2.0,
+        "valueStr": null
+    },
+    {
+        "key": "Shield_S1.damage_resistance",
+        "value": 0.8,
+        "valueStr": null
+    },
+    {
+        "key": "Duel_S1.atk",
+        "value": 0.3,
+        "valueStr": null
+    },
+    {
+        "key": "Duel_S1.damage_scale",
+        "value": 1.5,
+        "valueStr": null
+    },
+    {
+        "key": "Respawn_S1.respawn_time",
+        "value": 2.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.duration",
+        "value": 10.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.invincible_duration",
+        "value": 15.0,
+        "valueStr": null
+    },
+    {
+        "key": "Respawn_S2.respawn_time",
+        "value": 2.0,
+        "valueStr": null
+    },
+    {
+        "key": "Duel_S2.atk",
+        "value": 0.3,
+        "valueStr": null
+    },
+    {
+        "key": "Duel_S2.damage_scale",
+        "value": 1.5,
+        "valueStr": null
+    },
+    {
+        "key": "Shield_S2.range_radius",
+        "value": 2.0,
+        "valueStr": null
+    },
+    {
+        "key": "Shield_S2.damage_resistance",
+        "value": 0.8,
+        "valueStr": null
+    },
+    {
+        "key": "Splash_S2.attack@atk_scale",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "TokenDamage.damage_scale",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "RebornS2.duration",
+        "value": 10.0,
+        "valueStr": null
+    },
+    {
+        "key": "RebornS2.invincible_duration",
+        "value": 6.0,
+        "valueStr": null
+    },
+    {
+        "key": "RebornS2.hp_ratio",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "RebornS2.atk",
+        "value": 0.25,
+        "valueStr": null
+    },
+    {
+        "key": "RebornS2.max_respawn_cnt",
+        "value": 0.0,
+        "valueStr": null
+    },
+    {
+        "key": "RebornS2.branch_id",
+        "value": 0.0,
+        "valueStr": "spawn_skzcy"
+    }
+]--&gt;
+}}
+
+==敌人模型==
+{{spine}}&lt;references/&gt;{{敌人导航}}

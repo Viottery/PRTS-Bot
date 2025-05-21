@@ -1,0 +1,135 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="71774" pageid="71774" ns="0" title="游砂兽(我方)" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;游砂兽(我方)&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;71774&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;345453&lt;/id&gt;
+      &lt;parentid&gt;345451&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-17T01:13:16Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;Visu2209&lt;/username&gt;
+        &lt;id&gt;1119&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;origin&gt;345453&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="3335" sha1="a0s1otcxl9umwpddr3z9a600c3a9ye5" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{参阅|游砂兽|作为敌方单位登场的游砂兽}}
+{{敌人信息/common
+|id=1115
+|名称=游砂兽(我方)
+|显示名=游砂兽
+|index=SD49
+|地位级别=领袖
+|描述=“大地在震动！大地在摇摆！大地在......”话未说完，游砂兽已经冲刺到了观察者的身侧。它的长吻轻而易举地劈开了前方的土石，随意挥动的长尾掀起一阵阵烟尘。转眼间，它又钻到了岩层下，给众人留下了满脸的灰尘。
+|伤害类型=物理
+|攻击方式=不攻击
+|行动方式=地面
+|耐久=A+
+|攻击力=C
+|防御力=A+
+|移动速度=D
+|攻击速度=D
+|法术抗性=B
+|元素抗性=E
+|损伤抵抗=E
+|种类=野生动物
+|能力=·在场时协助我方作战，不可被阻挡&amp;lt;br&amp;gt;·移动时移动速度逐渐提高（有上限），冲撞经过的敌人，造成一定攻击力的物理伤害和数秒{{术语|ba.stun|晕眩}}&amp;lt;br&amp;gt;·经过待携带的建材资源时可将其拾取（不限数量）&amp;lt;br&amp;gt;·【土石之刺】选择一定距离内的一名友方干员，持续扬起泥沙使其逐渐获得大量屏障（屏障会不断衰减）&amp;lt;br&amp;gt;·稀有品种的属性值提升，【土石之刺】的屏障量提升
+|登场活动=沙洲遗闻
+}}
+==友方单位==
+{{敌人信息/level
+|index=0
+|描述=它的长吻轻而易举地劈开了前方的土石，随意挥动的长尾掀起一阵阵烟尘。
+|数量=0
+|最大生命值=32000
+|攻击力=400
+|防御力=1500
+|法术抗性=20
+|移动速度=0.4
+|攻击速度=100
+|攻击间隔=5.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=6
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=无
+|沉默抗性=无
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=有
+|战栗抗性=无
+|恐惧抗性=无
+|技能0=扬沙
+|技能0初始=15
+|技能0消耗=45
+|技能0效果=停止移动，选择自身半径2.5范围内的一个我方单位并对其持续施法，每秒对其进行游砂兽最大生命值2.5%的治疗；过量治疗会转化为等量{{术语|ba.barrier|屏障}}，其会在25s内线性衰减
+|天赋=无法被阻挡；出场后进入加速状态，加速状态下：每0.15s尝试获得1层移动速度+3%的增益，最多尝试50次&amp;lt;br&amp;gt;自主移动时冲撞，对进入自身半径0.5范围内的敌方单位造成攻击力200%的物理普通伤害与1.5s{{术语|ba.stun|晕眩}}&amp;lt;br&amp;gt;自身周围{{popup|内容={{#widget:Range/x-5}}}}存在可携带的资源时，将其携带（无上限）
+}}
+==友方单位·稀有变体==
+{{敌人信息/level
+|index=1
+|描述=转眼间，它又钻到了岩层下，给众人留下了满脸的灰尘。
+|防御力=1800
+|技能0效果=停止移动，选择自身半径2.5范围内的一个我方单位并对其持续施法，每秒对其进行游砂兽最大生命值{{变动数值|4%|+}}的治疗；过量治疗会转化为等量{{术语|ba.barrier|屏障}}，其会在25s内线性衰减
+|天赋=无法被阻挡；出场后进入加速状态，加速状态下：每0.15s尝试获得1层移动速度+3%的增益，最多尝试50次&amp;lt;br&amp;gt;自主移动时冲撞，对进入自身半径0.5范围内的敌方单位造成攻击力200%的物理普通伤害与1.5s{{术语|ba.stun|晕眩}}&amp;lt;br&amp;gt;自身周围{{popup|内容={{#widget:Range/x-5}}}}存在可携带的资源时，将其携带（无上限）
+}}
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;a0s1otcxl9umwpddr3z9a600c3a9ye5&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

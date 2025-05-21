@@ -1,0 +1,147 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="56507" pageid="56507" ns="0" title="空洞雪祀" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;空洞雪祀&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;56507&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;330961&lt;/id&gt;
+      &lt;parentid&gt;288027&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-01-07T00:43:20Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;A20040920A&lt;/username&gt;
+        &lt;id&gt;106007&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;/* 级别0 */&lt;/comment&gt;
+      &lt;origin&gt;330961&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="2236" sha1="584utqrzomif458nwoigdovnx8eh9un" xml:space="preserve"&gt;{{#Widget:Mojibake}}
+{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=767
+|名称=空洞雪祀
+|index=HSP
+|地位级别=领袖
+|描述=早已异化的萨米部落酋长，其对部落的热切期许化作了虚无的道标，若是没人阻止，它就会将邪魔播撒至整个萨米。
+|伤害类型=法术
+|攻击方式=远程
+|位置=未知
+|耐久=A+
+|攻击力=B+
+|防御力=C
+|移动速度=SS
+|攻击速度=D
+|法术抗性=A+
+|元素抗性=E
+|损伤抵抗=E
+|种类=坍缩体
+|能力=·攻击施加{{术语|ba.cold|寒冷}}，且会在4个目标间远距离跳跃，每次跳跃伤害降低&amp;lt;br&amp;gt;※【反自然馈赠】攻击其他敌人并在4个敌人间远距离跳跃，提升它们的移动和攻击速度
+|登场活动=探索者的银凇止境
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=攻击会在4个目标间{{color|#00FFFF|长距}}跳跃并附带寒冷，每次跳跃伤害降低；能攻击敌人并在敌人间跳跃，提升它们的移动和攻击速度
+|数量=5
+|攻击范围半径=3.5
+|最大生命值=45000
+|攻击力=750
+|防御力=300
+|法术抗性=60
+|移动速度=2.5
+|攻击速度=100
+|攻击间隔=5.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=3
+|眩晕抗性=有
+|沉默抗性=无
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=无
+|战栗抗性=无
+|技能0=反自然馈赠
+|技能0初始=15
+|技能0消耗=15
+|技能0效果=对敌人进行一次攻击，造成攻击力10%的法术伤害，攻击会在4个目标间跳跃，跳跃半径2.1&amp;lt;br&amp;gt;受影响的目标攻击速度+100，移动速度+100%，持续10s&amp;lt;br&amp;gt;技能本身与跳跃均不会选择自身为目标
+|天赋=普通攻击会在4个目标间跳跃并附带4.5s寒冷，每次跳跃伤害降低15%，跳跃半径2.1&amp;lt;!--[
+    {
+        "key": "Attack.attack@freeze",
+        "value": 4.5,
+        "valueStr": null
+    },
+    {
+        "key": "Attack.attack@chain.max_target",
+        "value": 4.0,
+        "valueStr": null
+    },
+    {
+        "key": "Attack.attack@chain.atk_scale",
+        "value": 0.85,
+        "valueStr": null
+    },
+    {
+        "key": "Attack.attack@projectile_range",
+        "value": 2.1,
+        "valueStr": null
+    }
+]--&amp;gt;
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;584utqrzomif458nwoigdovnx8eh9un&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

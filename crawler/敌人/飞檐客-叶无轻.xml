@@ -1,0 +1,201 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="70936" pageid="70936" ns="0" title="飞檐客-叶无轻" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;飞檐客-叶无轻&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;70936&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;320470&lt;/id&gt;
+      &lt;parentid&gt;320461&lt;/parentid&gt;
+      &lt;timestamp&gt;2024-09-16T11:41:36Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;Visu2209&lt;/username&gt;
+        &lt;id&gt;1119&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;/* 级别0 */&lt;/comment&gt;
+      &lt;origin&gt;320470&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="4439" sha1="70gdx6w3ewmx201ypvwd9xl4urodbn8" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=1063
+|名称=飞檐客-叶无轻
+|index=DL27
+|地位级别=领袖
+|描述=在玉门出没的轻功高手，我们还未彻底搞清楚她的最终目的，不过从她的行为举止来看，似乎是个遵守道义之人。她穿越屋檐与街巷，轻若飞羽，目光却无比锐利深沉。只可怜身如一叶，无关重轻。
+|伤害类型=物理
+|攻击方式=远程
+|行动方式=飞行
+|耐久=A+
+|攻击力=B
+|防御力=B
+|移动速度=B
+|攻击速度=C
+|法术抗性=B+
+|元素抗性=E
+|损伤抵抗=E
+|登场活动=保全派驻Y5
+|能力=·常态不移动，每隔一段时间或损失一定生命值时，使用钩爪飞行到下一个高台，飞行过程中被视作空中单位&amp;lt;br&amp;gt;·每隔一段时间，将“无可置疑的罪证”藏进我方预备区，并减少部署费用&amp;lt;br&amp;gt;·每隔一段时间，销毁一张“无可置疑的罪证”，并发动一次强力攻击&amp;lt;br&amp;gt;·每存在一张“无可置疑的罪证”，自身的攻击力提升，获得物理和法术闪避&amp;lt;br&amp;gt;·自身未被阻挡时，攻击速度大幅提升
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=在玉门出没的轻功高手，行动时使用钩爪飞行到下一个高台
+|数量=1
+|攻击范围半径=1.5
+|最大生命值=60000
+|攻击力=600
+|防御力=600
+|法术抗性=30
+|移动速度=0.8
+|攻击速度=100
+|攻击间隔=4.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=1
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=有
+|沉默抗性=有
+|沉睡抗性=有
+|冻结抗性=有
+|浮空抗性=有
+|战栗抗性=无
+|恐惧抗性=有
+|技能0=钩爪移动
+|技能0初始=/
+|技能0消耗=/
+|技能0效果=移除{{异常效果|自缚}}，向下个检查点位置发射钩爪弹道，弹道抵达位置后移动至该位置，&amp;lt;!--移动期间移动速度+200%？--&amp;gt;完成移动后重新获得{{异常效果|自缚}}&amp;lt;br/&amp;gt;※移动期间持有{{异常效果|不死}}；场地上白色微光环绕的地块为其下个检查点所在的位置
+|技能1=藏匿证据
+|技能1初始=10/10
+|技能1消耗=20/15
+|技能1效果=扣除3点(重生前)/15点(重生后)部署费用，向预备区添加1个[[无可置疑的罪证]]&amp;lt;br/&amp;gt;※部署[[无可置疑的罪证]]后可以立即获得3调用凭证，并进行一次随机调用
+|技能2=举证行义
+|技能2初始=20
+|技能2消耗=35
+|技能2效果=预备区存在[[无可置疑的罪证]]时可触发：移除1个位于预备区的[[无可置疑的罪证]]，当次攻击造成攻击力500%的物理伤害
+|天赋={{异常效果|失衡免疫}}；{{异常效果|自缚}}：{{异常效果|自缚}}期间变为地面单位；未被阻挡时，攻击速度+50&amp;lt;br/&amp;gt;预备区/待部署区/休整区每存在1个[[无可置疑的罪证]]，自身获得1层下述增益：攻击力+10%，获得10%物理/法术闪避&amp;lt;br/&amp;gt;出场后每经过35s或生命值首次低于25%时，于非【钩爪移动】期间强制触发【钩爪移动】&amp;lt;br/&amp;gt;首次受到致命伤害时，于非【钩爪移动】期间触发：立即向预备区添加5个[[无可置疑的罪证]]，随后进行持续15s的重生，恢复100%生命值&amp;lt;!--[
+    {
+        "key": "Reborn.duration",
+        "value": 15.0,
+        "valueStr": null
+    },
+    {
+        "key": "Reborn.trig_cnt",
+        "value": 5.0,
+        "valueStr": null
+    },
+    {
+        "key": "Sneak.attack_speed",
+        "value": 50.0,
+        "valueStr": null
+    },
+    {
+        "key": "Flying.fly_interval_cnt",
+        "value": 35.0,
+        "valueStr": null
+    },
+    {
+        "key": "Flying.interval",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "Flying.hp_ratio",
+        "value": 0.25,
+        "valueStr": null
+    },
+    {
+        "key": "Steal.atk",
+        "value": 0.1,
+        "valueStr": null
+    },
+    {
+        "key": "Steal.prob",
+        "value": 0.1,
+        "valueStr": null
+    },
+    {
+        "key": "Steal.stack_cnt_eff",
+        "value": 3.0,
+        "valueStr": null
+    },
+    {
+        "key": "MoveUp.interval",
+        "value": 0.5,
+        "valueStr": null
+    },
+    {
+        "key": "MoveUp.trig_cnt",
+        "value": 8.0,
+        "valueStr": null
+    },
+    {
+        "key": "MoveUp.move_speed",
+        "value": 2.0,
+        "valueStr": null
+    },
+    {
+        "key": "MoveUp.max_stack_cnt",
+        "value": 3.0,
+        "valueStr": null
+    }
+]--&amp;gt;
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;70gdx6w3ewmx201ypvwd9xl4urodbn8&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

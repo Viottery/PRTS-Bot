@@ -1,0 +1,263 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="34422" pageid="34422" ns="0" title="正义骑士号" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;正义骑士号&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;34422&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;335880&lt;/id&gt;
+      &lt;parentid&gt;309522&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-03-07T02:40:11Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
+      &lt;origin&gt;335880&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="7529" sha1="f8h0y0tuv2wx71xjwpj8xk4sawyfz4r" xml:space="preserve"&gt;{{干员页面名|正义骑士号|'Justice Knight'|ジャスティスナイト}}{{pathnav2|干员一览}}
+{{ads/normal}}{{ads/mobile}}
+==干员信息==
+{{CharinfoV2
+&amp;lt;!--下方为自动更新部分，您的修改可能会被覆盖--&amp;gt;
+|干员名=正义骑士号
+|干员名jp=ジャスティスナイト
+|干员外文名="Justice Knight"
+|干员id=char_4000_jnight
+|干员序号=208
+|特性=优先攻击空中单位，且不受{{color|#00B0FF|部署数量}}限制，但再部署时间极长
+|稀有度=0
+|职业=狙击
+|分支=速射手
+|情报编号=KZ15
+|所属国家=卡西米尔
+|所属组织=红松骑士团
+|所属团队=
+|位置=远程位
+|标签=支援机械 支援
+|画师=NoriZC
+|中文配音=大汪
+|日文配音=雪野五月
+|韩文配音=金仙惠
+|英文配音=Ina Marie Smith
+|精英0介绍=合金框架，强劲电机，配以高效能源策略，坚固，耐用，续航持久。高模块化配件任您选择，只为最大程度契合客户需求。雷神工业向您保证，雷神存在者，存在，即完美。
+|时装1名称=竞技之梦改装
+|时装1画师=过失帝国
+|时装1系列=斗争血脉/VII
+|时装1颜色=#cbc339
+|时装1介绍=斗争血脉系列/竞技之梦改装。商业联合会无论如何都想不到，引起新一轮抗议的，竟然是一辆平平无奇的机器人竞赛改装“无人机”。
+&amp;lt;!--上方为自动更新部分，您的修改可能会被覆盖--&amp;gt;
+|精英0缩放=2
+|精英0坐标x=-2
+|精英0坐标y=-139
+|时装1缩放=2
+|时装1坐标x=50
+|时装1坐标y=-100
+}}
+
+==获得方式==
+{{干员获得方式
+|获得方式=公开招募 活动获得
+|覆盖=公开招募 [[感谢庆典2021/活动公告#「感谢庆典」限时签到活动开启|{{color|orange|「感谢庆典」限时签到}}]]活动获得
+|上线时间=2021-11-01 16:00
+}}
+
+==属性==
+{{属性
+|再部署=200s
+|部署费用=3
+|阻挡数=1
+|攻击速度=1.0s
+|精英0_1级_生命上限=396
+|精英0_1级_攻击=137
+|精英0_1级_防御=32
+|精英0_1级_法术抗性=0
+|精英0_满级=30
+|精英0_满级_生命上限=495
+|精英0_满级_攻击=172
+|精英0_满级_防御=41
+|精英0_满级_法术抗性=0
+|信赖加成_生命上限=100
+|信赖加成_攻击=45
+|信赖加成_防御=0
+}}
+==攻击范围==
+{{干员攻击范围
+|精英0范围=3-1
+}}
+==天赋==
+{{天赋列表3
+|天赋=第一天赋
+|天赋1=正义助威·I
+|天赋1条件=——
+|天赋1效果=部署后10秒内攻击范围内所有友方远程位单位更不容易被攻击且敌方空中单位获得10%的{{术语|ba.fragile|脆弱}}效果
+|天赋2=正义助威·II
+|天赋2条件=潜能2
+|天赋2效果=部署后12秒内攻击范围内所有友方远程位单位更不容易被攻击且敌方空中单位获得13%的{{术语|ba.fragile|脆弱}}效果
+|天赋3=正义助威·III
+|天赋3条件=潜能3
+|天赋3效果=部署后14秒内攻击范围内所有友方远程位单位更不容易被攻击且敌方空中单位获得16%的{{术语|ba.fragile|脆弱}}效果
+|天赋4=正义助威·IV
+|天赋4条件=潜能4
+|天赋4效果=部署后16秒内攻击范围内所有友方远程位单位更不容易被攻击且敌方空中单位获得19%的{{术语|ba.fragile|脆弱}}效果
+|天赋5=正义助威·V
+|天赋5条件=潜能5
+|天赋5效果=部署后18秒内攻击范围内所有友方远程位单位更不容易被攻击且敌方空中单位获得22%的{{术语|ba.fragile|脆弱}}效果
+|天赋6=正义助威·VI
+|天赋6条件=潜能6
+|天赋6效果=部署后20秒内攻击范围内所有友方远程位单位更不容易被攻击且敌方空中单位获得25%的{{术语|ba.fragile|脆弱}}效果
+}}
+
+==潜能提升==
+{{潜能提升
+|潜能2=天赋效果加强
+|潜能3=天赋效果加强
+|潜能4=天赋效果加强
+|潜能5=天赋效果加强
+|潜能6=天赋效果加强
+}}
+==技能==
+该干员没有技能
+==后勤技能==
+{{后勤技能
+|后勤技能1-1=备用能源
+|后勤技能1-1阶段=精英0
+|后勤技能2-1=“滴滴，启动！”
+|后勤技能2-1阶段=精英0
+|后勤技能2-1等级=30级
+}}
+&amp;lt;!--如需修改技能信息，请前往[[后勤技能一览]]页面--&amp;gt;
+==精英化材料==
+该干员无法精英化
+==技能升级材料==
+该干员没有技能
+==相关道具==
+{{相关道具
+|干员简介=红松骑士团的成员“正义骑士号”，在罗德岛负责射击援护任务。
+|干员简介补充=她知道自己是一台机器人。
+|信物用途=用于提升正义骑士号的潜能。
+|信物描述=“正义骑士号”的旗帜布。在定期更换清洗的时候，还请友善地帮她更换一下
+}}
+==干员档案==
+{{人员档案set
+|性别=女
+
+|设定性别=女
+|出厂时间=大于四年
+|制造商=雷神工业
+|产地=哥伦比亚
+|出厂日=1月21日
+|高度=160cm
+|重量=保密
+|维护检测报告=外壳有少量磨损，结构完整，强度正常。发动机与底盘状况良好。 辅助系统运行正常，瞄准装置已校准。使用正常。ECU状况良好。
+
+|最高速度=20km/h
+|爬坡能力=普通
+|制动效能=普通
+|通过性=普通
+|续航=普通
+|结构稳定性=标准
+}}
+{{人员档案
+|档案1=基础档案
+|档案1条件=初始开放
+|档案1文本=【型号】“正义骑士号”
+【设定性别】女
+【出厂时间】大于四年
+【制造商】雷神工业
+【产地】哥伦比亚
+【出厂日】1月21日
+【高度】160cm
+【重量】保密
+【维护检测报告】
+外壳有少量磨损，结构完整，强度正常。发动机与底盘状况良好。 辅助系统运行正常，瞄准装置已校准。使用正常。ECU状况良好。
+|档案2=综合性能检测结果
+|档案2条件=初始开放
+|档案2文本=【最高速度】20km/h 
+【爬坡能力】普通 
+【制动效能】普通 
+【通过性】普通 
+【续航】普通 
+【结构稳定性】标准
+|档案3=客观履历
+|档案3条件=初始开放
+|档案3文本=“正义骑士号”是由卡西米尔工程师客制化后的雷神存在者S-1044四轮作业平台，后由梅尔与可露希尔进行改造和升级。其原型产品由于主要提供的探照功能缺少使用价值，援护射击功能市场受众范围小，现已停产。在罗德岛工程部经手前，“正义骑士号”已经历过大大小小十余次的改造，现功能与原型可以说相去甚远。旧版操作系统与指令存储数据已完全损坏，无法找回。在更换了核心硬件设备、扩充存储装置、更新操作系统、添加人工语音系统之后，现与雷神工业新版作业平台性能相差无几。“正义骑士号”原为红松骑士团成员，目前授权给罗德岛使用。
+|档案4=档案资料一
+|档案4条件=提升信赖至100%以查看
+|档案4文本=由于原主人野鬃曾对其进行过各类改造委托，“正义骑士号”除了最初的射击援护功能以外，增添了更多日常性功能，如浇花、外卖运输、游戏机充电……对于“正义骑士号”来说，为人们提供便捷的生活服务是自己的使命之一。对自己曾被遗弃过很在意，在被野鬃捡回并重启后，除了充电与维修时间，她都会积极地和人们待在一起。
+}}
+==语音记录==
+{{参阅三|{{FULLPAGENAME}}|yy}}
+{{:{{FULLPAGENAME}}/语音记录}}
+==干员密录==
+{{干员密录|list=
+{{干员密录/list
+|精英化=0
+|等级=30
+|信赖=50
+|蚀刻章override=medal_story_jnight_1
+|storySetName=正义号竭诚为您服务！
+|storyIntro1=“您给正义号的服务打几分呢？”
+|storyTxt1={{FULLPAGENAME}}/干员密录/1
+}}
+}}
+==干员模型==
+{{spineId}}
+==注释与链接==
+&amp;lt;references/&amp;gt;
+{{干员导航}}&lt;/text&gt;
+      &lt;sha1&gt;f8h0y0tuv2wx71xjwpj8xk4sawyfz4r&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>
