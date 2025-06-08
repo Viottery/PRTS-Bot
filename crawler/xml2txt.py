@@ -53,7 +53,7 @@ def extract_files_to_target(input_folder, output_base='../data/documents'):
 
 if __name__ == "__main__":
     # 修改这个变量来指定你的原始文件夹路径
-    input_folder = "敌人"
+    input_folder = "技术性文档"
     extract_files_to_target(input_folder)
 
     if input_folder == "干员":

@@ -51,7 +51,7 @@ class OpenAIClient:
         # print(leaf_folders)
         return leaf_folders
 
-    def evaluate_statements(self, prompt: str, model: str = "gpt-4o") -> dict:
+    def evaluate_statements(self, prompt: str, model: str = "gpt-3.5-turbo-0125") -> dict:
         folders = self._get_folders("data/documents")
         num_statements = len(folders)
 

@@ -1,2 +1,5 @@
 .idea/
+.qqbot/
+qqbot/main.py
+config.yaml
 *.secret.json

@@ -54,17 +54,19 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;28586&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;344485&lt;/id&gt;
-      &lt;parentid&gt;344152&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-06T08:50:09Z&lt;/timestamp&gt;
+      &lt;id&gt;345637&lt;/id&gt;
+      &lt;parentid&gt;344485&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-19T05:08:16Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Visu2209&lt;/username&gt;
-        &lt;id&gt;1119&lt;/id&gt;
+        &lt;username&gt;Enko&lt;/username&gt;
+        &lt;id&gt;394&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;origin&gt;344485&lt;/origin&gt;
+      &lt;minor/&gt;
+      &lt;comment&gt;//&lt;/comment&gt;
+      &lt;origin&gt;345637&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="24104" sha1="g4v9ucwlvfrt5ty4ck8iixr06okcr7e" xml:space="preserve"&gt;== 战斗术语 ==
+      &lt;text bytes="24204" sha1="5zlms2mx1jix7rtfg0cn94f55kx4o2l" xml:space="preserve"&gt;== 战斗术语 ==
 ===状态===
 {{术语释义|停顿|移动速度降低80%|id=ba.sluggish}}
 
@@ -128,7 +130,7 @@
 
 {{术语释义|起飞|不阻挡地面敌人且不会被地面敌人攻击，可以阻挡飞行敌人&amp;lt;br/&amp;gt;※包含{{异常效果|机动}}（无法被敌对阵营的地面单位选中），可以阻挡近地悬浮单位&amp;lt;br/&amp;gt;※起飞的干员并非真正的飞行单位，不受攻击是否对空影响|id=ba.liftoff}}
 
-{{术语释义|麻痹|每层麻痹可以使敌人在普通攻击时打断本次攻击，上限3层；麻痹未被消耗时持续时间无限，拥有{{术语|ba.buffres|抵抗}}的单位每5秒流失1层|id=ba.palsy}}
+{{术语释义|麻痹|每层麻痹可以使敌人在普通攻击时打断本次攻击，上限3层；麻痹未被消耗时持续时间无限，拥有{{术语|ba.buffres|抵抗}}的单位每5秒流失1层&amp;lt;br&amp;gt;※打断时点为即将产生伤害的时刻，此时被打断的目标模型会短时间震颤|id=ba.palsy}}
 
 ===技能相关===
 
@@ -319,7 +321,7 @@
 {{术语释义|部分技能|包含以下技能&amp;lt;br&amp;gt;左膀右臂、S.W.E.E.P.、零食网络、清理协议、替身、必要责任、护卫、小小的领袖、独善其身、笑靥如春、金盏花诗会、捍卫之道、博识生手|id=cc.c.skill}}
 
 [[分类:技术性文档]]&lt;/text&gt;
-      &lt;sha1&gt;g4v9ucwlvfrt5ty4ck8iixr06okcr7e&lt;/sha1&gt;
+      &lt;sha1&gt;5zlms2mx1jix7rtfg0cn94f55kx4o2l&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

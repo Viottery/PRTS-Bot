@@ -59,7 +59,7 @@ def save_xml_to_folder(xml_content, folder_name, file_name):
 
 # 主程序
 if __name__ == "__main__":
-    category = "敌人"  # 替换为您感兴趣的分类名称
+    category = "技术性文档"  # 替换为您感兴趣的分类名称
     pages = get_category_members(category)
     folder_name = category  # 文件夹名称与分类名称相同
 

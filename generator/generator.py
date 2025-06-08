@@ -50,7 +50,7 @@ class PRTSClient:
         # print(leaf_folders)
         return leaf_folders
 
-    def evaluate_statements(self, prompt: str, model: str = "gpt-4o") -> str:
+    def evaluate_statements(self, prompt: str, model: str = "o4-mini-2025-04-16") -> str:
         response = self.client.chat.completions.create(
             model=model,
             messages=[
