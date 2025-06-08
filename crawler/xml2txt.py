@@ -30,8 +30,8 @@ def extract_files_to_target(input_folder, output_base='../data/documents'):
     folder_name = os.path.basename(os.path.normpath(f"xmls/{input_folder}"))
     target_base = os.path.join(output_base, folder_name)
 
-    all_files = collect_all_files(input_folder)
-    print(f"Found {len(all_files)} files in '{input_folder}'.")
+    all_files = collect_all_files(f"xmls/{input_folder}")
+    print(f"Found {len(all_files)} files in 'xmls/{input_folder}'.")
 
     for filepath in all_files:
         with open(filepath, 'r', encoding='utf-8') as f:
@@ -40,7 +40,7 @@ def extract_files_to_target(input_folder, output_base='../data/documents'):
             text_content = extract_wiki_text(xml_content)
             if text_content:
                 # Create the target directory structure
-                relative_path = os.path.relpath(filepath, input_folder)
+                relative_path = os.path.relpath(filepath, f"xmls/{input_folder}")
                 target_path = os.path.join(target_base, os.path.dirname(relative_path))
                 os.makedirs(target_path, exist_ok=True)
 
@@ -50,6 +50,7 @@ def extract_files_to_target(input_folder, output_base='../data/documents'):
                 with open(output_file, 'w', encoding='utf-8') as out_f:
                     out_f.write(text_content)
                 print(f"Saved: {output_file}")
+
 
 if __name__ == "__main__":
     # You can change the input folders here
