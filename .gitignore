@@ -3,6 +3,8 @@
 qqbot/main.py
 config.yaml
 *.secret.json
+botpy.log
+botpy.log*
 
 
 # 忽略 data/documents/ 下的所有内容
