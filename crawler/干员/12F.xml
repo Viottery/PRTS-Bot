@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1703&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326095&lt;/id&gt;
-      &lt;parentid&gt;325864&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:02:22Z&lt;/timestamp&gt;
+      &lt;id&gt;347359&lt;/id&gt;
+      &lt;parentid&gt;346936&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:45:50Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326095&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347359&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="7387" sha1="fz06tlm9186yelgnn6qklkz66cmce2d" xml:space="preserve"&gt;{{干员页面名|12F|12F|12F}}{{pathnav2|干员一览}}
+      &lt;text bytes="7411" sha1="ahrh1gdgfbsd2m7k321b48tbfo0bttk" xml:space="preserve"&gt;{{干员页面名|12F|12F|12F}}{{pathnav2|干员一览}}
 ==干员信息==
 {{CharinfoV2
 &amp;lt;!--下方为自动更新部分，您的修改可能会被覆盖--&amp;gt;
@@ -108,6 +108,7 @@
 |部署费用=24
 |阻挡数=1
 |攻击速度=2.9s
+|所属势力=罗德岛
 |精英0_1级_生命上限=1461
 |精英0_1级_攻击=302
 |精英0_1级_防御=31
@@ -271,7 +272,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;fz06tlm9186yelgnn6qklkz66cmce2d&lt;/sha1&gt;
+      &lt;sha1&gt;ahrh1gdgfbsd2m7k321b48tbfo0bttk&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

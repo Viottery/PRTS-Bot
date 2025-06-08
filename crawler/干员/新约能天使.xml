@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;78323&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;345019&lt;/id&gt;
-      &lt;parentid&gt;345018&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-13T04:11:03Z&lt;/timestamp&gt;
+      &lt;id&gt;347708&lt;/id&gt;
+      &lt;parentid&gt;347230&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:11:45Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Enko&lt;/username&gt;
-        &lt;id&gt;394&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;//&lt;/comment&gt;
-      &lt;origin&gt;345019&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347708&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="44228" sha1="clsl03jinhi0q6i5esz62sjs2ha9yfd" xml:space="preserve"&gt;{{干员页面名|新约能天使|新约能天使|新约能天使}}{{pathnav2|干员一览}}
+      &lt;text bytes="44290" sha1="shtnebmv8lnrj49xlxcdpnrdwtosvjd" xml:space="preserve"&gt;{{干员页面名|新约能天使|新约能天使|新约能天使}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 {{异格干员|原型=能天使}}
 ==干员信息==
@@ -116,6 +115,8 @@
 |部署费用=11→13
 |阻挡数=1
 |攻击速度=1.3s
+|所属势力=炎-龙门,企鹅物流
+|隐藏势力=拉特兰
 |精英0_1级_生命上限=914
 |精英0_1级_攻击=249
 |精英0_1级_防御=58
@@ -540,7 +541,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;clsl03jinhi0q6i5esz62sjs2ha9yfd&lt;/sha1&gt;
+      &lt;sha1&gt;shtnebmv8lnrj49xlxcdpnrdwtosvjd&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;15336&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326312&lt;/id&gt;
-      &lt;parentid&gt;326041&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:16:39Z&lt;/timestamp&gt;
+      &lt;id&gt;347965&lt;/id&gt;
+      &lt;parentid&gt;347958&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T08:12:01Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
       &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326312&lt;/origin&gt;
+      &lt;origin&gt;347965&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="35564" sha1="a348lludu0ho8dvijxv0tbp423ifkbj" xml:space="preserve"&gt;{{干员页面名|温蒂|Weedy|ウィーディ}}{{pathnav2|干员一览}}
+      &lt;text bytes="35869" sha1="rmdwe082d4fn7b7v18ha56nw11tcsiy" xml:space="preserve"&gt;{{干员页面名|温蒂|Weedy|ウィーディ}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -88,7 +88,7 @@
 |画师=下野宏铭
 |中文配音=宋媛媛
 |日文配音=长绳麻理亚
-|韩文配音=佳彬
+|韩文配音=吴捞妸
 |精英0介绍=干员平时最常穿着的服装。&amp;lt;br/&amp;gt;虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。
 |精英2介绍=晋升后，经过调整的服装。&amp;lt;br/&amp;gt;根据干员的经验，对服装细节进行改进，针对一些作战环境进行了特化处理。在满足战斗需求的同时，最大程度还原各位干员熟悉的舒适穿着体验。
 |时装1名称=糖果仙子
@@ -126,6 +126,8 @@
 |部署费用=19→21
 |阻挡数=2
 |攻击速度=1.2s
+|所属势力=罗德岛
+|隐藏势力=伊比利亚
 |精英0_1级_生命上限=984
 |精英0_1级_攻击=295
 |精英0_1级_防御=163
@@ -568,6 +570,15 @@
 |storyIntro1=没有选择前往远方，并不是因为害怕风雨。
 |storyTxt1={{FULLPAGENAME}}/干员密录/1
 }}
+{{干员密录/list
+|精英化=2
+|等级=60
+|信赖=200
+|蚀刻章override=medal_story_weedy_2
+|storySetName=盐漠上的海风
+|storyIntro1=推开旧日的大门，她遇到一位沉溺于旧日的人。
+|storyTxt1={{FULLPAGENAME}}/干员密录/2
+}}
 }}
 ==悖论模拟==
 {{悖论模拟
@@ -589,7 +600,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;a348lludu0ho8dvijxv0tbp423ifkbj&lt;/sha1&gt;
+      &lt;sha1&gt;rmdwe082d4fn7b7v18ha56nw11tcsiy&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

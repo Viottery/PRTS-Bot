@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;21085&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;343053&lt;/id&gt;
-      &lt;parentid&gt;324502&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-01T06:50:18Z&lt;/timestamp&gt;
+      &lt;id&gt;347404&lt;/id&gt;
+      &lt;parentid&gt;346981&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:48:31Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;343053&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347404&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="23974" sha1="6amzyjotqjmzzvpphu24cetnvuydv5k" xml:space="preserve"&gt;{{干员页面名|芳汀|Arene|アレーン}}{{pathnav2|干员一览}}
+      &lt;text bytes="23998" sha1="4epqo58d5l4ypqhjyj6gv7s7alb5nik" xml:space="preserve"&gt;{{干员页面名|芳汀|Arene|アレーン}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -127,6 +127,7 @@
 |部署费用=16→18
 |阻挡数=2
 |攻击速度=1.3s
+|所属势力=拉特兰
 |精英0_1级_生命上限=945
 |精英0_1级_攻击=263
 |精英0_1级_防御=162
@@ -498,7 +499,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;6amzyjotqjmzzvpphu24cetnvuydv5k&lt;/sha1&gt;
+      &lt;sha1&gt;4epqo58d5l4ypqhjyj6gv7s7alb5nik&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

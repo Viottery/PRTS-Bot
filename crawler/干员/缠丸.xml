@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1726&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;343032&lt;/id&gt;
-      &lt;parentid&gt;335454&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-01T06:44:13Z&lt;/timestamp&gt;
+      &lt;id&gt;347397&lt;/id&gt;
+      &lt;parentid&gt;346974&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:48:03Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
       &lt;comment&gt;update&lt;/comment&gt;
-      &lt;origin&gt;343032&lt;/origin&gt;
+      &lt;origin&gt;347397&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="16653" sha1="pnpevd72eoadbytgz7miwlv2adzc94k" xml:space="preserve"&gt;{{干员页面名|缠丸|Matoimaru|マトイマル}}{{pathnav2|干员一览}}
+      &lt;text bytes="16671" sha1="52yyrcgf0oiwkoguqh6mgv2q86557mw" xml:space="preserve"&gt;{{干员页面名|缠丸|Matoimaru|マトイマル}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -120,6 +120,7 @@
 |部署费用=15→17
 |阻挡数=1
 |攻击速度=1.5s
+|所属势力=东
 |精英0_1级_生命上限=1514
 |精英0_1级_攻击=396
 |精英0_1级_防御=70
@@ -439,7 +440,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;pnpevd72eoadbytgz7miwlv2adzc94k&lt;/sha1&gt;
+      &lt;sha1&gt;52yyrcgf0oiwkoguqh6mgv2q86557mw&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

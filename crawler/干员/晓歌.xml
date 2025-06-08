@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;43726&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;344990&lt;/id&gt;
-      &lt;parentid&gt;342956&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-12T09:21:36Z&lt;/timestamp&gt;
+      &lt;id&gt;347545&lt;/id&gt;
+      &lt;parentid&gt;347474&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:00:10Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;30000lightyears&lt;/username&gt;
-        &lt;id&gt;59044&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 干员信息 */&lt;/comment&gt;
-      &lt;origin&gt;344990&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347545&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="27078" sha1="1wrh9axpi2a7ax67neh85sifd52crja" xml:space="preserve"&gt;{{干员页面名|晓歌|Cantabile|カンタービレ}}{{pathnav2|干员一览}}
+      &lt;text bytes="27129" sha1="b4ifg3i909g5xzvk686buu3jevo2k4f" xml:space="preserve"&gt;{{干员页面名|晓歌|Cantabile|カンタービレ}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -126,6 +126,8 @@
 |部署费用=8→10
 |阻挡数=1
 |攻击速度=1.0s
+|所属势力=罗德岛
+|隐藏势力=玻利瓦尔
 |精英0_1级_生命上限=857
 |精英0_1级_攻击=236
 |精英0_1级_防御=94
@@ -474,7 +476,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;1wrh9axpi2a7ax67neh85sifd52crja&lt;/sha1&gt;
+      &lt;sha1&gt;b4ifg3i909g5xzvk686buu3jevo2k4f&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

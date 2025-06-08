@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;75069&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;335092&lt;/id&gt;
-      &lt;parentid&gt;334388&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-02-18T13:33:57Z&lt;/timestamp&gt;
+      &lt;id&gt;347768&lt;/id&gt;
+      &lt;parentid&gt;347765&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:31:10Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Visu2209&lt;/username&gt;
-        &lt;id&gt;1119&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 技能 */&lt;/comment&gt;
-      &lt;origin&gt;335092&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347768&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="34853" sha1="szsj5amkpors5gd7maoglg38j5792fk" xml:space="preserve"&gt;{{干员页面名|烛煌|烛煌|烛煌}}{{pathnav2|干员一览}}
+      &lt;text bytes="34932" sha1="hrzl0wne9zqfzag877nzl2rf5gsfsnl" xml:space="preserve"&gt;{{干员页面名|烛煌|烛煌|烛煌}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 {{异格干员|原型=煌}}
 ==干员信息==
@@ -111,6 +111,8 @@
 |部署费用=19→21
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=罗德岛,罗德岛-精英干员
+|隐藏势力=炎;;维多利亚
 |精英0_1级_生命上限=668
 |精英0_1级_攻击=324
 |精英0_1级_防御=52
@@ -494,7 +496,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;szsj5amkpors5gd7maoglg38j5792fk&lt;/sha1&gt;
+      &lt;sha1&gt;hrzl0wne9zqfzag877nzl2rf5gsfsnl&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;13301&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;335832&lt;/id&gt;
-      &lt;parentid&gt;326198&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-03-07T02:21:41Z&lt;/timestamp&gt;
+      &lt;id&gt;347514&lt;/id&gt;
+      &lt;parentid&gt;347062&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:55:48Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
       &lt;comment&gt;update&lt;/comment&gt;
-      &lt;origin&gt;335832&lt;/origin&gt;
+      &lt;origin&gt;347514&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="23354" sha1="aafc8txckwoumrs5cejf7p1tfkjtba0" xml:space="preserve"&gt;{{干员页面名|慑砂|Sesa|シェーシャ}}{{pathnav2|干员一览}}
+      &lt;text bytes="23378" sha1="5zdrbz3x2itbrk8276wyrjnrmuyr9kw" xml:space="preserve"&gt;{{干员页面名|慑砂|Sesa|シェーシャ}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -116,6 +115,7 @@
 |部署费用=24→26→28
 |阻挡数=1
 |攻击速度=2.8s
+|所属势力=萨尔贡
 |精英0_1级_生命上限=847
 |精英0_1级_攻击=363
 |精英0_1级_防御=63
@@ -479,7 +479,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;aafc8txckwoumrs5cejf7p1tfkjtba0&lt;/sha1&gt;
+      &lt;sha1&gt;5zdrbz3x2itbrk8276wyrjnrmuyr9kw&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

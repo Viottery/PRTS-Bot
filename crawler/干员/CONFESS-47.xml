@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;78316&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;344247&lt;/id&gt;
-      &lt;parentid&gt;344246&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-03T16:46:45Z&lt;/timestamp&gt;
+      &lt;id&gt;347354&lt;/id&gt;
+      &lt;parentid&gt;346931&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:43:52Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Enko&lt;/username&gt;
-        &lt;id&gt;394&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;//&lt;/comment&gt;
-      &lt;origin&gt;344247&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347354&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="8505" sha1="0prfsjomrwk4omkz2y1etlvegpkg7ub" xml:space="preserve"&gt;{{干员页面名|CONFESS-47|CONFESS-47|CONFESS-47}}{{pathnav2|干员一览}}
+      &lt;text bytes="8529" sha1="fxhj04696ckc178kvaa2uiybd0mzvh9" xml:space="preserve"&gt;{{干员页面名|CONFESS-47|CONFESS-47|CONFESS-47}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -106,6 +106,7 @@
 |部署费用=3
 |阻挡数=2
 |攻击速度=1.05s
+|所属势力=拉特兰
 |精英0_1级_生命上限=577
 |精英0_1级_攻击=134
 |精英0_1级_防御=123
@@ -244,7 +245,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;0prfsjomrwk4omkz2y1etlvegpkg7ub&lt;/sha1&gt;
+      &lt;sha1&gt;fxhj04696ckc178kvaa2uiybd0mzvh9&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

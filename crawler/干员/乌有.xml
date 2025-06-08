@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;26174&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;344245&lt;/id&gt;
-      &lt;parentid&gt;326239&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-03T16:41:24Z&lt;/timestamp&gt;
+      &lt;id&gt;347598&lt;/id&gt;
+      &lt;parentid&gt;347112&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:03:42Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Enko&lt;/username&gt;
-        &lt;id&gt;394&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;//&lt;/comment&gt;
-      &lt;origin&gt;344245&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347598&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="27799" sha1="jle4hna0r4y3vm3qo1dit0dm3m6v9em" xml:space="preserve"&gt;{{干员页面名|乌有|Mr. Nothing|ウユウ}}{{pathnav2|干员一览}}
+      &lt;text bytes="27817" sha1="5olf5hz0wc1j5uypbmnlfap1wk48fle" xml:space="preserve"&gt;{{干员页面名|乌有|Mr. Nothing|ウユウ}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -121,6 +120,7 @@
 |部署费用=6→8
 |阻挡数=1
 |攻击速度=1.0s
+|所属势力=炎
 |精英0_1级_生命上限=1165
 |精英0_1级_攻击=346
 |精英0_1级_防御=204
@@ -488,7 +488,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;jle4hna0r4y3vm3qo1dit0dm3m6v9em&lt;/sha1&gt;
+      &lt;sha1&gt;5olf5hz0wc1j5uypbmnlfap1wk48fle&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

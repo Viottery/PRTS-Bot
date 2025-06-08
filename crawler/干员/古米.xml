@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1737&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;329356&lt;/id&gt;
-      &lt;parentid&gt;329354&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-12-08T17:09:52Z&lt;/timestamp&gt;
+      &lt;id&gt;347422&lt;/id&gt;
+      &lt;parentid&gt;346997&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:49:40Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;RaYmondCheung&lt;/username&gt;
-        &lt;id&gt;26948&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;[InPageEdit]&lt;/comment&gt;
-      &lt;origin&gt;329356&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347422&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="21565" sha1="05y6tg2h5evhm6ksmhkmi7dzyd7gfwg" xml:space="preserve"&gt;{{干员页面名|古米|Gummy|グム}}{{pathnav2|干员一览}}
+      &lt;text bytes="21614" sha1="qevfj5ylfmpyq5c5oukkfe62vwh2q8p" xml:space="preserve"&gt;{{干员页面名|古米|Gummy|グム}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -121,6 +120,7 @@
 |部署费用=16→18→20
 |阻挡数=2→3→3
 |攻击速度=1.2s
+|所属势力=乌萨斯,乌萨斯学生自治团
 |精英0_1级_生命上限=1059
 |精英0_1级_攻击=179
 |精英0_1级_防御=234
@@ -478,7 +478,7 @@
 {{spineId}}
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;05y6tg2h5evhm6ksmhkmi7dzyd7gfwg&lt;/sha1&gt;
+      &lt;sha1&gt;qevfj5ylfmpyq5c5oukkfe62vwh2q8p&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

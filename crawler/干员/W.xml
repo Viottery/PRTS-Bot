@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;15334&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;325237&lt;/id&gt;
-      &lt;parentid&gt;315447&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-04T11:21:04Z&lt;/timestamp&gt;
+      &lt;id&gt;347656&lt;/id&gt;
+      &lt;parentid&gt;347173&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:07:31Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;S.Staf&lt;/username&gt;
-        &lt;id&gt;81546&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;/* 天赋 */&lt;/comment&gt;
-      &lt;origin&gt;325237&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347656&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="43978" sha1="421w136rxaa8ffkzpq1b2ju81358di8" xml:space="preserve"&gt;{{干员页面名|W|W|W}}{{pathnav2|干员一览}}
+      &lt;text bytes="44026" sha1="pli4mf9g940w8diychxm88i80ijr3mv" xml:space="preserve"&gt;{{干员页面名|W|W|W}}{{pathnav2|干员一览}}
 {{参阅|W(敌方)|作为敌方领袖登场的W}}
 {{异格干员|原型={{BASEPAGENAME}}|非异格=1}}
 ==干员信息==
@@ -141,6 +140,8 @@
 |部署费用=25→27→29
 |阻挡数=1
 |攻击速度=2.8s
+|所属势力=巴别塔
+|隐藏势力=罗德岛
 |精英0_1级_生命上限=821
 |精英0_1级_攻击=397
 |精英0_1级_防御=68
@@ -613,7 +614,7 @@ W的性格恶劣已经不需要再复述了，除了凯尔希医生和博士，�
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;421w136rxaa8ffkzpq1b2ju81358di8&lt;/sha1&gt;
+      &lt;sha1&gt;pli4mf9g940w8diychxm88i80ijr3mv&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1770&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326291&lt;/id&gt;
-      &lt;parentid&gt;326020&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:15:02Z&lt;/timestamp&gt;
+      &lt;id&gt;347954&lt;/id&gt;
+      &lt;parentid&gt;347665&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T08:07:50Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326291&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347954&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="32067" sha1="fw6avmpqo7rqpyvd5bk7amyxso9z9e6" xml:space="preserve"&gt;{{干员页面名|推进之王|Siege|シージ}}{{pathnav2|干员一览}}
+      &lt;text bytes="32113" sha1="jlucekjwmbao48lewj1z73uh1xr71ez" xml:space="preserve"&gt;{{干员页面名|推进之王|Siege|シージ}}{{pathnav2|干员一览}}
 {{异格干员|原型={{BASEPAGENAME}}|非异格=1}}
 
 ==干员信息==
@@ -89,7 +89,7 @@
 |画师=Infukun
 |中文配音=梁爽
 |日文配音=川澄绫子
-|韩文配音=佳彬
+|韩文配音=吴捞妸
 |英文配音=Claudia Jolly
 |精英0介绍=干员平时最常穿着的服装。&amp;lt;br/&amp;gt;虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。
 |精英2介绍=晋升后，经过调整的服装。&amp;lt;br/&amp;gt;根据干员的经验，对服装细节进行改进，针对一些作战环境进行了特化处理。在满足战斗需求的同时，最大程度还原各位干员熟悉的舒适穿着体验。
@@ -127,6 +127,7 @@
 |部署费用=12→14
 |阻挡数=2
 |攻击速度=1.05s
+|所属势力=维多利亚,格拉斯哥帮
 |精英0_1级_生命上限=911
 |精英0_1级_攻击=212
 |精英0_1级_防御=154
@@ -604,7 +605,7 @@
 {{spineId}}
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;fw6avmpqo7rqpyvd5bk7amyxso9z9e6&lt;/sha1&gt;
+      &lt;sha1&gt;jlucekjwmbao48lewj1z73uh1xr71ez&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

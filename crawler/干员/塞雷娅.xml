@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1777&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;325272&lt;/id&gt;
-      &lt;parentid&gt;309689&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-04T11:49:11Z&lt;/timestamp&gt;
+      &lt;id&gt;347723&lt;/id&gt;
+      &lt;parentid&gt;347246&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:12:57Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;S.Staf&lt;/username&gt;
-        &lt;id&gt;81546&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;/* 天赋 */&lt;/comment&gt;
-      &lt;origin&gt;325272&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347723&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="30287" sha1="5mlfdpunzwu1138fsk6yqqd8rvvbxcd" xml:space="preserve"&gt;{{干员页面名|塞雷娅|Saria|サリア}}{{pathnav2|干员一览}}
+      &lt;text bytes="30327" sha1="1sab4dizass0e7fea53t6kbvm1dox66" xml:space="preserve"&gt;{{干员页面名|塞雷娅|Saria|サリア}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -126,6 +125,7 @@
 |部署费用=18→20→22
 |阻挡数=2→3→3
 |攻击速度=1.2s
+|所属势力=哥伦比亚,莱茵生命
 |精英0_1级_生命上限=1309
 |精英0_1级_攻击=200
 |精英0_1级_防御=248
@@ -576,7 +576,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;5mlfdpunzwu1138fsk6yqqd8rvvbxcd&lt;/sha1&gt;
+      &lt;sha1&gt;1sab4dizass0e7fea53t6kbvm1dox66&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

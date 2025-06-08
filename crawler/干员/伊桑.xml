@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;9401&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326154&lt;/id&gt;
-      &lt;parentid&gt;325901&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:06:27Z&lt;/timestamp&gt;
+      &lt;id&gt;347428&lt;/id&gt;
+      &lt;parentid&gt;347003&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:50:03Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326154&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347428&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="21055" sha1="ksqt9e77fi8fjfg48bncsrdez5ni8fe" xml:space="preserve"&gt;{{干员页面名|伊桑|Ethan|イーサン}}{{pathnav2|干员一览}}
+      &lt;text bytes="21079" sha1="kihgkwti3q6xa8izz13fhegq2zgajp5" xml:space="preserve"&gt;{{干员页面名|伊桑|Ethan|イーサン}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -119,6 +119,7 @@
 |部署费用=17→19
 |阻挡数=0
 |攻击速度=3.5s
+|所属势力=罗德岛
 |精英0_1级_生命上限=730
 |精英0_1级_攻击=346
 |精英0_1级_防御=139
@@ -472,7 +473,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;ksqt9e77fi8fjfg48bncsrdez5ni8fe&lt;/sha1&gt;
+      &lt;sha1&gt;kihgkwti3q6xa8izz13fhegq2zgajp5&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

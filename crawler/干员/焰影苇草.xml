@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;48441&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;344218&lt;/id&gt;
-      &lt;parentid&gt;336779&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-03T15:05:31Z&lt;/timestamp&gt;
+      &lt;id&gt;347721&lt;/id&gt;
+      &lt;parentid&gt;347244&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:12:47Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Enko&lt;/username&gt;
-        &lt;id&gt;394&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;//&lt;/comment&gt;
-      &lt;origin&gt;344218&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347721&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="37997" sha1="nvr4xpke29l3xcbyk6579kxd5cldzs6" xml:space="preserve"&gt;{{干员页面名|焰影苇草|Reed the Flame Shadow|焔影リード}}{{pathnav2|干员一览}}
+      &lt;text bytes="38031" sha1="nj4kebqwoj9o7maw7j1f7hpmqnuaukf" xml:space="preserve"&gt;{{干员页面名|焰影苇草|Reed the Flame Shadow|焔影リード}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 {{异格干员|原型=苇草}}
 ==干员信息==
@@ -128,6 +127,7 @@
 |部署费用=15→17
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=维多利亚,塔拉
 |精英0_1级_生命上限=868
 |精英0_1级_攻击=192
 |精英0_1级_防御=36
@@ -549,7 +549,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;nvr4xpke29l3xcbyk6579kxd5cldzs6&lt;/sha1&gt;
+      &lt;sha1&gt;nj4kebqwoj9o7maw7j1f7hpmqnuaukf&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

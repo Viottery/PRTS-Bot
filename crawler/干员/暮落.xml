@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;36791&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;330968&lt;/id&gt;
-      &lt;parentid&gt;326245&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-01-07T08:19:53Z&lt;/timestamp&gt;
+      &lt;id&gt;347606&lt;/id&gt;
+      &lt;parentid&gt;347120&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:04:14Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;4573去&lt;/username&gt;
-        &lt;id&gt;65217&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 获得方式 */&lt;/comment&gt;
-      &lt;origin&gt;330968&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347606&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="21441" sha1="ihkegug7sbkz4r0dpu6dloeqly7vcvi" xml:space="preserve"&gt;{{干员页面名|暮落|Shalem|シャレム}}{{pathnav2|干员一览}}
+      &lt;text bytes="21307" sha1="rd51m5nmaxj0m9ip1h61msb6gtkphr9" xml:space="preserve"&gt;{{干员页面名|暮落|Shalem|シャレム}}{{pathnav2|干员一览}}
 {{参阅|暮落(集成战略)|作为在《傀影与猩红孤钻》中可能出现的特殊临时招募干员登场的暮落}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
@@ -114,7 +114,7 @@
 {{干员获得方式
 |获得方式=活动获得
 |上线时间=2022-1-5 16:00
-|前缀=[[傀影与猩红孤钻|&amp;lt;span style="color:#fff;background:linear-gradient(90deg, #7D5027, #231B19, #BE583F, #8A2525 99%);border-radius:20px;padding-left:8px;padding-right:8px;font-weight:bold"&amp;gt;傀影与猩红孤钻&amp;lt;/span&amp;gt;]] 
+|前缀=[[傀影与猩红孤钻|{{color|orange|傀影与猩红孤钻}}]]
 }}
 
 ==属性==
@@ -123,6 +123,7 @@
 |部署费用=21→23→25
 |阻挡数=3
 |攻击速度=1.6s
+|所属势力=维多利亚
 |精英0_1级_生命上限=1234
 |精英0_1级_攻击=286
 |精英0_1级_防御=221
@@ -485,7 +486,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;ihkegug7sbkz4r0dpu6dloeqly7vcvi&lt;/sha1&gt;
+      &lt;sha1&gt;rd51m5nmaxj0m9ip1h61msb6gtkphr9&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

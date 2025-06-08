@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;19109&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326222&lt;/id&gt;
-      &lt;parentid&gt;325959&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:10:40Z&lt;/timestamp&gt;
+      &lt;id&gt;347576&lt;/id&gt;
+      &lt;parentid&gt;347090&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:02:16Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326222&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347576&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="26832" sha1="8spsa137pmyp5l9x6duve3esg7ccczj" xml:space="preserve"&gt;{{干员页面名|稀音|Scene|シーン}}{{pathnav2|干员一览}}
+      &lt;text bytes="26856" sha1="81tnwmzu7c88gjlodomthf8erc6ziox" xml:space="preserve"&gt;{{干员页面名|稀音|Scene|シーン}}{{pathnav2|干员一览}}
 ==干员信息==
 {{CharinfoV2
 &amp;lt;!--下方为自动更新部分，您的修改可能会被覆盖--&amp;gt;
@@ -119,6 +119,7 @@
 |部署费用=9→11
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=萨尔贡
 |精英0_1级_生命上限=496
 |精英0_1级_攻击=194
 |精英0_1级_防御=67
@@ -514,7 +515,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;8spsa137pmyp5l9x6duve3esg7ccczj&lt;/sha1&gt;
+      &lt;sha1&gt;81tnwmzu7c88gjlodomthf8erc6ziox&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

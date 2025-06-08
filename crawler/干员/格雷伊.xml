@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;3265&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326110&lt;/id&gt;
-      &lt;parentid&gt;325766&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:03:43Z&lt;/timestamp&gt;
+      &lt;id&gt;347377&lt;/id&gt;
+      &lt;parentid&gt;346954&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:46:45Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326110&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347377&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="19136" sha1="lbc6czsbt7iwfan02dk6vuo8rg3zc2n" xml:space="preserve"&gt;{{干员页面名|格雷伊|Greyy|グレイ}}{{pathnav2|干员一览}}
+      &lt;text bytes="19163" sha1="2z3ju9thjrl35sd0781unxgaxc4r2e4" xml:space="preserve"&gt;{{干员页面名|格雷伊|Greyy|グレイ}}{{pathnav2|干员一览}}
 {{异格干员|原型={{BASEPAGENAME}}|非异格=1}}
 ==干员信息==
 {{CharinfoV2
@@ -119,6 +119,7 @@
 |部署费用=29→32
 |阻挡数=1
 |攻击速度=2.9s
+|所属势力=玻利瓦尔
 |精英0_1级_生命上限=629
 |精英0_1级_攻击=324
 |精英0_1级_防御=52
@@ -466,7 +467,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;lbc6czsbt7iwfan02dk6vuo8rg3zc2n&lt;/sha1&gt;
+      &lt;sha1&gt;2z3ju9thjrl35sd0781unxgaxc4r2e4&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;37517&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326311&lt;/id&gt;
-      &lt;parentid&gt;326040&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:16:34Z&lt;/timestamp&gt;
+      &lt;id&gt;347704&lt;/id&gt;
+      &lt;parentid&gt;347226&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:11:25Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326311&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347704&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="39506" sha1="nrlshtkes8s0wy836ljpjecf05s0ksk" xml:space="preserve"&gt;{{干员页面名|老鲤|Lee|リー}}{{pathnav2|干员一览}}
+      &lt;text bytes="39553" sha1="7i8o6eadjyj383hprxucxzs2ls60d1g" xml:space="preserve"&gt;{{干员页面名|老鲤|Lee|リー}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -136,6 +136,7 @@
 |部署费用=7→9
 |阻挡数=1
 |攻击速度=1.0s
+|所属势力=炎-龙门,鲤氏侦探事务所
 |精英0_1级_生命上限=1179
 |精英0_1级_攻击=376
 |精英0_1级_防御=240
@@ -592,7 +593,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;nrlshtkes8s0wy836ljpjecf05s0ksk&lt;/sha1&gt;
+      &lt;sha1&gt;7i8o6eadjyj383hprxucxzs2ls60d1g&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

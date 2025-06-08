@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;65566&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;332668&lt;/id&gt;
-      &lt;parentid&gt;326215&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-01-25T07:50:02Z&lt;/timestamp&gt;
+      &lt;id&gt;347568&lt;/id&gt;
+      &lt;parentid&gt;347082&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:01:46Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Xkzl&lt;/username&gt;
-        &lt;id&gt;79093&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;/* 天赋 */&lt;/comment&gt;
-      &lt;origin&gt;332668&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347568&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="29198" sha1="p2vfd1wir31bxlzyknv0cxch1biu0v5" xml:space="preserve"&gt;{{干员页面名|阿罗玛|Aroma|アロマ}}{{pathnav2|干员一览}}
+      &lt;text bytes="29249" sha1="68wjswn8dj95ot2ri8p5oc6ko0zjcbv" xml:space="preserve"&gt;{{干员页面名|阿罗玛|Aroma|アロマ}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -113,6 +112,8 @@
 |部署费用=30→33
 |阻挡数=1
 |攻击速度=2.9s
+|所属势力=叙拉古
+|隐藏势力=哥伦比亚
 |精英0_1级_生命上限=693
 |精英0_1级_攻击=343
 |精英0_1级_防御=43
@@ -509,7 +510,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;p2vfd1wir31bxlzyknv0cxch1biu0v5&lt;/sha1&gt;
+      &lt;sha1&gt;68wjswn8dj95ot2ri8p5oc6ko0zjcbv&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

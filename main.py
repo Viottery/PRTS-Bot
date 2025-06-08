@@ -1,5 +1,6 @@
-import json, os
-from time import  sleep
+import json
+import os
+from time import sleep
 
 from query_router.openai_client import OpenAIClient
 from retriever.Custom_BM25.bm25_search import BM25Searcher

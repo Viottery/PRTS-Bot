@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1769&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;343248&lt;/id&gt;
-      &lt;parentid&gt;329099&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-01T13:25:42Z&lt;/timestamp&gt;
+      &lt;id&gt;347649&lt;/id&gt;
+      &lt;parentid&gt;347165&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:07:00Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Dandeagle&lt;/username&gt;
-        &lt;id&gt;45044&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;origin&gt;343248&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347649&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="30309" sha1="jmw9qmd3o3qvio7rlvhbw8gfys7u6pk" xml:space="preserve"&gt;{{干员页面名|能天使|Exusiai|エクシア}}{{pathnav2|干员一览}}
+      &lt;text bytes="30371" sha1="8tzq27unfkzxonql0h2s9u9efo5xoe0" xml:space="preserve"&gt;{{干员页面名|能天使|Exusiai|エクシア}}{{pathnav2|干员一览}}
 {{异格干员|原型={{BASEPAGENAME}}|非异格=1}}
 ==干员信息==
 {{CharinfoV2
@@ -135,6 +135,8 @@
 |部署费用=12→14
 |阻挡数=1
 |攻击速度=1.0s
+|所属势力=炎-龙门,企鹅物流
+|隐藏势力=拉特兰
 |精英0_1级_生命上限=711
 |精英0_1级_攻击=183
 |精英0_1级_防御=57
@@ -631,7 +633,7 @@
 {{spineId}}
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;jmw9qmd3o3qvio7rlvhbw8gfys7u6pk&lt;/sha1&gt;
+      &lt;sha1&gt;8tzq27unfkzxonql0h2s9u9efo5xoe0&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

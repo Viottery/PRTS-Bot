@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;31194&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;343337&lt;/id&gt;
-      &lt;parentid&gt;343038&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-02T01:09:03Z&lt;/timestamp&gt;
+      &lt;id&gt;347504&lt;/id&gt;
+      &lt;parentid&gt;347052&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:55:07Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Dandeagle&lt;/username&gt;
-        &lt;id&gt;45044&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;origin&gt;343337&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347504&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="29706" sha1="2tplr4x0jom1x4tmeljckskfvhjzmlb" xml:space="preserve"&gt;{{干员页面名|龙舌兰|Tequila|テキーラ}}{{pathnav2|干员一览}}
+      &lt;text bytes="29733" sha1="45h0fh1o31o0t9sg61qrvptsnf2de6w" xml:space="preserve"&gt;{{干员页面名|龙舌兰|Tequila|テキーラ}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -127,6 +127,7 @@
 |部署费用=11→13
 |阻挡数=2→2→3
 |攻击速度=1.2s
+|所属势力=玻利瓦尔
 |精英0_1级_生命上限=1871
 |精英0_1级_攻击=137
 |精英0_1级_防御=238
@@ -496,7 +497,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;2tplr4x0jom1x4tmeljckskfvhjzmlb&lt;/sha1&gt;
+      &lt;sha1&gt;45h0fh1o31o0t9sg61qrvptsnf2de6w&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -54,19 +54,19 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;73653&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;328178&lt;/id&gt;
-      &lt;parentid&gt;328168&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-12-03T17:19:31Z&lt;/timestamp&gt;
+      &lt;id&gt;346762&lt;/id&gt;
+      &lt;parentid&gt;328178&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-01T08:23:06Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;RaYmondCheung&lt;/username&gt;
-        &lt;id&gt;26948&lt;/id&gt;
+        &lt;username&gt;DESI&lt;/username&gt;
+        &lt;id&gt;99572&lt;/id&gt;
       &lt;/contributor&gt;
       &lt;minor/&gt;
-      &lt;comment&gt;[InPageEdit]&lt;/comment&gt;
-      &lt;origin&gt;328178&lt;/origin&gt;
+      &lt;comment&gt;/* 技能 */&lt;/comment&gt;
+      &lt;origin&gt;346762&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="5833" sha1="g5h9ccrdjusai8opa5bkm6ugvailg0v" xml:space="preserve"&gt;{{干员页面名|预备干员-狙击(卫戍协议)|预备干员-狙击(卫戍协议)|预备干员-狙击(卫戍协议)}}{{pathnav2|干员一览}}
+      &lt;text bytes="5996" sha1="r5qrzcl2j1tk8ih2afn6dokdfhxzhef" xml:space="preserve"&gt;{{干员页面名|预备干员-狙击(卫戍协议)|预备干员-狙击(卫戍协议)|预备干员-狙击(卫戍协议)}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 {{参阅|干员一览/专属干员|其他卫戍协议原型干员}}
 {{参阅|预备干员-狙击|作为在[[集成战略]]中可能出现的临时招募干员登场的预备干员-狙击}}
@@ -157,6 +157,8 @@
 '''技能1（精英0开放）'''
 {{技能
 |技能名=攻击力强化·α型
+|技能名jp=攻撃力強化α
+|技能名en=ATK Up α
 |技能类型1=自动回复
 |技能类型2=手动触发
 |技能1描述=攻击力{{color|#0098DC|+10%}}
@@ -191,6 +193,8 @@
 '''技能2（精英1开放）'''
 {{技能
 |技能名=攻击力强化·β型
+|技能名jp=攻撃力強化β
+|技能名en=ATK Up β
 |技能类型1=自动回复
 |技能类型2=手动触发
 |技能1描述=攻击力{{color|#0098DC|+20%}}
@@ -237,6 +241,8 @@
 '''技能3（精英1开放）'''
 {{技能
 |技能名=攻击力强化·γ型
+|技能名jp=攻撃力強化γ
+|技能名en=ATK Up γ
 |技能类型1=自动回复
 |技能类型2=手动触发
 |技能1描述=攻击力{{color|#0098DC|+30%}}
@@ -280,6 +286,7 @@
 |技能专精3消耗=30
 |技能专精3持续=30
 }}
+
 ==后勤技能==
 该干员无后勤技能
 ==精英化材料==
@@ -298,7 +305,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}[[分类:专属干员]]&lt;/text&gt;
-      &lt;sha1&gt;g5h9ccrdjusai8opa5bkm6ugvailg0v&lt;/sha1&gt;
+      &lt;sha1&gt;r5qrzcl2j1tk8ih2afn6dokdfhxzhef&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -54,17 +54,19 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;67010&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;330288&lt;/id&gt;
-      &lt;parentid&gt;327291&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-12-24T16:16:44Z&lt;/timestamp&gt;
+      &lt;id&gt;346559&lt;/id&gt;
+      &lt;parentid&gt;330288&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-28T13:20:53Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;RaYmondCheung&lt;/username&gt;
-        &lt;id&gt;26948&lt;/id&gt;
+        &lt;username&gt;Enko&lt;/username&gt;
+        &lt;id&gt;394&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;origin&gt;330288&lt;/origin&gt;
+      &lt;minor/&gt;
+      &lt;comment&gt;//&lt;/comment&gt;
+      &lt;origin&gt;346559&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="23951" sha1="8ea9wgvu3xkj0yn3bm0utjkjk80lmxi" xml:space="preserve"&gt;{{干员页面名|阿米娅(医疗)|阿米娅(医疗)|阿米娅(医疗)}}{{pathnav2|干员一览}}
+      &lt;text bytes="24002" sha1="ou595m1tyrbmjz45z5p4pw3zm3l8t4y" xml:space="preserve"&gt;{{干员页面名|阿米娅(医疗)|阿米娅(医疗)|阿米娅(医疗)}}{{pathnav2|干员一览}}
 {{异格干员/升变}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
@@ -118,6 +120,8 @@
 |部署费用=15→17
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=罗德岛
+|隐藏势力=雷姆必拓
 |精英0_1级_生命上限=776
 |精英0_1级_攻击=186
 |精英0_1级_防御=46
@@ -406,7 +410,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;8ea9wgvu3xkj0yn3bm0utjkjk80lmxi&lt;/sha1&gt;
+      &lt;sha1&gt;ou595m1tyrbmjz45z5p4pw3zm3l8t4y&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

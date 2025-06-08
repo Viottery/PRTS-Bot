@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;76206&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;336838&lt;/id&gt;
-      &lt;parentid&gt;336537&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-03-14T10:40:27Z&lt;/timestamp&gt;
+      &lt;id&gt;347644&lt;/id&gt;
+      &lt;parentid&gt;347160&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:06:41Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;RaYmondCheung&lt;/username&gt;
-        &lt;id&gt;26948&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;/* 矿石展览柜 */&lt;/comment&gt;
-      &lt;origin&gt;336838&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347644&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="31215" sha1="hxg5fnm8lg0ooll3bhvznhqz70091lc" xml:space="preserve"&gt;{{干员页面名|钼铅|钼铅|钼铅}}{{pathnav2|干员一览}}
+      &lt;text bytes="31036" sha1="55w11mrn2050e8ap323bqn7m6u9t2lq" xml:space="preserve"&gt;{{干员页面名|钼铅|钼铅|钼铅}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -110,6 +109,8 @@
 |部署费用=9→11
 |阻挡数=1
 |攻击速度=0.85s
+|所属势力=萨尔贡
+|隐藏势力=哥伦比亚
 |精英0_1级_生命上限=678
 |精英0_1级_攻击=235
 |精英0_1级_防御=66
@@ -157,14 +158,8 @@
 |天赋3条件=精英2
 |天赋3效果=可以使用3个矿石“杀手”（最多拥有4个），矿石“杀手”被部署后准备一段时间可以主动引爆
 |潜能增强=5
-|潜能增强_天赋1=探险家的口袋
-|潜能增强_天赋1条件=——
 |潜能增强_天赋1效果=可以使用2{{color|#0098DC|（+1）}}个矿石“杀手”（最多拥有2个），矿石“杀手”被部署后准备一段时间可以主动引爆
-|潜能增强_天赋2=探险家的口袋
-|潜能增强_天赋2条件=精英1
 |潜能增强_天赋2效果=可以使用3{{color|#0098DC|（+1）}}个矿石“杀手”（最多拥有3个），矿石“杀手”被部署后准备一段时间可以主动引爆
-|潜能增强_天赋3=探险家的口袋
-|潜能增强_天赋3条件=精英2
 |潜能增强_天赋3效果=可以使用4{{color|#0098DC|（+1）}}个矿石“杀手”（最多拥有4个），矿石“杀手”被部署后准备一段时间可以主动引爆
 }}
 {{天赋列表3
@@ -478,7 +473,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;hxg5fnm8lg0ooll3bhvznhqz70091lc&lt;/sha1&gt;
+      &lt;sha1&gt;55w11mrn2050e8ap323bqn7m6u9t2lq&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

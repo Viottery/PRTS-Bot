@@ -54,17 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;7701&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;333585&lt;/id&gt;
-      &lt;parentid&gt;326286&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-02-01T12:51:28Z&lt;/timestamp&gt;
+      &lt;id&gt;347652&lt;/id&gt;
+      &lt;parentid&gt;347168&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:07:14Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;4573去&lt;/username&gt;
-        &lt;id&gt;65217&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;origin&gt;333585&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347652&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="34168" sha1="rpkuprqhijw80grvafl06x234odr4sg" xml:space="preserve"&gt;{{干员页面名|黑|Schwarz|シュヴァルツ}}{{pathnav2|干员一览}}
+      &lt;text bytes="34205" sha1="bzeniqoyuyaog3mx5ssa6hhi48ekg2w" xml:space="preserve"&gt;{{干员页面名|黑|Schwarz|シュヴァルツ}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -124,6 +125,7 @@
 |部署费用=16→18→20
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=哥伦比亚,汐斯塔
 |精英0_1级_生命上限=781
 |精英0_1级_攻击=357
 |精英0_1级_防御=86
@@ -606,7 +608,7 @@
 {{spineId}}
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;rpkuprqhijw80grvafl06x234odr4sg&lt;/sha1&gt;
+      &lt;sha1&gt;bzeniqoyuyaog3mx5ssa6hhi48ekg2w&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

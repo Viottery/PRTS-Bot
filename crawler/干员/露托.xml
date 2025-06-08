@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;65562&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326147&lt;/id&gt;
-      &lt;parentid&gt;325803&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:06:00Z&lt;/timestamp&gt;
+      &lt;id&gt;347421&lt;/id&gt;
+      &lt;parentid&gt;346996&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:49:36Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326147&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347421&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="30026" sha1="s84w6ea4lkvqyyupqajyvoodbtuft09" xml:space="preserve"&gt;{{干员页面名|露托|Lutonada|ルトナダ}}{{pathnav2|干员一览}}
+      &lt;text bytes="30408" sha1="2zvxq3twn5owbly80zuj7628cj7uaa9" xml:space="preserve"&gt;{{干员页面名|露托|Lutonada|ルトナダ}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -92,6 +92,10 @@
 |英文配音=Angela Rosado
 |精英0介绍=干员平时最常穿着的服装。&amp;lt;br/&amp;gt;虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。
 |精英2介绍=晋升后，经过调整的服装。&amp;lt;br/&amp;gt;根据干员的经验，对服装细节进行改进，针对一些作战环境进行了特化处理。在满足战斗需求的同时，最大程度还原各位干员熟悉的舒适穿着体验。
+|时装1名称=寄遥思
+|时装1系列=0011/韵系列/VI
+|时装1颜色=#487983
+|时装1介绍=0011子品牌，韵系列新款/寄遥思。露托在炎国踏青时的装扮。传统与现代元素的有机融合，风格清新优雅又不失活泼，各种配饰更是增添了可爱风味。
 &amp;lt;!--上方为自动更新部分，您的修改可能会被覆盖--&amp;gt;
 |精英0缩放=1.8
 |精英0坐标x=75
@@ -99,6 +103,9 @@
 |精英2缩放=2.3
 |精英2坐标x=-47
 |精英2坐标y=-276
+|时装1缩放=2.5
+|时装1坐标x=-118
+|时装1坐标y=-244
 }}
 
 ==获得方式==
@@ -112,6 +119,7 @@
 |部署费用=30→32→34
 |阻挡数=2→3→3
 |攻击速度=1.6s
+|所属势力=玻利瓦尔
 |精英0_1级_生命上限=1516
 |精英0_1级_攻击=332
 |精英0_1级_防御=188
@@ -550,7 +558,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;s84w6ea4lkvqyyupqajyvoodbtuft09&lt;/sha1&gt;
+      &lt;sha1&gt;2zvxq3twn5owbly80zuj7628cj7uaa9&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

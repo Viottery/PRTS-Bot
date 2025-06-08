@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;27043&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326279&lt;/id&gt;
-      &lt;parentid&gt;319791&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:14:12Z&lt;/timestamp&gt;
+      &lt;id&gt;347643&lt;/id&gt;
+      &lt;parentid&gt;347159&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:06:37Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326279&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347643&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="24531" sha1="nrz7i1zoi9zg5qm6z6mxrzgnwigbmsg" xml:space="preserve"&gt;{{干员页面名|霜华|Frost|Frost}}{{pathnav2|干员一览}}
+      &lt;text bytes="24180" sha1="nkhvk5io2urarlvbb7uvk6kjucfpqdp" xml:space="preserve"&gt;{{干员页面名|霜华|Frost|Frost}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -115,6 +115,7 @@
 |部署费用=9→11
 |阻挡数=1
 |攻击速度=0.85s
+|所属势力=彩虹小队
 |精英0_1级_生命上限=635
 |精英0_1级_攻击=240
 |精英0_1级_防御=64
@@ -168,20 +169,10 @@
 |天赋5条件=精英2 Y模组3级
 |天赋5效果=可以使用8个迎宾踏垫（最多拥有10个），踩上去的第一个敌人会触发其效果；自身和迎宾踏垫无视目标120防御力
 |潜能增强=5
-|潜能增强_天赋1=迎宾踏垫
-|潜能增强_天赋1条件=——
 |潜能增强_天赋1效果=可以使用6{{color|#0098DC|（+2）}}个迎宾踏垫（最多拥有6个），踩上去的第一个敌人会触发其效果
-|潜能增强_天赋2=迎宾踏垫
-|潜能增强_天赋2条件=精英1
 |潜能增强_天赋2效果=可以使用8{{color|#0098DC|（+2）}}个迎宾踏垫（最多拥有8个），踩上去的第一个敌人会触发其效果
-|潜能增强_天赋3=迎宾踏垫
-|潜能增强_天赋3条件=精英2
 |潜能增强_天赋3效果=可以使用10{{color|#0098DC|（+2）}}个迎宾踏垫（最多拥有10个），踩上去的第一个敌人会触发其效果
-|潜能增强_天赋4=迎宾踏垫
-|潜能增强_天赋4条件=精英2 Y模组2级
 |潜能增强_天赋4效果=可以使用10{{color|#0098DC|（+2）}}个迎宾踏垫（最多拥有10个），踩上去的第一个敌人会触发其效果；自身和迎宾踏垫无视目标80防御力
-|潜能增强_天赋5=迎宾踏垫
-|潜能增强_天赋5条件=精英2 Y模组3级
 |潜能增强_天赋5效果=可以使用10{{color|#0098DC|（+2）}}个迎宾踏垫（最多拥有10个），踩上去的第一个敌人会触发其效果；自身和迎宾踏垫无视目标120防御力
 }}
 
@@ -475,7 +466,7 @@
 &amp;lt;/div&amp;gt;
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;nrz7i1zoi9zg5qm6z6mxrzgnwigbmsg&lt;/sha1&gt;
+      &lt;sha1&gt;nkhvk5io2urarlvbb7uvk6kjucfpqdp&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

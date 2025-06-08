@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;32346&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;342770&lt;/id&gt;
-      &lt;parentid&gt;339542&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-04-30T19:45:07Z&lt;/timestamp&gt;
+      &lt;id&gt;347585&lt;/id&gt;
+      &lt;parentid&gt;347099&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:02:53Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;一抹晚烟&lt;/username&gt;
-        &lt;id&gt;82858&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 获得方式 */ // Edit via Wikiplus&lt;/comment&gt;
-      &lt;origin&gt;342770&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347585&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="26603" sha1="4v69lvahdr887sde5unvqgtkosfidnc" xml:space="preserve"&gt;{{干员页面名|桑葚|Mulberry|マルベリー}}{{pathnav2|干员一览}}
+      &lt;text bytes="26621" sha1="60tb7z77iu1cnq2a0n9w6cdhj9nq7bj" xml:space="preserve"&gt;{{干员页面名|桑葚|Mulberry|マルベリー}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -127,6 +127,7 @@
 |部署费用=13→15
 |阻挡数=1
 |攻击速度=2.85s
+|所属势力=炎
 |精英0_1级_生命上限=750
 |精英0_1级_攻击=136
 |精英0_1级_防御=43
@@ -490,7 +491,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;4v69lvahdr887sde5unvqgtkosfidnc&lt;/sha1&gt;
+      &lt;sha1&gt;60tb7z77iu1cnq2a0n9w6cdhj9nq7bj&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

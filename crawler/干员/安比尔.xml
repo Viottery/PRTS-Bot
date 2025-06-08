@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;10895&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;332636&lt;/id&gt;
-      &lt;parentid&gt;326120&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-01-24T14:06:11Z&lt;/timestamp&gt;
+      &lt;id&gt;347387&lt;/id&gt;
+      &lt;parentid&gt;346964&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:47:26Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Xkzl&lt;/username&gt;
-        &lt;id&gt;79093&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;/* 天赋 */&lt;/comment&gt;
-      &lt;origin&gt;332636&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347387&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="22040" sha1="7vq31hfpzpk9nkchj0n2rf7vpuh4vls" xml:space="preserve"&gt;{{干员页面名|安比尔|Ambriel|アンブリエル}}{{pathnav2|干员一览}}
+      &lt;text bytes="22064" sha1="bhyfsiutsjixm0exs38xiv3u9z8pddh" xml:space="preserve"&gt;{{干员页面名|安比尔|Ambriel|アンブリエル}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -122,6 +121,7 @@
 |部署费用=18→20
 |阻挡数=1
 |攻击速度=2.7s
+|所属势力=拉特兰
 |精英0_1级_生命上限=785
 |精英0_1级_攻击=437
 |精英0_1级_防御=60
@@ -471,7 +471,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;7vq31hfpzpk9nkchj0n2rf7vpuh4vls&lt;/sha1&gt;
+      &lt;sha1&gt;bhyfsiutsjixm0exs38xiv3u9z8pddh&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

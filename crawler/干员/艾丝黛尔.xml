@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1728&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326130&lt;/id&gt;
-      &lt;parentid&gt;325891&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:04:57Z&lt;/timestamp&gt;
+      &lt;id&gt;347400&lt;/id&gt;
+      &lt;parentid&gt;346977&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:48:15Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326130&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347400&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="19550" sha1="60ii7lt8gpoqq0w1a1k89ui1l6p6xnk" xml:space="preserve"&gt;{{干员页面名|艾丝黛尔|Estelle|エステル}}{{pathnav2|干员一览}}
+      &lt;text bytes="19574" sha1="6glx02v4eboya2dabqd34rma5oq2rve" xml:space="preserve"&gt;{{干员页面名|艾丝黛尔|Estelle|エステル}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -111,6 +111,7 @@
 |部署费用=18→20→22
 |阻挡数=2→2→3
 |攻击速度=1.2s
+|所属势力=萨尔贡
 |精英0_1级_生命上限=1140
 |精英0_1级_攻击=278
 |精英0_1级_防御=133
@@ -461,7 +462,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;60ii7lt8gpoqq0w1a1k89ui1l6p6xnk&lt;/sha1&gt;
+      &lt;sha1&gt;6glx02v4eboya2dabqd34rma5oq2rve&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

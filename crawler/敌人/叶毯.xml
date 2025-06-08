@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;79433&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;345448&lt;/id&gt;
-      &lt;parentid&gt;345447&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-17T01:07:49Z&lt;/timestamp&gt;
+      &lt;id&gt;346092&lt;/id&gt;
+      &lt;parentid&gt;345448&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-25T06:25:22Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Visu2209&lt;/username&gt;
-        &lt;id&gt;1119&lt;/id&gt;
+        &lt;username&gt;Hjhk258&lt;/username&gt;
+        &lt;id&gt;59&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 级别0 */&lt;/comment&gt;
-      &lt;origin&gt;345448&lt;/origin&gt;
+      &lt;comment&gt;/* 级别0 */ // Edit via Wikiplus&lt;/comment&gt;
+      &lt;origin&gt;346092&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="2925" sha1="7e9xzc7ro3yhrmrr0hy8m8ule841xwm" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+      &lt;text bytes="2944" sha1="ijn7vmdqeu1edmbd0wady2qwjv3woqg" xml:space="preserve"&gt;{{Navigator|敌人一览}}
 {{敌人信息/common
 |id=1286
 |名称=叶毯
@@ -111,7 +111,7 @@
 |浮空抗性=无
 |战栗抗性=无
 |恐惧抗性=无
-|天赋=无法被阻挡；出场后进入加速状态&amp;lt;br&amp;gt;加速状态下：每0.333s尝试获得1层移动速度+50%的增益，最多尝试30次（每次加速状态的前5s内的尝试不生效）&amp;lt;br&amp;gt;退出加速状态时清空移速叠加并重置加速尝试次数&amp;lt;br&amp;gt;因{{异常效果|沉睡}}以外的效果导致加速状态被打断时，退出加速状态，6s内获得100%的{{术语|ba.fragile|脆弱}}；以上状态结束后/解除阻挡后，重新进入加速状态&amp;lt;br&amp;gt;自主移动时对进入自身半径0.5范围内部署于地面的我方单位造成'''当前移动速度×600'''的物理普通伤害与4s{{术语|ba.stun|晕眩}}&amp;lt;!--[
+|天赋=无法被阻挡；出场后进入加速状态&amp;lt;br&amp;gt;加速状态下：每0.333s尝试获得1层移动速度+50%的增益，最多尝试30次（每次加速状态的前5s内的尝试不生效）&amp;lt;br&amp;gt;退出加速状态时清空移速叠加并重置加速尝试次数&amp;lt;br&amp;gt;获得{{术语|ba.frozen|冻结}}/{{术语|ba.levitate|浮空}}/{{术语|ba.root|束缚}}/{{术语|ba.fear|恐惧}}时，退出加速状态，成功退出时6s内获得100%的{{术语|ba.fragile|脆弱}}；以上状态结束后，重新进入加速状态&amp;lt;br&amp;gt;对进入自身半径0.0001范围内的我方单位造成'''当前移动速度×600'''的物理普通伤害与4s{{术语|ba.stun|晕眩}}&amp;lt;!--[
     {
         "key": "rush.mcnrsh_t[trigger].move_speed",
         "value": 0.5,
@@ -157,7 +157,7 @@
 
 ==敌人模型==
 {{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
-      &lt;sha1&gt;7e9xzc7ro3yhrmrr0hy8m8ule841xwm&lt;/sha1&gt;
+      &lt;sha1&gt;ijn7vmdqeu1edmbd0wady2qwjv3woqg&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

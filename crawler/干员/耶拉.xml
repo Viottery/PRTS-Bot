@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;36011&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326216&lt;/id&gt;
-      &lt;parentid&gt;325953&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:10:17Z&lt;/timestamp&gt;
+      &lt;id&gt;347569&lt;/id&gt;
+      &lt;parentid&gt;347083&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:01:50Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326216&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347569&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="27946" sha1="or9wsxju1ieetn9piwdnf4mosu21f9d" xml:space="preserve"&gt;{{干员页面名|耶拉|Kjera|イェラ}}{{pathnav2|干员一览}}
+      &lt;text bytes="27983" sha1="0vfpbya7ao7xdj1wogn54bu6zzzi1m5" xml:space="preserve"&gt;{{干员页面名|耶拉|Kjera|イェラ}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -120,6 +120,7 @@
 |部署费用=21→23
 |阻挡数=1
 |攻击速度=1.3s
+|所属势力=谢拉格,喀兰贸易
 |精英0_1级_生命上限=604
 |精英0_1级_攻击=135
 |精英0_1级_防御=48
@@ -494,7 +495,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;or9wsxju1ieetn9piwdnf4mosu21f9d&lt;/sha1&gt;
+      &lt;sha1&gt;0vfpbya7ao7xdj1wogn54bu6zzzi1m5&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

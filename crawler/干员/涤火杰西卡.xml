@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;58745&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;330133&lt;/id&gt;
-      &lt;parentid&gt;329725&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-12-21T05:56:49Z&lt;/timestamp&gt;
+      &lt;id&gt;347731&lt;/id&gt;
+      &lt;parentid&gt;347254&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:13:38Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;RaYmondCheung&lt;/username&gt;
-        &lt;id&gt;26948&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 干员信息 */&lt;/comment&gt;
-      &lt;origin&gt;330133&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347731&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="40057" sha1="h9vczic0qhhtlgl5jlbznsv39fwzvah" xml:space="preserve"&gt;{{干员页面名|涤火杰西卡|Jessica the Liberated|滌火ジェシカ}}{{pathnav2|干员一览}}
+      &lt;text bytes="40124" sha1="gqhe44fqfqg96e5366qy4s255dy75ll" xml:space="preserve"&gt;{{干员页面名|涤火杰西卡|Jessica the Liberated|滌火ジェシカ}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 {{异格干员|原型=杰西卡}}
 ==干员信息==
@@ -121,6 +121,8 @@
 |部署费用=19→21→23
 |阻挡数=3
 |攻击速度=1.2s
+|所属势力=哥伦比亚,黑钢国际
+|隐藏势力=维多利亚
 |精英0_1级_生命上限=1455
 |精英0_1级_攻击=269
 |精英0_1级_防御=258
@@ -588,7 +590,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;h9vczic0qhhtlgl5jlbznsv39fwzvah&lt;/sha1&gt;
+      &lt;sha1&gt;gqhe44fqfqg96e5366qy4s255dy75ll&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -54,21 +54,23 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;18936&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;344955&lt;/id&gt;
-      &lt;parentid&gt;344544&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-11T08:04:51Z&lt;/timestamp&gt;
+      &lt;id&gt;348475&lt;/id&gt;
+      &lt;parentid&gt;347342&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T15:35:11Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Visu2209&lt;/username&gt;
-        &lt;id&gt;1119&lt;/id&gt;
+        &lt;username&gt;居居白&lt;/username&gt;
+        &lt;id&gt;31678&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;origin&gt;344955&lt;/origin&gt;
+      &lt;minor/&gt;
+      &lt;comment&gt;// Edit via Wikiplus&lt;/comment&gt;
+      &lt;origin&gt;348475&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="12728" sha1="qp1u7tgqtpab8ivpbxvjw1x1ewaketa" xml:space="preserve"&gt;[[分类:技术性文档]]
-*该页面最近一次更新时，参考的游戏客户端版本号为'''2.5.60'''（简体中文版客户端）。
-** 该版本客户端中共有'''41'''个异常效果，以及同等数量的异常免疫与异常反制。其中有'''2'''个占位用异常效果（未实装进游戏或已弃用）。
+      &lt;text bytes="12888" sha1="auk3gvlfmsdk3ao37qm5q05os3izfyg" xml:space="preserve"&gt;[[分类:技术性文档]]
+*该页面最近一次更新时，参考的游戏客户端版本号为'''2.5.80'''（简体中文版客户端）。
+** 该版本客户端中共有'''42'''个异常效果，以及同等数量的异常免疫与异常反制。其中有'''2'''个占位用异常效果（未实装进游戏或已弃用）。
 ** 该版本客户端中共有'''2'''个异常组合，以及同等数量的异常组合免疫。
-** 该版本客户端中共有'''8'''种抗性。
+** 该版本客户端中共有'''9'''种抗性。
 ===异常效果(AbnormalFlag)===
 持有异常效果（AbnormalFlag）的单位会受到此异常效果相关联的效果。
 * 异常效果的本质是一个开关型二进制数据，通过Buff和状态机控制开关状态和持续时间，其本质可理解为一个效果黑箱和指示灯。参见章节“[[#异常效果标记(AbnormalFlagMask)|异常效果标记(AbnormalFlagMask)]]”。
@@ -122,6 +124,7 @@
 {{异常效果表格|38|DEFENSE_BUFF_ADD_IF_CANCELABLE_BUFF|BUFF抵挡|/|令自身受到的'''可以失效的BUFF'''失效&amp;lt;br&amp;gt;受该效果影响的单位受到来自持有'''异常效果：BUFF可抵挡'''的单位的效果无效}}
 {{异常效果表格|39|PALSY|麻痹|[[文件:图标_元素_sanity.png|50px|link=元素]]|状态机尝试切换至PALSY&amp;lt;br/&amp;gt;※术语{{术语|ba.palsy|麻痹}}的叠层次数与层数流失为BUFF效果，非异常效果'''麻痹'''本身的效果}}
 {{异常效果表格|40|PALSYING|麻痹中|未知|强制中断当前正在进行的普通攻击动作&amp;lt;br/&amp;gt;※与异常效果'''麻痹'''绑定，无法被独立添加}}
+{{异常效果表格|41|ATTRACTED|诱导|[[文件:技能 群体性谵妄.png|50px|link=酒神]]|未知}}
 |}
 
 ===异常组合(AbnormalCombo)===
@@ -201,9 +204,13 @@
 |palsyImmune
 |麻痹抗性
 |PALSY（麻痹）
+|-
+|attractImmune
+|诱导抗性
+|ATTRACTED（诱导）
 |}
 &amp;lt;noinclude&amp;gt;[[分类:游戏数据]]&amp;lt;/noinclude&amp;gt;&lt;/text&gt;
-      &lt;sha1&gt;qp1u7tgqtpab8ivpbxvjw1x1ewaketa&lt;/sha1&gt;
+      &lt;sha1&gt;auk3gvlfmsdk3ao37qm5q05os3izfyg&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

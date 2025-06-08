@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;72850&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;343345&lt;/id&gt;
-      &lt;parentid&gt;343048&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-02T01:51:23Z&lt;/timestamp&gt;
+      &lt;id&gt;347703&lt;/id&gt;
+      &lt;parentid&gt;347224&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:11:18Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Dandeagle&lt;/username&gt;
-        &lt;id&gt;45044&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;origin&gt;343345&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347703&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="41358" sha1="jh6itszjqzehq30l81zunpgwqgktw1w" xml:space="preserve"&gt;{{干员页面名|弑君者|CrownSlayer|クラウンスレイヤー}}{{pathnav2|干员一览}}
+      &lt;text bytes="41406" sha1="jss7jh1jvx2z4itaqhxmdros7qdv9hq" xml:space="preserve"&gt;{{干员页面名|弑君者|CrownSlayer|クラウンスレイヤー}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 {{参阅|弑君者(敌方)|作为敌方领袖登场的弑君者}}
 
@@ -119,6 +119,8 @@
 |部署费用=10→12
 |阻挡数=1
 |攻击速度=0.93s
+|所属势力=罗德岛
+|隐藏势力=叙拉古
 |精英0_1级_生命上限=792
 |精英0_1级_攻击=210
 |精英0_1级_防御=147
@@ -579,7 +581,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;jh6itszjqzehq30l81zunpgwqgktw1w&lt;/sha1&gt;
+      &lt;sha1&gt;jss7jh1jvx2z4itaqhxmdros7qdv9hq&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

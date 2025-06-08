@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;60716&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;330139&lt;/id&gt;
-      &lt;parentid&gt;328195&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-12-21T09:10:25Z&lt;/timestamp&gt;
+      &lt;id&gt;347753&lt;/id&gt;
+      &lt;parentid&gt;347289&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:15:15Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Enko&lt;/username&gt;
-        &lt;id&gt;394&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 获得方式 */&lt;/comment&gt;
-      &lt;origin&gt;330139&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347753&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="38522" sha1="5ewvshatitb177kzlftykpk6cydz30z" xml:space="preserve"&gt;{{干员页面名|止颂|Lessing|レッシング}}{{pathnav2|干员一览}}
+      &lt;text bytes="38549" sha1="rmz8mtzhqold77lwhj1yrw07yovbrf2" xml:space="preserve"&gt;{{干员页面名|止颂|Lessing|レッシング}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -123,6 +123,7 @@
 |部署费用=19→21
 |阻挡数=1
 |攻击速度=1.5s
+|所属势力=莱塔尼亚
 |精英0_1级_生命上限=1449
 |精英0_1级_攻击=465
 |精英0_1级_防御=123
@@ -622,7 +623,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;5ewvshatitb177kzlftykpk6cydz30z&lt;/sha1&gt;
+      &lt;sha1&gt;rmz8mtzhqold77lwhj1yrw07yovbrf2&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

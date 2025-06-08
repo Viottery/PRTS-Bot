@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;13178&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;309261&lt;/id&gt;
-      &lt;parentid&gt;299852&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-05-27T04:54:43Z&lt;/timestamp&gt;
+      &lt;id&gt;347398&lt;/id&gt;
+      &lt;parentid&gt;346975&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:48:07Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;调零修罗&lt;/username&gt;
-        &lt;id&gt;6713&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;（实装天赋列表3）&lt;/comment&gt;
-      &lt;origin&gt;309261&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347398&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="23674" sha1="r5rdk00lhpnurl6r38jbpm0nh4pfvml" xml:space="preserve"&gt;{{干员页面名|断罪者|Conviction|コンビクション}}{{pathnav2|干员一览}}
+      &lt;text bytes="23698" sha1="2ln4jywhet1dyt88f3amw3uc7ik9e02" xml:space="preserve"&gt;{{干员页面名|断罪者|Conviction|コンビクション}}{{pathnav2|干员一览}}
 {{参阅|断罪者(装置)|作为游戏[狂弹要塞！罗德大兵集结]的特制游戏主角登场的断罪者}}
 ==干员信息==
 {{CharinfoV2
@@ -120,6 +120,7 @@
 |部署费用=14→16
 |阻挡数=1
 |攻击速度=1.5s
+|所属势力=米诺斯
 |精英0_1级_生命上限=1449
 |精英0_1级_攻击=402
 |精英0_1级_防御=74
@@ -463,7 +464,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;r5rdk00lhpnurl6r38jbpm0nh4pfvml&lt;/sha1&gt;
+      &lt;sha1&gt;2ln4jywhet1dyt88f3amw3uc7ik9e02&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

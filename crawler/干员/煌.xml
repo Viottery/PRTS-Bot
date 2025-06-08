@@ -54,17 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;10897&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;331906&lt;/id&gt;
-      &lt;parentid&gt;326339&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-01-22T02:28:07Z&lt;/timestamp&gt;
+      &lt;id&gt;347770&lt;/id&gt;
+      &lt;parentid&gt;347767&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:31:38Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;A20040920A&lt;/username&gt;
-        &lt;id&gt;106007&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;origin&gt;331906&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347770&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="30433" sha1="tqu4fcbj3v6oiyl400ndzdx5lv9zmx8" xml:space="preserve"&gt;{{干员页面名|煌|Blaze|ブレイズ}}{{pathnav2|干员一览}}
+      &lt;text bytes="30512" sha1="e838gky90o29zyvcpztvoa6cm4g5qp0" xml:space="preserve"&gt;{{干员页面名|煌|Blaze|ブレイズ}}{{pathnav2|干员一览}}
 {{异格干员|原型={{BASEPAGENAME}}|非异格=1}}
 ==干员信息==
 {{CharinfoV2
@@ -127,6 +128,8 @@
 |部署费用=20→22→24
 |阻挡数=2→2→3
 |攻击速度=1.2s
+|所属势力=罗德岛,罗德岛-精英干员
+|隐藏势力=炎;;维多利亚
 |精英0_1级_生命上限=1286
 |精英0_1级_攻击=308
 |精英0_1级_防御=156
@@ -618,7 +621,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;tqu4fcbj3v6oiyl400ndzdx5lv9zmx8&lt;/sha1&gt;
+      &lt;sha1&gt;e838gky90o29zyvcpztvoa6cm4g5qp0&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

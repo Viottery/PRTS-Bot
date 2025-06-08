@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1720&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326115&lt;/id&gt;
-      &lt;parentid&gt;325771&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:04:02Z&lt;/timestamp&gt;
+      &lt;id&gt;347382&lt;/id&gt;
+      &lt;parentid&gt;346959&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:47:05Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326115&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347382&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="20156" sha1="6d5p7fq67rhbzrwq2h7qszo2k98r6yf" xml:space="preserve"&gt;{{干员页面名|流星|Meteor|メテオ}}{{pathnav2|干员一览}}
+      &lt;text bytes="20183" sha1="71j1gbbx46e30z2zykw8j9b5pkwz479" xml:space="preserve"&gt;{{干员页面名|流星|Meteor|メテオ}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -126,6 +126,7 @@
 |部署费用=10→12
 |阻挡数=1
 |攻击速度=1.0s
+|所属势力=卡西米尔
 |精英0_1级_生命上限=612
 |精英0_1级_攻击=159
 |精英0_1级_防御=58
@@ -486,7 +487,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;6d5p7fq67rhbzrwq2h7qszo2k98r6yf&lt;/sha1&gt;
+      &lt;sha1&gt;71j1gbbx46e30z2zykw8j9b5pkwz479&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

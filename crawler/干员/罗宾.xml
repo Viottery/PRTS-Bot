@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;24498&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;340064&lt;/id&gt;
-      &lt;parentid&gt;340053&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-04-08T04:23:58Z&lt;/timestamp&gt;
+      &lt;id&gt;347642&lt;/id&gt;
+      &lt;parentid&gt;347158&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:06:33Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;340064&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347642&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="24466" sha1="5qpphi9h8m0frkonirem10nww17nnd1" xml:space="preserve"&gt;{{干员页面名|罗宾|Robin|ロビン}}{{pathnav2|干员一览}}
+      &lt;text bytes="24263" sha1="ghe79hhs0jhd1s8cq33njngikx9xl9e" xml:space="preserve"&gt;{{干员页面名|罗宾|Robin|ロビン}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -120,6 +120,7 @@
 |部署费用=11→13
 |阻挡数=1
 |攻击速度=0.85s
+|所属势力=哥伦比亚
 |精英0_1级_生命上限=674
 |精英0_1级_攻击=232
 |精英0_1级_防御=68
@@ -167,14 +168,8 @@
 |天赋3条件=精英2
 |天赋3效果=可以使用8个"夹子"陷阱（最多拥有10个），踩上去的第一个敌人会触发其效果
 |潜能增强=5
-|潜能增强_天赋1=“夹子”专家
-|潜能增强_天赋1条件=——
 |潜能增强_天赋1效果=可以使用6{{color|#0098DC|（+2）}}个"夹子"陷阱（最多拥有6个），踩上去的第一个敌人会触发其效果
-|潜能增强_天赋2=“夹子”专家
-|潜能增强_天赋2条件=精英1
 |潜能增强_天赋2效果=可以使用8{{color|#0098DC|（+2）}}个"夹子"陷阱（最多拥有8个），踩上去的第一个敌人会触发其效果
-|潜能增强_天赋3=“夹子”专家
-|潜能增强_天赋3条件=精英2
 |潜能增强_天赋3效果=可以使用10{{color|#0098DC|（+2）}}个"夹子"陷阱（最多拥有10个），踩上去的第一个敌人会触发其效果
 }}
 {{天赋列表3
@@ -501,7 +496,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;5qpphi9h8m0frkonirem10nww17nnd1&lt;/sha1&gt;
+      &lt;sha1&gt;ghe79hhs0jhd1s8cq33njngikx9xl9e&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

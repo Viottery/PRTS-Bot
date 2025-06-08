@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;51406&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;344550&lt;/id&gt;
-      &lt;parentid&gt;309305&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-07T04:17:11Z&lt;/timestamp&gt;
+      &lt;id&gt;347546&lt;/id&gt;
+      &lt;parentid&gt;347501&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:00:18Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Enko&lt;/username&gt;
-        &lt;id&gt;394&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;//&lt;/comment&gt;
-      &lt;origin&gt;344550&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347546&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="29570" sha1="4a9lhyoy3xkwshykqznwumhygm331wq" xml:space="preserve"&gt;{{干员页面名|火龙S黑角|Rathalos S Noir Corne|レウスSノイルホーン}}{{pathnav2|干员一览}}
+      &lt;text bytes="29624" sha1="4q1tddn6ugg4mztfbom7gmsq9w2zqb6" xml:space="preserve"&gt;{{干员页面名|火龙S黑角|Rathalos S Noir Corne|レウスSノイルホーン}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 {{异格干员|原型=黑角}}
 ==干员信息==
@@ -124,6 +123,8 @@
 |部署费用=21→23→25
 |阻挡数=1
 |攻击速度=1.2s
+|所属势力=罗德岛,行动组A4
+|隐藏势力=东
 |精英0_1级_生命上限=1442
 |精英0_1级_攻击=324
 |精英0_1级_防御=169
@@ -477,7 +478,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;4a9lhyoy3xkwshykqznwumhygm331wq&lt;/sha1&gt;
+      &lt;sha1&gt;4q1tddn6ugg4mztfbom7gmsq9w2zqb6&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

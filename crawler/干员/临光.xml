@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1756&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;309699&lt;/id&gt;
-      &lt;parentid&gt;309354&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-05-28T12:23:31Z&lt;/timestamp&gt;
+      &lt;id&gt;347592&lt;/id&gt;
+      &lt;parentid&gt;347106&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:03:19Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;NAAKII&lt;/username&gt;
-        &lt;id&gt;11283&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;[InPageEdit] /* 改良骑士盾牌 */ 没有编辑摘要&lt;/comment&gt;
-      &lt;origin&gt;309699&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347592&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="20988" sha1="tc93g64u2qus4gqhgjx3unv8d32n2hh" xml:space="preserve"&gt;{{干员页面名|临光|Nearl|ニアール}}{{pathnav2|干员一览}}
+      &lt;text bytes="21036" sha1="jv4nxh3s86vmx0skikfqpx3s7af7pby" xml:space="preserve"&gt;{{干员页面名|临光|Nearl|ニアール}}{{pathnav2|干员一览}}
 {{异格干员|原型={{BASEPAGENAME}}|非异格=1}}
 ==干员信息==
 {{CharinfoV2
@@ -118,6 +118,8 @@
 |部署费用=17→19→21
 |阻挡数=2→3→3
 |攻击速度=1.2s
+|所属势力=使徒
+|隐藏势力=卡西米尔
 |精英0_1级_生命上限=1154
 |精英0_1级_攻击=191
 |精英0_1级_防御=240
@@ -469,7 +471,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;tc93g64u2qus4gqhgjx3unv8d32n2hh&lt;/sha1&gt;
+      &lt;sha1&gt;jv4nxh3s86vmx0skikfqpx3s7af7pby&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

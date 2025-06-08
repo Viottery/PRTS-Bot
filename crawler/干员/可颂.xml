@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1759&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326241&lt;/id&gt;
-      &lt;parentid&gt;325975&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:11:51Z&lt;/timestamp&gt;
+      &lt;id&gt;347602&lt;/id&gt;
+      &lt;parentid&gt;347116&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:03:57Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326241&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347602&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="20990" sha1="ej1w8bcg8yepwkbwk8k1wwxij6d903e" xml:space="preserve"&gt;{{干员页面名|可颂|Croissant|クロワッサン}}{{pathnav2|干员一览}}
+      &lt;text bytes="21028" sha1="fnbj9kz330za0hs14d3hvoexmety1sc" xml:space="preserve"&gt;{{干员页面名|可颂|Croissant|クロワッサン}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -125,6 +125,7 @@
 |部署费用=18→20→22
 |阻挡数=3
 |攻击速度=1.2s
+|所属势力=炎-龙门,企鹅物流
 |精英0_1级_生命上限=1503
 |精英0_1级_攻击=201
 |精英0_1级_防御=249
@@ -479,7 +480,7 @@
 {{spineId}}
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;ej1w8bcg8yepwkbwk8k1wwxij6d903e&lt;/sha1&gt;
+      &lt;sha1&gt;fnbj9kz330za0hs14d3hvoexmety1sc&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

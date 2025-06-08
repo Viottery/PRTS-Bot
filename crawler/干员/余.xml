@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;75071&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;337056&lt;/id&gt;
-      &lt;parentid&gt;332838&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-03-17T08:23:29Z&lt;/timestamp&gt;
+      &lt;id&gt;347733&lt;/id&gt;
+      &lt;parentid&gt;347256&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:13:47Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Visu2209&lt;/username&gt;
-        &lt;id&gt;1119&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 技能 */ 修了，阿武器反制手段-1&lt;/comment&gt;
-      &lt;origin&gt;337056&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347733&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="37077" sha1="n3pc5whmltoi5qmsaatxw6zcqsbqvhv" xml:space="preserve"&gt;{{干员页面名|余|余|余}}{{pathnav2|干员一览}}
+      &lt;text bytes="37103" sha1="813d0pmv6l4vpw6j79c5dsmxm1tvyrp" xml:space="preserve"&gt;{{干员页面名|余|余|余}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -114,6 +114,7 @@
 |部署费用=22→24→26
 |阻挡数=3
 |攻击速度=1.6s
+|所属势力=炎,炎-岁
 |精英0_1级_生命上限=1368
 |精英0_1级_攻击=303
 |精英0_1级_防御=217
@@ -523,7 +524,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;n3pc5whmltoi5qmsaatxw6zcqsbqvhv&lt;/sha1&gt;
+      &lt;sha1&gt;813d0pmv6l4vpw6j79c5dsmxm1tvyrp&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

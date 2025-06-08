@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;21087&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326195&lt;/id&gt;
-      &lt;parentid&gt;325933&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:09:00Z&lt;/timestamp&gt;
+      &lt;id&gt;347510&lt;/id&gt;
+      &lt;parentid&gt;347058&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:55:29Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326195&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347510&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="18682" sha1="dbxcq3b1wuur4pb0hyqprh0euxcrg3r" xml:space="preserve"&gt;{{干员页面名|四月|April|エイプリル}}{{pathnav2|干员一览}}
+      &lt;text bytes="18709" sha1="4aym9wjwprn18bqbe55nquq65io8j3f" xml:space="preserve"&gt;{{干员页面名|四月|April|エイプリル}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -119,6 +119,7 @@
 |部署费用=11→13
 |阻挡数=1
 |攻击速度=1.0s
+|所属势力=雷姆必拓
 |精英0_1级_生命上限=572
 |精英0_1级_攻击=178
 |精英0_1级_防御=56
@@ -457,7 +458,7 @@
 ==注释与链接==
 &amp;lt;references group="2"/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;dbxcq3b1wuur4pb0hyqprh0euxcrg3r&lt;/sha1&gt;
+      &lt;sha1&gt;4aym9wjwprn18bqbe55nquq65io8j3f&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

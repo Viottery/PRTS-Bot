@@ -54,18 +54,19 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1856&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326337&lt;/id&gt;
-      &lt;parentid&gt;326065&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:18:34Z&lt;/timestamp&gt;
+      &lt;id&gt;346530&lt;/id&gt;
+      &lt;parentid&gt;326337&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-28T13:16:52Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;BotPtilopsis&lt;/username&gt;
-        &lt;id&gt;61&lt;/id&gt;
+        &lt;username&gt;Enko&lt;/username&gt;
+        &lt;id&gt;394&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326337&lt;/origin&gt;
+      &lt;minor/&gt;
+      &lt;comment&gt;阵营/隐藏阵营属性追加&lt;/comment&gt;
+      &lt;origin&gt;346530&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="35223" sha1="9agqrfaco4fnd1lwljpmqbfsnv4uwgm" xml:space="preserve"&gt;{{干员页面名|陈|Ch'en|チェン}}{{pathnav2|干员一览}}
+      &lt;text bytes="35264" sha1="tdflzhvp8giiwuqs2e3fh6ju2vfhqik" xml:space="preserve"&gt;{{干员页面名|陈|Ch'en|チェン}}{{pathnav2|干员一览}}
 {{异格干员|原型={{BASEPAGENAME}}|非异格=1}}
 ==干员信息==
 {{CharinfoV2
@@ -128,6 +129,7 @@
 |部署费用=19→21→23
 |阻挡数=2
 |攻击速度=1.3s
+|所属势力=炎-龙门,龙门近卫局
 |精英0_1级_生命上限=1229
 |精英0_1级_攻击=249
 |精英0_1级_防御=154
@@ -640,7 +642,7 @@
 {{spineId}}
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;9agqrfaco4fnd1lwljpmqbfsnv4uwgm&lt;/sha1&gt;
+      &lt;sha1&gt;tdflzhvp8giiwuqs2e3fh6ju2vfhqik&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

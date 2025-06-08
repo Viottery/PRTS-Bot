@@ -54,18 +54,19 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;66437&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;336990&lt;/id&gt;
-      &lt;parentid&gt;329397&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-03-17T02:25:21Z&lt;/timestamp&gt;
+      &lt;id&gt;346548&lt;/id&gt;
+      &lt;parentid&gt;336990&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-28T13:17:24Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Visu2209&lt;/username&gt;
-        &lt;id&gt;1119&lt;/id&gt;
+        &lt;username&gt;Enko&lt;/username&gt;
+        &lt;id&gt;394&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 技能 */&lt;/comment&gt;
-      &lt;origin&gt;336990&lt;/origin&gt;
+      &lt;minor/&gt;
+      &lt;comment&gt;阵营/隐藏阵营属性追加&lt;/comment&gt;
+      &lt;origin&gt;346548&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="36931" sha1="p7kqv6y7ghszelsxi71bsmugtvz4s41" xml:space="preserve"&gt;{{干员页面名|魔王|Civilight Eterna|シヴィライト・エテルナ}}{{pathnav2|干员一览}}
+      &lt;text bytes="36955" sha1="1umrq4y5t2348e7p4eh6w9dfsor096w" xml:space="preserve"&gt;{{干员页面名|魔王|Civilight Eterna|シヴィライト・エテルナ}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -116,6 +117,7 @@
 |部署费用=8→10
 |阻挡数=1
 |攻击速度=1.3s
+|所属势力=罗德岛
 |精英0_1级_生命上限=623
 |精英0_1级_攻击=146
 |精英0_1级_防御=94
@@ -602,7 +604,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;p7kqv6y7ghszelsxi71bsmugtvz4s41&lt;/sha1&gt;
+      &lt;sha1&gt;1umrq4y5t2348e7p4eh6w9dfsor096w&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

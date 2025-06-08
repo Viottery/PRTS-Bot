@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;68224&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;341425&lt;/id&gt;
-      &lt;parentid&gt;341133&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-04-15T13:52:49Z&lt;/timestamp&gt;
+      &lt;id&gt;347740&lt;/id&gt;
+      &lt;parentid&gt;347263&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:14:18Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Enko&lt;/username&gt;
-        &lt;id&gt;394&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;/* 技能 */&lt;/comment&gt;
-      &lt;origin&gt;341425&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347740&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="37238" sha1="2u0p8inlsz8h2gra0d71kl6y64v9ak4" xml:space="preserve"&gt;{{干员页面名|乌尔比安|Ulpianus|ウルピアヌス}}{{pathnav2|干员一览}}
+      &lt;text bytes="37277" sha1="05tqqzrjsge1i9pxx9u5bh31psv283q" xml:space="preserve"&gt;{{干员页面名|乌尔比安|Ulpianus|ウルピアヌス}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -113,6 +112,7 @@
 |部署费用=20→22→24
 |阻挡数=2
 |攻击速度=2.5s
+|所属势力=阿戈尔,深海猎人
 |精英0_1级_生命上限=2641
 |精英0_1级_攻击=739
 |精英0_1级_防御=0
@@ -329,7 +329,11 @@
 |技能专精3初始=20
 |技能专精3消耗=25
 |技能专精3持续=25
-|备注=※技能持续时间包括投锚经过时长与后续持续，不含技能结束返回行为时长。投锚动画为固定动画，不受攻击速度影响&amp;lt;br&amp;gt;※技能发动后持有以下效果：&amp;lt;br&amp;gt;①发动时获得最大生命值与攻击力提升效果&amp;lt;br&amp;gt;②之后选择自身所在地块（仅阻挡敌人时）&amp;gt;技能范围内距离自身最近的包含敌人的地块&amp;gt;技能范围内距离最远的地块，向此地块中心发射船锚。船锚抵达目标后停止并对周围造成效果，效果半径1.8&amp;lt;br&amp;gt;③执行【移动】；判断目标位置合法性时，按 船锚落点可部署地块&amp;gt;船锚落点后一格处可部署地块&amp;gt;自身所在地块 的顺序选择目标地块 {{popup|内容=由于该判断最终仍可选择自身所在地块，这意味着乌尔比安【移动】的目标位置合法性判断'''必定成功'''，该【移动】也将'''必定执行'''}}&amp;lt;br&amp;gt;④技能结束后【返回】，返回动画完成前禁用第一天赋效果&amp;lt;br&amp;gt;※{{术语|ba.addash|移动}}会保留技能进度与第二天赋叠加层数，且若目标地块不为当前地块会在原地部署一个[[从不混淆的方向]]，作为【返回】移动的标志物&amp;lt;br&amp;gt;执行【返回】{{术语|ba.addash|移动}}时撤退此召唤物并尝试回撤到技能前所在位置，且移动前0.333s持有{{异常效果|无敌}}，{{异常效果|不可阻挡}}&amp;lt;br&amp;gt;※【返回】时此技能本身提供的初始技力降至0，但可以享受由其他效果提供的初始技力
+|备注=※技能持续时间包括投锚经过时长与后续持续，不含技能结束返回行为时长。投锚动画为固定动画，不受攻击速度影响&amp;lt;br&amp;gt;※技能发动后持有以下效果：&amp;lt;br&amp;gt;①发动时获得最大生命值与攻击力提升效果&amp;lt;br&amp;gt;②之后选择自身所在地块（仅阻挡敌人时）&amp;gt;技能范围内距离自身最近的包含敌人的地块&amp;gt;技能范围内距离最远的地块，向此地块中心发射船锚。船锚抵达目标后停止并对周围造成效果，效果半径1.8&amp;lt;br&amp;gt;③执行【移动】；其中：
+* 判断目标位置合法性时，按 船锚落点可部署地块&amp;gt;船锚落点后一格处可部署地块&amp;gt;自身所在地块 的顺序选择目标地块 {{popup|内容=由于该判断最终仍可选择自身所在地块，这意味着乌尔比安【移动】的目标位置合法性判断'''必定成功'''，该【移动】也将'''必定执行'''}}
+* 【移动】后仅继承下列效果：技能进度、第二天赋叠加层数
+* 【移动】成功后，若目标地块不为当前地块，会在原地部署一个[[从不混淆的方向]]，作为【返回】移动的标志
+④技能结束后【返回】，返回动画完成前禁用第一天赋效果；执行时撤退[[从不混淆的方向]]并尝试回撤到技能前所在位置，且移动前0.333s持有{{异常效果|无敌}}，{{异常效果|不可阻挡}}&amp;lt;br&amp;gt;※【返回】时此技能本身提供的初始技力降至0，但可以享受由其他效果提供的初始技力
 }}
 
 ==后勤技能==
@@ -551,7 +555,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;2u0p8inlsz8h2gra0d71kl6y64v9ak4&lt;/sha1&gt;
+      &lt;sha1&gt;05tqqzrjsge1i9pxx9u5bh31psv283q&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

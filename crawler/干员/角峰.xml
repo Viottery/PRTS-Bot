@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1735&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;328132&lt;/id&gt;
-      &lt;parentid&gt;326144&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-12-03T10:02:30Z&lt;/timestamp&gt;
+      &lt;id&gt;347418&lt;/id&gt;
+      &lt;parentid&gt;346993&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:49:24Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;调零修罗&lt;/username&gt;
-        &lt;id&gt;6713&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;(InPageEdit-preference-summary-default)&lt;/comment&gt;
-      &lt;origin&gt;328132&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347418&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="17572" sha1="76c5697046vnx8xut3ok1f65u4cvs8y" xml:space="preserve"&gt;{{干员页面名|角峰|Matterhorn|マッターホルン}}{{pathnav2|干员一览}}
+      &lt;text bytes="17609" sha1="93f63xxm4jbs3x4f6cgxs80ldyhlys6" xml:space="preserve"&gt;{{干员页面名|角峰|Matterhorn|マッターホルン}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -118,6 +118,7 @@
 |部署费用=17→19→21
 |阻挡数=3
 |攻击速度=1.2s
+|所属势力=谢拉格,喀兰贸易
 |精英0_1级_生命上限=1273
 |精英0_1级_攻击=198
 |精英0_1级_防御=241
@@ -445,7 +446,7 @@
 {{spineId}}
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;76c5697046vnx8xut3ok1f65u4cvs8y&lt;/sha1&gt;
+      &lt;sha1&gt;93f63xxm4jbs3x4f6cgxs80ldyhlys6&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

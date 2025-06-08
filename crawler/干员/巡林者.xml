@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1701&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;309484&lt;/id&gt;
-      &lt;parentid&gt;289135&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-05-27T05:16:28Z&lt;/timestamp&gt;
+      &lt;id&gt;347357&lt;/id&gt;
+      &lt;parentid&gt;346934&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:45:46Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;调零修罗&lt;/username&gt;
-        &lt;id&gt;6713&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;（实装天赋列表3）&lt;/comment&gt;
-      &lt;origin&gt;309484&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347357&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="5634" sha1="cwlwxiqdy9qyfd94np6tns1w3n26z5a" xml:space="preserve"&gt;{{干员页面名|巡林者|Rangers|レンジャー}}{{pathnav2|干员一览}}
+      &lt;text bytes="5670" sha1="fudct67yyde2nzw9z6jz4ioxvalyxp3" xml:space="preserve"&gt;{{干员页面名|巡林者|Rangers|レンジャー}}{{pathnav2|干员一览}}
 ==干员信息==
 {{CharinfoV2
 &amp;lt;!--下方为自动更新部分，您的修改可能会被覆盖--&amp;gt;
@@ -106,6 +106,7 @@
 |部署费用=7
 |阻挡数=1
 |攻击速度=1.0s
+|所属势力=罗德岛,行动组A4
 |精英0_1级_生命上限=546
 |精英0_1级_攻击=161
 |精英0_1级_防御=46
@@ -236,7 +237,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;cwlwxiqdy9qyfd94np6tns1w3n26z5a&lt;/sha1&gt;
+      &lt;sha1&gt;fudct67yyde2nzw9z6jz4ioxvalyxp3&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;79435&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;345425&lt;/id&gt;
-      &lt;parentid&gt;345299&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-16T14:35:19Z&lt;/timestamp&gt;
+      &lt;id&gt;346093&lt;/id&gt;
+      &lt;parentid&gt;345425&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-25T06:29:23Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Enko&lt;/username&gt;
-        &lt;id&gt;394&lt;/id&gt;
+        &lt;username&gt;Hjhk258&lt;/username&gt;
+        &lt;id&gt;59&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;//&lt;/comment&gt;
-      &lt;origin&gt;345425&lt;/origin&gt;
+      &lt;comment&gt;/* 级别0 */ // Edit via Wikiplus&lt;/comment&gt;
+      &lt;origin&gt;346093&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="1340" sha1="pzxnohq7v8qyqaajci7a2b0njrzqgkj" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+      &lt;text bytes="1400" sha1="li6fvjajpmzzyet25zfmkck17gprx8w" xml:space="preserve"&gt;{{Navigator|敌人一览}}
 {{敌人信息/common
 |id=1287
 |名称=秒表
@@ -115,12 +114,12 @@
 |技能0=振奋
 |技能0初始=5
 |技能0消耗=3
-|技能0效果=未被阻挡时可触发：场上的敌方单位攻击速度+80，移动速度+100%，持续4s
+|技能0效果=仅未被阻挡时可触发：场上所有敌方单位攻击速度+80，移动速度+100%，持续4s（不可叠加，重复获得时重置持续时间）
 }}
 
 ==敌人模型==
 {{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
-      &lt;sha1&gt;pzxnohq7v8qyqaajci7a2b0njrzqgkj&lt;/sha1&gt;
+      &lt;sha1&gt;li6fvjajpmzzyet25zfmkck17gprx8w&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

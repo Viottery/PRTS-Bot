@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1711&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;340062&lt;/id&gt;
-      &lt;parentid&gt;309214&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-04-08T04:23:27Z&lt;/timestamp&gt;
+      &lt;id&gt;347524&lt;/id&gt;
+      &lt;parentid&gt;347445&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:58:34Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;340062&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347524&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="9223" sha1="e7rj0rjpwxqz12zfw331frtu8v25sgq" xml:space="preserve"&gt;{{干员页面名|安德切尔|Adnachiel|アドナキエル}}{{pathnav2|干员一览}}
+      &lt;text bytes="9289" sha1="m0rc2zqhh7ot00zrf0ndwim6yriyvgc" xml:space="preserve"&gt;{{干员页面名|安德切尔|Adnachiel|アドナキエル}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -116,6 +116,8 @@
 |部署费用=9→11
 |阻挡数=1
 |攻击速度=1.0s
+|所属势力=罗德岛,行动预备组A4
+|隐藏势力=拉特兰
 |精英0_1级_生命上限=531
 |精英0_1级_攻击=150
 |精英0_1级_防御=55
@@ -325,7 +327,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;e7rj0rjpwxqz12zfw331frtu8v25sgq&lt;/sha1&gt;
+      &lt;sha1&gt;m0rc2zqhh7ot00zrf0ndwim6yriyvgc&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;56488&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;336029&lt;/id&gt;
-      &lt;parentid&gt;336028&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-03-07T05:19:08Z&lt;/timestamp&gt;
+      &lt;id&gt;347636&lt;/id&gt;
+      &lt;parentid&gt;347150&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:06:10Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;洛零&lt;/username&gt;
-        &lt;id&gt;4299&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 干员信息 */&lt;/comment&gt;
-      &lt;origin&gt;336029&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347636&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="27051" sha1="l6vhmaqiku6n8gziy4angfxh06baac1" xml:space="preserve"&gt;{{干员页面名|凛视|Valarqvin|ヴァラルクビン}}{{pathnav2|干员一览}}
+      &lt;text bytes="26899" sha1="kkalt0g73lqljq4y3jdgb052iog13cg" xml:space="preserve"&gt;{{干员页面名|凛视|Valarqvin|ヴァラルクビン}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -113,7 +113,7 @@
 {{干员获得方式
 |获得方式=活动获得
 |上线时间=2023-07-13 16:00
-|前缀=[[探索者的银凇止境|&amp;lt;span style="color:#fff;background:linear-gradient(90deg, #7792B2, #000111, #113522, #5798d8 82%, #162e75 99%);border-radius:20px;padding-left:8px;padding-right:8px;font-weight:bold"&amp;gt;探索者的银凇止境&amp;lt;/span&amp;gt;]]
+|前缀=[[探索者的银凇止境|{{color|orange|探索者的银凇止境}}]]
 }}
 
 ==属性==
@@ -122,6 +122,7 @@
 |部署费用=13→15
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=萨米
 |精英0_1级_生命上限=429
 |精英0_1级_攻击=202
 |精英0_1级_防御=46
@@ -477,7 +478,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;l6vhmaqiku6n8gziy4angfxh06baac1&lt;/sha1&gt;
+      &lt;sha1&gt;kkalt0g73lqljq4y3jdgb052iog13cg&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

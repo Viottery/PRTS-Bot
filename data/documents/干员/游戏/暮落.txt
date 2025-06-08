@@ -47,7 +47,7 @@
 {{干员获得方式
 |获得方式=活动获得
 |上线时间=2022-1-5 16:00
-|前缀=[[傀影与猩红孤钻|&lt;span style="color:#fff;background:linear-gradient(90deg, #7D5027, #231B19, #BE583F, #8A2525 99%);border-radius:20px;padding-left:8px;padding-right:8px;font-weight:bold"&gt;傀影与猩红孤钻&lt;/span&gt;]] 
+|前缀=[[傀影与猩红孤钻|{{color|orange|傀影与猩红孤钻}}]]
 }}
 
 ==属性==
@@ -56,6 +56,7 @@
 |部署费用=21→23→25
 |阻挡数=3
 |攻击速度=1.6s
+|所属势力=维多利亚
 |精英0_1级_生命上限=1234
 |精英0_1级_攻击=286
 |精英0_1级_防御=221

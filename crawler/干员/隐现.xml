@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;55362&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326196&lt;/id&gt;
-      &lt;parentid&gt;325934&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:09:03Z&lt;/timestamp&gt;
+      &lt;id&gt;347512&lt;/id&gt;
+      &lt;parentid&gt;347060&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:55:37Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326196&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347512&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="29015" sha1="kdg6q19w5dt5u00sf43mzvly1ohsanu" xml:space="preserve"&gt;{{干员页面名|隐现|Insider|インサイダー}}{{pathnav2|干员一览}}
+      &lt;text bytes="29039" sha1="bk9sst022hl96byn5hj95y5lo8jiry0" xml:space="preserve"&gt;{{干员页面名|隐现|Insider|インサイダー}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -122,6 +122,7 @@
 |部署费用=13→15
 |阻挡数=1
 |攻击速度=1.0s
+|所属势力=拉特兰
 |精英0_1级_生命上限=644
 |精英0_1级_攻击=177
 |精英0_1级_防御=63
@@ -499,7 +500,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;kdg6q19w5dt5u00sf43mzvly1ohsanu&lt;/sha1&gt;
+      &lt;sha1&gt;bk9sst022hl96byn5hj95y5lo8jiry0&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

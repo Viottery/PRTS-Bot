@@ -54,18 +54,17 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;20276&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;344837&lt;/id&gt;
-      &lt;parentid&gt;327356&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-09T07:01:21Z&lt;/timestamp&gt;
+      &lt;id&gt;348891&lt;/id&gt;
+      &lt;parentid&gt;348888&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-07T03:59:21Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;update&lt;/comment&gt;
-      &lt;origin&gt;344837&lt;/origin&gt;
+      &lt;origin&gt;348891&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="2389" sha1="o9zu74fi468gvy8peulicldsc2wdo0n" xml:space="preserve"&gt;{{干员页面名|预备干员-术师|Reserve Operator - Caster|予備隊員-術師}}{{pathnav2|干员一览}}
+      &lt;text bytes="2119" sha1="o90osufcviieo6r8nep5v74eivdpx3u" xml:space="preserve"&gt;{{干员页面名|预备干员-术师|Reserve Operator - Caster|予備隊員-術師}}{{pathnav2|干员一览}}
 {{参阅|干员一览/专属干员|其他集成战略专属干员}}
 {{参阅|预备干员-术师(卫戍协议)|作为在[[卫戍协议]]中作为原型干员登场的预备干员-术师}}
 ==干员信息==
@@ -152,17 +151,8 @@
 {{spineId}}
 ==注释与链接==
 &amp;lt;references/&amp;gt;
-{{干员导航}}[[分类:专属干员]|技能名=战术咏唱·α型
-|技能名jp=戦術詠唱α
-|技能名en=Tactical Chant α
-|技能名=战术咏唱·β型
-|技能名jp=戦術詠唱β
-|技能名en=Tactical Chant β
-|技能名=战术咏唱·γ型
-|技能名jp=戦術詠唱γ
-|技能名en=Tactical Chant γ
-]&lt;/text&gt;
-      &lt;sha1&gt;o9zu74fi468gvy8peulicldsc2wdo0n&lt;/sha1&gt;
+{{干员导航}}[[分类:专属干员]]&lt;/text&gt;
+      &lt;sha1&gt;o90osufcviieo6r8nep5v74eivdpx3u&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;7699&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;328450&lt;/id&gt;
-      &lt;parentid&gt;326226&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-12-05T03:01:34Z&lt;/timestamp&gt;
+      &lt;id&gt;347581&lt;/id&gt;
+      &lt;parentid&gt;347095&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:02:36Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;328450&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347581&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="23512" sha1="8z825h4jf5mmq5vq8scvc8a4rejc87i" xml:space="preserve"&gt;{{干员页面名|锡兰|Ceylon|セイロン}}{{pathnav2|干员一览}}
+      &lt;text bytes="23549" sha1="0db2bk3ynedr8fcj8z9tamy5pebnne1" xml:space="preserve"&gt;{{干员页面名|锡兰|Ceylon|セイロン}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -121,6 +121,7 @@
 |部署费用=20→22
 |阻挡数=1
 |攻击速度=2.85s
+|所属势力=哥伦比亚,汐斯塔
 |精英0_1级_生命上限=798
 |精英0_1级_攻击=164
 |精英0_1级_防御=55
@@ -500,7 +501,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;8z825h4jf5mmq5vq8scvc8a4rejc87i&lt;/sha1&gt;
+      &lt;sha1&gt;0db2bk3ynedr8fcj8z9tamy5pebnne1&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

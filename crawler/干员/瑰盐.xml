@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;73974&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;330073&lt;/id&gt;
-      &lt;parentid&gt;330072&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-12-17T17:26:15Z&lt;/timestamp&gt;
+      &lt;id&gt;347434&lt;/id&gt;
+      &lt;parentid&gt;347009&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:50:28Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;RaYmondCheung&lt;/username&gt;
-        &lt;id&gt;26948&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;/* 获得方式 */&lt;/comment&gt;
-      &lt;origin&gt;330073&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347434&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="27329" sha1="0ogekq8lvf7evzk9n84c0zdjablz7zd" xml:space="preserve"&gt;{{干员页面名|瑰盐|瑰盐|瑰盐}}{{pathnav2|干员一览}}
+      &lt;text bytes="27356" sha1="tfm594avb0dd11mcppfcp1eufvdh8b2" xml:space="preserve"&gt;{{干员页面名|瑰盐|瑰盐|瑰盐}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -113,6 +112,7 @@
 |部署费用=17→19
 |阻挡数=1
 |攻击速度=2.85s
+|所属势力=伊比利亚
 |精英0_1级_生命上限=782
 |精英0_1级_攻击=120
 |精英0_1级_防御=72
@@ -465,7 +465,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;0ogekq8lvf7evzk9n84c0zdjablz7zd&lt;/sha1&gt;
+      &lt;sha1&gt;tfm594avb0dd11mcppfcp1eufvdh8b2&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -1,23 +1,34 @@
+# bge_reranker.py: BGE Reranker for BM25 Search Results, the main() serve as the entry point for the script.
 import sys
 import os
 from FlagEmbedding import FlagReranker
 
 os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'
 
-# 动态导入 bm25_search
+# import bm25_search
 bm25_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'Custom_BM25'))
 if bm25_path not in sys.path:
     sys.path.insert(0, bm25_path)
 from bm25_search import BM25Searcher
 
+
 def load_doc_content(doc_path):
+    """
+    Load the content of a document, skipping the first line (usually a header).
+    :param doc_path:
+    :return: The content of the document as a string, excluding the first line.
+    """
     with open(doc_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
     if len(lines) < 2:
         return ""
     return "".join(lines[1:]).strip()
 
+
 class BGEReranker:
+    """
+    BGE Reranker for BM25 Search Results.
+    """
     def __init__(self, model_name='BAAI/bge-reranker-v2-m3', device='cuda', use_fp16=False):
         self.reranker = FlagReranker(
             model_name,
@@ -37,16 +48,17 @@ class BGEReranker:
         scored_docs.sort(key=lambda x: x[0], reverse=True)
         return scored_docs
 
+
 def main():
     bm25 = BM25Searcher(index_path='../Custom_BM25/bm25_index.json', stopwords_path='../Custom_BM25/stopwords.txt')
-    reranker = BGEReranker(use_fp16=False)  # 设置为 True 可加速但可能略微降低精度
+    reranker = BGEReranker(use_fp16=False)  # If use_fp16=True, it can speed up the process but may slightly reduce accuracy.
 
     while True:
         query = input("请输入查询（exit退出）：").strip()
         if query.lower() == 'exit':
             break
 
-        # 使用 BM25 获取 Top20 候选文档
+        # Get top 20 candidate documents using BM25
         candidates_raw = bm25.search(query, top_k=20)
 
         candidate_docs = []
@@ -62,6 +74,7 @@ def main():
         print(f"\n重排后 Top {len(reranked)} 结果：")
         for rank, (score, doc) in enumerate(reranked, start=1):
             print(f"{rank}. [{score:.4f}] {doc['title']} - {doc['path']}")
+
 
 if __name__ == '__main__':
     main()

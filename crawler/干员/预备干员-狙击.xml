@@ -54,18 +54,17 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;20272&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;344838&lt;/id&gt;
-      &lt;parentid&gt;327357&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-09T07:01:32Z&lt;/timestamp&gt;
+      &lt;id&gt;348890&lt;/id&gt;
+      &lt;parentid&gt;348889&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-07T03:59:01Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;update&lt;/comment&gt;
-      &lt;origin&gt;344838&lt;/origin&gt;
+      &lt;origin&gt;348890&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="2359" sha1="k7h80f8nsyq25rwcalzrwr3vkpu8db3" xml:space="preserve"&gt;{{干员页面名|预备干员-狙击|Reserve Operator - Sniper|予備隊員-狙撃}}{{pathnav2|干员一览}}
+      &lt;text bytes="2095" sha1="po11ja5ms8v3t7ixlywl4jbrx26yzei" xml:space="preserve"&gt;{{干员页面名|预备干员-狙击|Reserve Operator - Sniper|予備隊員-狙撃}}{{pathnav2|干员一览}}
 {{参阅|干员一览/专属干员|其他集成战略专属干员}}
 {{参阅|预备干员-狙击(卫戍协议)|作为在[[卫戍协议]]中作为原型干员登场的预备干员-狙击}}
 ==干员信息==
@@ -152,17 +151,8 @@
 {{spineId}}
 ==注释与链接==
 &amp;lt;references/&amp;gt;
-{{干员导航}}[[分类:专属干员]|技能名=攻击力强化·α型
-|技能名jp=攻撃力強化α
-|技能名en=ATK Up α
-|技能名=攻击力强化·β型
-|技能名jp=攻撃力強化β
-|技能名en=ATK Up β
-|技能名=攻击力强化·γ型
-|技能名jp=攻撃力強化γ
-|技能名en=ATK Up γ
-]&lt;/text&gt;
-      &lt;sha1&gt;k7h80f8nsyq25rwcalzrwr3vkpu8db3&lt;/sha1&gt;
+{{干员导航}}[[分类:专属干员]]&lt;/text&gt;
+      &lt;sha1&gt;po11ja5ms8v3t7ixlywl4jbrx26yzei&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

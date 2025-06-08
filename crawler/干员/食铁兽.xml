@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1768&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326277&lt;/id&gt;
-      &lt;parentid&gt;326009&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:14:05Z&lt;/timestamp&gt;
+      &lt;id&gt;347640&lt;/id&gt;
+      &lt;parentid&gt;347155&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:06:25Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326277&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347640&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="20568" sha1="3fsr8095w4mfb6h14c6myezr6ag217v" xml:space="preserve"&gt;{{干员页面名|食铁兽|FEater|エフイーター}}{{pathnav2|干员一览}}
+      &lt;text bytes="20593" sha1="dekgl13w39tmjfpukwenegj8c1cq0uf" xml:space="preserve"&gt;{{干员页面名|食铁兽|FEater|エフイーター}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -126,6 +126,7 @@
 |部署费用=18→20
 |阻挡数=2
 |攻击速度=1.2s
+|所属势力=炎-龙门
 |精英0_1级_生命上限=852
 |精英0_1级_攻击=279
 |精英0_1级_防御=158
@@ -464,7 +465,7 @@
 ==干员模型==
 {{spineId}}
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;3fsr8095w4mfb6h14c6myezr6ag217v&lt;/sha1&gt;
+      &lt;sha1&gt;dekgl13w39tmjfpukwenegj8c1cq0uf&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

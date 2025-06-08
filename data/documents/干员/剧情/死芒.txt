@@ -159,5 +159,5 @@
 ==干员模型==
 {{spineId}}
 ==注释与链接==
-&lt;references/&gt;
+&lt;references group="注1"/&gt;
 {{干员导航}}

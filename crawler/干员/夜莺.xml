@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1775&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;343058&lt;/id&gt;
-      &lt;parentid&gt;342305&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-01T06:52:19Z&lt;/timestamp&gt;
+      &lt;id&gt;347717&lt;/id&gt;
+      &lt;parentid&gt;347240&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:12:26Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;343058&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347717&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="31605" sha1="egl3vhp3yfquzhtx0ttzivn0v1e0nbi" xml:space="preserve"&gt;{{干员页面名|夜莺|Nightingale|ナイチンゲール}}{{pathnav2|干员一览}}
+      &lt;text bytes="31626" sha1="8h4cxrbk2w8fzoxkddkjdiyht1n6mms" xml:space="preserve"&gt;{{干员页面名|夜莺|Nightingale|ナイチンゲール}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -126,6 +126,7 @@
 |部署费用=16→18
 |阻挡数=1
 |攻击速度=2.85s
+|所属势力=使徒
 |精英0_1级_生命上限=796
 |精英0_1级_攻击=132
 |精英0_1级_防御=80
@@ -604,7 +605,7 @@
 {{spineId}}
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;egl3vhp3yfquzhtx0ttzivn0v1e0nbi&lt;/sha1&gt;
+      &lt;sha1&gt;8h4cxrbk2w8fzoxkddkjdiyht1n6mms&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

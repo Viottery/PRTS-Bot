@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1782&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326348&lt;/id&gt;
-      &lt;parentid&gt;326075&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:19:20Z&lt;/timestamp&gt;
+      &lt;id&gt;347760&lt;/id&gt;
+      &lt;parentid&gt;347296&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:15:41Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326348&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347760&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="18674" sha1="klks71bd11k9wyibflkithv4ir0uf5j" xml:space="preserve"&gt;{{干员页面名|猎蜂|Beehunter|ビーハンター}}{{pathnav2|干员一览}}
+      &lt;text bytes="18698" sha1="pn7e40r6sebhzx6sfdcgwmmep477o2v" xml:space="preserve"&gt;{{干员页面名|猎蜂|Beehunter|ビーハンター}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -120,6 +120,7 @@
 |部署费用=7→9
 |阻挡数=1
 |攻击速度=0.78s
+|所属势力=乌萨斯
 |精英0_1级_生命上限=1151
 |精英0_1级_攻击=211
 |精英0_1级_防御=131
@@ -471,7 +472,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;klks71bd11k9wyibflkithv4ir0uf5j&lt;/sha1&gt;
+      &lt;sha1&gt;pn7e40r6sebhzx6sfdcgwmmep477o2v&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

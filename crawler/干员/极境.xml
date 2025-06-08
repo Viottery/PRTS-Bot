@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;15332&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;343036&lt;/id&gt;
-      &lt;parentid&gt;340045&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-01T06:45:29Z&lt;/timestamp&gt;
+      &lt;id&gt;347544&lt;/id&gt;
+      &lt;parentid&gt;347470&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:00:06Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
       &lt;comment&gt;update&lt;/comment&gt;
-      &lt;origin&gt;343036&lt;/origin&gt;
+      &lt;origin&gt;347544&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="25486" sha1="r2y09afkzzz6sqfyafu6mm1scg23xan" xml:space="preserve"&gt;{{干员页面名|极境|Elysium|エリジウム}}{{pathnav2|干员一览}}
+      &lt;text bytes="25537" sha1="iskuoicxyj317kn8485352cegw3wvvd" xml:space="preserve"&gt;{{干员页面名|极境|Elysium|エリジウム}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -126,6 +126,8 @@
 |部署费用=9→11
 |阻挡数=1
 |攻击速度=1.3s
+|所属势力=罗德岛
+|隐藏势力=伊比利亚
 |精英0_1级_生命上限=702
 |精英0_1级_攻击=237
 |精英0_1级_防御=154
@@ -498,7 +500,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;r2y09afkzzz6sqfyafu6mm1scg23xan&lt;/sha1&gt;
+      &lt;sha1&gt;iskuoicxyj317kn8485352cegw3wvvd&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -48,8 +48,42 @@ In PRTS-Bot, we introduce our MediaWiki-based search engine, **PRTS-Bot Retrieve
 - 🔄 **Reranker**
   The Reranker reranks the retrieved pages based on their relevance to the user query. It uses BGE model to rerank pages using vector based method and select the most relevant ones.
 
+### 🔗 Usage
+To Start the PRTS-Bot Retriever, run the following scripts:
 
-### 📄 Data Source & License Notice
+```bash
+cd crawler
+python3 cate_xml_download.py
+python3 xml2txt.py
+```
+This command start the crawler, which will download the pages from the PRTS wiki and process them into text documents. You can change the base URL and categories in `crawler/cate_xml_download.py` to crawl other wikis that support the MediaWiki API.
+
+
+To index the downloaded pages (using BM25), run:
+```bash
+cd retriever/Custom_BM25
+python3 file_process.py
+python3 indexer.py
+```
+This will process the downloaded pages and index them using BM25. The indexed pages will be stored in the `retriever/Custom_BM25/` directory. You can customize the stopwords and other parameters in `retriever/Custom_BM25/file_process.py` and `retriever/Custom_BM25/stopwords.txt`.
+
+To rerank the retrieved pages using BGE or e5, run:
+```bash
+cd reranker
+python3 bge_reranker.py
+```
+or
+```bash
+cd reranker
+python3 e5_reranker.py
+```
+
+`NOTE: The reranker need to be run under GPU environment, and the BGE model requires about 3GB in memory, so make sure you have enough GPU memory.`
+
+As for course project in IR class, the result is presented within the output of reranker. We can enter the query and get the reranked results shown in the terminal.
+
+
+## 📄 Data Source & License Notice
 
 This project uses data from [PRTS.wiki](https://prts.wiki/), which is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
 

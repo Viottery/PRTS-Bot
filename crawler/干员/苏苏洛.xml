@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;7698&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;343034&lt;/id&gt;
-      &lt;parentid&gt;328190&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-01T06:44:43Z&lt;/timestamp&gt;
+      &lt;id&gt;347536&lt;/id&gt;
+      &lt;parentid&gt;347457&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:59:24Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
       &lt;comment&gt;update&lt;/comment&gt;
-      &lt;origin&gt;343034&lt;/origin&gt;
+      &lt;origin&gt;347536&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="20604" sha1="06aof4tkpv4rki4um2a0mg2cb92645t" xml:space="preserve"&gt;{{干员页面名|苏苏洛|Sussurro|ススーロ}}{{pathnav2|干员一览}}
+      &lt;text bytes="20652" sha1="h32a7c3z9ygjnoomprrno2star7rxc1" xml:space="preserve"&gt;{{干员页面名|苏苏洛|Sussurro|ススーロ}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -128,6 +128,8 @@
 |部署费用=16→18
 |阻挡数=1
 |攻击速度=2.85s
+|所属势力=罗德岛
+|隐藏势力=叙拉古
 |精英0_1级_生命上限=725
 |精英0_1级_攻击=173
 |精英0_1级_防御=53
@@ -476,7 +478,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;06aof4tkpv4rki4um2a0mg2cb92645t&lt;/sha1&gt;
+      &lt;sha1&gt;h32a7c3z9ygjnoomprrno2star7rxc1&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

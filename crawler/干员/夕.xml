@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;26179&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;345569&lt;/id&gt;
-      &lt;parentid&gt;345565&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-18T00:26:41Z&lt;/timestamp&gt;
+      &lt;id&gt;347680&lt;/id&gt;
+      &lt;parentid&gt;347200&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:09:20Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Visu2209&lt;/username&gt;
-        &lt;id&gt;1119&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;撤销：没有歧义&lt;/comment&gt;
-      &lt;origin&gt;345569&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347680&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="38709" sha1="go30c764anunpb8q8dsoy1ijf3773fi" xml:space="preserve"&gt;{{干员页面名|夕|Dusk|シー}}{{pathnav2|干员一览}}
+      &lt;text bytes="38735" sha1="o09gij66sg0jcplrz358e50ikh1tfus" xml:space="preserve"&gt;{{干员页面名|夕|Dusk|シー}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -138,6 +138,7 @@
 |部署费用=31→34
 |阻挡数=1
 |攻击速度=2.9s
+|所属势力=炎,炎-岁
 |精英0_1级_生命上限=808
 |精英0_1级_攻击=426
 |精英0_1级_防御=50
@@ -696,7 +697,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;go30c764anunpb8q8dsoy1ijf3773fi&lt;/sha1&gt;
+      &lt;sha1&gt;o09gij66sg0jcplrz358e50ikh1tfus&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

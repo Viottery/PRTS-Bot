@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;43731&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;336488&lt;/id&gt;
-      &lt;parentid&gt;336188&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-03-08T07:07:10Z&lt;/timestamp&gt;
+      &lt;id&gt;347653&lt;/id&gt;
+      &lt;parentid&gt;347169&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:07:19Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Xiaoding&lt;/username&gt;
-        &lt;id&gt;111492&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;/* 天赋 */&lt;/comment&gt;
-      &lt;origin&gt;336488&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347653&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="38434" sha1="n7ien357yn25j9j3a4i2v0b8oddchuy" xml:space="preserve"&gt;{{干员页面名|鸿雪|Pozëmka|パゼオンカ}}{{pathnav2|干员一览}}
+      &lt;text bytes="38482" sha1="56lqpw98mnpg0s8h9fwqbub5bx04jti" xml:space="preserve"&gt;{{干员页面名|鸿雪|Pozëmka|パゼオンカ}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -130,6 +129,8 @@
 |部署费用=16→18→20
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=罗德岛
+|隐藏势力=乌萨斯
 |精英0_1级_生命上限=768
 |精英0_1级_攻击=373
 |精英0_1级_防御=73
@@ -654,7 +655,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;n7ien357yn25j9j3a4i2v0b8oddchuy&lt;/sha1&gt;
+      &lt;sha1&gt;56lqpw98mnpg0s8h9fwqbub5bx04jti&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

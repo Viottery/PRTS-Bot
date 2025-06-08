@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;63244&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;335448&lt;/id&gt;
-      &lt;parentid&gt;332316&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-02-27T17:18:46Z&lt;/timestamp&gt;
+      &lt;id&gt;347725&lt;/id&gt;
+      &lt;parentid&gt;347248&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:13:07Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;RaYmondCheung&lt;/username&gt;
-        &lt;id&gt;26948&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;/* 干员信息 */&lt;/comment&gt;
-      &lt;origin&gt;335448&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347725&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="38457" sha1="dlxpscb2qcedlnhwkt7ora30ugtg3pk" xml:space="preserve"&gt;{{干员页面名|黍|Shu|シュウ}}{{pathnav2|干员一览}}
+      &lt;text bytes="38483" sha1="ff889pd20blmpjb2bz84du730r5r112" xml:space="preserve"&gt;{{干员页面名|黍|Shu|シュウ}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -125,6 +124,7 @@
 |部署费用=18→20→22
 |阻挡数=2→3→3
 |攻击速度=1.2s
+|所属势力=炎,炎-岁
 |精英0_1级_生命上限=1334
 |精英0_1级_攻击=203
 |精英0_1级_防御=250
@@ -580,7 +580,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;dlxpscb2qcedlnhwkt7ora30ugtg3pk&lt;/sha1&gt;
+      &lt;sha1&gt;ff889pd20blmpjb2bz84du730r5r112&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

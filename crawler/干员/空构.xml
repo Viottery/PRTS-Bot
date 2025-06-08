@@ -54,18 +54,19 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;55364&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;330327&lt;/id&gt;
-      &lt;parentid&gt;326260&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-12-26T05:05:27Z&lt;/timestamp&gt;
+      &lt;id&gt;346432&lt;/id&gt;
+      &lt;parentid&gt;330327&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-28T13:14:03Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;A20040920A&lt;/username&gt;
-        &lt;id&gt;106007&lt;/id&gt;
+        &lt;username&gt;Enko&lt;/username&gt;
+        &lt;id&gt;394&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 天赋 */&lt;/comment&gt;
-      &lt;origin&gt;330327&lt;/origin&gt;
+      &lt;minor/&gt;
+      &lt;comment&gt;阵营/隐藏阵营属性追加&lt;/comment&gt;
+      &lt;origin&gt;346432&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="29712" sha1="6hsqtwh6wmotcng0fo59vm8w071lw7p" xml:space="preserve"&gt;{{干员页面名|空构|Spuria|スプリア}}{{pathnav2|干员一览}}
+      &lt;text bytes="29736" sha1="7vpf6mfmhjmwql1gr9goduhamstzorr" xml:space="preserve"&gt;{{干员页面名|空构|Spuria|スプリア}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -112,6 +113,7 @@
 |部署费用=10→12
 |阻挡数=1
 |攻击速度=1.3s
+|所属势力=拉特兰
 |精英0_1级_生命上限=805
 |精英0_1级_攻击=233
 |精英0_1级_防御=53
@@ -496,7 +498,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;6hsqtwh6wmotcng0fo59vm8w071lw7p&lt;/sha1&gt;
+      &lt;sha1&gt;7vpf6mfmhjmwql1gr9goduhamstzorr&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

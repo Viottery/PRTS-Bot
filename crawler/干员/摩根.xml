@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;52600&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326175&lt;/id&gt;
-      &lt;parentid&gt;325916&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:07:48Z&lt;/timestamp&gt;
+      &lt;id&gt;347484&lt;/id&gt;
+      &lt;parentid&gt;347032&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:53:47Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326175&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347484&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="30623" sha1="43x689hn4mei95q8r2e4piooeokwdw5" xml:space="preserve"&gt;{{干员页面名|摩根|Morgan|モーガン}}{{pathnav2|干员一览}}
+      &lt;text bytes="30666" sha1="i8vtlw9ljtpv6f0sjyuypxgdx2iakwq" xml:space="preserve"&gt;{{干员页面名|摩根|Morgan|モーガン}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -114,6 +114,7 @@
 |部署费用=18→20
 |阻挡数=1
 |攻击速度=1.5s
+|所属势力=维多利亚,格拉斯哥帮
 |精英0_1级_生命上限=1459
 |精英0_1级_攻击=403
 |精英0_1级_防御=107
@@ -536,7 +537,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;43x689hn4mei95q8r2e4piooeokwdw5&lt;/sha1&gt;
+      &lt;sha1&gt;i8vtlw9ljtpv6f0sjyuypxgdx2iakwq&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

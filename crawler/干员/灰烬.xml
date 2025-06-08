@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;27045&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326285&lt;/id&gt;
-      &lt;parentid&gt;311200&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:14:36Z&lt;/timestamp&gt;
+      &lt;id&gt;347651&lt;/id&gt;
+      &lt;parentid&gt;347167&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:07:09Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326285&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347651&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="31920" sha1="1w6r7t6s08uapgpmm63cc0t49j844pg" xml:space="preserve"&gt;{{干员页面名|灰烬|Ash|Ash}}{{pathnav2|干员一览}}
+      &lt;text bytes="31947" sha1="17u1gdhdxv4fsl3dka41y7o0stykeet" xml:space="preserve"&gt;{{干员页面名|灰烬|Ash|Ash}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -122,6 +122,7 @@
 |部署费用=12→14
 |阻挡数=1
 |攻击速度=1.0s
+|所属势力=彩虹小队
 |精英0_1级_生命上限=718
 |精英0_1级_攻击=181
 |精英0_1级_防御=60
@@ -568,7 +569,7 @@
 &amp;lt;/div&amp;gt;
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;1w6r7t6s08uapgpmm63cc0t49j844pg&lt;/sha1&gt;
+      &lt;sha1&gt;17u1gdhdxv4fsl3dka41y7o0stykeet&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

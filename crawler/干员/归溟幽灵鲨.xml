@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;40671&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326317&lt;/id&gt;
-      &lt;parentid&gt;326046&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:17:01Z&lt;/timestamp&gt;
+      &lt;id&gt;347712&lt;/id&gt;
+      &lt;parentid&gt;347235&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:12:03Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326317&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347712&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="38974" sha1="ejvub2nx3cpf4c81fjbm33t6svdxw7k" xml:space="preserve"&gt;{{干员页面名|归溟幽灵鲨|Specter the Unchained|帰溟スペクター}}{{pathnav2|干员一览}}
+      &lt;text bytes="39011" sha1="q0meurubbkg8plzt54frf86n5lpw83q" xml:space="preserve"&gt;{{干员页面名|归溟幽灵鲨|Specter the Unchained|帰溟スペクター}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 {{异格干员|原型=幽灵鲨}}
 ==干员信息==
@@ -125,6 +125,7 @@
 |部署费用=14→14→16
 |阻挡数=2
 |攻击速度=1.2s
+|所属势力=阿戈尔,深海猎人
 |精英0_1级_生命上限=1311
 |精英0_1级_攻击=335
 |精英0_1级_防御=133
@@ -624,7 +625,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;ejvub2nx3cpf4c81fjbm33t6svdxw7k&lt;/sha1&gt;
+      &lt;sha1&gt;q0meurubbkg8plzt54frf86n5lpw83q&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

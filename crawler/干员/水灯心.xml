@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;76203&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;336732&lt;/id&gt;
-      &lt;parentid&gt;336175&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-03-12T20:07:03Z&lt;/timestamp&gt;
+      &lt;id&gt;347618&lt;/id&gt;
+      &lt;parentid&gt;347132&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:05:00Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;RaYmondCheung&lt;/username&gt;
-        &lt;id&gt;26948&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;[InPageEdit]&lt;/comment&gt;
-      &lt;origin&gt;336732&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347618&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="22088" sha1="lqqk77u593ej523cm79xrr31kdwu0u3" xml:space="preserve"&gt;{{干员页面名|水灯心|水灯心|水灯心}}{{pathnav2|干员一览}}
+      &lt;text bytes="22122" sha1="70ww3nvxc4y9t30ug9dfmuh6keclua4" xml:space="preserve"&gt;{{干员页面名|水灯心|水灯心|水灯心}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -113,6 +112,7 @@
 |部署费用=15→17
 |阻挡数=1
 |攻击速度=1.0s
+|所属势力=维多利亚,塔拉
 |精英0_1级_生命上限=999
 |精英0_1级_攻击=217
 |精英0_1级_防御=58
@@ -464,7 +464,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;lqqk77u593ej523cm79xrr31kdwu0u3&lt;/sha1&gt;
+      &lt;sha1&gt;70ww3nvxc4y9t30ug9dfmuh6keclua4&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

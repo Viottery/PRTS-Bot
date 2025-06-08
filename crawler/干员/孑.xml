@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;19519&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;340044&lt;/id&gt;
-      &lt;parentid&gt;326137&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-04-08T04:20:42Z&lt;/timestamp&gt;
+      &lt;id&gt;347410&lt;/id&gt;
+      &lt;parentid&gt;346987&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:48:53Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
       &lt;comment&gt;update&lt;/comment&gt;
-      &lt;origin&gt;340044&lt;/origin&gt;
+      &lt;origin&gt;347410&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="21400" sha1="aovgmpvjbicah2ra0785c0841ve12z1" xml:space="preserve"&gt;{{干员页面名|孑|Jaye|ジェイ}}{{pathnav2|干员一览}}
+      &lt;text bytes="21425" sha1="oqeqej35lawi1wo6ljruw7iwx6br5q7" xml:space="preserve"&gt;{{干员页面名|孑|Jaye|ジェイ}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -119,6 +119,7 @@
 |部署费用=5→7
 |阻挡数=1
 |攻击速度=1.0s
+|所属势力=炎-龙门
 |精英0_1级_生命上限=1110
 |精英0_1级_攻击=321
 |精英0_1级_防御=195
@@ -480,7 +481,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;aovgmpvjbicah2ra0785c0841ve12z1&lt;/sha1&gt;
+      &lt;sha1&gt;oqeqej35lawi1wo6ljruw7iwx6br5q7&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

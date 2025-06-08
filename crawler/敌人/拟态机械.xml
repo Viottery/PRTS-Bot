@@ -54,18 +54,19 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;77328&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;342211&lt;/id&gt;
-      &lt;parentid&gt;342210&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-04-26T09:10:26Z&lt;/timestamp&gt;
+      &lt;id&gt;346886&lt;/id&gt;
+      &lt;parentid&gt;342211&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-03T15:47:08Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Visu2209&lt;/username&gt;
-        &lt;id&gt;1119&lt;/id&gt;
+        &lt;username&gt;RaYmondCheung&lt;/username&gt;
+        &lt;id&gt;26948&lt;/id&gt;
       &lt;/contributor&gt;
+      &lt;minor/&gt;
       &lt;comment&gt;/* 级别0 */&lt;/comment&gt;
-      &lt;origin&gt;342211&lt;/origin&gt;
+      &lt;origin&gt;346886&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="7164" sha1="lcivgnzf9t1moibc6guc5xa5siz5e8q" xml:space="preserve"&gt;{{#Widget:Mojibake}}
+      &lt;text bytes="7170" sha1="kc2w6ffsigxpffltue0eezzv3ioqpn6" xml:space="preserve"&gt;{{#Widget:Mojibake}}
 {{Navigator|敌人一览}}
 {{敌人信息/common
 |id=1150
@@ -129,7 +130,7 @@
 |技能3=链式反应&amp;lt;br&amp;gt;[重生后]
 |技能3初始=10
 |技能3消耗=30
-|技能3效果=场上存在至少1个处于中立或者被PRTS激活的[[弱化节点]]时可以触发：停止攻击与移动，期间{{color|red|炮口出现红色闪烁特效并上抬}}，等待[[侵入式调用]]将自身抓取；被抓取后：&amp;lt;br&amp;gt;25s内获得{{术语|ba.float|近地悬浮}}，选择场上所有处于中立或者被PRTS激活的[[弱化节点]]为目标，'''自炮口'''发射持续20s的光线，对光线上的我方单位每1s造成攻击力50%的法术伤害，持续时间结束或期间损失当前生命值的30%后降落&amp;lt;br&amp;gt;※不会因为节点被我方启动而断开光线连接
+|技能3效果=场上存在至少1个处于中立或者被PRTS激活的[[弱化节点]]时可以触发：停止攻击与移动，期间{{color|red|炮口出现红色闪烁特效并上抬}}，等待[[侵入式调用]]将自身抓取；被抓取后：&amp;lt;br&amp;gt;25s内获得{{术语|ba.float|近地悬浮}}，选择场上所有处于中立或者被PRTS激活的[[弱化节点]]为目标，'''自炮口'''发射持续20s的光线，对光线上的我方单位每1s造成攻击力50%的法术生命流失，持续时间结束或期间损失当前生命值的30%后降落&amp;lt;br&amp;gt;※不会因为节点被我方启动而断开光线连接
 |天赋=【“重构”】[[PRTS，“源代码”]]未被击败时，被击倒后进入重生状态，恢复100%生命值；若是首次被击倒，还会释放当前波次&amp;lt;br&amp;gt;自身每次因[[PRTS，“源代码”]]解除重生状态时，获得攻击力+100（可叠加5层）&amp;lt;br&amp;gt;[[PRTS，“源代码”]]被击倒时自身退场&amp;lt;!--[
     {
         "key": "MoveFly_p1.attack@max_target",
@@ -238,7 +239,7 @@
 }}
 ==敌人模型==
 {{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
-      &lt;sha1&gt;lcivgnzf9t1moibc6guc5xa5siz5e8q&lt;/sha1&gt;
+      &lt;sha1&gt;kc2w6ffsigxpffltue0eezzv3ioqpn6&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

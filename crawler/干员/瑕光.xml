@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;21776&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;330987&lt;/id&gt;
-      &lt;parentid&gt;328129&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-01-07T14:33:55Z&lt;/timestamp&gt;
+      &lt;id&gt;347724&lt;/id&gt;
+      &lt;parentid&gt;347247&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:13:01Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Visu2209&lt;/username&gt;
-        &lt;id&gt;1119&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 天赋 */&lt;/comment&gt;
-      &lt;origin&gt;330987&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347724&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="40743" sha1="1l65974zb8b8v98qhlkie0hc3uzdesm" xml:space="preserve"&gt;{{干员页面名|瑕光|Blemishine|ブレミシャイン}}{{pathnav2|干员一览}}
+      &lt;text bytes="40770" sha1="b0lsr1hxb608jsqcnbqir0hgfm451dh" xml:space="preserve"&gt;{{干员页面名|瑕光|Blemishine|ブレミシャイン}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -119,6 +119,7 @@
 |部署费用=18→20→22
 |阻挡数=2→3→3
 |攻击速度=1.2s
+|所属势力=卡西米尔
 |精英0_1级_生命上限=1346
 |精英0_1级_攻击=207
 |精英0_1级_防御=242
@@ -588,7 +589,7 @@
 ==注释与链接==
 &amp;lt;references group=注/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;1l65974zb8b8v98qhlkie0hc3uzdesm&lt;/sha1&gt;
+      &lt;sha1&gt;b0lsr1hxb608jsqcnbqir0hgfm451dh&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

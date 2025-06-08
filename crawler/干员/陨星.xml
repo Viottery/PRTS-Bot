@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1750&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326197&lt;/id&gt;
-      &lt;parentid&gt;325935&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:09:07Z&lt;/timestamp&gt;
+      &lt;id&gt;347513&lt;/id&gt;
+      &lt;parentid&gt;347061&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:55:40Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326197&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347513&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="19828" sha1="jevsm08odz298hl7gek5ea3qedinlbg" xml:space="preserve"&gt;{{干员页面名|陨星|Meteorite|メテオリーテ}}{{pathnav2|干员一览}}
+      &lt;text bytes="19852" sha1="sixiq7mkelyz7scki3yt01bxl84ov20" xml:space="preserve"&gt;{{干员页面名|陨星|Meteorite|メテオリーテ}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -118,6 +118,7 @@
 |部署费用=24→26→28
 |阻挡数=1
 |攻击速度=2.8s
+|所属势力=罗德岛
 |精英0_1级_生命上限=770
 |精英0_1级_攻击=377
 |精英0_1级_防御=59
@@ -464,7 +465,7 @@
 {{spineId}}
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;jevsm08odz298hl7gek5ea3qedinlbg&lt;/sha1&gt;
+      &lt;sha1&gt;sixiq7mkelyz7scki3yt01bxl84ov20&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

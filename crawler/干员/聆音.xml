@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;78317&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;343174&lt;/id&gt;
-      &lt;parentid&gt;342802&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-01T11:10:35Z&lt;/timestamp&gt;
+      &lt;id&gt;347547&lt;/id&gt;
+      &lt;parentid&gt;347506&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:00:22Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;30000lightyears&lt;/username&gt;
-        &lt;id&gt;59044&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 干员信息 */&lt;/comment&gt;
-      &lt;origin&gt;343174&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347547&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="23716" sha1="ogxcx7xwe2nfh2j3w2fswyogq6ffl8w" xml:space="preserve"&gt;{{干员页面名|聆音|聆音|聆音}}{{pathnav2|干员一览}}
+      &lt;text bytes="23767" sha1="bv83st1aedjhkv2xhrgl5lrr3i0c0c4" xml:space="preserve"&gt;{{干员页面名|聆音|聆音|聆音}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -109,6 +109,8 @@
 |部署费用=18→20→22
 |阻挡数=2
 |攻击速度=1.2s
+|所属势力=玻利瓦尔
+|隐藏势力=拉特兰
 |精英0_1级_生命上限=1067
 |精英0_1级_攻击=366
 |精英0_1级_防御=168
@@ -433,7 +435,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;ogxcx7xwe2nfh2j3w2fswyogq6ffl8w&lt;/sha1&gt;
+      &lt;sha1&gt;bv83st1aedjhkv2xhrgl5lrr3i0c0c4&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

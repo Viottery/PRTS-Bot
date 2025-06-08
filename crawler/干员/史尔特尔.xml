@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;21091&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;340061&lt;/id&gt;
-      &lt;parentid&gt;329095&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-04-08T04:23:14Z&lt;/timestamp&gt;
+      &lt;id&gt;347746&lt;/id&gt;
+      &lt;parentid&gt;347269&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:14:44Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
       &lt;comment&gt;update&lt;/comment&gt;
-      &lt;origin&gt;340061&lt;/origin&gt;
+      &lt;origin&gt;347746&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="26258" sha1="kmh1jbkd3wzwps7oljeq8dhq75bqyqz" xml:space="preserve"&gt;{{干员页面名|史尔特尔|Surtr|スルト}}{{pathnav2|干员一览}}
+      &lt;text bytes="26282" sha1="8qr4vh8ukirrn88xfu58ndy2swcqxrk" xml:space="preserve"&gt;{{干员页面名|史尔特尔|Surtr|スルト}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -136,6 +136,7 @@
 |部署费用=19→21
 |阻挡数=1
 |攻击速度=1.25s
+|所属势力=罗德岛
 |精英0_1级_生命上限=1330
 |精英0_1级_攻击=288
 |精英0_1级_防御=186
@@ -539,7 +540,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;kmh1jbkd3wzwps7oljeq8dhq75bqyqz&lt;/sha1&gt;
+      &lt;sha1&gt;8qr4vh8ukirrn88xfu58ndy2swcqxrk&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;34433&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;342767&lt;/id&gt;
-      &lt;parentid&gt;339536&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-04-30T19:44:35Z&lt;/timestamp&gt;
+      &lt;id&gt;347670&lt;/id&gt;
+      &lt;parentid&gt;347190&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:08:34Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;一抹晚烟&lt;/username&gt;
-        &lt;id&gt;82858&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;/* 获得方式 */ // Edit via Wikiplus&lt;/comment&gt;
-      &lt;origin&gt;342767&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347670&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="35516" sha1="1asn966d14dkwpjgohhwt2jbir55i4m" xml:space="preserve"&gt;{{干员页面名|焰尾|Flametail|フレイムテイル}}{{pathnav2|干员一览}}
+      &lt;text bytes="35559" sha1="48wd3h7t6j21tnuj95c02ts0yorxlr6" xml:space="preserve"&gt;{{干员页面名|焰尾|Flametail|フレイムテイル}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -120,6 +119,7 @@
 |部署费用=12→14
 |阻挡数=2
 |攻击速度=1.05s
+|所属势力=卡西米尔,红松骑士团
 |精英0_1级_生命上限=864
 |精英0_1级_攻击=216
 |精英0_1级_防御=157
@@ -556,7 +556,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;1asn966d14dkwpjgohhwt2jbir55i4m&lt;/sha1&gt;
+      &lt;sha1&gt;48wd3h7t6j21tnuj95c02ts0yorxlr6&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -119,6 +119,15 @@
 |storyIntro1=没有选择前往远方，并不是因为害怕风雨。
 |storyTxt1={{FULLPAGENAME}}/干员密录/1
 }}
+{{干员密录/list
+|精英化=2
+|等级=60
+|信赖=200
+|蚀刻章override=medal_story_weedy_2
+|storySetName=盐漠上的海风
+|storyIntro1=推开旧日的大门，她遇到一位沉溺于旧日的人。
+|storyTxt1={{FULLPAGENAME}}/干员密录/2
+}}
 }}
 ==悖论模拟==
 {{悖论模拟

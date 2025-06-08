@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;21089&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326211&lt;/id&gt;
-      &lt;parentid&gt;325948&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:09:59Z&lt;/timestamp&gt;
+      &lt;id&gt;347562&lt;/id&gt;
+      &lt;parentid&gt;347076&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:01:23Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326211&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347562&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="25691" sha1="aw10tznyqd9ukenpxlu95mfjd7tmh8m" xml:space="preserve"&gt;{{干员页面名|薄绿|Mint|ミント}}{{pathnav2|干员一览}}
+      &lt;text bytes="25718" sha1="o4q3qe0j6mb8ek9x17tmai5lzllc60t" xml:space="preserve"&gt;{{干员页面名|薄绿|Mint|ミント}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -128,6 +128,7 @@
 |部署费用=23→25
 |阻挡数=1
 |攻击速度=2.0s
+|所属势力=维多利亚
 |精英0_1级_生命上限=1020
 |精英0_1级_攻击=377
 |精英0_1级_防御=125
@@ -505,7 +506,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;aw10tznyqd9ukenpxlu95mfjd7tmh8m&lt;/sha1&gt;
+      &lt;sha1&gt;o4q3qe0j6mb8ek9x17tmai5lzllc60t&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

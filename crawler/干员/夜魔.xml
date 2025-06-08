@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1783&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;334056&lt;/id&gt;
-      &lt;parentid&gt;334054&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-02-06T16:06:01Z&lt;/timestamp&gt;
+      &lt;id&gt;347762&lt;/id&gt;
+      &lt;parentid&gt;347298&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:15:48Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Enko&lt;/username&gt;
-        &lt;id&gt;394&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;/* 干员信息 */ //顺便修了一下老立绘的缩放坐标（因为yj升级过分辨率）&lt;/comment&gt;
-      &lt;origin&gt;334056&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347762&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="25662" sha1="o0dk5vpnzas9pbo4zb2hmohvb8qyzc9" xml:space="preserve"&gt;{{干员页面名|夜魔|Nightmare|ナイトメア}}{{pathnav2|干员一览}}
+      &lt;text bytes="25689" sha1="1g3835mq2cp7ndfv67kn4qnbh0th9r7" xml:space="preserve"&gt;{{干员页面名|夜魔|Nightmare|ナイトメア}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -128,6 +127,7 @@
 |部署费用=18→20
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=维多利亚
 |精英0_1级_生命上限=658
 |精英0_1级_攻击=281
 |精英0_1级_防御=45
@@ -465,7 +465,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;o0dk5vpnzas9pbo4zb2hmohvb8qyzc9&lt;/sha1&gt;
+      &lt;sha1&gt;1g3835mq2cp7ndfv67kn4qnbh0th9r7&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

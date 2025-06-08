@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;75931&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;343055&lt;/id&gt;
-      &lt;parentid&gt;335445&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-01T06:51:10Z&lt;/timestamp&gt;
+      &lt;id&gt;347583&lt;/id&gt;
+      &lt;parentid&gt;347097&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:02:45Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;343055&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347583&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="29996" sha1="idk0n5iko514ejl5jwp5qzhxdjxdvl3" xml:space="preserve"&gt;{{干员页面名|诺威尔|诺威尔|诺威尔}}{{pathnav2|干员一览}}
+      &lt;text bytes="30023" sha1="r3iqp0241l919uabwyxb84jza16f1n0" xml:space="preserve"&gt;{{干员页面名|诺威尔|诺威尔|诺威尔}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -109,6 +109,7 @@
 |部署费用=18→20
 |阻挡数=1
 |攻击速度=2.85s
+|所属势力=维多利亚
 |精英0_1级_生命上限=750
 |精英0_1级_攻击=180
 |精英0_1级_防御=46
@@ -532,7 +533,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;idk0n5iko514ejl5jwp5qzhxdjxdvl3&lt;/sha1&gt;
+      &lt;sha1&gt;r3iqp0241l919uabwyxb84jza16f1n0&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;64705&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;340645&lt;/id&gt;
-      &lt;parentid&gt;340637&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-04-11T00:00:07Z&lt;/timestamp&gt;
+      &lt;id&gt;347714&lt;/id&gt;
+      &lt;parentid&gt;347237&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:12:12Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Visu2209&lt;/username&gt;
-        &lt;id&gt;1119&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 社会期望背包 */&lt;/comment&gt;
-      &lt;origin&gt;340645&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347714&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="35149" sha1="530y1fdbw6ick707mas6654b09pqpt6" xml:space="preserve"&gt;{{干员页面名|艾拉|Ela|Ela}}{{pathnav2|干员一览}}
+      &lt;text bytes="35176" sha1="fatizj5h4j0brkw5xx6y9kjr2xhjveq" xml:space="preserve"&gt;{{干员页面名|艾拉|Ela|Ela}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -123,6 +123,7 @@
 |部署费用=10→12
 |阻挡数=1
 |攻击速度=0.85s
+|所属势力=彩虹小队
 |精英0_1级_生命上限=696
 |精英0_1级_攻击=270
 |精英0_1级_防御=72
@@ -546,7 +547,7 @@
 &amp;lt;/div&amp;gt;
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;530y1fdbw6ick707mas6654b09pqpt6&lt;/sha1&gt;
+      &lt;sha1&gt;fatizj5h4j0brkw5xx6y9kjr2xhjveq&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

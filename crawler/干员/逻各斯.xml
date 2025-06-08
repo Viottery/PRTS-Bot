@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;66435&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;341956&lt;/id&gt;
-      &lt;parentid&gt;341882&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-04-21T16:18:28Z&lt;/timestamp&gt;
+      &lt;id&gt;347679&lt;/id&gt;
+      &lt;parentid&gt;347199&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:09:16Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;30000lightyears&lt;/username&gt;
-        &lt;id&gt;59044&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 干员信息 */&lt;/comment&gt;
-      &lt;origin&gt;341956&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347679&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="51547" sha1="7uo1h1s4ge1n8sdq7fedb6t0zipb573" xml:space="preserve"&gt;{{干员页面名|逻各斯|Logos|ロゴス}}{{pathnav2|干员一览}}
+      &lt;text bytes="51594" sha1="m7bxfagsg1nlcoi04w5oj1x7h94utvb" xml:space="preserve"&gt;{{干员页面名|逻各斯|Logos|ロゴス}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -119,6 +119,7 @@
 |部署费用=19→21
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=罗德岛,罗德岛-精英干员
 |精英0_1级_生命上限=698
 |精英0_1级_攻击=303
 |精英0_1级_防御=45
@@ -598,7 +599,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;7uo1h1s4ge1n8sdq7fedb6t0zipb573&lt;/sha1&gt;
+      &lt;sha1&gt;m7bxfagsg1nlcoi04w5oj1x7h94utvb&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

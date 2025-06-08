@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;12630&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326299&lt;/id&gt;
-      &lt;parentid&gt;326029&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:15:38Z&lt;/timestamp&gt;
+      &lt;id&gt;347677&lt;/id&gt;
+      &lt;parentid&gt;347197&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:09:06Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326299&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347677&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="34063" sha1="9ape71gjemptphog8qzmvgpfmbufsjd" xml:space="preserve"&gt;{{干员页面名|刻俄柏|Ceobe|ケオベ}}{{pathnav2|干员一览}}
+      &lt;text bytes="34114" sha1="l1bgh38ctzmj4bwh6c86d5xggrwlrtb" xml:space="preserve"&gt;{{干员页面名|刻俄柏|Ceobe|ケオベ}}{{pathnav2|干员一览}}
 {{参阅|“三头犬”|作为敌方领袖登场的刻俄柏}}
 
 ==干员信息==
@@ -127,6 +127,8 @@
 |部署费用=19→21
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=罗德岛
+|隐藏势力=玻利瓦尔
 |精英0_1级_生命上限=657
 |精英0_1级_攻击=302
 |精英0_1级_防御=48
@@ -582,7 +584,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;9ape71gjemptphog8qzmvgpfmbufsjd&lt;/sha1&gt;
+      &lt;sha1&gt;l1bgh38ctzmj4bwh6c86d5xggrwlrtb&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

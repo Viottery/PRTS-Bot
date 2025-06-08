@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1730&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326136&lt;/id&gt;
-      &lt;parentid&gt;325792&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:05:18Z&lt;/timestamp&gt;
+      &lt;id&gt;347409&lt;/id&gt;
+      &lt;parentid&gt;346986&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:48:49Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326136&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347409&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="20073" sha1="hel455syawzc2wg9pmfllpuitjm4esl" xml:space="preserve"&gt;{{干员页面名|砾|Gravel|グラベル}}{{pathnav2|干员一览}}
+      &lt;text bytes="20100" sha1="pb1yucsxp7n1o00v8y64jw2ct3yu0kb" xml:space="preserve"&gt;{{干员页面名|砾|Gravel|グラベル}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -120,6 +120,7 @@
 |部署费用=6→8
 |阻挡数=1
 |攻击速度=0.93s
+|所属势力=卡西米尔
 |精英0_1级_生命上限=663
 |精英0_1级_攻击=176
 |精英0_1级_防御=151
@@ -469,7 +470,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;hel455syawzc2wg9pmfllpuitjm4esl&lt;/sha1&gt;
+      &lt;sha1&gt;pb1yucsxp7n1o00v8y64jw2ct3yu0kb&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

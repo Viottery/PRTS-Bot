@@ -54,15 +54,16 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;43801&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;323505&lt;/id&gt;
-      &lt;parentid&gt;287660&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-10-24T08:53:36Z&lt;/timestamp&gt;
+      &lt;id&gt;345994&lt;/id&gt;
+      &lt;parentid&gt;345989&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-24T06:04:25Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;CCl4&lt;/username&gt;
-        &lt;id&gt;51601&lt;/id&gt;
+        &lt;username&gt;DESI&lt;/username&gt;
+        &lt;id&gt;99572&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;立绘？&lt;/comment&gt;
-      &lt;origin&gt;323505&lt;/origin&gt;
+      &lt;minor/&gt;
+      &lt;comment&gt;撤销[[Special:Contributions/先苔|先苔]]（[[User talk:先苔|讨论]]）的版本345989&lt;/comment&gt;
+      &lt;origin&gt;345994&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
       &lt;text bytes="1123" sha1="d8b6ghzhl6izpnj7xlyyrqimwshd1l8" xml:space="preserve"&gt;{{Navigator|敌人一览}}

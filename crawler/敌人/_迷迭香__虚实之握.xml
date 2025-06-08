@@ -54,17 +54,17 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;72036&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;345308&lt;/id&gt;
-      &lt;parentid&gt;321452&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-15T15:05:10Z&lt;/timestamp&gt;
+      &lt;id&gt;346034&lt;/id&gt;
+      &lt;parentid&gt;345909&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-24T14:16:58Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;深溟猎食者&lt;/username&gt;
-        &lt;id&gt;69477&lt;/id&gt;
+        &lt;username&gt;Visu2209&lt;/username&gt;
+        &lt;id&gt;1119&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;origin&gt;345308&lt;/origin&gt;
+      &lt;origin&gt;346034&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="8676" sha1="i3v6omgfyq88w5ebdsqpjortzqwszoa" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+      &lt;text bytes="8633" sha1="hodtaxl7in1pb6rg4vajc85bjyqkh22" xml:space="preserve"&gt;{{Navigator|敌人一览}}
 {{参阅|迷迭香|作为我方狙击干员登场的迷迭香}}
 {{敌人信息/common
 |id=1110
@@ -88,7 +88,7 @@
 |相关敌人=[[矢量战术装备]],[[“迷迭香”的无人机]]
 |登场活动=矢量突破2024
 }}
-==级别1==
+==Rank Ⅰ==
 {{敌人信息/level
 |index=0
 |描述=以迷迭香的战力极限为模本构拟的突破训练官，会投掷能击晕周围我方的矢量战术装备进行作战。
@@ -116,7 +116,7 @@
 |技能0=投射&amp;lt;br&amp;gt;[第一形态]
 |技能0初始=20
 |技能0消耗=40
-|技能0效果=仅【心绪力场】生效期间可进行冷却且可触发：选择场上一个我方单位，对目标先后造成攻击力100%/50%/50%的三次物理伤害，并在其所在地块中心召唤一个[[矢量战术装备]]&amp;lt;br&amp;gt;※造成首次伤害时，若目标处于{{术语|ba.stun|晕眩}}状态，则令其强制撤退(不返还部署费用)
+|技能0效果=仅【心绪力场】生效期间可进行冷却且可触发：选择场上一个我方单位，对目标先后造成攻击力100%/50%/50%的三次物理伤害，并在其所在地块中心以自身路径召唤一个[[矢量战术装备]]&amp;lt;br&amp;gt;※造成首次伤害时，若目标处于{{术语|ba.stun|晕眩}}状态，则令其强制撤退(不返还部署费用)
 |技能1=捕获&amp;lt;br&amp;gt;[第一形态]&amp;lt;br&amp;gt;[第二形态]
 |技能1初始=25
 |技能1消耗=25
@@ -124,7 +124,7 @@
 |天赋={{异常效果|免疫失衡}}&amp;lt;br&amp;gt;【心绪力场】：受到的物理/法术伤害-60%。【心绪力场】生效期间：场上的[[矢量战术装备]]被击倒(即进入重生)时，令场上其它装备形态的[[矢量战术装备]]【自爆】，【心绪力场】效果暂时失效，无法进行普通攻击，直至触发【捕获】/切换形态后恢复&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;'''第一形态'''&amp;lt;br&amp;gt;仅进行近战攻击，造成物理伤害&amp;lt;br&amp;gt;被击倒时，自身退场
 }}
 
-==级别2==
+==Rank Ⅱ==
 {{敌人信息/level
 |index=1
 |描述=以迷迭香的战力极限为模本构拟的突破训练官，会投掷能击晕周围我方的矢量战术装备进行作战。
@@ -133,11 +133,11 @@
 |技能2=增幅投射&amp;lt;br&amp;gt;[第二形态]
 |技能2初始=20
 |技能2消耗=40
-|技能2效果=仅【心绪力场】生效期间可进行冷却且可触发：选择场上一个我方单位，对目标先后造成攻击力100%/50%/50%的三次物理伤害，并在其所在地块中心召唤一个[[矢量战术装备|{{color|orange|矢量战术装备}}]]&amp;lt;br&amp;gt;※造成首次伤害时，若目标处于{{术语|ba.stun|晕眩}}状态，则令其强制撤退(不返还部署费用)&amp;lt;br&amp;gt;※单次技能内首次上述行为结束4s后，再次触发一次上述行为，技能期间无法攻击/移动
+|技能2效果=仅【心绪力场】生效期间可进行冷却且可触发：停止移动与攻击，选择场上一个我方单位，对目标先后造成攻击力100%/50%/50%的三次物理伤害，并在其所在地块中心以自身路径召唤一个[[矢量战术装备|{{color|orange|矢量战术装备}}]]；4s后重复1次&amp;lt;br&amp;gt;※造成首次伤害时，若目标处于{{术语|ba.stun|晕眩}}状态，则令其强制撤退(不返还部署费用)
 |天赋={{异常效果|免疫失衡}}&amp;lt;br&amp;gt;【心绪力场】：受到的物理/法术伤害-60%。【心绪力场】生效期间：场上的[[矢量战术装备|{{color|orange|矢量战术装备}}]]被击倒(即进入重生)时，令场上其它装备形态的[[矢量战术装备|{{color|orange|矢量战术装备}}]]【自爆】，【心绪力场】效果暂时失效，无法进行普通攻击，直至触发【捕获】/切换形态后恢复&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;'''第一形态'''&amp;lt;br&amp;gt;仅进行近战攻击，造成物理伤害&amp;lt;br&amp;gt;被击倒时，进行持续28s的重生（恢复100%生命值）；&amp;lt;br&amp;gt;重生开始时，释放当前波次，以预设路径召唤敌人；&amp;lt;br&amp;gt;重生期间，每5s对半径3.1范围内(中点判定)我方单位造成1000点法术伤害（无视迷彩）(若处于【心绪力场】失效期间进入重生，则此伤害提升至1500)；&amp;lt;br&amp;gt;重生结束时，令场上所有[[矢量战术装备|{{color|orange|矢量战术装备}}]]退场，自身【心绪力场】重新生效，切换至'''第二形态'''&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;'''第二形态'''&amp;lt;br&amp;gt;首次进入此形态时，获得15s{{异常效果|无敌}}&amp;lt;br&amp;gt;仅进行近战攻击，造成物理伤害&amp;lt;br&amp;gt;普通攻击命中目标时，对自身造成1500点真实伤害，对自身半径3.0范围内(中点判定)的我方单位额外造成攻击力20%的法术伤害&amp;lt;br&amp;gt;自身退场时，令场上所有[[“迷迭香”的无人机|{{color|orange|“迷迭香”的无人机}}]]退场
 }}
 
-==级别3==
+==Rank Ⅲ==
 {{敌人信息/level
 |index=2
 |描述=以迷迭香的战力极限为模本构拟的突破训练官，会投掷能击晕周围我方的矢量战术装备进行作战。
@@ -150,7 +150,7 @@
 
 ==敌人模型==
 {{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
-      &lt;sha1&gt;i3v6omgfyq88w5ebdsqpjortzqwszoa&lt;/sha1&gt;
+      &lt;sha1&gt;hodtaxl7in1pb6rg4vajc85bjyqkh22&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;62739&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;336598&lt;/id&gt;
-      &lt;parentid&gt;331009&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-03-09T12:59:55Z&lt;/timestamp&gt;
+      &lt;id&gt;347663&lt;/id&gt;
+      &lt;parentid&gt;347181&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:08:04Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Enko&lt;/username&gt;
-        &lt;id&gt;394&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;/* 天赋 */ //&lt;/comment&gt;
-      &lt;origin&gt;336598&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347663&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="37467" sha1="otilly7ltlzlfdizbb1rbwp62zn6hm7" xml:space="preserve"&gt;{{干员页面名|莱伊|Ray|レイ}}{{pathnav2|干员一览}}
+      &lt;text bytes="37494" sha1="2e6ynzfozc36nkxzagipprkno5xgu9v" xml:space="preserve"&gt;{{干员页面名|莱伊|Ray|レイ}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -119,6 +118,7 @@
 |部署费用=17→19→21
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=雷姆必拓
 |精英0_1级_生命上限=904
 |精英0_1级_攻击=547
 |精英0_1级_防御=103
@@ -546,7 +546,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;otilly7ltlzlfdizbb1rbwp62zn6hm7&lt;/sha1&gt;
+      &lt;sha1&gt;2e6ynzfozc36nkxzagipprkno5xgu9v&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

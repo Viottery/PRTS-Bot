@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;72924&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;327289&lt;/id&gt;
-      &lt;parentid&gt;324750&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-17T07:22:45Z&lt;/timestamp&gt;
+      &lt;id&gt;348503&lt;/id&gt;
+      &lt;parentid&gt;348501&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T16:13:52Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Hjhk258&lt;/username&gt;
-        &lt;id&gt;59&lt;/id&gt;
+        &lt;username&gt;深溟猎食者&lt;/username&gt;
+        &lt;id&gt;69477&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 级别0 */ // Edit via Wikiplus&lt;/comment&gt;
-      &lt;origin&gt;327289&lt;/origin&gt;
+      &lt;minor/&gt;
+      &lt;origin&gt;348503&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="1876" sha1="1sdecjtg8wc2noir4didesyr4p11k8y" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+      &lt;text bytes="1915" sha1="fxv1os2twcbmb64xyb2dwuf4fjz87jr" xml:space="preserve"&gt;{{Navigator|敌人一览}}
 {{敌人信息/common
 |id=898
 |名称=节日爵士乐手
@@ -114,13 +114,13 @@
 |技能0=狂欢式演奏
 |技能0初始=3
 |技能0消耗=10
-|技能0效果=仅{{异常效果|隐匿}}失效时可触发：&amp;lt;br&amp;gt;锁定攻击范围内1名我方单位，持续施法10.6s，期间每0.5s对目标造成攻击力20%的法术伤害和攻击力10%的{{术语|ba.dt.burning|灼燃损伤}}&amp;lt;br&amp;gt;此技能可攻击且优先攻击[[“狂欢之主”]]
+|技能0效果=仅{{异常效果|隐匿}}失效时可触发：&amp;lt;br&amp;gt;锁定攻击范围内1名我方单位，持续施法10.6s，期间每0.5s对目标造成攻击力20%的法术伤害和攻击力10%的{{术语|ba.dt.burning|灼燃损伤}}/{{术语|ba.dt.burning2|灼燃损伤}}&amp;lt;br&amp;gt;此技能可攻击且优先攻击[[“狂欢之主”]]
 |天赋=未被阻挡且未受到反隐效果影响时：不进行普通攻击，无法触发技能，获得{{异常效果|隐匿}}+{{异常效果|孤立}}&amp;lt;br&amp;gt;上述效果失效时：仅进行近战攻击，造成物理伤害
 }}
 
 ==敌人模型==
 {{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
-      &lt;sha1&gt;1sdecjtg8wc2noir4didesyr4p11k8y&lt;/sha1&gt;
+      &lt;sha1&gt;fxv1os2twcbmb64xyb2dwuf4fjz87jr&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

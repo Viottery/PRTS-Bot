@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;70097&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;334075&lt;/id&gt;
-      &lt;parentid&gt;332704&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-02-07T06:55:44Z&lt;/timestamp&gt;
+      &lt;id&gt;347741&lt;/id&gt;
+      &lt;parentid&gt;347264&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:14:22Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
       &lt;comment&gt;update&lt;/comment&gt;
-      &lt;origin&gt;334075&lt;/origin&gt;
+      &lt;origin&gt;347741&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="35399" sha1="50bju0jmn3ancugk0yfadll3i7fv2ro" xml:space="preserve"&gt;{{干员页面名|佩佩|Pepe|ペペ}}{{pathnav2|干员一览}}
+      &lt;text bytes="35423" sha1="qz0appbv61m0gnx95xk1kh5ina0vl16" xml:space="preserve"&gt;{{干员页面名|佩佩|Pepe|ペペ}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -116,6 +116,7 @@
 |部署费用=18→20
 |阻挡数=2
 |攻击速度=1.8s
+|所属势力=萨尔贡
 |精英0_1级_生命上限=1249
 |精英0_1级_攻击=607
 |精英0_1级_防御=186
@@ -553,7 +554,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;50bju0jmn3ancugk0yfadll3i7fv2ro&lt;/sha1&gt;
+      &lt;sha1&gt;qz0appbv61m0gnx95xk1kh5ina0vl16&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

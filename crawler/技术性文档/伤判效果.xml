@@ -54,20 +54,20 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;47399&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;339579&lt;/id&gt;
-      &lt;parentid&gt;335112&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-04-05T04:20:52Z&lt;/timestamp&gt;
+      &lt;id&gt;348752&lt;/id&gt;
+      &lt;parentid&gt;348736&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-06T08:27:05Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Enko&lt;/username&gt;
-        &lt;id&gt;394&lt;/id&gt;
+        &lt;username&gt;BobLiu&lt;/username&gt;
+        &lt;id&gt;46969&lt;/id&gt;
       &lt;/contributor&gt;
       &lt;minor/&gt;
-      &lt;comment&gt;//&lt;/comment&gt;
-      &lt;origin&gt;339579&lt;/origin&gt;
+      &lt;comment&gt;铃兰的脆弱效果来自二天赋而非三技能，将描述修改为“三技能能持续赋予敌人脆弱”更为严谨&lt;/comment&gt;
+      &lt;origin&gt;348752&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="9575" sha1="awwf8wila6eb2xenvdhdcheaid8bktm" xml:space="preserve"&gt;&amp;lt;noinclude&amp;gt;{{编辑中}}[[分类:技术性文档]]&amp;lt;/noinclude&amp;gt;
-'''伤判效果''' 是对一类在 '''计算完防御/法术抗性''' 后 '''增加或减少伤害或直接让伤害归零'''的BUFF的统称。且不包括{{异常效果|无敌}}与重设伤害效果。&amp;lt;br&amp;gt;
+      &lt;text bytes="9587" sha1="iq7wifbreq5bzmsjxlhkmn52oegy0m4" xml:space="preserve"&gt;&amp;lt;noinclude&amp;gt;{{编辑中}}[[分类:技术性文档]]&amp;lt;/noinclude&amp;gt;
+'''伤判效果''' 是对一类通常在 '''计算完防御/法术抗性''' 后 '''增加或减少伤害或直接让伤害归零'''的BUFF的统称。且不包括{{异常效果|无敌}}与重设伤害效果。&amp;lt;br&amp;gt;
 * 目前截止到客户端版本2.2.21，游戏内共有4种'''伤判效果'''的种类。
 ** 其中1种在攻击时进行计算的'''攻击伤判效果'''：
 *** '''攻击命中'''：所有单位拥有初始100%的物理/法术命中率属性，会受到'''命中率降低'''效果的影响。进行攻击的单位的命中率低于100%而'''开始攻击时'''会进行命中判定，会出现'''攻击未命中'''现象。
@@ -158,7 +158,7 @@
 * 先开启赤冬的技能获得护盾，再开启深海色的技能获得物理闪避，则受伤时只会触发护盾，护盾消失后才能正常触发物理闪避；
 * 反之，先开启深海色的技能，再开启赤冬的技能，则受到物理伤害时先计算闪避，闪避失败才消耗护盾。
 
-'''例2：'''[[泥岩(敌方)|敌方泥岩]]拥有吸收法术伤害的{{术语|ba.barrier|屏障}}，[[铃兰]]的三技能“狐火渺然”能赋予敌人{{术语|ba.fragile|脆弱}}。
+'''例2：'''[[泥岩(敌方)|敌方泥岩]]拥有吸收法术伤害的{{术语|ba.barrier|屏障}}，[[铃兰]]的三技能“狐火渺然”能持续赋予敌人{{术语|ba.fragile|脆弱}}。
 
 现在开启铃兰的技能为其赋予脆弱，然后使用法术伤害攻击泥岩。
 * 若泥岩早已开启屏障，则其他干员造成的法术伤害将优先被屏障挡下而无法享受脆弱效果；
@@ -177,7 +177,7 @@
 
 在不开启技能，首次攻击[[莱茵生命防卫科成员]]时，由于本次攻击被其{{术语|ba.shield|护盾}}抵挡，故本次攻击'''造成伤害失败'''，无法获取额外技力。
 * 同样的情况发生在攻击未被阻挡的[[深溟猎食者]]时，当攻击被其闪避，同样没能成功造成伤害，无法生效。&lt;/text&gt;
-      &lt;sha1&gt;awwf8wila6eb2xenvdhdcheaid8bktm&lt;/sha1&gt;
+      &lt;sha1&gt;iq7wifbreq5bzmsjxlhkmn52oegy0m4&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

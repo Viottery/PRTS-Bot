@@ -54,18 +54,19 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;79441&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;345620&lt;/id&gt;
-      &lt;parentid&gt;345435&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-18T14:01:20Z&lt;/timestamp&gt;
+      &lt;id&gt;346730&lt;/id&gt;
+      &lt;parentid&gt;346729&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-31T17:25:24Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;我猴某&lt;/username&gt;
-        &lt;id&gt;44914&lt;/id&gt;
+        &lt;username&gt;Hjhk258&lt;/username&gt;
+        &lt;id&gt;59&lt;/id&gt;
       &lt;/contributor&gt;
       &lt;minor/&gt;
-      &lt;origin&gt;345620&lt;/origin&gt;
+      &lt;comment&gt;已还原[[Special:Contributions/A20040920A|A20040920A]]（[[User talk:A20040920A|讨论]]）的编辑至最后由[[User:冬灵血巫大師|冬灵血巫大師]]修订的版本&lt;/comment&gt;
+      &lt;origin&gt;345913&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="7878" sha1="0phsr0b1n03o3bm1oz30k5ezazfz1iw" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+      &lt;text bytes="8273" sha1="n31wogc54hjyer8o2xtynspnbpizxxk" xml:space="preserve"&gt;{{Navigator|敌人一览}}
 {{敌人信息/common
 |id=1300
 |名称=结构性原理
@@ -88,7 +89,7 @@
 |相关敌人=[[“Mechanist”，机械之心]]
 |登场活动=矢量突破S1
 }}
-==级别0==
+==Rank Ⅰ==
 {{敌人信息/level
 |index=0
 |描述=Mechanist亲手制造的风险排查机械，是他最好的朋友。
@@ -113,7 +114,7 @@
 |浮空抗性=无
 |战栗抗性=无
 |恐惧抗性=无
-|天赋={{color|gold|第一形态}}&amp;lt;br&amp;gt;【专注模块】攻击附加自身攻击力40%的{{术语|ba.dt.erosion|侵蚀损伤}}，每次攻击同一目标时攻击速度+30，最多叠加5层，停止攻击6s/切换目标后清空&amp;lt;br&amp;gt;【应激防御模块】每次受到伤害后，防御力+400，法术抗性+8，最多叠加10层，最近1s内未受到伤害时每秒衰减1层&amp;lt;br&amp;gt;[[“Mechanist”，机械之心]]处于【假死】时/通过【自我防护术式】获得的{{术语|ba.shield|护盾}}耗尽时，该效果失效且持续{{术语|ba.stun|晕眩}}&amp;lt;br&amp;gt;被击倒后进行持续0.1s的重生，恢复2%生命值，进入【假死】：&amp;lt;br&amp;gt;①[[“Mechanist”，机械之心]]在场且未处于【假死】时，在20s内每秒治疗自身5%生命值，生命值达到100%时进入{{color|gold|第一形态}}&amp;lt;br&amp;gt;②否则自身退场&amp;lt;!--[
+|天赋={{color|gold|第一形态}}&amp;lt;br&amp;gt;【专注模块】：攻击附加攻击力40%的{{术语|ba.dt.erosion|侵蚀损伤}}；每次攻击同一目标时攻击速度+30，最多叠加5层，停止攻击6s/切换目标后清空&amp;lt;br&amp;gt;【应激防御模块】：未失效时，每次成功受到伤害后触发1次，触发后获得1层防御力+400，法术抗性+8的增益，最多叠加10层；最近1s内未触发时，每秒减少2层增益&amp;lt;br&amp;gt;被击倒后进行持续0.1s的重生，恢复2%生命值，清空[[“Mechanist”，机械之心]]的护盾，随后进入【假死】&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;{{color|gold|假死}}&amp;lt;br&amp;gt;{{异常效果|无敌}}，{{异常效果|不可阻挡}}，{{异常效果|自缚}}，不进行普通攻击；每秒治疗自身5%生命值，持续20s后自身重新进入{{color|gold|第一形态}}&amp;lt;br&amp;gt;[[“Mechanist”，机械之心]]与自身同时处于【假死】时，自身立刻退场&amp;lt;!--[
     {
         "key": "water.attack@ep_damage_ratio",
         "value": 0.4,
@@ -271,13 +272,15 @@
     }
 ]--&amp;gt;
 }}
-==级别1==
+
+==Rank Ⅱ==
 {{敌人信息/level
 |index=1
 |最大生命值=60000
-|天赋={{color|gold|第一形态}}&amp;lt;br&amp;gt;【专注模块】攻击附加自身攻击力40%的{{术语|ba.dt.erosion|侵蚀损伤}}，每次攻击同一目标时攻击速度+30，最多叠加5层，停止攻击6s/切换目标后清空&amp;lt;br&amp;gt;【应激防御模块】每次受到伤害后，防御力+400，法术抗性+8，最多叠加10层，最近1s内未受到伤害时每秒衰减1层&amp;lt;br&amp;gt;[[“Mechanist”，机械之心|{{color|orange|“Mechanist”，机械之心}}]]处于【假死】时/通过【自我防护术式】获得的{{术语|ba.shield|护盾}}耗尽时，该效果失效且持续{{术语|ba.stun|晕眩}}&amp;lt;br/&amp;gt;被击倒后进行持续0.1s的重生，恢复2%生命值，进入【假死】：&amp;lt;br&amp;gt;①[[“Mechanist”，机械之心|{{color|orange|“Mechanist”，机械之心}}]]在场且未处于【假死】时，在20s内每秒治疗自身5%生命值，生命值达到100%时进入{{color|gold|第一形态}}&amp;lt;br&amp;gt;②否则进入持续30s的重生，恢复100%生命值，进入{{color|gold|第二形态}}&amp;lt;br&amp;gt;{{color|gold|第二形态}}&amp;lt;br&amp;gt;最大生命值+100%，攻击力+25%，防御力+0，法术抗性+0，移动速度+60%，攻击间隔+2.0&amp;lt;br&amp;gt;【加速模块】进入加速状态：每0.333s尝试获得一次移动速度+50%，最多尝试30次（前5s内的尝试不生效）&amp;lt;br&amp;gt;退出加速状态时清空移速叠加并重置加速尝试次数&amp;lt;br&amp;gt;因各种效果导致加速状态被打断时，退出加速状态；以上状态结束后/解除阻挡后，重新进入加速状态&amp;lt;br&amp;gt;加速状态下的首次攻击额外造成'''当前移动速度×1000'''的物理普通伤害&amp;lt;br&amp;gt;被击倒后进行持续0.1s的重生，恢复2%生命值，进入【假死】：&amp;lt;br&amp;gt;①[[“Mechanist”，机械之心|{{color|orange|“Mechanist”，机械之心}}]]在场且未处于【假死】时，在20s内每秒治疗自身5%生命值，生命值达到100%时进入{{color|gold|第二形态}}&amp;lt;br&amp;gt;②否则自身退场
+|天赋={{color|gold|第一形态}}&amp;lt;br&amp;gt;【专注模块】：攻击附加攻击力40%的{{术语|ba.dt.erosion|侵蚀损伤}}；每次攻击同一目标时攻击速度+30，最多叠加5层，停止攻击6s/切换目标后清空&amp;lt;br&amp;gt;【应激防御模块】：未失效时，每次成功受到伤害后触发1次，触发后获得1层防御力+400，法术抗性+8的增益，最多叠加10层；最近1s内未触发时，每秒减少2层增益&amp;lt;br&amp;gt;被击倒后进行持续0.1s的重生，恢复2%生命值，清空[[“Mechanist”，机械之心|{{color|orange|“Mechanist”，机械之心}}]]的护盾，随后进入【假死】&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;{{color|gold|假死}}&amp;lt;br&amp;gt;{{异常效果|无敌}}，{{异常效果|不可阻挡}}，{{异常效果|自缚}}，不进行普通攻击；每秒治疗自身5%生命值，持续20s后自身重新进入{{color|gold|第一形态}}&amp;lt;br&amp;gt;[[“Mechanist”，机械之心|{{color|orange|“Mechanist”，机械之心}}]]与自身同时处于【假死】时，自身立刻结束【假死】，并进入持续30s的重生&amp;lt;br&amp;gt;重生恢复100%生命值，结束后，自身进入第二形态&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;{{color|gold|第二形态}}&amp;lt;br&amp;gt;最大生命值+100%，攻击力+25%，防御力+0，法术抗性+0，移动速度最终*60%，攻击间隔+2.0&amp;lt;br&amp;gt;【加速模块】：出场后进入加速状态，加速状态下：每0.333s尝试获得1层移动速度+50%的增益，最多尝试30次（每次加速状态的前3s内的尝试不生效）&amp;lt;br&amp;gt;获得{{术语|ba.stun|晕眩}}/{{术语|ba.frozen|冻结}}/{{术语|ba.levitate|浮空}}/{{术语|ba.root|束缚}}/{{术语|ba.fear|恐惧}}时，退出加速状态；以上状态结束后/解除阻挡后，重新进入加速状态&amp;lt;br&amp;gt;加速状态下的首次普通攻击额外造成一次'''当前移动速度×1000'''的物理普通伤害，随后退出加速状态&amp;lt;br&amp;gt;被击倒后进行持续0.1s的重生，恢复2%生命值，随后进入【假死】：&amp;lt;br&amp;gt;{{异常效果|无敌}}，{{异常效果|不可阻挡}}，{{异常效果|自缚}}，不进行普通攻击；每秒治疗自身5%生命值，持续20s后自身重新进入{{color|gold|第二形态}}&amp;lt;br&amp;gt;【假死】期间若[[“Mechanist”，机械之心|{{color|orange|“Mechanist”，机械之心}}]]已退场，则自身立刻退场
 }}
-==级别2==
+
+==Rank Ⅲ==
 {{敌人信息/level
 |index=2
 |最大生命值=80000
@@ -285,7 +288,7 @@
 
 ==敌人模型==
 {{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
-      &lt;sha1&gt;0phsr0b1n03o3bm1oz30k5ezazfz1iw&lt;/sha1&gt;
+      &lt;sha1&gt;n31wogc54hjyer8o2xtynspnbpizxxk&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;38916&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;344991&lt;/id&gt;
-      &lt;parentid&gt;342957&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-12T09:24:48Z&lt;/timestamp&gt;
+      &lt;id&gt;347657&lt;/id&gt;
+      &lt;parentid&gt;347175&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:07:36Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;30000lightyears&lt;/username&gt;
-        &lt;id&gt;59044&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 干员信息 */&lt;/comment&gt;
-      &lt;origin&gt;344991&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347657&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="36544" sha1="gtlbe8xible2e5xp8l0ojgk2vsh15k5" xml:space="preserve"&gt;{{干员页面名|菲亚梅塔|Fiammetta|フィアメッタ}}{{pathnav2|干员一览}}
+      &lt;text bytes="36568" sha1="mt2aledqr2uofsxc61sdqibjgdmzzj0" xml:space="preserve"&gt;{{干员页面名|菲亚梅塔|Fiammetta|フィアメッタ}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -128,6 +128,7 @@
 |部署费用=25→27→29
 |阻挡数=1
 |攻击速度=2.8s
+|所属势力=拉特兰
 |精英0_1级_生命上限=985
 |精英0_1级_攻击=375
 |精英0_1级_防御=80
@@ -592,7 +593,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;gtlbe8xible2e5xp8l0ojgk2vsh15k5&lt;/sha1&gt;
+      &lt;sha1&gt;mt2aledqr2uofsxc61sdqibjgdmzzj0&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

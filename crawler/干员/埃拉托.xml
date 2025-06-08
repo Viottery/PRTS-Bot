@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;41455&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;329149&lt;/id&gt;
-      &lt;parentid&gt;326257&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-12-06T13:36:04Z&lt;/timestamp&gt;
+      &lt;id&gt;347616&lt;/id&gt;
+      &lt;parentid&gt;347130&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:04:52Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Enko&lt;/username&gt;
-        &lt;id&gt;394&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;/* 获得方式 */ //&lt;/comment&gt;
-      &lt;origin&gt;329149&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347616&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="27005" sha1="f707udftphna8y2pu728p37b0nlexen" xml:space="preserve"&gt;{{干员页面名|埃拉托|Erato|エラト}}{{pathnav2|干员一览}}
+      &lt;text bytes="27029" sha1="hbdq34kjdg27z42htry6o0de1h9877p" xml:space="preserve"&gt;{{干员页面名|埃拉托|Erato|エラト}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -120,6 +119,7 @@
 |部署费用=21→23
 |阻挡数=1
 |攻击速度=2.4s
+|所属势力=米诺斯
 |精英0_1级_生命上限=811
 |精英0_1级_攻击=428
 |精英0_1级_防御=60
@@ -483,7 +483,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;f707udftphna8y2pu728p37b0nlexen&lt;/sha1&gt;
+      &lt;sha1&gt;hbdq34kjdg27z42htry6o0de1h9877p&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

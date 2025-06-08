@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;47232&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;336180&lt;/id&gt;
-      &lt;parentid&gt;336082&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-03-08T01:08:08Z&lt;/timestamp&gt;
+      &lt;id&gt;347671&lt;/id&gt;
+      &lt;parentid&gt;347191&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:08:38Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Dandeagle&lt;/username&gt;
-        &lt;id&gt;45044&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;origin&gt;336180&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347671&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="40153" sha1="o72bqq8z9o72d6umrfp75urat4btmev" xml:space="preserve"&gt;{{干员页面名|伺夜|Vigil|ヴィジェル}}{{pathnav2|干员一览}}
+      &lt;text bytes="40177" sha1="ry57nqyzlltvl7okboumj1my0eoijq2" xml:space="preserve"&gt;{{干员页面名|伺夜|Vigil|ヴィジェル}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -122,6 +122,7 @@
 |部署费用=15→17
 |阻挡数=1
 |攻击速度=1.0s
+|所属势力=叙拉古
 |精英0_1级_生命上限=785
 |精英0_1级_攻击=195
 |精英0_1级_防御=54
@@ -626,7 +627,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;o72bqq8z9o72d6umrfp75urat4btmev&lt;/sha1&gt;
+      &lt;sha1&gt;ry57nqyzlltvl7okboumj1my0eoijq2&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

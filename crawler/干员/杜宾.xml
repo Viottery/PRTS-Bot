@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1725&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;309189&lt;/id&gt;
-      &lt;parentid&gt;289176&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-05-27T04:47:50Z&lt;/timestamp&gt;
+      &lt;id&gt;347531&lt;/id&gt;
+      &lt;parentid&gt;347452&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:58:58Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;调零修罗&lt;/username&gt;
-        &lt;id&gt;6713&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;（实装天赋列表3）&lt;/comment&gt;
-      &lt;origin&gt;309189&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347531&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="16038" sha1="rfnarcwevp7ggq2wtxsbzgcbe7o848k" xml:space="preserve"&gt;{{干员页面名|杜宾|Dobermann|ドーベルマン}}{{pathnav2|干员一览}}
+      &lt;text bytes="16089" sha1="sc5fhnywg1nd2b2pe3lzxy2pemjvmm6" xml:space="preserve"&gt;{{干员页面名|杜宾|Dobermann|ドーベルマン}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -118,6 +118,8 @@
 |部署费用=13→15
 |阻挡数=2
 |攻击速度=1.05s
+|所属势力=罗德岛
+|隐藏势力=玻利瓦尔
 |精英0_1级_生命上限=818
 |精英0_1级_攻击=264
 |精英0_1级_防御=178
@@ -433,7 +435,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;rfnarcwevp7ggq2wtxsbzgcbe7o848k&lt;/sha1&gt;
+      &lt;sha1&gt;sc5fhnywg1nd2b2pe3lzxy2pemjvmm6&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

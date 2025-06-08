@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;43733&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326340&lt;/id&gt;
-      &lt;parentid&gt;326068&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:18:48Z&lt;/timestamp&gt;
+      &lt;id&gt;347745&lt;/id&gt;
+      &lt;parentid&gt;347268&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:14:40Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326340&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347745&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="32599" sha1="rfpxnn61zrd1xqenmsulln4tzryh6kr" xml:space="preserve"&gt;{{干员页面名|百炼嘉维尔|Gavial the Invincible|百錬ガヴィル}}{{pathnav2|干员一览}}
+      &lt;text bytes="32647" sha1="8tw6uzajlh4rycmamm1cuzfm8uqzc91" xml:space="preserve"&gt;{{干员页面名|百炼嘉维尔|Gavial the Invincible|百錬ガヴィル}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 {{异格干员|原型=嘉维尔}}
 ==干员信息==
@@ -133,6 +133,8 @@
 |部署费用=20→22→24
 |阻挡数=2→2→3
 |攻击速度=1.2s
+|所属势力=罗德岛
+|隐藏势力=萨尔贡
 |精英0_1级_生命上限=1325
 |精英0_1级_攻击=309
 |精英0_1级_防御=165
@@ -582,7 +584,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;rfpxnn61zrd1xqenmsulln4tzryh6kr&lt;/sha1&gt;
+      &lt;sha1&gt;8tw6uzajlh4rycmamm1cuzfm8uqzc91&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

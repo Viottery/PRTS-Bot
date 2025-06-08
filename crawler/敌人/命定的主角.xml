@@ -1,0 +1,159 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="79791" pageid="79791" ns="0" title="命定的主角" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;命定的主角&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;79791&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;349002&lt;/id&gt;
+      &lt;parentid&gt;348915&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-07T17:23:06Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;冬灵血巫大師&lt;/username&gt;
+        &lt;id&gt;19138&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;comment&gt;/* 级别0 */&lt;/comment&gt;
+      &lt;origin&gt;349002&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="2586" sha1="h3q50b5jvxuygjwvzvqd72p7nyfytgu" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+{{敌人信息/common
+|id=1016
+|名称=命定的主角
+|index=WW10
+|地位级别=精英
+|描述=主角。“永远不会倒下”是他的信条，他誓会将此践行到底，只存在于特效中的宝剑果真斩断了敌人的头颅，他满足地看着敌人炽热的鲜血泼洒满地，哀嚎响彻整个片场。他会战斗直到最后一刻。
+|伤害类型=物理
+|攻击方式=远程
+|行动方式=地面
+|耐久=A
+|攻击力=B+
+|防御力=B+
+|移动速度=C
+|攻击速度=D
+|法术抗性=B
+|元素抗性=E
+|损伤抵抗=E
+|能力=·攻击附带{{术语|ba.dt.neural|神经损伤}}&amp;lt;br&amp;gt;·处于摄影区域内攻击范围扩大，且优先攻击&amp;lt;反派阵营角色&amp;gt;和&amp;lt;命定的反派&amp;gt;&amp;lt;br&amp;gt;·重生
+|相关敌人=[[反派阵营角色]],[[命定的反派]]
+|登场活动=红丝绒
+}}
+==级别0==
+{{敌人信息/level
+|index=0
+|描述=在{{color|#00FFFF|摄影区域内}}时攻击更远且{{color|#00FFFF|优先攻击“反派”}}；重生；攻击附带{{color|#00FFFF|神经损伤}}
+|数量=1
+|攻击范围半径=1.5
+|最大生命值=18000
+|攻击力=800
+|防御力=800
+|法术抗性=20
+|移动速度=0.65
+|攻击速度=100
+|攻击间隔=5.0
+|生命恢复速度=0
+|sp恢复速度=0
+|重量等级=3
+|元素抗性=0
+|损伤抵抗=0
+|眩晕抗性=无
+|沉默抗性=有
+|沉睡抗性=无
+|冻结抗性=无
+|浮空抗性=无
+|战栗抗性=无
+|恐惧抗性=无
+|技能0=入戏
+|技能0初始=0
+|技能0消耗=0
+|技能0效果=仅首次进入摄影区域后触发：阅读台本2s，随后进入状态
+|天赋=位于摄影区域范围内时，攻击半径+2，可以攻击且优先攻击[[反派阵营角色]]与[[命定的反派]]，并对其造成攻击力500%的物理伤害&amp;lt;br/&amp;gt;攻击附加攻击力15%的{{术语|ba.dt.neural|神经损伤}}/{{术语|ba.dt.neural2|神经损伤}}&amp;lt;br/&amp;gt;首次被击倒后进行持续3s的重生，恢复100%生命值并进入0s无敌&amp;lt;!--[
+    {
+        "key": "inside.atk_scale_normal",
+        "value": 1.0,
+        "valueStr": null
+    },
+    {
+        "key": "inside.atk_scale_crvln",
+        "value": 5.0,
+        "valueStr": null
+    },
+    {
+        "key": "inside.ability_range_forward_extend",
+        "value": 2.0,
+        "valueStr": null
+    },
+    {
+        "key": "inside.attack@ep_damage_ratio",
+        "value": 0.15,
+        "valueStr": null
+    },
+    {
+        "key": "reborn.duration",
+        "value": 3.0,
+        "valueStr": null
+    },
+    {
+        "key": "reborn.invincible",
+        "value": 0.0,
+        "valueStr": null
+    }
+]--&amp;gt;
+}}
+
+==敌人模型==
+{{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
+      &lt;sha1&gt;h3q50b5jvxuygjwvzvqd72p7nyfytgu&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;79437&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;345618&lt;/id&gt;
-      &lt;parentid&gt;345579&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-18T13:45:23Z&lt;/timestamp&gt;
+      &lt;id&gt;346123&lt;/id&gt;
+      &lt;parentid&gt;346095&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-26T05:17:49Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Visu2209&lt;/username&gt;
-        &lt;id&gt;1119&lt;/id&gt;
+        &lt;username&gt;A20040920A&lt;/username&gt;
+        &lt;id&gt;106007&lt;/id&gt;
       &lt;/contributor&gt;
       &lt;comment&gt;/* 级别0 */&lt;/comment&gt;
-      &lt;origin&gt;345618&lt;/origin&gt;
+      &lt;origin&gt;346123&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="2051" sha1="p0lgbxsmgsq6wcrhoik0vrct10nwx0e" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+      &lt;text bytes="2377" sha1="0zzmfkh6elwo6lmv281jgjz1ejjmraz" xml:space="preserve"&gt;{{Navigator|敌人一览}}
 {{敌人信息/common
 |id=1288
 |名称=巨声
@@ -114,8 +114,9 @@
 |技能0=反击箭雨
 |技能0初始=0
 |技能0消耗=4
-|技能0效果=未被阻挡而受到伤害时触发：发射箭雨，若存在伤害来源，则对伤害来源周围半径1.5范围内的我方单位造成攻击力120%的物理溅射伤害，使其在10s内获得攻击速度-50
-|天赋=未被阻挡时，受到的物理/法术伤害-80%（技能持续期间该效果失效）&amp;lt;br&amp;gt;首次被击倒后进行持续5.667s的重生，回复100%生命值&amp;lt;!--
+|技能0效果=发射箭雨，对目标周围半径1.5范围内的我方单位造成攻击力120%的物理伤害（仅无视{{异常效果|迷彩}}），并使其在10s内获得攻击速度-50（多次触发时重置持续时间）&amp;lt;br&amp;gt;※此技能无法主动触发，技能期间自身免疫{{异常效果|晕眩}}&amp;lt;!--补充：箭雨无视迷彩，不无视隐匿，不无视不可选中(狮蝎)，不无视无法选中(落地保护)--&amp;gt;
+|天赋=未被阻挡期间，受到有来源的物理/法术伤害时，若自身可释放技能且技能已冷却完毕，则以伤害来源为目标触发技能【反击箭雨】，触发成功时此次伤害-80%&amp;lt;br&amp;gt;首次被击倒后进行持续5.667s的重生，回复100%生命值
+&amp;lt;!--
     {
         "key": "special.damage_resistance",
         "value": 0.8,
@@ -136,7 +137,7 @@
 
 ==敌人模型==
 {{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
-      &lt;sha1&gt;p0lgbxsmgsq6wcrhoik0vrct10nwx0e&lt;/sha1&gt;
+      &lt;sha1&gt;0zzmfkh6elwo6lmv281jgjz1ejjmraz&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

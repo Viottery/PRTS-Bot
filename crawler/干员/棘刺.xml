@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;19518&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;343334&lt;/id&gt;
-      &lt;parentid&gt;343324&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-02T00:56:45Z&lt;/timestamp&gt;
+      &lt;id&gt;347737&lt;/id&gt;
+      &lt;parentid&gt;347260&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:14:05Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Dandeagle&lt;/username&gt;
-        &lt;id&gt;45044&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;(InPageEdit-preference-summary-default)&lt;/comment&gt;
-      &lt;origin&gt;343334&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347737&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="38698" sha1="22gujxetlycl8j2n6fnuacp0bwzsk7g" xml:space="preserve"&gt;{{干员页面名|棘刺|Thorns|ソーンズ}}{{pathnav2|干员一览}}
+      &lt;text bytes="38725" sha1="24yv7b609d1mpj8irzb0mr1j0ztb80k" xml:space="preserve"&gt;{{干员页面名|棘刺|Thorns|ソーンズ}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 {{异格干员|原型={{BASEPAGENAME}}|非异格=1}}
 
@@ -131,6 +130,7 @@
 |部署费用=18→20
 |阻挡数=2
 |攻击速度=1.3s
+|所属势力=伊比利亚
 |精英0_1级_生命上限=1096
 |精英0_1级_攻击=296
 |精英0_1级_防御=191
@@ -633,7 +633,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;22gujxetlycl8j2n6fnuacp0bwzsk7g&lt;/sha1&gt;
+      &lt;sha1&gt;24yv7b609d1mpj8irzb0mr1j0ztb80k&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

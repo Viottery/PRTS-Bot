@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;70091&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;335228&lt;/id&gt;
-      &lt;parentid&gt;335221&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-02-21T09:29:51Z&lt;/timestamp&gt;
+      &lt;id&gt;347577&lt;/id&gt;
+      &lt;parentid&gt;347091&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:02:21Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;RaYmondCheung&lt;/username&gt;
-        &lt;id&gt;26948&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;看干员页模组列表或者模组陈列室的模组图标发的什么光，撤销[[Special:Contributions/神箭游侠|神箭游侠]]（[[User talk:神箭游侠|讨论]]）的版本335221&lt;/comment&gt;
-      &lt;origin&gt;335228&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347577&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="28507" sha1="afy19k5jrp0biwjy8aq7zewx189rwrg" xml:space="preserve"&gt;{{干员页面名|衡沙|Sand Reckoner|サンドレコナー}}{{pathnav2|干员一览}}
+      &lt;text bytes="28531" sha1="r2dlzfd1c0use5u959h78267cg87n8u" xml:space="preserve"&gt;{{干员页面名|衡沙|Sand Reckoner|サンドレコナー}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -113,6 +112,7 @@
 |部署费用=9→11
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=萨尔贡
 |精英0_1级_生命上限=463
 |精英0_1级_攻击=203
 |精英0_1级_防御=69
@@ -476,7 +476,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;afy19k5jrp0biwjy8aq7zewx189rwrg&lt;/sha1&gt;
+      &lt;sha1&gt;r2dlzfd1c0use5u959h78267cg87n8u&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

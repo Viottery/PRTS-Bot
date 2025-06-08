@@ -54,18 +54,19 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;54448&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326253&lt;/id&gt;
-      &lt;parentid&gt;325986&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:12:36Z&lt;/timestamp&gt;
+      &lt;id&gt;346415&lt;/id&gt;
+      &lt;parentid&gt;326253&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-28T13:13:35Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;BotPtilopsis&lt;/username&gt;
-        &lt;id&gt;61&lt;/id&gt;
+        &lt;username&gt;Enko&lt;/username&gt;
+        &lt;id&gt;394&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326253&lt;/origin&gt;
+      &lt;minor/&gt;
+      &lt;comment&gt;阵营/隐藏阵营属性追加&lt;/comment&gt;
+      &lt;origin&gt;346415&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="30238" sha1="czs76hjkd3fo0rp4ic84jc2q6frm6ip" xml:space="preserve"&gt;{{干员页面名|玫拉|Melanite|メラナイト}}{{pathnav2|干员一览}}
+      &lt;text bytes="30265" sha1="5qx6qkcpsxo5y2ymtawdkwnixce4cbn" xml:space="preserve"&gt;{{干员页面名|玫拉|Melanite|メラナイト}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -119,6 +120,7 @@
 |部署费用=15→17→19
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=哥伦比亚
 |精英0_1级_生命上限=709
 |精英0_1级_攻击=337
 |精英0_1级_防御=79
@@ -522,7 +524,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;czs76hjkd3fo0rp4ic84jc2q6frm6ip&lt;/sha1&gt;
+      &lt;sha1&gt;5qx6qkcpsxo5y2ymtawdkwnixce4cbn&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

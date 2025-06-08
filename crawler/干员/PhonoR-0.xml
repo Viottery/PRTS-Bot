@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;66429&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;342958&lt;/id&gt;
-      &lt;parentid&gt;328105&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-01T06:36:55Z&lt;/timestamp&gt;
+      &lt;id&gt;347353&lt;/id&gt;
+      &lt;parentid&gt;346930&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:43:50Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
       &lt;comment&gt;update&lt;/comment&gt;
-      &lt;origin&gt;342958&lt;/origin&gt;
+      &lt;origin&gt;347353&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="8168" sha1="r9gvrai54i47ewbr3lbdzapyz080lc8" xml:space="preserve"&gt;{{干员页面名|PhonoR-0|PhonoR-0|PhonoR-0}}{{pathnav2|干员一览}}
+      &lt;text bytes="8192" sha1="rhs9l0ypvpmnk0tevfdf2ousqb2ivop" xml:space="preserve"&gt;{{干员页面名|PhonoR-0|PhonoR-0|PhonoR-0}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -116,6 +115,7 @@
 |部署费用=3
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=罗德岛
 |精英0_1级_生命上限=256
 |精英0_1级_攻击=133
 |精英0_1级_防御=19
@@ -246,7 +246,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;r9gvrai54i47ewbr3lbdzapyz080lc8&lt;/sha1&gt;
+      &lt;sha1&gt;rhs9l0ypvpmnk0tevfdf2ousqb2ivop&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

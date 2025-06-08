@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1781&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326347&lt;/id&gt;
-      &lt;parentid&gt;326074&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:19:17Z&lt;/timestamp&gt;
+      &lt;id&gt;347759&lt;/id&gt;
+      &lt;parentid&gt;347295&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:15:38Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326347&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347759&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="10106" sha1="5os2zjwbhc243hrewpk80nm0xqw4b6m" xml:space="preserve"&gt;{{干员页面名|月见夜|Midnight|ミッドナイト}}{{pathnav2|干员一览}}
+      &lt;text bytes="10166" sha1="4ywcqu7xren01thbipb8x6ca615nsm7" xml:space="preserve"&gt;{{干员页面名|月见夜|Midnight|ミッドナイト}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -114,6 +114,8 @@
 |部署费用=14→16
 |阻挡数=2
 |攻击速度=1.3s
+|所属势力=罗德岛,行动预备组A6
+|隐藏势力=东
 |精英0_1级_生命上限=879
 |精英0_1级_攻击=252
 |精英0_1级_防御=162
@@ -338,7 +340,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;5os2zjwbhc243hrewpk80nm0xqw4b6m&lt;/sha1&gt;
+      &lt;sha1&gt;4ywcqu7xren01thbipb8x6ca615nsm7&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -1,0 +1,163 @@
+'''Buff'''（有时会被写作全大写的BUFF）是明日方舟中效果付与的最小单位。
+* 不仅是常规意义上的正面“Buff”，负面的“DeBuff”、仅供显示特效的效果也属于一种Buff。
+实体拥有Buff池(BuffContainer)，可以被施加Buff。
+
+Buff的本质是一个数据包，其主要由三部分组成：
+* '''属性数据'''，包括修改数值的'''[[数值范围|属性修饰器]]'''与付与特殊调整效果的'''[[异常效果]]'''；
+* Buff自身的'''特性数据'''；
+* Buff自身动作的'''行为序列'''。
+本章主要介绍后两者的作用。
+==特性数据==
+不仅仅是付与持有者效果，Buff本身也会有一些用于调整的特性。
+===持续与触发===
+Buff可以有3种类型的持续时间（LifeType）。
+*'''IMMEDIATELY'''（瞬间）
+: 添加后立刻结束。这种类型的Buff通常用于执行特定的ActionNode。
+*'''LIMITED'''（有限）
+: 持续一段设定好的时间后结束。
+*'''INFINITY'''（无限）
+: 除非Buff被手动清除，否则不会自动结束。Buff的无限持续是真正的无限。
+
+除去正常的持续之外，Buff还有一个“扳机触发”（Trigger）的机制。
+* 该机制可以使Buff根据设定，在持续时间内，每隔一段固定时间进行一次“触发”。
+* “触发”次数可以设置上限。
+* Buff可以通过一定的设置，在“触发”这个事件上执行设置的行为序列。
+与持续时间类型类似，Buff可以有3种触发类型（triggerLifeType）。
+*'''IMMEDIATELY'''（即时/不触发）
+:触发计时器被标记为无效。
+*'''LIMITED'''（有限触发）
+:单个Buff存在期间最大触发次数由变量triggerCnt决定。
+*'''INFINITY'''（无限触发）
+: 无最大触发次数限制。
+: 属于此类型时，若Buff的blackboard中读取到名为“trig_cnt”的值，会自动转为有限触发类型。
+===抵抗===
+{{Cbox2|lv=1|mdi=true|icon=swap-horizontal|moreclass=mdi-rotate-315|text=关于这部分的内容，您也可以参考'''[[可抵抗状态]]'''。}}
+Buff可以有3种{{术语|ba.Buffres|抵抗}}模式（BuffData.StatusResistable）。
+*'''NO'''（不受影响）
+:不受抵抗影响。
+*'''YES'''（受影响）
+:受抵抗影响。
+*'''AUTOMATIC'''（自动判定）
+:该设定下程序会自动检测Buff是否包含特定的[[异常效果]]（AbnormalFlag），如果包含则设置为受影响，否则不受影响。
+:※目前仅有STUN和FROZEN属于自动检测范围内。
+当Buff受抵抗影响时，其计时速度会变为 1/ ONE_MINUS_STATUS_RESISTANCE 倍。
+
+抵抗特性不仅会影响Buff持续的计时速度，同时会影响Buff触发的计时速度。
+===生效===
+在持续期间内，Buff可以被设置为'''生效'''（enabled）或'''失效'''（disabled）。
+* 失效状态下，Buff包含的属性修饰器不生效，触发计时器停止计时，无法响应绝大多数事件，通过Buff名（Buffkey）查找时视为不存在。
+* 当一个生效的Buff结束时，其会先被设置为失效，随后标记为结束。
+此外，还存在一些响应器用于自动设置生效状态。
+* 当Buff的isSilenceable变量设置为true时，代表该Buff具有'''沉默响应'''。
+: 该Buff会在持有{{异常效果|沉默}}期间失效。
+* 当Buff的isStunnable变量设置为true时，代表该Buff具有'''晕眩响应'''。
+: 该Buff会在持有{{异常效果|晕眩}}/{{异常效果|无法行动}}期间失效。
+生效状态由Buff的'''叠加策略'''（后述）决定。
+===叠加策略===
+Buff除存在'''Buff名'''（Buffkey）外，还存在一个'''覆写名'''（overrideKey，通常与Buff名相同）。
+
+当持有者被付与覆写名相同的Buff时，将进行Buff叠加的判定，其由变量disableOverride控制。
+* 当开关为true时，代表不会叠加，两者将视为不同的Buff同时存在。
+* 当开关为false时，代表可以叠加，此时将由overrideType变量决定叠加策略。
+叠加策略共有5种。
+* '''DEFAULT'''（默认）&lt;br&gt;叠加时，只有优先级最高的Buff被设置为生效，其它的Buff被设置为失效。
+: ※优先级由变量priority决定：其在0及以上时等于该值，为负时则自动计算优先级。&lt;br&gt;※优先级自动计算时：
+: 若未设置priorityBBKeys，优先级 = 属性修饰器中所有ADDITION、MULTIPLIER、FINAL_ADDITION值'''之和'''×1000
+: 否则，优先级 = blackboard中所有priorityBBKeys的值的绝对值'''之和'''×1000
+: ※此策略相当于多个同名Buff存在时仅保留其中最优先的那一个。多见于标注有'''同类效果取最高'''的效果中。
+* '''STACK'''（叠加）&lt;br&gt;叠加时，已存在的同覆写名Buff叠加层数（stackCnt）+1，新Buff会被立刻结束。
+: 此类Buff可理解为一种“翻倍和可充能”：&lt;br&gt;①若Buff具有属性修饰器，其中的值会按剩余层数动态翻倍。&lt;br&gt;②当Buff的持续时间结束时，改为Buff叠加层数-1并重置持续时间，直至层数为0时结束。&lt;br&gt;变量maxStackCnt将决定最大叠加层数。
+: ※此策略用于带有持续时间的可叠加Buff：在持续时间到期而衰减时，衰减1层并重设持续时间至最大。
+: ※此策略也可以设定为在持续时间结束时'''耗尽全部层数'''。
+* '''UNIQUE'''（唯一）&lt;br&gt;叠加时，新Buff立刻被结束。
+: 即仅保留最早一个同覆写名的Buff。
+* '''EXTEND'''（刷新）&lt;br&gt;叠加时，已存在的同覆写名Buff剩余持续时间被延长至 MAX(已存在Buff剩余持续时间，新Buff持续时间)，新Buff会被立刻结束。
+: ※此策略相当于该Buff'''叠加时，刷新持续时间'''。
+: ※如果新Buff的持续时间不大于0，已存在Buff剩余持续时间将被置为0。
+* '''EXTEND_TIME'''（加时）&lt;br&gt;叠加时，已存在的同覆写名Buff剩余持续时间被延长至(已存在Buff剩余持续时间+新Buff持续时间)，新Buff会被立刻结束。
+
+==Buff事件与行为序列(ActionArray)==
+除了属性修饰器外，Buff还可以在特定的事件上执行其包含的特定的行为序列(ActionArray)。
+
+这些行为序列(ActionArray)和可触发这些行为序列的Buff事件(Buff.Event)记录在BuffTemplate中。
+
+通过Buff触发行为序列前，Buff总是会将自身推入Buff背景(Context)堆栈中，将Buff来源推入source背景堆栈中。
+
+如果同一事件上有多个Buff的行为序列可执行，则按照Buff的添加顺序依次执行。
+
+截至1.4.01，可用于触发Buff行为序列的Buff事件(Buff.Event)，又或者'''触发时点'''有以下30种：
+{|class="wikitable&lt;includeonly&gt; mw-collapsible mw-collapsed&lt;/includeonly&gt;" style="width:950px; display:table; text-align:center; white-space:normal;"
+!ID
+!内部ID
+!常用名称
+!target
+!备注
+|-
+|0||ON_Buff_START||Buff开始时||Buff持有者||位于判断叠加策略前
+|-
+|1||ON_Buff_FINISH||Buff结束时||Buff持有者||
+|-
+|2||ON_Buff_TRIGGER||Buff触发时||Buff持有者||
+|-
+|3||ON_OWNER_KILLED||死亡时||Buff持有者||仅因死亡结束时触发（也可以理解为'''亡语'''）
+|-
+|4||ON_OWNER_FINISH||结束时||Buff持有者||一切死亡/撤退/到达路径终点消失均可触发
+|-
+|5||ON_BEFORE_APPLYING_MODIFIER||应用modifier前||Buff持有者||modifier入栈，可修改modifier
+|-
+|6||ON_APPLYING_MODIFIER||应用modifier时||Buff持有者||modifier入栈，可修改modifier
+|-
+|7||ON_APPLIED_MODIFIER||应用modifier后||Buff持有者||modifier入栈，可修改modifier
+|-
+|8||ON_OUTPUT_MODIFIER||输出modifier时||Buff持有者||modifier入栈，可修改modifier
+|-
+|9||ON_TARGET_KILLED||击杀目标时||目标||
+|-
+|10||ON_TAKE_DAMAGE||受到伤害时||Buff持有者||modifier入栈，可修改modifier
+|-
+|11||ON_Buff_START||造成伤害时||Buff持有者||modifier入栈，可修改modifier
+|-
+|12||ON_OWNER_BORN||出生时||Buff持有者||部署瞬间
+|-
+|13||ON_OWNER_LOCATE||确认部署后||Buff持有者||部署动画播放完毕时
+|-
+|14||ON_CALCULATE_DAMAGE||计算伤害时||目标||atkScale入栈，可修改atkScale
+|-
+|15||ON_EVADE_DAMAGE||闪避时||Buff持有者||modifier入栈，可修改modifier
+|-
+|16||ON_ABILITY_START||能力开始时||Buff持有者||ability入栈
+|-
+|17||ON_ABILITY_FINISH||能力结束时||Buff持有者||
+|-
+|18||ON_ABILITY_SPELL_ON||能力生效时||Buff持有者||
+|-
+|19||ON_ABILITY_CAST_ON_TARGET||能力对目标生效时||目标||
+|-
+|20||ON_SKILL_FINISH||技能结束时||Buff持有者||ability入栈&lt;br/&gt;仅角色类技能拥有此事件
+|-
+|21||ON_AFTER_OUTPUT_DAMAGE||造成伤害时||Buff持有者||modifier入栈，不可被修改
+|-
+|22||ON_OUTPUT_ATK_OR_HEAL||攻击/治疗时||Buff持有者||ability入栈
+|-
+|23||ON_AFTER_ATTACK||攻击后||Buff持有者||仅角色类拥有此事件
+|-
+|24||ON_Buff_ENABLE||Buff生效时||Buff持有者||
+|-
+|25||ON_Buff_DISABLE||Buff失效时||Buff持有者||
+|-
+|26||ON_BEFORE_ATTACK||攻击前||Buff持有者||仅敌人类拥有此事件
+|-
+|27||ON_BEFORE_TRY_SET_HP_ZERO||HP归0前||Buff持有者||位于“不死”效果生效前
+|-
+|28||ON_BEFORE_DISAPPEAR||出现时||Buff持有者||从通道出口出现时
+|-
+|29||ON_OWNER_KILLED_BY_MAIN_TARGET||被击杀时||Buff持有者||仅因有来源死亡结束时触发
+|-
+|}											
+注：内部ID以ON_Buff_开头的事件仅适用于单个Buff，且除ON_Buff_TRIGGER外其它事件不受Buff失效影响。
+
+==其它==
+DerivedBuff：衍生Buff，创建时绑定一个主Buff，主Buff结束时衍生Buff也会自动结束。其它表现与正常Buff完全相同。
+loadFromDB：该变量为true时，会优先从Buff_table中加载关于此Buff的预设信息。
+
+[[分类:技术性文档]]

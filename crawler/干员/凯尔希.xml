@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;28780&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;342760&lt;/id&gt;
-      &lt;parentid&gt;340130&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-04-30T19:43:22Z&lt;/timestamp&gt;
+      &lt;id&gt;347718&lt;/id&gt;
+      &lt;parentid&gt;347241&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:12:31Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;一抹晚烟&lt;/username&gt;
-        &lt;id&gt;82858&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 获得方式 */ // Edit via Wikiplus&lt;/comment&gt;
-      &lt;origin&gt;342760&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347718&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="47200" sha1="89ctw48b83wkrrtyqjtl2wze76hzbtr" xml:space="preserve"&gt;{{干员页面名|凯尔希|Kal'tsit|ケルシー}}{{pathnav2|干员一览}}
+      &lt;text bytes="47224" sha1="81ticga9j21kff2h3bbanc44dqi2om5" xml:space="preserve"&gt;{{干员页面名|凯尔希|Kal'tsit|ケルシー}}{{pathnav2|干员一览}}
 {{参阅|凯尔希(敌方);预见末日的贤人|作为敌方领袖登场的凯尔希}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
@@ -123,6 +123,7 @@
 |部署费用=18→20
 |阻挡数=1
 |攻击速度=2.85s
+|所属势力=罗德岛
 |精英0_1级_生命上限=865
 |精英0_1级_攻击=167
 |精英0_1级_防御=94
@@ -739,7 +740,7 @@ PRTS？在不在？回答我一个问题？
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;89ctw48b83wkrrtyqjtl2wze76hzbtr&lt;/sha1&gt;
+      &lt;sha1&gt;81ticga9j21kff2h3bbanc44dqi2om5&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

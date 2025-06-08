@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;27038&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326183&lt;/id&gt;
-      &lt;parentid&gt;309672&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:08:16Z&lt;/timestamp&gt;
+      &lt;id&gt;347494&lt;/id&gt;
+      &lt;parentid&gt;347042&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:54:26Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326183&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347494&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="24461" sha1="siwar4uvq1ockiarrq66psyq9rnxp2h" xml:space="preserve"&gt;{{干员页面名|战车|Tachanka|Tachanka}}{{pathnav2|干员一览}}
+      &lt;text bytes="24488" sha1="og8q7a9t6koe00c2eoy4l8oyawsiwpv" xml:space="preserve"&gt;{{干员页面名|战车|Tachanka|Tachanka}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -122,6 +122,7 @@
 |部署费用=20→22→24
 |阻挡数=2
 |攻击速度=1.3s
+|所属势力=彩虹小队
 |精英0_1级_生命上限=1121
 |精英0_1级_攻击=253
 |精英0_1级_防御=135
@@ -490,7 +491,7 @@
 &amp;lt;/div&amp;gt;
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;siwar4uvq1ockiarrq66psyq9rnxp2h&lt;/sha1&gt;
+      &lt;sha1&gt;og8q7a9t6koe00c2eoy4l8oyawsiwpv&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

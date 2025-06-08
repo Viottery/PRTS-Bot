@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;49404&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;330783&lt;/id&gt;
-      &lt;parentid&gt;326199&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-01-02T16:25:32Z&lt;/timestamp&gt;
+      &lt;id&gt;347549&lt;/id&gt;
+      &lt;parentid&gt;347063&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:00:31Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;RaYmondCheung&lt;/username&gt;
-        &lt;id&gt;26948&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;[InPageEdit]&lt;/comment&gt;
-      &lt;origin&gt;330783&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347549&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="25071" sha1="mst6cgdxyeulmtlo00ydbc1yxh1m3f2" xml:space="preserve"&gt;{{干员页面名|截云|Jieyun|ジエユン}}{{pathnav2|干员一览}}
+      &lt;text bytes="25089" sha1="plpp46otsce7ixvfh9l5pgdgmtw9mf8" xml:space="preserve"&gt;{{干员页面名|截云|Jieyun|ジエユン}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -123,6 +122,7 @@
 |部署费用=26→28→30
 |阻挡数=1
 |攻击速度=2.8s
+|所属势力=炎
 |精英0_1级_生命上限=844
 |精英0_1级_攻击=364
 |精英0_1级_防御=59
@@ -506,7 +506,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;mst6cgdxyeulmtlo00ydbc1yxh1m3f2&lt;/sha1&gt;
+      &lt;sha1&gt;plpp46otsce7ixvfh9l5pgdgmtw9mf8&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

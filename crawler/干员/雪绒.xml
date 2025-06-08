@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;47227&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326204&lt;/id&gt;
-      &lt;parentid&gt;325941&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:09:33Z&lt;/timestamp&gt;
+      &lt;id&gt;347555&lt;/id&gt;
+      &lt;parentid&gt;347069&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:00:55Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326204&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347555&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="30079" sha1="jqz7ay34b2gvc8qgntzavvqo3rxyiwy" xml:space="preserve"&gt;{{干员页面名|雪绒|Qanipalaat|カニパラート}}{{pathnav2|干员一览}}
+      &lt;text bytes="30100" sha1="dcwe2sjq7aa0s9g1fw3tfauds3wtey7" xml:space="preserve"&gt;{{干员页面名|雪绒|Qanipalaat|カニパラート}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -120,6 +120,7 @@
 |部署费用=18→20
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=萨米
 |精英0_1级_生命上限=654
 |精英0_1级_攻击=283
 |精英0_1级_防御=45
@@ -492,7 +493,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;jqz7ay34b2gvc8qgntzavvqo3rxyiwy&lt;/sha1&gt;
+      &lt;sha1&gt;dcwe2sjq7aa0s9g1fw3tfauds3wtey7&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1785&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326351&lt;/id&gt;
-      &lt;parentid&gt;326078&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:19:31Z&lt;/timestamp&gt;
+      &lt;id&gt;347764&lt;/id&gt;
+      &lt;parentid&gt;347300&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:15:57Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326351&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347764&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="33300" sha1="mhex7wcepz6nehf1k3zir8jeshegizu" xml:space="preserve"&gt;{{干员页面名|斯卡蒂|Skadi|スカジ}}{{pathnav2|干员一览}}
+      &lt;text bytes="33337" sha1="mht3qo7wfmtpl2j6cjcjl616vqbn04v" xml:space="preserve"&gt;{{干员页面名|斯卡蒂|Skadi|スカジ}}{{pathnav2|干员一览}}
 {{异格干员|原型={{BASEPAGENAME}}|非异格=1}}
 ==干员信息==
 {{CharinfoV2
@@ -126,6 +126,7 @@
 |部署费用=17→19
 |阻挡数=1
 |攻击速度=1.5s
+|所属势力=阿戈尔,深海猎人
 |精英0_1级_生命上限=1521
 |精英0_1级_攻击=452
 |精英0_1级_防御=116
@@ -642,7 +643,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;mhex7wcepz6nehf1k3zir8jeshegizu&lt;/sha1&gt;
+      &lt;sha1&gt;mht3qo7wfmtpl2j6cjcjl616vqbn04v&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

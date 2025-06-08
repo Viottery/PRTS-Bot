@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;8755&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;329097&lt;/id&gt;
-      &lt;parentid&gt;328440&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-12-06T00:35:38Z&lt;/timestamp&gt;
+      &lt;id&gt;347498&lt;/id&gt;
+      &lt;parentid&gt;347046&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:54:42Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Dandeagle&lt;/username&gt;
-        &lt;id&gt;45044&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;origin&gt;329097&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347498&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="23089" sha1="dj1zq4o078xfqaqbaehdy35ql2ptl6r" xml:space="preserve"&gt;{{干员页面名|星极|Astesia|アステシア}}{{pathnav2|干员一览}}
+      &lt;text bytes="23116" sha1="3wsncfnfd3yv815fdpsycx12pn81g9w" xml:space="preserve"&gt;{{干员页面名|星极|Astesia|アステシア}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -134,6 +134,7 @@
 |部署费用=19→21
 |阻挡数=1
 |攻击速度=1.25s
+|所属势力=哥伦比亚
 |精英0_1级_生命上限=1150
 |精英0_1级_攻击=283
 |精英0_1级_防御=177
@@ -502,7 +503,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;dj1zq4o078xfqaqbaehdy35ql2ptl6r&lt;/sha1&gt;
+      &lt;sha1&gt;3wsncfnfd3yv815fdpsycx12pn81g9w&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

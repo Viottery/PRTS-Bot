@@ -54,19 +54,19 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;77286&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;344527&lt;/id&gt;
-      &lt;parentid&gt;341735&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-06T18:35:37Z&lt;/timestamp&gt;
+      &lt;id&gt;346565&lt;/id&gt;
+      &lt;parentid&gt;346196&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-28T16:02:43Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;RaYmondCheung&lt;/username&gt;
-        &lt;id&gt;26948&lt;/id&gt;
+        &lt;username&gt;Enko&lt;/username&gt;
+        &lt;id&gt;394&lt;/id&gt;
       &lt;/contributor&gt;
       &lt;minor/&gt;
-      &lt;comment&gt;[InPageEdit]&lt;/comment&gt;
-      &lt;origin&gt;344527&lt;/origin&gt;
+      &lt;comment&gt;//&lt;/comment&gt;
+      &lt;origin&gt;346565&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="35381" sha1="btczlpm3phnl2txmz4gnkmolr7qnfsf" xml:space="preserve"&gt;{{干员页面名|Mon3tr|Mon3tr|Mon3tr}}{{pathnav2|干员一览}}
+      &lt;text bytes="35418" sha1="e7828cjsdypum0kdn4vkkv9m0s3wlih" xml:space="preserve"&gt;{{干员页面名|Mon3tr|Mon3tr|Mon3tr}}{{pathnav2|干员一览}}
 {{参阅|Mon3tr(凯尔希的召唤物)|作为我方医疗干员[[凯尔希]]的召唤物登场的Mon3tr}}
 {{参阅|Mon2tr;迭代的怪物|作为敌方领袖登场的Mon2tr}}
 {{ads/normal}}{{ads/mobile}}
@@ -97,9 +97,9 @@
 |精英0缩放=1.6
 |精英0坐标x=89
 |精英0坐标y=24
-|精英2缩放=3
-|精英2坐标x=-253
-|精英2坐标y=-344
+|精英2缩放=3.3
+|精英2坐标x=-288
+|精英2坐标y=-520
 }}
 
 ==获得方式==
@@ -113,6 +113,7 @@
 |部署费用=16→18
 |阻挡数=1
 |攻击速度=2.85s
+|所属势力=罗德岛
 |精英0_1级_生命上限=952
 |精英0_1级_攻击=184
 |精英0_1级_防御=96
@@ -326,7 +327,7 @@
 |技能专精3初始=11
 |技能专精3消耗=15
 |技能专精3持续=25
-|备注=※携带此技能时，Mon3tr部署时无保护；场上不存在重构体时，技能不能开启&amp;lt;br&amp;gt;※技能发动后持有以下效果：&amp;lt;br&amp;gt;①撤退场上的重构体（返回待部署区）&amp;lt;br&amp;gt;②执行【移动】；若判断目标位置不合法，强制结束技能并返还技力，否则在原位置部署另一个'''路标形态的'''重构体作为【返回】移动的标志物{{popup|内容=基于召唤物不支持重叠部署的性质，Mon3tr在任何重叠部署的设施上开启技能时，该标志物将无法部署，从而导致技能结束时不能返回}}&amp;lt;br&amp;gt;③{{异常效果|不死}}；期间受到致命伤害结算后立即结束技能 ；技能结束后返回{{popup|内容=由于生命值上限提升与降低效果为等比例变动生命值，这会导致返回后的Mon3tr以'''不高于1点'''的生命值在场}}；因返回而部署时获得1s{{异常效果|不死}}&amp;lt;br&amp;gt;※移动后部署类型暂时变为&amp;lt;全部位&amp;gt;，可影响实时部署类型的判定；期间对自身进行治疗时，治疗跳跃不会衰减且不占用跳跃数&amp;lt;br&amp;gt;※移动后允许以当前攻击范围部署重构体；技能结束返回时，若不在场上的重构体没有位于待部署区，则在待部署区添加1个；若重构体在返回后Mon3tr的攻击范围外，则将其撤退并使再部署时间归零，否则保持留场
+|备注=※携带此技能时，Mon3tr部署时无保护；场上不存在重构体时，技能不能开启&amp;lt;br&amp;gt;※技能发动后持有以下效果：&amp;lt;br&amp;gt;①撤退场上的重构体（返回待部署区）&amp;lt;br&amp;gt;②执行【移动】；若判断目标位置不合法，强制结束技能并返还技力，否则在原位置部署另一个'''路标形态的'''重构体作为【返回】移动的标志物{{popup|内容=基于召唤物不支持重叠部署的性质，Mon3tr在任何重叠部署的设施上开启技能时，该标志物将无法部署，从而导致技能结束时不能返回}}&amp;lt;br&amp;gt;③{{异常效果|不死}}；期间受到致命伤害结算后立即结束技能；技能结束后返回{{popup|内容=由于生命值上限提升与降低效果为等比例变动生命值，这会导致因致命伤返回后的Mon3tr以'''不高于1点'''的生命值在场}}；因返回而部署时获得1s{{异常效果|不死}}&amp;lt;br&amp;gt;※移动后部署类型暂时变为&amp;lt;全部位&amp;gt;，可影响实时部署类型的判定；期间对自身进行治疗时，治疗跳跃不会衰减且不占用跳跃数&amp;lt;br&amp;gt;※移动后允许以当前攻击范围部署重构体；技能结束返回时，若不在场上的重构体没有位于待部署区，则在待部署区添加1个；若重构体在返回后Mon3tr的攻击范围外，则将其撤退并使再部署时间归零，否则保持留场
 }}
 
 ==后勤技能==
@@ -544,7 +545,7 @@ Mon3tr，训练场见，今天不累不归！
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;btczlpm3phnl2txmz4gnkmolr7qnfsf&lt;/sha1&gt;
+      &lt;sha1&gt;e7828cjsdypum0kdn4vkkv9m0s3wlih&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

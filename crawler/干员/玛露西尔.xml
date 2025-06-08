@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;71422&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;338279&lt;/id&gt;
-      &lt;parentid&gt;320578&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-03-26T06:55:48Z&lt;/timestamp&gt;
+      &lt;id&gt;347681&lt;/id&gt;
+      &lt;parentid&gt;347201&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:09:25Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
       &lt;comment&gt;update&lt;/comment&gt;
-      &lt;origin&gt;338279&lt;/origin&gt;
+      &lt;origin&gt;347681&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="40677" sha1="dt9cdohjx9saex6i31ei1a37kroajjb" xml:space="preserve"&gt;{{干员页面名|玛露西尔|Marcille|マルシル}}{{pathnav2|干员一览}}
+      &lt;text bytes="40707" sha1="d5q0fcu33ngvydmhxi46p2wa8se5oc4" xml:space="preserve"&gt;{{干员页面名|玛露西尔|Marcille|マルシル}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -123,6 +123,7 @@
 |部署费用=31→34
 |阻挡数=1
 |攻击速度=2.9s
+|所属势力=莱欧斯小队
 |精英0_1级_生命上限=810
 |精英0_1级_攻击=424
 |精英0_1级_防御=52
@@ -520,7 +521,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;dt9cdohjx9saex6i31ei1a37kroajjb&lt;/sha1&gt;
+      &lt;sha1&gt;d5q0fcu33ngvydmhxi46p2wa8se5oc4&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

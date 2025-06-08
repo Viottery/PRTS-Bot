@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;17431&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326202&lt;/id&gt;
-      &lt;parentid&gt;325939&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:09:25Z&lt;/timestamp&gt;
+      &lt;id&gt;347553&lt;/id&gt;
+      &lt;parentid&gt;347067&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:00:47Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326202&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347553&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="25358" sha1="k68vyi0sdx7cxwu2um89jdupg52j5zx" xml:space="preserve"&gt;{{干员页面名|苦艾|Absinthe|アブサント}}{{pathnav2|干员一览}}
+      &lt;text bytes="25382" sha1="3bvav18tg7cfzb86ice9mufx7ts70qz" xml:space="preserve"&gt;{{干员页面名|苦艾|Absinthe|アブサント}}{{pathnav2|干员一览}}
 ==干员信息==
 {{CharinfoV2
 &amp;lt;!--下方为自动更新部分，您的修改可能会被覆盖--&amp;gt;
@@ -121,6 +121,7 @@
 |部署费用=20→22
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=乌萨斯
 |精英0_1级_生命上限=619
 |精英0_1级_攻击=286
 |精英0_1级_防御=47
@@ -491,7 +492,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;k68vyi0sdx7cxwu2um89jdupg52j5zx&lt;/sha1&gt;
+      &lt;sha1&gt;3bvav18tg7cfzb86ice9mufx7ts70qz&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

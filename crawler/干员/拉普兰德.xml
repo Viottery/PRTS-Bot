@@ -54,17 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1746&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;324564&lt;/id&gt;
-      &lt;parentid&gt;309665&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-01T11:11:41Z&lt;/timestamp&gt;
+      &lt;id&gt;347489&lt;/id&gt;
+      &lt;parentid&gt;347037&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:54:06Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;冬灵血巫大師&lt;/username&gt;
-        &lt;id&gt;19138&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;origin&gt;324564&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347489&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="22650" sha1="67uszx74ifko8nhopzhfydo38mk2kyy" xml:space="preserve"&gt;{{干员页面名|拉普兰德|Lappland|ラップランド}}{{pathnav2|干员一览}}
+      &lt;text bytes="22674" sha1="s94g33lesz53t8fbubsqfukswbh7vvo" xml:space="preserve"&gt;{{干员页面名|拉普兰德|Lappland|ラップランド}}{{pathnav2|干员一览}}
 {{异格干员|原型={{BASEPAGENAME}}|非异格=1}}
 
 ==干员信息==
@@ -119,6 +120,7 @@
 |部署费用=17→19
 |阻挡数=2
 |攻击速度=1.3s
+|所属势力=叙拉古
 |精英0_1级_生命上限=987
 |精英0_1级_攻击=285
 |精英0_1级_防御=173
@@ -457,7 +459,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;67uszx74ifko8nhopzhfydo38mk2kyy&lt;/sha1&gt;
+      &lt;sha1&gt;s94g33lesz53t8fbubsqfukswbh7vvo&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

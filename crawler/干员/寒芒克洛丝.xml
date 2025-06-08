@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;37510&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;319857&lt;/id&gt;
-      &lt;parentid&gt;319238&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-09-04T02:51:00Z&lt;/timestamp&gt;
+      &lt;id&gt;347548&lt;/id&gt;
+      &lt;parentid&gt;347511&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:00:26Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Enko&lt;/username&gt;
-        &lt;id&gt;394&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;[InPageEdit] /* 干员信息 */ 没有编辑摘要&lt;/comment&gt;
-      &lt;origin&gt;319857&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347548&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="26746" sha1="adok0um4mgyw947cg3zad6xlm7eg1p9" xml:space="preserve"&gt;{{干员页面名|寒芒克洛丝|Kroos the Keen Glint|寒芒クルース}}{{pathnav2|干员一览}}
+      &lt;text bytes="26797" sha1="r7zepofho710tpc1silr6qnsw7ia1ok" xml:space="preserve"&gt;{{干员页面名|寒芒克洛丝|Kroos the Keen Glint|寒芒クルース}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 {{异格干员|原型=克洛丝}}
 ==干员信息==
@@ -130,6 +129,8 @@
 |部署费用=13→15
 |阻挡数=1
 |攻击速度=1.0s
+|所属势力=罗德岛
+|隐藏势力=雷姆必拓
 |精英0_1级_生命上限=679
 |精英0_1级_攻击=169
 |精英0_1级_防御=61
@@ -539,7 +540,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;adok0um4mgyw947cg3zad6xlm7eg1p9&lt;/sha1&gt;
+      &lt;sha1&gt;r7zepofho710tpc1silr6qnsw7ia1ok&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

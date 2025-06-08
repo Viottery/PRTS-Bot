@@ -46,7 +46,7 @@
 {{干员获得方式
 |获得方式=活动获得
 |上线时间=2023-07-13 16:00
-|前缀=[[探索者的银凇止境|&lt;span style="color:#fff;background:linear-gradient(90deg, #7792B2, #000111, #113522, #5798d8 82%, #162e75 99%);border-radius:20px;padding-left:8px;padding-right:8px;font-weight:bold"&gt;探索者的银凇止境&lt;/span&gt;]]
+|前缀=[[探索者的银凇止境|{{color|orange|探索者的银凇止境}}]]
 }}
 
 ==属性==
@@ -55,6 +55,7 @@
 |部署费用=13→15
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=萨米
 |精英0_1级_生命上限=429
 |精英0_1级_攻击=202
 |精英0_1级_防御=46

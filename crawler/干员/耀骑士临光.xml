@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;34436&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;330081&lt;/id&gt;
-      &lt;parentid&gt;326342&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-12-18T08:20:54Z&lt;/timestamp&gt;
+      &lt;id&gt;347752&lt;/id&gt;
+      &lt;parentid&gt;347288&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:15:10Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;调零修罗&lt;/username&gt;
-        &lt;id&gt;6713&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 技能 */&lt;/comment&gt;
-      &lt;origin&gt;330081&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347752&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="44584" sha1="atfuztv9kj3fkdc5jmi2n4u9ye8oje6" xml:space="preserve"&gt;{{干员页面名|耀骑士临光|Nearl the Radiant Knight|耀騎士ニアール}}{{pathnav2|干员一览}}
+      &lt;text bytes="44632" sha1="7wiwk5zn20p71k83f2fvea42zjq3cc8" xml:space="preserve"&gt;{{干员页面名|耀骑士临光|Nearl the Radiant Knight|耀騎士ニアール}}{{pathnav2|干员一览}}
 {{异格干员|原型=临光}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
@@ -123,6 +123,8 @@
 |部署费用=17→19
 |阻挡数=1
 |攻击速度=1.5s
+|所属势力=卡西米尔
+|隐藏势力=使徒
 |精英0_1级_生命上限=1397
 |精英0_1级_攻击=473
 |精英0_1级_防御=130
@@ -606,7 +608,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;atfuztv9kj3fkdc5jmi2n4u9ye8oje6&lt;/sha1&gt;
+      &lt;sha1&gt;7wiwk5zn20p71k83f2fvea42zjq3cc8&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

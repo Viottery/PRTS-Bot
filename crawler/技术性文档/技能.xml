@@ -1,0 +1,229 @@
+<?xml version="1.0"?><api batchcomplete=""><query><pages><page _idx="11527" pageid="11527" ns="0" title="技能" /></pages><export xml:space="preserve">&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;PRTS&lt;/sitename&gt;
+    &lt;dbname&gt;ak&lt;/dbname&gt;
+    &lt;base&gt;https://prts.wiki/w/%E9%A6%96%E9%A1%B5&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.39.7&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;媒体&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;特殊&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;讨论&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;用户&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;用户讨论&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;PRTS&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;PRTS讨论&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;文件&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;文件讨论&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki讨论&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;模板&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;模板讨论&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;帮助&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;帮助讨论&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;分类&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;分类讨论&lt;/namespace&gt;
+      &lt;namespace key="102" case="first-letter"&gt;属性&lt;/namespace&gt;
+      &lt;namespace key="103" case="first-letter"&gt;属性讨论&lt;/namespace&gt;
+      &lt;namespace key="108" case="first-letter"&gt;概念&lt;/namespace&gt;
+      &lt;namespace key="109" case="first-letter"&gt;概念讨论&lt;/namespace&gt;
+      &lt;namespace key="112" case="first-letter"&gt;smw/schema&lt;/namespace&gt;
+      &lt;namespace key="113" case="first-letter"&gt;smw/schema talk&lt;/namespace&gt;
+      &lt;namespace key="114" case="first-letter"&gt;Rule&lt;/namespace&gt;
+      &lt;namespace key="115" case="first-letter"&gt;Rule talk&lt;/namespace&gt;
+      &lt;namespace key="274" case="first-letter"&gt;微件&lt;/namespace&gt;
+      &lt;namespace key="275" case="first-letter"&gt;微件讨论&lt;/namespace&gt;
+      &lt;namespace key="828" case="first-letter"&gt;模块&lt;/namespace&gt;
+      &lt;namespace key="829" case="first-letter"&gt;模块讨论&lt;/namespace&gt;
+      &lt;namespace key="2300" case="case-sensitive"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="case-sensitive"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+      &lt;namespace key="2600" case="first-letter"&gt;话题&lt;/namespace&gt;
+      &lt;namespace key="2900" case="first-letter"&gt;Map&lt;/namespace&gt;
+      &lt;namespace key="2901" case="first-letter"&gt;Map talk&lt;/namespace&gt;
+      &lt;namespace key="3000" case="first-letter"&gt;泰拉大典&lt;/namespace&gt;
+      &lt;namespace key="3001" case="first-letter"&gt;泰拉大典讨论&lt;/namespace&gt;
+      &lt;namespace key="3002" case="first-letter"&gt;样板&lt;/namespace&gt;
+      &lt;namespace key="3003" case="first-letter"&gt;样板讨论&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+  &lt;page&gt;
+    &lt;title&gt;技能&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;11527&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;346044&lt;/id&gt;
+      &lt;parentid&gt;345538&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-24T15:31:30Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;Visu2209&lt;/username&gt;
+        &lt;id&gt;1119&lt;/id&gt;
+      &lt;/contributor&gt;
+      &lt;origin&gt;346044&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="17969" sha1="02ek6ky9mgx1mq3q8qxxfg4tp1rldyi" xml:space="preserve"&gt;[[分类:汇总]] 
+'''技能'''是一个角色类实体单位可以携带入场的、可通过玩家交互触发的能力。
+* 携带了技能的单位，点选时其右下角会出现技能图标。
+* 一些情况下，技能也可以自动触发。
+==技力需求==
+绝大多数技能均需要一定的'''技力'''（SP）才能释放，由此可以按技力需求划分为以下三种类型：
+* {{技能类型|自动回复}}&amp;lt;br&amp;gt;技力随时间自动回复；通常每秒回复1点技力。
+* {{技能类型|攻击回复}}&amp;lt;br&amp;gt;技力在技能携带者每次攻击时回复1点技力。&amp;lt;br&amp;gt;※进行'''连击'''时，连击中的每次攻击都能获得技力，但近卫-剑豪分支特性为特别调整的例外，其二连击仅会回复1点技力。
+* {{技能类型|受击回复}}&amp;lt;br&amp;gt;技力在技能携带者每次被攻击时回复1点技力。&amp;lt;br&amp;gt;※部分设置为“无法触发受击回复”的伤害不会触发该技力回复。
+一般情况下，技力的最大储存量等同于该技能的需求技力。仅在携带者入场时，技能会预先充入“初始技力”以减少入场后至发动技能的等待时间。
+
+如果一个技能没有技力需求，则其不需要技力即可触发。
+==触发条件==
+除了技力，技能还具有多种触发条件。
+* {{技能类型|自动触发}}&amp;lt;br&amp;gt;技能在满足给定条件后自动开启生效。&amp;lt;br&amp;gt;通常情况下，'''没有白色边框'''的技能图标即为自动触发技能。&amp;lt;br&amp;gt;特例：[[文件:技能 凝武.png|50px|link=白雪]]无框却为手动触发技能(内测时此为被动技能)。
+* {{技能类型|手动触发}}&amp;lt;br&amp;gt;技能在满足给定条件后，需要玩家交互以开启生效。&amp;lt;br&amp;gt;与自动触发相反，通常情况下，'''有白色边框'''的技能图标即为自动触发技能。&amp;lt;br&amp;gt;特例：[[文件:技能 强力击·β型.png|50px]]有框却为自动触发技能。
+* {{技能类型|被动}}&amp;lt;br&amp;gt;技能在满足条件后，无需开启即生效。&amp;lt;br&amp;gt;此类技能一般为部署时生效/条件触发/被动增益类的效果。
+==特殊属性==
+* '''可充能'''
+: 一些技能中存在“可充能X次”的描述，其实际效果为当前技力上限等于该技能技力需求的X倍，从而实现可连续释放该技能的效果。
+: 查看角色详情时，技能按钮左上角会出现圆点显示可释放次数；如果该技能为自动触发，持有者模型顶部也会显示{{mdi|autorenew}}符号，其中会记录该技能的可释放次数。
+: 当持有者的技力流失时，可释放次数也会实时降低。
+* '''主动关闭'''
+: 在中后期干员携带的技能中存在的较常见指令。
+: 这类技能在开启后可通过再次交互来提前结束技能效果。
+* '''弹药'''
+: 自干员[[灰烬]]实装起，“弹药类”技能被实装到游戏中。此类技能会存在“装有X发弹药，打完后结束”的描述。
+: 此类技能在开启后不计算持续时间，而是替换为该技能的'''弹药数'''，而技能效果会消耗一定量的弹药；当下次普通攻击时弹药不高于0，则会退出技能状态。
+: ※消耗弹药时不受当前弹药数限制，必定消耗相应数额的弹药，此时可能出现“负数弹药”的情况。
+: ※弹药类技能的图标在大多数情况下会获得一个'''子弹角标'''，首个通用款式首次出现于[[假日威龙陈]]的技能图标中（[[文件:技能 “假日风暴”.png|50px|link=假日威龙陈]]）。&amp;lt;br&amp;gt;但有少部分干员的技能（如[[熔泉]]的“便携破城矢”、[[极光]]的“人工降雪”）符合该条件但没有子弹角标，可能是官方遗漏。
+
+==敌人的技能与其spdata==
+实体类型为敌人的单位有时也会携带技能，其在运作时大多数情况依照{{技能类型|冷却时间}}进行触发。
+
+在其spdata不为null时意味着其具有SP相关的设定，有时意味着其部分技能也会按照{{技能类型|自动回复}}{{技能类型|攻击回复}}{{技能类型|受击回复}}的方式进行触发，或者SP会用于一些奇妙用途（比如用于[[反巫术变位炸弹]]的速度指示器）。
+
+*注意：敌人的技能在大多数情况并不属于普通攻击（依赖普通攻击的除外），通过技能进行的攻击将不会受到战栗/麻痹的影响。
+
+==干员技能大体归类==
+{{主观内容}}
+{{cbox2|lv=2|text=本页面的部分结论在适用实际情况时，部分技能的图标会存在复合定位或不符合定位的情况，在此不予列举。&amp;lt;br&amp;gt;本页面内容'''不考虑联动相关干员的技能图标'''，相关的规律不适用于该类图标}}
+===背景图案颜色===
+根据技能图标背景图案颜色的不同，目前在游戏中有以下五种图案颜色。模组图标的底色也大致分为此类。
+
+===&amp;lt;font color = #FF0000&amp;gt;攻击型&amp;lt;/font&amp;gt;===
+通常提供更强的攻击性能或模式。
+
+===&amp;lt;font color = #FFCC00&amp;gt;防护型&amp;lt;/font&amp;gt;===
+通常提供更强的生存性能或模式。
+* 不局限于防御力与法术抗性，如[[文件:技能 环境伪装.png|50px|link=守林人]]增加了攻击力属性却带来了更利于生存的'''隐匿'''效果。
+
+===&amp;lt;font color = #00CCFF&amp;gt;再生型&amp;lt;/font&amp;gt;===
+通常提供更强的治疗性能或模式。
+
+===&amp;lt;font color = #00DD00&amp;gt;战术支援型&amp;lt;/font&amp;gt;===
+提供战术支援的技能，以提供部署费用居多。
+* 目前该型技能不与部署费用相关的只有三个：[[文件:技能 圣域.png|50px|link=夜莺]][[文件:技能 深度治疗.png|50px|link=苏苏洛]][[文件:技能 鞭策.png|50px|link=杜宾]]
+: 但前两者为提供法术闪避（120秒CD）/强力医疗保人不死（且只能用两次），后者结合天赋提升全场三星干员的攻击力且内测期间此技能可以提供部署费用，因此推测归入此类。
+
+===&amp;lt;font color = #AAAAAA&amp;gt;其他型&amp;lt;/font&amp;gt;===
+不符合上述四种定位任何之一时便会划分至该类型。
+通常意味着该技能没有额外的伤害，或不以造成伤害为主要目的，以常驻的被动效果或特殊的支援性能为主。
+
+===背景图案形状===
+
+[[文件:技能 强力击·α型.png|50px]][[文件:技能 强力击·β型.png|50px]][[文件:技能 强力击·γ型.png|50px]]向下的冲击波（性能瞬间强化类）：以&amp;lt;font color = #FF0000&amp;gt;'''攻击型'''&amp;lt;/font&amp;gt;为主，该类技能通常拥有强化攻击/治疗的效果，多数为自动触发，并生效于下次行动（'''攻击/治疗/短时间防御'''）。
+*其中的&amp;lt;font color = #00CCFF&amp;gt;'''再生型'''&amp;lt;/font&amp;gt;技能可划分至“单次恢复类”中，或者互相转换。
+
+*通常：&amp;lt;br&amp;gt;[[文件:技能 冲锋模式.png|50px|link=能天使]][[文件:技能 扫射模式.png|50px|link=能天使]][[文件:技能 过载模式.png|50px|link=能天使]]、[[文件:技能 高效冲击.png|50px|link=风笛]][[文件:技能 跃空锤.png|50px|link=推进之王]][[文件:技能 点燃.png|50px|link=艾雅法拉]][[文件:技能 铁意六合.png|50px|link=食铁兽]][[文件:技能 锁链勾爪.png|50px|link=崖心]]、[[文件:技能 法术护盾.png|50px|link=夜莺]][[文件:技能 集中式水疗.png|50px|link=锡兰]][[文件:技能 反制治疗.png|50px|link=吽]]、[[文件:技能 自动防御.png|50px|link=可颂]][[文件:技能 坚守模式.png|50px|link=火神]]、[[文件:技能 迅敏直觉.png|50px|link=焰尾]]、[[文件:技能 护身射击.png|50px|link=见行者]]
+
+*变体（在原有基础上旋转90°）：&amp;lt;br&amp;gt;[[文件:技能 炎爆.png|50px|link=伊芙利特]][[文件:技能 二重射击·自动.png|50px|link=蓝毒]][[文件:技能 霰射弹头.png|50px|link=陨星]]&amp;lt;!--、[[文件:技能 飞羽.png|50px|link=灰喉]]这个存疑--&amp;gt;、[[文件:技能 飞针剑羽.png|50px|link=柏喙]]
+
+[[文件:技能 生命回复·α型.png|50px]]正六边形（单次恢复类）：目前只出现于&amp;lt;font color = #00CCFF&amp;gt;'''再生型'''&amp;lt;/font&amp;gt;与&amp;lt;font color = #00DD00&amp;gt;'''战术支援型'''&amp;lt;/font&amp;gt;，该类技能在触发时会立刻产生回复效果。
+
+举例：
+*模板技能：&amp;lt;br&amp;gt;[[文件:技能 急救.png|50px]]、[[文件:技能 生命回复·α型.png|50px]][[文件:技能 生命回复·β型.png|50px]][[文件:技能 生命回复·γ型.png|50px]]、[[文件:技能 冲锋号令·α型.png|50px]][[文件:技能 冲锋号令·β型.png|50px]][[文件:技能 冲锋号令·γ型.png|50px]]
+
+*通常：&amp;lt;br&amp;gt;[[文件:技能 药物配置.png|50px|link=塞雷娅]][[文件:技能 二重治疗.png|50px|link=末药]][[文件:技能 活力再生·广域.png|50px|link=嘉维尔]][[文件:技能 紧急包扎.png|50px|link=华法琳]][[文件:技能 应急迷彩.png|50px|link=暴雨]]
+
+[[文件:技能 攻击力强化·α型.png|50px]]向上的实心箭头（属性增益类）：该类技能会在一定时间内提供至少一种增益。
+* 多应用在许多干员的初始技能中，且只是单纯地提供属性增益，效果非常朴实。
+: 背景叠加的箭头越多，说明相对获得的属性增益更高（可通过下方的模板技能图标进行对比）。
+* 除了[[猎蜂]]的高机动外，都需要手动触发。
+* 除了[[华法琳]]的不稳定血浆外，都只对自己生效。
+
+*模板技能：&amp;lt;br&amp;gt;[[文件:技能 攻击力强化·α型.png|50px]][[文件:技能 攻击力强化·β型.png|50px]][[文件:技能 攻击力强化·γ型.png|50px]]、[[文件:技能 治疗强化·α型.png|50px]][[文件:技能 治疗强化·β型.png|50px]][[文件:技能 治疗强化·γ型.png|50px]]、[[文件:技能 防御力强化·α型.png|50px]][[文件:技能 防御力强化·β型.png|50px]][[文件:技能 防御力强化·γ型.png|50px]]
+
+*通常：&amp;lt;br&amp;gt;[[文件:技能 信条.png|50px|link=闪灵]][[文件:技能 弦月.png|50px|link=赫拉格]][[文件:技能 铳口收束.png|50px|link=送葬人]]、[[文件:技能 环境伪装.png|50px|link=守林人]][[文件:技能 抗寒体质.png|50px|link=角峰]]、[[文件:技能 体能强化.png|50px|link=角峰]][[文件:技能 精调.png|50px|link=调香师]]、[[文件:技能 鞭策.png|50px|link=杜宾]][[文件:技能 深度治疗.png|50px|link=苏苏洛]]、[[文件:技能 高机动.png|50px|link=猎蜂]][[文件:技能 降临.png|50px|link=阿斯卡纶]]
+
+[[文件:技能 创世纪.png|50px|link=断罪者]]尖端扩散（爆发类）：该类技能触发/生效时会带来强大的效果。
+*&amp;lt;font color = #FF0000&amp;gt;'''攻击型'''&amp;lt;/font&amp;gt;多表现为高额攻击面板、快速清场、短时间范围控场等；&amp;lt;font color = #00CCFF&amp;gt;'''再生型'''&amp;lt;/font&amp;gt;表现为瞬时高额治疗。
+**实际上“爆发”涵盖的面较多，上述仅作个别例子。
+*除了极个别为自动触发外，其余均为手动触发
+: 其中的部分技能在触发时'''必须存在可选定的目标'''。
+
+*通常：&amp;lt;br&amp;gt;[[文件:技能 真银斩.png|50px|link=银灰]][[文件:技能 火山.png|50px|link=艾雅法拉]][[文件:技能 荒时之锁.png|50px|link=莫斯提马]][[文件:技能 秘杖·微粒模式.png|50px|link=安洁莉娜]][[文件:技能 高爆弹头.png|50px|link=陨星]][[文件:技能 磁爆锤.png|50px|link=可颂]][[文件:技能 生灵火花.png|50px|link=苇草]]、[[文件:技能 脑啡肽.png|50px|link=白面鸮]][[文件:技能 睡眠之歌.png|50px|link=空]][[文件:技能 治愈水波.png|50px|link=清流]]、[[文件:技能 激励艺术.png|50px|link=鞭刃]]、[[文件:技能 离离枯荣.png|50px|link=黍]]
+
+*变体(在原有基础上旋转90°)：&amp;lt;br&amp;gt;[[文件:技能 沸腾爆裂.png|50px|link=煌]][[文件:技能 液氮大炮.png|50px|link=温蒂]]
+
+[[文件:技能 秘杖·反重力模式.png|50px|link=安洁莉娜]]闭环（模式转换类）：图案源自现实世界中“转换”图标的变体，该类技能会影响干员当前的行动模式：是否攻击，或者行动动作是否发生改变。
+*此类技能的表现可能为以下中的一种或多种，但并不一定作为判断依据：
+**是否攻击
+***对于&amp;lt;font color = #00CCFF&amp;gt;'''再生型'''&amp;lt;/font&amp;gt;技能多体现为攻击对象变化（即从攻击敌方变为治疗我方）。
+***非&amp;lt;font color = #FF0000&amp;gt;'''攻击型'''&amp;lt;/font&amp;gt;技能可能会影响阻挡数。
+**攻击目标数变化
+**攻击间隔变化
+**攻击范围增减
+**索敌逻辑改变
+**长启动且持续时间无限
+
+*模板技能：&amp;lt;br&amp;gt;[[文件:技能 支援号令·β型.png|50px]][[文件:技能 支援号令·γ型.png|50px]]
+
+*通常：&amp;lt;br&amp;gt;[[文件:技能 雪境生存法则.png|50px|link=银灰]][[文件:技能 武力模式.png|50px|link=火神]][[文件:技能 灼地.png|50px|link=伊芙利特]][[文件:技能 杀戮嗅觉.png|50px|link=普罗旺斯]][[文件:技能 链锯延伸模块.png|50px|link=煌]][[文件:技能 至高之术.png|50px|link=棘刺]]、[[文件:技能 壳状防御.png|50px|link=蛇屠箱]][[文件:技能 铜印.png|50px|link=年]][[文件:技能 护身尖刺.png|50px|link=棘刺]]、[[文件:技能 急救模式.png|50px|link=临光]][[文件:技能 治愈之翼.png|50px|link=桃金娘]]、[[文件:技能 聆听.png|50px|link=极境]]
+
+[[文件:技能 医疗无人机.png|50px|link=赫默]]空心三角形（召唤类）：该类技能与召唤物相关，通过部署/利用召唤物实现释放技能。
+
+举例：&amp;lt;br&amp;gt;[[文件:技能 爆破回收.png|50px|link=梅尔]][[文件:技能 激光开采模块.png|50px|link=麦哲伦]][[文件:技能 武装打击模块.png|50px|link=麦哲伦]][[文件:技能 迷惑装置.png|50px|link=梅尔]][[文件:技能 诅咒娃娃.png|50px|link=巫恋]][[文件:技能 “大家一起上”.png|50px|link=豆苗]][[文件:技能 光影之触.png|50px|link=深海色]][[文件:技能 高效制冷模块.png|50px|link=麦哲伦]][[文件:技能 定点指令.png|50px|link=豆苗]]
+
+[[文件:技能 处决模式.png|50px|link=红]]正方形（部署触发类）：该类技能多数会在干员部署后短时间内自动触发。
+* 效果可能是立即造成范围伤害，或者是为自身提供持续一段时间的增益。
+: 增益未说明持续时间可认为持续时间无穷大，而且也确实存在持续时间无限的部署触发类技能。
+* 此类技能多为被动。
+* [[孑]]的两个技能属于短启动且持续时间无限的类型，归类至此的原因或与干员特性相关。
+
+*通常：&amp;lt;br&amp;gt;[[文件:技能 跃浪击.png|50px|link=斯卡蒂]][[文件:技能 处决模式.png|50px|link=红]][[文件:技能 狼眼.png|50px|link=普罗旺斯]]、[[文件:技能 影袭.png|50px|link=砾]][[文件:技能 鼠群.png|50px|link=砾]][[文件:技能 荆棘.png|50px|link=星熊]]
+
+*变体（斯卡蒂之后才实装的干员不再使用实心正方形，而是使用了空心的代替，原因不明）：&amp;lt;br&amp;gt;[[文件:技能 花式回旋.png|50px|link=伊桑]]、[[文件:技能 落地斩·破门.png|50px|link=宴]][[文件:技能 血色乐章.png|50px|link=傀影]][[文件:技能 夜幕突袭.png|50px|link=傀影]][[文件:技能 断螯.png|50px|link=孑]][[文件:技能 灵活伪装.png|50px|link=四月]]、[[文件:技能 刺身拼盘.png|50px|link=孑]]、[[文件:技能 暗夜魅影.png|50px|link=傀影]]
+
+[[文件:技能 战斗之歌.png|50px|link=空]]5×5矩形阵列（范围增益类）：该类技能会以技能持有干员为中心，为一定范围内的干员施加某种增益。
+
+举例：
+&amp;lt;br&amp;gt;[[文件:技能 指挥调度.png|50px|link=诗怀雅]][[文件:技能 协同作战.png|50px|link=诗怀雅]][[文件:技能 "潮涌，潮枯".png|50px|link=浊心斯卡蒂]][[文件:技能 铁御.png|50px|link=年]][[文件:技能 同葬无光之愿.png|50px|link=浊心斯卡蒂]][[文件:技能 钙质化.png|50px|link=塞雷娅]][[文件:技能 狐火渺然.png|50px|link=铃兰]][[文件:技能 同归殊途之吟.png|50px|link=浊心斯卡蒂]][[文件:技能 圣域.png|50px|link=夜莺]][[文件:技能 灶里乾坤.png|50px|link=余]]
+
+[[文件:技能 流沙化.png|50px|link=地灵]]向下的断裂箭头（削弱类）：该类技能会对受影响的敌方单位施加某种减益。
+*一些减速/停顿技能也被归入此类，暂且无法推测原因。
+
+举例：&amp;lt;br&amp;gt;[[文件:技能 碎甲击.png|50px|link=流星]][[文件:技能 碎甲击·扩散.png|50px|link=流星]][[文件:技能 文学风暴.png|50px|link=真理]][[文件:技能 挠伤.png|50px|link=慕斯]][[文件:技能 信号矢.png|50px|link=熔泉]][[文件:技能 传音回响.png|50px|link=初雪]][[文件:技能 自然震慑.png|50px|link=初雪]][[文件:技能 蝎毒.png|50px|link=狮蝎]]
+
+[[文件:技能 肉斩骨断.png|50px|link=幽灵鲨]]斜十字（强力生存类）：该类技能触发/生效时，受影响干员的生存能力大幅提高。
+*由于该类技能过少，因此只能作为编者的极主观推测。
+
+举例：&amp;lt;br&amp;gt;[[文件:技能 肉斩骨断.png|50px|link=幽灵鲨]][[文件:技能 教条力场.png|50px|link=闪灵]]
+
+另有下述的技能图标由于背景过于特殊，无法归类。
+
+其中阿米娅、凯尔希、魔王和陈的技能可能因为是主角而不同，其余未知（即使它们存在部分能对上号的设计元素）。
+
+* 阿米娅:&amp;lt;br&amp;gt;[[文件:技能 精神爆发.png|50px|link=阿米娅]][[文件:技能 奇美拉.png|50px|link=阿米娅]]、[[文件:技能 影霄·奔夜.png|50px|link=阿米娅(近卫)]][[文件:技能 影霄·绝影.png|50px|link=阿米娅(近卫)]]、[[文件:技能 哀恸共情.png|50px|link=阿米娅(医疗)]][[文件:技能 慈悲愿景.png|50px|link=阿米娅(医疗)]]
+
+* 凯尔希:&amp;lt;br&amp;gt;[[文件:技能 指令：结构加固.png|50px|link=凯尔希]][[文件:技能 指令：战术协同.png|50px|link=凯尔希]][[文件:技能 指令：熔毁.png|50px|link=凯尔希]]
+
+* 魔王:&amp;lt;br&amp;gt;[[文件:技能 往昔萦绕身旁.png|50px|link=魔王]][[文件:技能 明日渺远不及.png|50px|link=魔王]][[文件:技能 编织重构现世.png|50px|link=魔王]]
+
+* 陈:&amp;lt;br&amp;gt;[[文件:技能 赤霄·拔刀.png|50px|link=陈]][[文件:技能 赤霄·绝影.png|50px|link=陈]]
+
+* 闪灵:&amp;lt;br&amp;gt;[[文件:技能 自动掩护.png|50px|link=闪灵]]
+
+[[分类:技术性文档]]&lt;/text&gt;
+      &lt;sha1&gt;02ek6ky9mgx1mq3q8qxxfg4tp1rldyi&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+&lt;/mediawiki&gt;
+</export></query></api>

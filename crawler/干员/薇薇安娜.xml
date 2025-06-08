@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;60714&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;335456&lt;/id&gt;
-      &lt;parentid&gt;334756&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-02-27T17:30:35Z&lt;/timestamp&gt;
+      &lt;id&gt;347966&lt;/id&gt;
+      &lt;parentid&gt;347747&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T08:12:22Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;RaYmondCheung&lt;/username&gt;
-        &lt;id&gt;26948&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;/* 干员信息 */&lt;/comment&gt;
-      &lt;origin&gt;335456&lt;/origin&gt;
+      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
+      &lt;origin&gt;347966&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="39837" sha1="ex0214s9mpfdwc439vwjj3zal4za0ws" xml:space="preserve"&gt;{{干员页面名|薇薇安娜|Viviana|ヴィヴィアナ}}{{pathnav2|干员一览}}
+      &lt;text bytes="40597" sha1="idjw83d4an76ihy095jxjwnkm3qfjc3" xml:space="preserve"&gt;{{干员页面名|薇薇安娜|Viviana|ヴィヴィアナ}}{{pathnav2|干员一览}}
 {{参阅|烛骑士薇薇安娜|作为敌方精英敌人登场的薇薇安娜}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
@@ -122,6 +121,8 @@
 |部署费用=19→21
 |阻挡数=1
 |攻击速度=1.25s
+|所属势力=莱塔尼亚
+|隐藏势力=卡西米尔
 |精英0_1级_生命上限=1332
 |精英0_1级_攻击=277
 |精英0_1级_防御=202
@@ -545,12 +546,37 @@
 ==语音记录==
 {{参阅三|{{FULLPAGENAME}}|yy}}
 {{:{{FULLPAGENAME}}/语音记录}}
+==干员密录==
+{{干员密录|list=
+{{干员密录/list
+|精英化=2
+|等级=1
+|信赖=50
+|蚀刻章override=medal_story_vvana_1
+|storySetName=不写诗的诗人
+|storyIntro1=诗人的眼如同时间，当她注目一片土地，土地的肌理便随之改变。
+|storyTxt1={{FULLPAGENAME}}/干员密录/1
+}}
+}}
+==悖论模拟==
+{{悖论模拟
+|name=孤烛
+|description=有时，干员们会在战场上最关键的隘口看见一点烛火亮起。在夜晚，它撑起层层光晕；在白日，它洒下道道阴影。
+谁也不曾想过光与影也能构成一道幕墙，就连风也钻不过去。
+|精英化=2
+|等级=1
+|zoneName=
+|stageName=
+|picId=
+|报酬内容1=合成玉
+|报酬数量1=200
+}}
 ==干员模型==
 {{spineId}}
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;ex0214s9mpfdwc439vwjj3zal4za0ws&lt;/sha1&gt;
+      &lt;sha1&gt;idjw83d4an76ihy095jxjwnkm3qfjc3&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

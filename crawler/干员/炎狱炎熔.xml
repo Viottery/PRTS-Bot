@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;26172&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;311502&lt;/id&gt;
-      &lt;parentid&gt;311497&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-06-12T19:35:07Z&lt;/timestamp&gt;
+      &lt;id&gt;347566&lt;/id&gt;
+      &lt;parentid&gt;347080&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:01:38Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;一抹晚烟&lt;/username&gt;
-        &lt;id&gt;82858&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 萨卡兹的刀 */ // Edit via Wikiplus&lt;/comment&gt;
-      &lt;origin&gt;311502&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347566&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="28274" sha1="7d7m9enrmjx6f29apewkwjjr3cii8ob" xml:space="preserve"&gt;{{干员页面名|炎狱炎熔|Lava the Purgatory|炎獄ラヴァ}}{{pathnav2|干员一览}}
+      &lt;text bytes="28325" sha1="8palupbfp5ibo80ie54eqzfefi9keq8" xml:space="preserve"&gt;{{干员页面名|炎狱炎熔|Lava the Purgatory|炎獄ラヴァ}}{{pathnav2|干员一览}}
 {{异格干员|原型=炎熔}}
 ==干员信息==
 {{CharinfoV2
@@ -120,6 +120,8 @@
 |部署费用=32→35
 |阻挡数=1
 |攻击速度=2.9s
+|所属势力=罗德岛
+|隐藏势力=维多利亚
 |精英0_1级_生命上限=692
 |精英0_1级_攻击=370
 |精英0_1级_防御=46
@@ -474,7 +476,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;7d7m9enrmjx6f29apewkwjjr3cii8ob&lt;/sha1&gt;
+      &lt;sha1&gt;8palupbfp5ibo80ie54eqzfefi9keq8&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

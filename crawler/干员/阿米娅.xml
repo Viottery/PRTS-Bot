@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1751&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;331526&lt;/id&gt;
-      &lt;parentid&gt;331227&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-01-13T17:04:18Z&lt;/timestamp&gt;
+      &lt;id&gt;347552&lt;/id&gt;
+      &lt;parentid&gt;347066&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:00:42Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Enko&lt;/username&gt;
-        &lt;id&gt;394&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;//&lt;/comment&gt;
-      &lt;origin&gt;331526&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347552&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="29188" sha1="8cbbwcur50m2zxymmlgiguqgylfitfi" xml:space="preserve"&gt;{{干员页面名|阿米娅|Amiya|アーミヤ}}{{pathnav2|干员一览}}
+      &lt;text bytes="29239" sha1="idif3roiq7uvj83gotkqgmxswuuzspb" xml:space="preserve"&gt;{{干员页面名|阿米娅|Amiya|アーミヤ}}{{pathnav2|干员一览}}
 {{参阅|“阿米娅”|作为敌方领袖与博士过去记忆的象征登场的阿米娅}}
 {{参阅|“阿米娅”，炉芯终曲|作为终结所有熔炉想象的故事中的“阿米娅”}}
 {{异格干员/升变}}
@@ -141,6 +140,8 @@
 |部署费用=18→20
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=罗德岛
+|隐藏势力=雷姆必拓
 |精英0_1级_生命上限=699
 |精英0_1级_攻击=276
 |精英0_1级_防御=48
@@ -530,7 +531,7 @@
 {{spineId}}
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;8cbbwcur50m2zxymmlgiguqgylfitfi&lt;/sha1&gt;
+      &lt;sha1&gt;idif3roiq7uvj83gotkqgmxswuuzspb&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

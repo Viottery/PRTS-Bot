@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;79431&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;345426&lt;/id&gt;
-      &lt;parentid&gt;345383&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-16T14:35:24Z&lt;/timestamp&gt;
+      &lt;id&gt;346129&lt;/id&gt;
+      &lt;parentid&gt;346088&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-26T07:39:53Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Enko&lt;/username&gt;
-        &lt;id&gt;394&lt;/id&gt;
+        &lt;username&gt;冬灵血巫大師&lt;/username&gt;
+        &lt;id&gt;19138&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;//&lt;/comment&gt;
-      &lt;origin&gt;345426&lt;/origin&gt;
+      &lt;comment&gt;/* 级别0 */&lt;/comment&gt;
+      &lt;origin&gt;346129&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="1470" sha1="jjb1y6ze6mt74bpd9jdwcvijlzkk0b3" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+      &lt;text bytes="1568" sha1="s8ayplxxesy2ybldplraq3wdxsik84p" xml:space="preserve"&gt;{{Navigator|敌人一览}}
 {{敌人信息/common
 |id=1285
 |名称=文档
@@ -115,11 +114,12 @@
 |技能0=防护力场
 |技能0初始=2
 |技能0消耗=2
-|技能0效果=仅触发一次，启用防护力场：&amp;lt;br&amp;gt;生效期间受到的物理/法术伤害-80%，防护力场受到单次&amp;gt;700的物理/法术伤害后失效&amp;lt;br&amp;gt;判定伤害为计算增减伤后的最终伤害
+|技能0效果=仅触发一次，启用防护力场：&amp;lt;br&amp;gt;生效期间自身受到的物理/法术伤害-80%；防护力场生效期间，自身受到单次物理/法术伤害后，若生命值减少量≥700，则防护力场失效&amp;lt;br&amp;gt;※此技能无法被沉默，释放期间自身免疫{{异常效果|晕眩}}
 }}
+
 ==敌人模型==
 {{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
-      &lt;sha1&gt;jjb1y6ze6mt74bpd9jdwcvijlzkk0b3&lt;/sha1&gt;
+      &lt;sha1&gt;s8ayplxxesy2ybldplraq3wdxsik84p&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

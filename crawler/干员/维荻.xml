@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;59944&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;335450&lt;/id&gt;
-      &lt;parentid&gt;334758&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-02-27T17:23:10Z&lt;/timestamp&gt;
+      &lt;id&gt;347430&lt;/id&gt;
+      &lt;parentid&gt;347005&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:50:11Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;RaYmondCheung&lt;/username&gt;
-        &lt;id&gt;26948&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;/* 干员信息 */&lt;/comment&gt;
-      &lt;origin&gt;335450&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347430&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="27115" sha1="py43q60ywl4tn9aknhujuzaobdch7nj" xml:space="preserve"&gt;{{干员页面名|维荻|Verdant|ヴァーダント}}{{pathnav2|干员一览}}
+      &lt;text bytes="27142" sha1="cmvy9to6tcet60ik4haw3guatt1n6z1" xml:space="preserve"&gt;{{干员页面名|维荻|Verdant|ヴァーダント}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -120,6 +119,7 @@
 |部署费用=12→14
 |阻挡数=2
 |攻击速度=1.2s
+|所属势力=维多利亚
 |精英0_1级_生命上限=1060
 |精英0_1级_攻击=305
 |精英0_1级_防御=106
@@ -499,7 +499,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;py43q60ywl4tn9aknhujuzaobdch7nj&lt;/sha1&gt;
+      &lt;sha1&gt;cmvy9to6tcet60ik4haw3guatt1n6z1&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

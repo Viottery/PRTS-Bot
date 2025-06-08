@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;43728&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326218&lt;/id&gt;
-      &lt;parentid&gt;325955&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:10:26Z&lt;/timestamp&gt;
+      &lt;id&gt;347571&lt;/id&gt;
+      &lt;parentid&gt;347085&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:01:58Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326218&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347571&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="27003" sha1="7wyi21edap7srsykjrc82dcuv6da3y1" xml:space="preserve"&gt;{{干员页面名|至简|Minimalist|ミニマリスト}}{{pathnav2|干员一览}}
+      &lt;text bytes="27027" sha1="f11on25l0dlyddmlthyqdv7i2g1bppc" xml:space="preserve"&gt;{{干员页面名|至简|Minimalist|ミニマリスト}}{{pathnav2|干员一览}}
 {{参阅|“物欲拮抗者”|作为敌方领袖登场的至简}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
@@ -122,6 +122,7 @@
 |部署费用=21→23
 |阻挡数=1
 |攻击速度=1.3s
+|所属势力=萨尔贡
 |精英0_1级_生命上限=573
 |精英0_1级_攻击=148
 |精英0_1级_防御=47
@@ -488,7 +489,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;7wyi21edap7srsykjrc82dcuv6da3y1&lt;/sha1&gt;
+      &lt;sha1&gt;f11on25l0dlyddmlthyqdv7i2g1bppc&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

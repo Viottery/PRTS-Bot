@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;11547&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326262&lt;/id&gt;
-      &lt;parentid&gt;325995&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:13:09Z&lt;/timestamp&gt;
+      &lt;id&gt;347620&lt;/id&gt;
+      &lt;parentid&gt;347134&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:05:07Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326262&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347620&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="25844" sha1="2pff94tp2l18287xhhv5ov41dcbptwz" xml:space="preserve"&gt;{{干员页面名|雪雉|Snowsant|スノーズント}}{{pathnav2|干员一览}}
+      &lt;text bytes="25869" sha1="2qhwrhin8ka5mkra3h3dz8dojmc7rli" xml:space="preserve"&gt;{{干员页面名|雪雉|Snowsant|スノーズント}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -120,6 +120,7 @@
 |部署费用=13→15
 |阻挡数=2
 |攻击速度=1.8s
+|所属势力=炎-龙门
 |精英0_1级_生命上限=794
 |精英0_1级_攻击=320
 |精英0_1级_防御=155
@@ -487,7 +488,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;2pff94tp2l18287xhhv5ov41dcbptwz&lt;/sha1&gt;
+      &lt;sha1&gt;2qhwrhin8ka5mkra3h3dz8dojmc7rli&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

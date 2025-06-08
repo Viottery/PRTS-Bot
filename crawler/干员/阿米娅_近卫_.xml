@@ -54,18 +54,19 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;23361&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;330043&lt;/id&gt;
-      &lt;parentid&gt;329094&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-12-16T13:11:26Z&lt;/timestamp&gt;
+      &lt;id&gt;346558&lt;/id&gt;
+      &lt;parentid&gt;330043&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-28T13:20:38Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;4573去&lt;/username&gt;
-        &lt;id&gt;65217&lt;/id&gt;
+        &lt;username&gt;Enko&lt;/username&gt;
+        &lt;id&gt;394&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 属性 */补上模组&lt;/comment&gt;
-      &lt;origin&gt;330043&lt;/origin&gt;
+      &lt;minor/&gt;
+      &lt;comment&gt;//&lt;/comment&gt;
+      &lt;origin&gt;346558&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="21920" sha1="0vl2booqvmendcn9r2mgov9km2kwd61" xml:space="preserve"&gt;{{干员页面名|阿米娅(近卫)|Amiya|アーミヤ}}{{pathnav2|干员一览}}
+      &lt;text bytes="21971" sha1="oibfvoqhv5c1k9lrjs9uqloh4l7201l" xml:space="preserve"&gt;{{干员页面名|阿米娅(近卫)|Amiya|アーミヤ}}{{pathnav2|干员一览}}
 {{异格干员/升变}}
 ==干员信息==
 {{CharinfoV2
@@ -121,6 +122,8 @@
 |部署费用=19→21
 |阻挡数=1
 |攻击速度=1.25s
+|所属势力=罗德岛
+|隐藏势力=雷姆必拓
 |精英0_1级_生命上限=1199
 |精英0_1级_攻击=282
 |精英0_1级_防御=170
@@ -409,7 +412,7 @@
 {{spineId}}
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;0vl2booqvmendcn9r2mgov9km2kwd61&lt;/sha1&gt;
+      &lt;sha1&gt;oibfvoqhv5c1k9lrjs9uqloh4l7201l&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

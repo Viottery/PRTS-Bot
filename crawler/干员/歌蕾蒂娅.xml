@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;28777&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;336593&lt;/id&gt;
-      &lt;parentid&gt;332305&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-03-09T10:06:22Z&lt;/timestamp&gt;
+      &lt;id&gt;347709&lt;/id&gt;
+      &lt;parentid&gt;347231&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:11:49Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Visu2209&lt;/username&gt;
-        &lt;id&gt;1119&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 技能 */&lt;/comment&gt;
-      &lt;origin&gt;336593&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347709&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="42531" sha1="bbffnxsd0rvaw6r60lfgwjqn595s899" xml:space="preserve"&gt;{{干员页面名|歌蕾蒂娅|Gladiia|グレイディーア}}{{pathnav2|干员一览}}
+      &lt;text bytes="42568" sha1="cv26199hdjwoazj3d611d74de32ojbi" xml:space="preserve"&gt;{{干员页面名|歌蕾蒂娅|Gladiia|グレイディーア}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -128,6 +128,7 @@
 |部署费用=14→16
 |阻挡数=2
 |攻击速度=1.8s
+|所属势力=阿戈尔,深海猎人
 |精英0_1级_生命上限=999
 |精英0_1级_攻击=344
 |精英0_1级_防御=144
@@ -632,7 +633,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;bbffnxsd0rvaw6r60lfgwjqn595s899&lt;/sha1&gt;
+      &lt;sha1&gt;cv26199hdjwoazj3d611d74de32ojbi&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

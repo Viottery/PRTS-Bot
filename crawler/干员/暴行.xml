@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1779&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;344985&lt;/id&gt;
-      &lt;parentid&gt;342959&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-12T09:10:34Z&lt;/timestamp&gt;
+      &lt;id&gt;347757&lt;/id&gt;
+      &lt;parentid&gt;347293&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:15:31Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;30000lightyears&lt;/username&gt;
-        &lt;id&gt;59044&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 干员信息 */&lt;/comment&gt;
-      &lt;origin&gt;344985&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347757&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="19893" sha1="1fz77in583pcbs5qiryixvltmt6so7v" xml:space="preserve"&gt;{{干员页面名|暴行|Savage|サベージ}}{{pathnav2|干员一览}}
+      &lt;text bytes="19920" sha1="npgh1n11ppxa5nvy8p448fodyysjhfn" xml:space="preserve"&gt;{{干员页面名|暴行|Savage|サベージ}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -130,6 +130,7 @@
 |部署费用=18→20→22
 |阻挡数=2→2→3
 |攻击速度=1.2s
+|所属势力=雷姆必拓
 |精英0_1级_生命上限=1108
 |精英0_1级_攻击=284
 |精英0_1级_防御=135
@@ -497,7 +498,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;1fz77in583pcbs5qiryixvltmt6so7v&lt;/sha1&gt;
+      &lt;sha1&gt;npgh1n11ppxa5nvy8p448fodyysjhfn&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

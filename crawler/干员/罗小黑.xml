@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;45211&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;309368&lt;/id&gt;
-      &lt;parentid&gt;305887&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-05-27T05:05:09Z&lt;/timestamp&gt;
+      &lt;id&gt;347405&lt;/id&gt;
+      &lt;parentid&gt;346982&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:48:35Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;调零修罗&lt;/username&gt;
-        &lt;id&gt;6713&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;（实装天赋列表3）&lt;/comment&gt;
-      &lt;origin&gt;309368&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347405&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="23306" sha1="qpfs7igu2mexw7u364hr4mmmeavwnwr" xml:space="preserve"&gt;{{干员页面名|罗小黑|Luo Xiaohei|羅小黒}}{{pathnav2|干员一览}}
+      &lt;text bytes="23324" sha1="quvhd6fvnt7vm7q3reo9mtk874hvkte" xml:space="preserve"&gt;{{干员页面名|罗小黑|Luo Xiaohei|羅小黒}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -114,6 +114,7 @@
 |部署费用=15→17
 |阻挡数=2
 |攻击速度=1.3s
+|所属势力=炎
 |精英0_1级_生命上限=856
 |精英0_1级_攻击=287
 |精英0_1级_防御=154
@@ -438,7 +439,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;qpfs7igu2mexw7u364hr4mmmeavwnwr&lt;/sha1&gt;
+      &lt;sha1&gt;quvhd6fvnt7vm7q3reo9mtk874hvkte&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

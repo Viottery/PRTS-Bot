@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;61837&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;328444&lt;/id&gt;
-      &lt;parentid&gt;322500&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-12-05T03:00:43Z&lt;/timestamp&gt;
+      &lt;id&gt;347769&lt;/id&gt;
+      &lt;parentid&gt;347766&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:31:34Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
       &lt;comment&gt;update&lt;/comment&gt;
-      &lt;origin&gt;328444&lt;/origin&gt;
+      &lt;origin&gt;347769&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="39167" sha1="6d4ewurq2lg4hxsah2zutujozfd1f0n" xml:space="preserve"&gt;{{干员页面名|锏|Degenbrecher|デーゲンブレヒャー}}{{pathnav2|干员一览}}
+      &lt;text bytes="39245" sha1="26bafcv4im8ol4t9v03fquwaymj0bs6" xml:space="preserve"&gt;{{干员页面名|锏|Degenbrecher|デーゲンブレヒャー}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 {{参阅|锏(敌方)|作为敌方领袖登场的锏}}
 ==干员信息==
@@ -120,6 +120,8 @@
 |部署费用=19→21→23
 |阻挡数=2
 |攻击速度=1.3s
+|所属势力=谢拉格,喀兰贸易
+|隐藏势力=卡西米尔;;莱塔尼亚
 |精英0_1级_生命上限=1218
 |精英0_1级_攻击=255
 |精英0_1级_防御=147
@@ -585,7 +587,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;6d4ewurq2lg4hxsah2zutujozfd1f0n&lt;/sha1&gt;
+      &lt;sha1&gt;26bafcv4im8ol4t9v03fquwaymj0bs6&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

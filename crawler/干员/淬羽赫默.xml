@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;54446&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;344261&lt;/id&gt;
-      &lt;parentid&gt;344010&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-04T02:57:46Z&lt;/timestamp&gt;
+      &lt;id&gt;348735&lt;/id&gt;
+      &lt;parentid&gt;347696&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-06T07:49:25Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Visu2209&lt;/username&gt;
-        &lt;id&gt;1119&lt;/id&gt;
+        &lt;username&gt;调零修罗&lt;/username&gt;
+        &lt;id&gt;6713&lt;/id&gt;
       &lt;/contributor&gt;
       &lt;comment&gt;/* 天赋 */&lt;/comment&gt;
-      &lt;origin&gt;344261&lt;/origin&gt;
+      &lt;origin&gt;348735&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="40694" sha1="99q0xazu8le5y7pzdolrq6jymeo3rx6" xml:space="preserve"&gt;{{干员页面名|淬羽赫默|Silence the Paradigmatic|淬羽サイレンス}}{{pathnav2|干员一览}}
+      &lt;text bytes="41268" sha1="h9twxr8b8rvoyuqueby2bz0v2od5d7s" xml:space="preserve"&gt;{{干员页面名|淬羽赫默|Silence the Paradigmatic|淬羽サイレンス}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 {{异格干员|原型=赫默}}
 ==干员信息==
@@ -94,7 +94,6 @@
 |精英0介绍=赫默在特里蒙行动时穿着的服装。&amp;lt;br/&amp;gt;由知名影星玛丽安娜·布莱克亲自挑选，便捷性与时尚感并存。
 |精英2介绍=为了实现自己的目标，赫默决定抛弃过往的软弱。&amp;lt;br/&amp;gt;她将温柔深藏心中，而后走上舞台，誓要让所有人都看到她的想法。
 |时装1名称=栖息
-|时装1画师=九日九号
 |时装1系列=时代/XXXII
 |时装1颜色=#315147
 |时装1介绍=EPOQUE系列新款/栖息。赫默的礼服，用于出席公开场合。赫默变得相当忙碌，面对摄像机几乎令她立盹行眠，还好有伊芙利特的手工小闹钟帮她提神。
@@ -114,9 +113,9 @@
 
 ==获得方式==
 {{干员获得方式
-|获得方式=活动获得
+|获得方式=活动获得 记录修复奖励
 |上线时间=2023-05-01 16:00
-|前缀=[[孤星|{{color|orange|孤星}}]]及其[[孤星2024|{{color|orange|复刻}}]]
+|覆盖=[[孤星|{{color|orange|孤星}}]]及其[[孤星2024|{{color|orange|复刻}}]]活动获得&amp;lt;br&amp;gt;{{fa|arrow-right}}  [[关卡一览/插曲#孤星|{{color|orange|插曲：孤星}}]]记录修复奖励
 }}
 
 ==属性==
@@ -125,6 +124,7 @@
 |部署费用=13→15
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=哥伦比亚,莱茵生命
 |精英0_1级_生命上限=737
 |精英0_1级_攻击=185
 |精英0_1级_防御=73
@@ -205,10 +205,11 @@
 |潜能增强_天赋5=丰润羽翼
 |潜能增强_天赋5条件=精英2 Y模组3级
 |潜能增强_天赋5效果=攻击范围内生命低于50%的友军每秒恢复相当于淬羽赫默攻击力6%{{color|#0098DC|（+1%）}}的生命，且其中每个干员低于50%生命时仅一次立刻获得淬羽赫默生命上限50%的{{术语|ba.barrier|屏障}},【莱茵生命】干员的效果翻倍
-|备注=※&amp;lt;Y模组&amp;gt;该效果在每次淬羽赫默部署期间，每名干员仅可触发1次；屏障优先级为-1000，在生命值高于50%而即将受到伤害'''之前'''对伤害进行预判，若其生命值即将低于50%则触发该额外效果{{popup|15px|内容=相当于此屏障会在绝大多数的伤判效果中能以更早的时间点触发，从而一定程度抵挡可能致命的伤害；可能会因对象获得的其他伤判效果出现误判。}}
+|备注=※&amp;lt;Y模组&amp;gt;该效果在每次淬羽赫默部署期间，每名干员仅可触发1次；屏障优先级为-1000，在生命值高于50%而即将受到伤害'''之前'''对伤害进行预判，若其生命值即将低于50%则触发该额外效果（非[[伤判效果]]）{{popup|15px|内容=相当于此屏障会在绝大多数的伤判效果中能以更早的时间点触发，从而一定程度抵挡可能致命的伤害；可能会因对象获得的其他伤判效果出现误判。}}
 }}
 
 ==潜能提升==
+*该干员'''现已'''无法使用其信物或通用信物来提升潜能，请使用[[#相关道具|该干员的私人信件]]将潜能升至满级。
 {{潜能提升
 |潜能2=部署费用-1
 |潜能3=再部署时间-10秒
@@ -464,6 +465,8 @@
 |干员简介补充=曾经，她总是站在他人的背后；如今，她走到了所有人的身前。
 |信物用途=用于提升淬羽赫默的潜能。
 |信物描述=一副稍显古旧的圆眼镜。有人说戴上眼镜的她会少几分锐气，她于是将眼镜交给你来保管。在罗德岛上，她希望自己还是过去的自己。
+|信件用途=发送给博士的私人信件，用于将淬羽赫默的潜能提升至满级。
+|信件描述=信中提及了她在莱茵生命担任执行顾问以来的种种见闻与思考，同时推荐了几种她最近尝试过的咖啡豆。
 }}
 ==干员档案==
 {{人员档案set
@@ -602,7 +605,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;99q0xazu8le5y7pzdolrq6jymeo3rx6&lt;/sha1&gt;
+      &lt;sha1&gt;h9twxr8b8rvoyuqueby2bz0v2od5d7s&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

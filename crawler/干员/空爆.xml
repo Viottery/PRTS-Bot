@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1780&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326346&lt;/id&gt;
-      &lt;parentid&gt;326073&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:19:14Z&lt;/timestamp&gt;
+      &lt;id&gt;347758&lt;/id&gt;
+      &lt;parentid&gt;347294&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:15:35Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326346&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347758&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="9261" sha1="2saktp14vagm1jmlsitymu1bukhmjmg" xml:space="preserve"&gt;{{干员页面名|空爆|Catapult|カタパルト}}{{pathnav2|干员一览}}
+      &lt;text bytes="9330" sha1="rpqs1n219kxbkbpyrzt8bb42adawtf7" xml:space="preserve"&gt;{{干员页面名|空爆|Catapult|カタパルト}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -116,6 +116,8 @@
 |部署费用=21→23
 |阻挡数=1
 |攻击速度=2.8s
+|所属势力=罗德岛,行动预备组A6
+|隐藏势力=卡西米尔
 |精英0_1级_生命上限=736
 |精英0_1级_攻击=340
 |精英0_1级_防御=51
@@ -337,7 +339,7 @@ A6的问题儿童，平日吊儿郎当，看到热闹就会凑上去煽风点火
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;2saktp14vagm1jmlsitymu1bukhmjmg&lt;/sha1&gt;
+      &lt;sha1&gt;rpqs1n219kxbkbpyrzt8bb42adawtf7&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

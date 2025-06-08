@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;44828&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;344993&lt;/id&gt;
-      &lt;parentid&gt;343341&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-12T09:36:55Z&lt;/timestamp&gt;
+      &lt;id&gt;347756&lt;/id&gt;
+      &lt;parentid&gt;347292&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:15:27Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;30000lightyears&lt;/username&gt;
-        &lt;id&gt;59044&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 干员信息 */&lt;/comment&gt;
-      &lt;origin&gt;344993&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347756&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="35400" sha1="k6x2xf5tcmboq7kpsumb8wlkzzhffb3" xml:space="preserve"&gt;{{干员页面名|玛恩纳|Młynar|ムリナール}}{{pathnav2|干员一览}}
+      &lt;text bytes="35427" sha1="s40z8vcjwotu47vdxurjhibnwhu441i" xml:space="preserve"&gt;{{干员页面名|玛恩纳|Młynar|ムリナール}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -126,6 +126,7 @@
 |部署费用=10→12
 |阻挡数=2→2→3
 |攻击速度=1.2s
+|所属势力=卡西米尔
 |精英0_1级_生命上限=1945
 |精英0_1级_攻击=161
 |精英0_1级_防御=239
@@ -538,7 +539,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;k6x2xf5tcmboq7kpsumb8wlkzzhffb3&lt;/sha1&gt;
+      &lt;sha1&gt;s40z8vcjwotu47vdxurjhibnwhu441i&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

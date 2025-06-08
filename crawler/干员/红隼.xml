@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;63238&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;321720&lt;/id&gt;
-      &lt;parentid&gt;319278&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-10-09T05:36:36Z&lt;/timestamp&gt;
+      &lt;id&gt;347466&lt;/id&gt;
+      &lt;parentid&gt;347014&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:52:31Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Dandeagle&lt;/username&gt;
-        &lt;id&gt;45044&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;(InPageEdit-preference-summary-default)&lt;/comment&gt;
-      &lt;origin&gt;321720&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347466&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="24655" sha1="cpun17sqsr70syx33cyqkfaqihm90pz" xml:space="preserve"&gt;{{干员页面名|红隼|Kestrel|ケストレル}}{{pathnav2|干员一览}}
+      &lt;text bytes="24679" sha1="13wqgc7nzudgrlt67frbxemer9yoo3b" xml:space="preserve"&gt;{{干员页面名|红隼|Kestrel|ケストレル}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -116,6 +115,7 @@
 |部署费用=11→13
 |阻挡数=2
 |攻击速度=1.05s
+|所属势力=萨尔贡
 |精英0_1级_生命上限=730
 |精英0_1级_攻击=208
 |精英0_1级_防御=138
@@ -483,7 +483,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;cpun17sqsr70syx33cyqkfaqihm90pz&lt;/sha1&gt;
+      &lt;sha1&gt;13wqgc7nzudgrlt67frbxemer9yoo3b&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

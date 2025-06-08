@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1704&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326096&lt;/id&gt;
-      &lt;parentid&gt;325865&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:02:24Z&lt;/timestamp&gt;
+      &lt;id&gt;347517&lt;/id&gt;
+      &lt;parentid&gt;347437&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:58:13Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326096&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347517&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="9333" sha1="h2dr98qqr1x91nf7el0wan0ym65ylnl" xml:space="preserve"&gt;{{干员页面名|芬|Fang|フェン}}{{pathnav2|干员一览}}
+      &lt;text bytes="9402" sha1="834czgvptiuugom5oohoznpte3fdfgm" xml:space="preserve"&gt;{{干员页面名|芬|Fang|フェン}}{{pathnav2|干员一览}}
 {{异格干员|原型={{BASEPAGENAME}}|非异格=1}}
 ==干员信息==
 {{CharinfoV2
@@ -116,6 +116,8 @@
 |部署费用=9→11
 |阻挡数=2
 |攻击速度=1.05s
+|所属势力=罗德岛,行动预备组A1
+|隐藏势力=卡西米尔
 |精英0_1级_生命上限=742
 |精英0_1级_攻击=157
 |精英0_1级_防御=130
@@ -320,7 +322,7 @@
 {{spineId}}
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;h2dr98qqr1x91nf7el0wan0ym65ylnl&lt;/sha1&gt;
+      &lt;sha1&gt;834czgvptiuugom5oohoznpte3fdfgm&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

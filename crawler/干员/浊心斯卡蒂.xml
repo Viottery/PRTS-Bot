@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;28775&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;324010&lt;/id&gt;
-      &lt;parentid&gt;321621&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-10-31T00:45:40Z&lt;/timestamp&gt;
+      &lt;id&gt;347695&lt;/id&gt;
+      &lt;parentid&gt;347215&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:10:36Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;CCl4&lt;/username&gt;
-        &lt;id&gt;51601&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;/* 蜕化的残迹 */ // Edit via Wikiplus&lt;/comment&gt;
-      &lt;origin&gt;324010&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347695&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="39413" sha1="shcb0aa6ttc2xzfb38f0mezl0k4yy2y" xml:space="preserve"&gt;{{干员页面名|浊心斯卡蒂|Skadi the Corrupting Heart|濁心スカジ}}{{pathnav2|干员一览}}
+      &lt;text bytes="39437" sha1="imsvtf8ifajgruf729czpmhsoqotg6d" xml:space="preserve"&gt;{{干员页面名|浊心斯卡蒂|Skadi the Corrupting Heart|濁心スカジ}}{{pathnav2|干员一览}}
 {{异格干员|原型=斯卡蒂}}
 {{参阅|伊莎玛拉，腐化之心|作为敌方领袖登场的浊心斯卡蒂}}
 ==干员信息==
@@ -149,6 +148,7 @@
 |部署费用=6→8
 |阻挡数=1
 |攻击速度=1.3s
+|所属势力=阿戈尔
 |精英0_1级_生命上限=613
 |精英0_1级_攻击=145
 |精英0_1级_防御=93
@@ -647,7 +647,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;shcb0aa6ttc2xzfb38f0mezl0k4yy2y&lt;/sha1&gt;
+      &lt;sha1&gt;imsvtf8ifajgruf729czpmhsoqotg6d&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

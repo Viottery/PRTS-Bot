@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1743&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326160&lt;/id&gt;
-      &lt;parentid&gt;325904&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:06:49Z&lt;/timestamp&gt;
+      &lt;id&gt;347541&lt;/id&gt;
+      &lt;parentid&gt;347463&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:59:53Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326160&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347541&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="20928" sha1="e8otcohp6p9iucdjdo5trwed3g537nv" xml:space="preserve"&gt;{{干员页面名|德克萨斯|Texas|テキサス}}{{pathnav2|干员一览}}
+      &lt;text bytes="20990" sha1="7pu3e3j9w004jnp3qv0avdzqfrl4fsl" xml:space="preserve"&gt;{{干员页面名|德克萨斯|Texas|テキサス}}{{pathnav2|干员一览}}
 {{异格干员|原型={{BASEPAGENAME}}|非异格=1}}
 ==干员信息==
 {{CharinfoV2
@@ -128,6 +128,8 @@
 |部署费用=11→13
 |阻挡数=2
 |攻击速度=1.05s
+|所属势力=炎-龙门,企鹅物流
+|隐藏势力=叙拉古
 |精英0_1级_生命上限=727
 |精英0_1级_攻击=203
 |精英0_1级_防御=139
@@ -486,7 +488,7 @@
 {{spineId}}
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;e8otcohp6p9iucdjdo5trwed3g537nv&lt;/sha1&gt;
+      &lt;sha1&gt;7pu3e3j9w004jnp3qv0avdzqfrl4fsl&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

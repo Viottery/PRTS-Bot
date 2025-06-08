@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;3266&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326170&lt;/id&gt;
-      &lt;parentid&gt;325912&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:07:23Z&lt;/timestamp&gt;
+      &lt;id&gt;347478&lt;/id&gt;
+      &lt;parentid&gt;347026&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:53:17Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326170&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347478&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="23680" sha1="lrgqmwy0bpvbdymub6qowfi87k6zh2o" xml:space="preserve"&gt;{{干员页面名|诗怀雅|Swire|スワイヤー}}{{pathnav2|干员一览}}
+      &lt;text bytes="23721" sha1="biuoh8j1gtcciygh60kanxidk7kbrzy" xml:space="preserve"&gt;{{干员页面名|诗怀雅|Swire|スワイヤー}}{{pathnav2|干员一览}}
 {{异格干员|原型={{BASEPAGENAME}}|非异格=1}}
 ==干员信息==
 {{CharinfoV2
@@ -119,6 +119,7 @@
 |部署费用=14→16
 |阻挡数=2
 |攻击速度=1.05s
+|所属势力=炎-龙门,龙门近卫局
 |精英0_1级_生命上限=774
 |精英0_1级_攻击=289
 |精英0_1级_防御=193
@@ -506,7 +507,7 @@
 {{spineId}}
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;lrgqmwy0bpvbdymub6qowfi87k6zh2o&lt;/sha1&gt;
+      &lt;sha1&gt;biuoh8j1gtcciygh60kanxidk7kbrzy&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

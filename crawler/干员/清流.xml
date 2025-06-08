@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;12983&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326142&lt;/id&gt;
-      &lt;parentid&gt;325798&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:05:41Z&lt;/timestamp&gt;
+      &lt;id&gt;347952&lt;/id&gt;
+      &lt;parentid&gt;347416&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T08:05:38Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326142&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347952&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="21476" sha1="a3nzb9bzhuqx31ulu9r4v36r1749wg1" xml:space="preserve"&gt;{{干员页面名|清流|Purestream|セイリュウ}}{{pathnav2|干员一览}}
+      &lt;text bytes="21497" sha1="ovntal33ccp8e2mfr75qvl71jsgzf38" xml:space="preserve"&gt;{{干员页面名|清流|Purestream|セイリュウ}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -88,7 +88,7 @@
 |画师=唯@W
 |中文配音=橙璃
 |日文配音=三宅麻理恵
-|韩文配音=佳彬
+|韩文配音=吴捞妸
 |英文配音=Kristen Li
 |精英0介绍=干员平时最常穿着的服装。&amp;lt;br/&amp;gt;虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。
 |精英2介绍=晋升后，经过调整的服装。&amp;lt;br/&amp;gt;根据干员的经验，对服装细节进行改进，针对一些作战环境进行了特化处理。在满足战斗需求的同时，最大程度还原各位干员熟悉的舒适穿着体验。
@@ -121,6 +121,7 @@
 |部署费用=17→19
 |阻挡数=1
 |攻击速度=2.85s
+|所属势力=炎
 |精英0_1级_生命上限=748
 |精英0_1级_攻击=159
 |精英0_1级_防御=51
@@ -488,7 +489,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;a3nzb9bzhuqx31ulu9r4v36r1749wg1&lt;/sha1&gt;
+      &lt;sha1&gt;ovntal33ccp8e2mfr75qvl71jsgzf38&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

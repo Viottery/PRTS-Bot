@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1705&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326097&lt;/id&gt;
-      &lt;parentid&gt;325866&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:02:27Z&lt;/timestamp&gt;
+      &lt;id&gt;347361&lt;/id&gt;
+      &lt;parentid&gt;346938&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:45:56Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326097&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347361&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="8906" sha1="htp9t6amjvn2o6i2w2cwwqpi8cl4srd" xml:space="preserve"&gt;{{干员页面名|香草|Vanilla|バニラ}}{{pathnav2|干员一览}}
+      &lt;text bytes="8946" sha1="bktrw8868oiubdcyvdzc9lh9lj2ohe5" xml:space="preserve"&gt;{{干员页面名|香草|Vanilla|バニラ}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -116,6 +116,7 @@
 |部署费用=9→11
 |阻挡数=2
 |攻击速度=1.05s
+|所属势力=哥伦比亚,黑钢国际
 |精英0_1级_生命上限=711
 |精英0_1级_攻击=168
 |精英0_1级_防御=128
@@ -331,7 +332,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;htp9t6amjvn2o6i2w2cwwqpi8cl4srd&lt;/sha1&gt;
+      &lt;sha1&gt;bktrw8868oiubdcyvdzc9lh9lj2ohe5&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

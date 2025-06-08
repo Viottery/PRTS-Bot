@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;42641&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;330778&lt;/id&gt;
-      &lt;parentid&gt;326207&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-01-02T15:25:16Z&lt;/timestamp&gt;
+      &lt;id&gt;347558&lt;/id&gt;
+      &lt;parentid&gt;347072&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:01:08Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Enko&lt;/username&gt;
-        &lt;id&gt;394&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;/* 获得方式 */ //&lt;/comment&gt;
-      &lt;origin&gt;330778&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347558&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="30009" sha1="cv9d7soxh5w36sij5kqv3mp1ihu0xmc" xml:space="preserve"&gt;{{干员页面名|星源|Astgenne|アステジーニ}}{{pathnav2|干员一览}}
+      &lt;text bytes="30049" sha1="qx4r6605g1jdi0sir4h8bt7hwnxbjlj" xml:space="preserve"&gt;{{干员页面名|星源|Astgenne|アステジーニ}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -123,6 +122,7 @@
 |部署费用=31→34
 |阻挡数=1
 |攻击速度=2.3s
+|所属势力=哥伦比亚,莱茵生命
 |精英0_1级_生命上限=589
 |精英0_1级_攻击=293
 |精英0_1级_防御=48
@@ -499,7 +499,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;cv9d7soxh5w36sij5kqv3mp1ihu0xmc&lt;/sha1&gt;
+      &lt;sha1&gt;qx4r6605g1jdi0sir4h8bt7hwnxbjlj&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

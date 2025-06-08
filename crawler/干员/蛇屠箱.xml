@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1736&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;328123&lt;/id&gt;
-      &lt;parentid&gt;328122&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-12-03T09:54:24Z&lt;/timestamp&gt;
+      &lt;id&gt;347419&lt;/id&gt;
+      &lt;parentid&gt;346994&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:49:28Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;调零修罗&lt;/username&gt;
-        &lt;id&gt;6713&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;(InPageEdit-preference-summary-default)&lt;/comment&gt;
-      &lt;origin&gt;328123&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347419&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="19486" sha1="bfl5ivci5ker2w7ly5cefcq28xqmzz2" xml:space="preserve"&gt;{{干员页面名|蛇屠箱|Cuora|クオーラ}}{{pathnav2|干员一览}}
+      &lt;text bytes="19513" sha1="6es5d9ht7cf482ihql1cop4s1iy5a2p" xml:space="preserve"&gt;{{干员页面名|蛇屠箱|Cuora|クオーラ}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -118,6 +118,7 @@
 |部署费用=17→19→21
 |阻挡数=3
 |攻击速度=1.2s
+|所属势力=哥伦比亚
 |精英0_1级_生命上限=1221
 |精英0_1级_攻击=193
 |精英0_1级_防御=249
@@ -456,7 +457,7 @@
 {{spineId}}
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;bfl5ivci5ker2w7ly5cefcq28xqmzz2&lt;/sha1&gt;
+      &lt;sha1&gt;6es5d9ht7cf482ihql1cop4s1iy5a2p&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

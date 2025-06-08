@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;39690&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;345020&lt;/id&gt;
-      &lt;parentid&gt;344488&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-13T04:12:43Z&lt;/timestamp&gt;
+      &lt;id&gt;347730&lt;/id&gt;
+      &lt;parentid&gt;347253&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:13:32Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Enko&lt;/username&gt;
-        &lt;id&gt;394&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;//&lt;/comment&gt;
-      &lt;origin&gt;345020&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347730&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="46554" sha1="3cqflm27q4lbhe6rev9lvytwh2zfosl" xml:space="preserve"&gt;{{干员页面名|号角|Horn|ホルン}}{{pathnav2|干员一览}}
+      &lt;text bytes="46581" sha1="litfbo70ol2philkw47gv3di25grz69" xml:space="preserve"&gt;{{干员页面名|号角|Horn|ホルン}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -120,6 +119,7 @@
 |部署费用=24→26→28
 |阻挡数=2→3→3
 |攻击速度=2.8s
+|所属势力=维多利亚
 |精英0_1级_生命上限=1237
 |精英0_1级_攻击=483
 |精英0_1级_防御=223
@@ -637,7 +637,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;3cqflm27q4lbhe6rev9lvytwh2zfosl&lt;/sha1&gt;
+      &lt;sha1&gt;litfbo70ol2philkw47gv3di25grz69&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

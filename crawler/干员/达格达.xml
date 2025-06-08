@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;46412&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326178&lt;/id&gt;
-      &lt;parentid&gt;325919&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:07:59Z&lt;/timestamp&gt;
+      &lt;id&gt;347488&lt;/id&gt;
+      &lt;parentid&gt;347036&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:54:02Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326178&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347488&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="23054" sha1="prhtr6n3p2hlihx9331mtfi6l71tsw0" xml:space="preserve"&gt;{{干员页面名|达格达|Dagda|ダグザ}}{{pathnav2|干员一览}}
+      &lt;text bytes="23097" sha1="lznm17z247f15p32qrennpqd9enjhvl" xml:space="preserve"&gt;{{干员页面名|达格达|Dagda|ダグザ}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -113,6 +113,7 @@
 |部署费用=10→12
 |阻挡数=1
 |攻击速度=0.78s
+|所属势力=维多利亚,格拉斯哥帮
 |精英0_1级_生命上限=1185
 |精英0_1级_攻击=236
 |精英0_1级_防御=134
@@ -480,7 +481,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;prhtr6n3p2hlihx9331mtfi6l71tsw0&lt;/sha1&gt;
+      &lt;sha1&gt;lznm17z247f15p32qrennpqd9enjhvl&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

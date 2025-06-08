@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;72922&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;327281&lt;/id&gt;
-      &lt;parentid&gt;327278&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-17T07:00:12Z&lt;/timestamp&gt;
+      &lt;id&gt;348505&lt;/id&gt;
+      &lt;parentid&gt;327281&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T16:14:27Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Hjhk258&lt;/username&gt;
-        &lt;id&gt;59&lt;/id&gt;
+        &lt;username&gt;深溟猎食者&lt;/username&gt;
+        &lt;id&gt;69477&lt;/id&gt;
       &lt;/contributor&gt;
       &lt;minor/&gt;
-      &lt;comment&gt;/* 级别0 */ // Edit via Wikiplus&lt;/comment&gt;
-      &lt;origin&gt;327281&lt;/origin&gt;
+      &lt;origin&gt;348505&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="1736" sha1="dyg3n8j665qksvqj4t4my8jslcdgnwk" xml:space="preserve"&gt;{{Navigator|敌人一览}}
+      &lt;text bytes="1775" sha1="imwd6s98b6lelyu9a3wqwapio6anwk3" xml:space="preserve"&gt;{{Navigator|敌人一览}}
 {{敌人信息/common
 |id=897
 |名称=街头火舞明星
@@ -112,7 +111,7 @@
 |浮空抗性=无
 |战栗抗性=无
 |恐惧抗性=无
-|天赋=未被阻挡且未受到反隐效果影响时：不进行普通攻击，获得{{异常效果|隐匿}}+{{异常效果|孤立}}&amp;lt;br&amp;gt;上述效果失效时，可以进行远程攻击，攻击附加攻击力10%的{{术语|ba.dt.burning|灼燃损伤}}&amp;lt;br&amp;gt;远程攻击可攻击且优先攻击[[“狂欢之主”]]&amp;lt;!--[
+|天赋=未被阻挡且未受到反隐效果影响时：不进行普通攻击，获得{{异常效果|隐匿}}+{{异常效果|孤立}}&amp;lt;br&amp;gt;上述效果失效时，可以进行远程攻击，攻击附加攻击力10%的{{术语|ba.dt.burning|灼燃损伤}}/{{术语|ba.dt.burning2|灼燃损伤}}&amp;lt;br&amp;gt;远程攻击可攻击且优先攻击[[“狂欢之主”]]&amp;lt;!--[
     {
         "key": "mode.attack@ep_damage_ratio",
         "value": 0.1,
@@ -123,7 +122,7 @@
 
 ==敌人模型==
 {{spine}}&amp;lt;references/&amp;gt;{{敌人导航}}&lt;/text&gt;
-      &lt;sha1&gt;dyg3n8j665qksvqj4t4my8jslcdgnwk&lt;/sha1&gt;
+      &lt;sha1&gt;imwd6s98b6lelyu9a3wqwapio6anwk3&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1732&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;334397&lt;/id&gt;
-      &lt;parentid&gt;326139&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-02-11T14:19:53Z&lt;/timestamp&gt;
+      &lt;id&gt;347412&lt;/id&gt;
+      &lt;parentid&gt;346988&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:49:00Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;夕舞八弦&lt;/username&gt;
-        &lt;id&gt;13&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;[InPageEdit] /* 干员模型 */ 没有编辑摘要&lt;/comment&gt;
-      &lt;origin&gt;334397&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347412&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="20756" sha1="gf0c9g19jywnszw2q28vnbowdm0n2z0" xml:space="preserve"&gt;{{干员页面名|末药|Myrrh|ミルラ}}{{pathnav2|干员一览}}
+      &lt;text bytes="20780" sha1="bs83r4jl0sgiraywsnt8lqzefjld4eh" xml:space="preserve"&gt;{{干员页面名|末药|Myrrh|ミルラ}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -118,6 +118,7 @@
 |部署费用=16→18
 |阻挡数=1
 |攻击速度=2.85s
+|所属势力=罗德岛
 |精英0_1级_生命上限=752
 |精英0_1级_攻击=161
 |精英0_1级_防御=57
@@ -463,7 +464,7 @@
 {{spineId|disablePatch=1}}
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;gf0c9g19jywnszw2q28vnbowdm0n2z0&lt;/sha1&gt;
+      &lt;sha1&gt;bs83r4jl0sgiraywsnt8lqzefjld4eh&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

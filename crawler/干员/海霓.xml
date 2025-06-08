@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;68217&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;332301&lt;/id&gt;
-      &lt;parentid&gt;328884&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-01-22T08:58:35Z&lt;/timestamp&gt;
+      &lt;id&gt;347963&lt;/id&gt;
+      &lt;parentid&gt;347909&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T08:11:23Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;update&lt;/comment&gt;
-      &lt;origin&gt;332301&lt;/origin&gt;
+      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
+      &lt;origin&gt;347963&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="29248" sha1="pdqpmgwv51flysiqy1nmrjpj3znhad5" xml:space="preserve"&gt;{{干员页面名|海霓|Lucilla|ルシーラ}}{{pathnav2|干员一览}}
+      &lt;text bytes="30055" sha1="ns1z140ljiwtdhzhew5z86vcs5hs8dx" xml:space="preserve"&gt;{{干员页面名|海霓|Lucilla|ルシーラ}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -92,6 +92,10 @@
 |英文配音=Sarah Pitard
 |精英0介绍=干员平时最常穿着的服装。&amp;lt;br/&amp;gt;虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。
 |精英2介绍=晋升后，经过调整的服装。&amp;lt;br/&amp;gt;根据干员的经验，对服装细节进行改进，针对一些作战环境进行了特化处理。在满足战斗需求的同时，最大程度还原各位干员熟悉的舒适穿着体验。
+|时装1名称=翻涌
+|时装1系列=时代/XLIV
+|时装1颜色=#5f8eea
+|时装1介绍=EPOQUE系列新款/翻涌。海霓在参观已灭绝海洋物种主题展览时的穿着。服装整体以不同深度下海水的变化作为视觉线索，搭配独特的纹样点缀，显得宁静沉稳。
 &amp;lt;!--上方为自动更新部分，您的修改可能会被覆盖--&amp;gt;
 |精英0缩放=2
 |精英0坐标x=-17
@@ -112,6 +116,7 @@
 |部署费用=10→12
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=阿戈尔
 |精英0_1级_生命上限=637
 |精英0_1级_攻击=198
 |精英0_1级_防御=47
@@ -503,12 +508,24 @@
 |storyTxt1={{FULLPAGENAME}}/干员密录/1
 }}
 }}
+==悖论模拟==
+{{悖论模拟
+|name=穹顶上的瞭望者
+|description=干员们很少询问卢契拉是如何准确地推断出敌人动向的——一来大部分人听不懂她满口的技术理论，二来这样的问题总让卢契拉兴奋不已，搞不好还会被热情推销一两个难以名状的小器械试用。他们只须知道，她从未漏过一个危险信号。
+|精英化=2
+|等级=1
+|zoneName=
+|stageName=
+|picId=
+|报酬内容1=合成玉
+|报酬数量1=200
+}}
 ==干员模型==
 {{spineId}}
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;pdqpmgwv51flysiqy1nmrjpj3znhad5&lt;/sha1&gt;
+      &lt;sha1&gt;ns1z140ljiwtdhzhew5z86vcs5hs8dx&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;10087&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326237&lt;/id&gt;
-      &lt;parentid&gt;325971&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:11:35Z&lt;/timestamp&gt;
+      &lt;id&gt;347596&lt;/id&gt;
+      &lt;parentid&gt;347110&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:03:34Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326237&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347596&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="24760" sha1="kgn1da8xp4cbtbktf4zwsph48cjjd8l" xml:space="preserve"&gt;{{干员页面名|槐琥|Waai Fu|ワイフー}}{{pathnav2|干员一览}}
+      &lt;text bytes="24807" sha1="06cy91jvvxrvoczvf9ys3tlu6ovqdrr" xml:space="preserve"&gt;{{干员页面名|槐琥|Waai Fu|ワイフー}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -120,6 +120,7 @@
 |部署费用=7→9
 |阻挡数=1
 |攻击速度=0.93s
+|所属势力=炎-龙门,鲤氏侦探事务所
 |精英0_1级_生命上限=680
 |精英0_1级_攻击=207
 |精英0_1级_防御=137
@@ -522,7 +523,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;kgn1da8xp4cbtbktf4zwsph48cjjd8l&lt;/sha1&gt;
+      &lt;sha1&gt;06cy91jvvxrvoczvf9ys3tlu6ovqdrr&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -54,18 +54,19 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;45461&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;330969&lt;/id&gt;
-      &lt;parentid&gt;309673&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-01-07T08:20:20Z&lt;/timestamp&gt;
+      &lt;id&gt;347910&lt;/id&gt;
+      &lt;parentid&gt;347503&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T07:59:57Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;4573去&lt;/username&gt;
-        &lt;id&gt;65217&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 获得方式 */&lt;/comment&gt;
-      &lt;origin&gt;330969&lt;/origin&gt;
+      &lt;minor/&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347910&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="23996" sha1="4zbov0zrsppuq24q6axcw3oaeaskn7x" xml:space="preserve"&gt;{{干员页面名|海沫|Highmore|ハイモア}}{{pathnav2|干员一览}}
+      &lt;text bytes="24140" sha1="nqkekp57jhdo6qo3vbr7iff6f98szp4" xml:space="preserve"&gt;{{干员页面名|海沫|Highmore|ハイモア}}{{pathnav2|干员一览}}
 {{参阅|“偏执泡影”|作为海嗣形态与敌方领袖单位登场的海沫}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
@@ -97,6 +98,10 @@
 |时装1系列=0011制造/IX
 |时装1颜色=#54537f
 |时装1介绍=0011定制品牌[群瑰博辑]系列珍藏/及山海。龙门手工匠制，以炎国的长卷山水画为灵感，所用织染工艺如今已不常见，霓裳之间山海浮现，真幻难辨。
+|时装2名称=搁浅
+|时装2系列=时代/XLIV
+|时装2颜色=#7b76c0
+|时装2介绍=EPOQUE系列新款/搁浅。再现了海沫居住在故乡时的穿着，特制的柔性支撑材料可以使裙子始终蓬起，洁白的飘带轻柔摆动，给无法捉摸的海风赋予了形状。
 &amp;lt;!--上方为自动更新部分，您的修改可能会被覆盖--&amp;gt;
 |限定=1
 |精英0缩放=2
@@ -114,7 +119,7 @@
 {{干员获得方式
 |获得方式=活动获得
 |上线时间=2022-09-27 16:00
-|前缀=[[水月与深蓝之树|&amp;lt;span style="color:#fff;background:linear-gradient(90deg, #223b65, #231B19, #964490, #5798d8 82%, #162e75 99%);border-radius:20px;padding-left:8px;padding-right:8px;font-weight:bold"&amp;gt;水月与深蓝之树&amp;lt;/span&amp;gt;]]
+|前缀=[[水月与深蓝之树|{{color|orange|水月与深蓝之树}}]]
 }}
 
 ==属性==
@@ -123,6 +128,7 @@
 |部署费用=19→20→22
 |阻挡数=1→2→2
 |攻击速度=1.3s
+|所属势力=伊比利亚
 |精英0_1级_生命上限=1055
 |精英0_1级_攻击=306
 |精英0_1级_防御=216
@@ -473,7 +479,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;4zbov0zrsppuq24q6axcw3oaeaskn7x&lt;/sha1&gt;
+      &lt;sha1&gt;nqkekp57jhdo6qo3vbr7iff6f98szp4&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

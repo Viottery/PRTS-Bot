@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1699&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326092&lt;/id&gt;
-      &lt;parentid&gt;325863&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:02:14Z&lt;/timestamp&gt;
+      &lt;id&gt;347515&lt;/id&gt;
+      &lt;parentid&gt;347435&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:58:07Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326092&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347515&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="6053" sha1="06th3pxek1ojmsrq1ok94lg0gvvhq3q" xml:space="preserve"&gt;{{干员页面名|夜刀|Yato|ヤトウ}}{{pathnav2|干员一览}}
+      &lt;text bytes="6107" sha1="rnbnw7rnu59t2cb0kw7oavwew2neubi" xml:space="preserve"&gt;{{干员页面名|夜刀|Yato|ヤトウ}}{{pathnav2|干员一览}}
 {{异格干员|原型={{BASEPAGENAME}}|非异格=1}}
 ==干员信息==
 {{CharinfoV2
@@ -108,6 +108,8 @@
 |部署费用=7
 |阻挡数=2
 |攻击速度=1.05s
+|所属势力=罗德岛,行动组A4
+|隐藏势力=东
 |精英0_1级_生命上限=721
 |精英0_1级_攻击=150
 |精英0_1级_防御=134
@@ -267,7 +269,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;06th3pxek1ojmsrq1ok94lg0gvvhq3q&lt;/sha1&gt;
+      &lt;sha1&gt;rnbnw7rnu59t2cb0kw7oavwew2neubi&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

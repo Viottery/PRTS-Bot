@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;73979&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;336187&lt;/id&gt;
-      &lt;parentid&gt;335878&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-03-08T01:21:21Z&lt;/timestamp&gt;
+      &lt;id&gt;347715&lt;/id&gt;
+      &lt;parentid&gt;347238&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:12:17Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Dandeagle&lt;/username&gt;
-        &lt;id&gt;45044&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;origin&gt;336187&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347715&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="43746" sha1="ra5xc4e3ie2ig5iy30v4073mn3gi94c" xml:space="preserve"&gt;{{干员页面名|引星棘刺|引星棘刺|引星棘刺}}{{pathnav2|干员一览}}
+      &lt;text bytes="43773" sha1="395eks4mcdo5l55ej8n79bzxgwwd1y6" xml:space="preserve"&gt;{{干员页面名|引星棘刺|引星棘刺|引星棘刺}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 {{异格干员|原型=棘刺}}
 
@@ -112,6 +112,7 @@
 |部署费用=14→16→18
 |阻挡数=1
 |攻击速度=1.5s
+|所属势力=伊比利亚
 |精英0_1级_生命上限=527
 |精英0_1级_攻击=221
 |精英0_1级_防御=47
@@ -565,7 +566,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;ra5xc4e3ie2ig5iy30v4073mn3gi94c&lt;/sha1&gt;
+      &lt;sha1&gt;395eks4mcdo5l55ej8n79bzxgwwd1y6&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

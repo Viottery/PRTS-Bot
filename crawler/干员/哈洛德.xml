@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;61835&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;330138&lt;/id&gt;
-      &lt;parentid&gt;330135&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-12-21T09:09:12Z&lt;/timestamp&gt;
+      &lt;id&gt;347587&lt;/id&gt;
+      &lt;parentid&gt;347101&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:03:01Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Enko&lt;/username&gt;
-        &lt;id&gt;394&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 获得方式 */&lt;/comment&gt;
-      &lt;origin&gt;330138&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347587&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="28545" sha1="p6fiqdiu3v4ygbb0xt0nqoleqi4jrch" xml:space="preserve"&gt;{{干员页面名|哈洛德|Harold|ハロルド}}{{pathnav2|干员一览}}
+      &lt;text bytes="28572" sha1="h5xikfh52pjoaq18mmcu5sx6u82tzd4" xml:space="preserve"&gt;{{干员页面名|哈洛德|Harold|ハロルド}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 {{参阅|哈洛德·克雷加文|作为敌方领袖登场的哈洛德}}
 ==干员信息==
@@ -123,6 +123,7 @@
 |部署费用=15→17
 |阻挡数=1
 |攻击速度=2.85s
+|所属势力=维多利亚
 |精英0_1级_生命上限=768
 |精英0_1级_攻击=134
 |精英0_1级_防御=44
@@ -531,7 +532,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;p6fiqdiu3v4ygbb0xt0nqoleqi4jrch&lt;/sha1&gt;
+      &lt;sha1&gt;h5xikfh52pjoaq18mmcu5sx6u82tzd4&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

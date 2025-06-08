@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;59958&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;324619&lt;/id&gt;
-      &lt;parentid&gt;322655&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-01T15:06:53Z&lt;/timestamp&gt;
+      &lt;id&gt;347739&lt;/id&gt;
+      &lt;parentid&gt;347262&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:14:14Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;RaYmondCheung&lt;/username&gt;
-        &lt;id&gt;26948&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;/* 技能 */&lt;/comment&gt;
-      &lt;origin&gt;324619&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347739&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="38543" sha1="0i8spcac1tjs0jthuoyktosqsjelrx8" xml:space="preserve"&gt;{{干员页面名|赫德雷|Hoederer|ヘドリー}}{{pathnav2|干员一览}}
+      &lt;text bytes="38567" sha1="8ta1cuc1f1cki3hnafi8whg2e2xhucp" xml:space="preserve"&gt;{{干员页面名|赫德雷|Hoederer|ヘドリー}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -121,6 +120,7 @@
 |部署费用=20→22→24
 |阻挡数=2
 |攻击速度=2.5s
+|所属势力=巴别塔
 |精英0_1级_生命上限=2626
 |精英0_1级_攻击=742
 |精英0_1级_防御=0
@@ -551,7 +551,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;0i8spcac1tjs0jthuoyktosqsjelrx8&lt;/sha1&gt;
+      &lt;sha1&gt;8ta1cuc1f1cki3hnafi8whg2e2xhucp&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

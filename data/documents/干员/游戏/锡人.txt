@@ -46,7 +46,7 @@
 {{干员获得方式
 |获得方式=活动获得
 |上线时间=2024-07-16 16:00
-|前缀=[[萨卡兹的无终奇语|&lt;span style="color:#f9f9f9;background:linear-gradient(90deg, #672e34, #997c38, #385261, #75292d, #5f2c29);border-radius:20px;padding-left:8px;padding-right:8px;font-weight:bold"&gt;萨卡兹的无终奇语&lt;/span&gt;]]
+|前缀=[[萨卡兹的无终奇语|{{color|orange|萨卡兹的无终奇语}}]]
 }}
 
 ==属性==
@@ -55,6 +55,7 @@
 |部署费用=13→15→17
 |阻挡数=1
 |攻击速度=1.5s
+|所属势力=哥伦比亚
 |精英0_1级_生命上限=500
 |精英0_1级_攻击=207
 |精英0_1级_防御=44

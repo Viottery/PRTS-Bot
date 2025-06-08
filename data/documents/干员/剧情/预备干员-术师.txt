@@ -8,13 +8,4 @@
 {{spineId}}
 ==注释与链接==
 &lt;references/&gt;
-{{干员导航}}[[分类:专属干员]|技能名=战术咏唱·α型
-|技能名jp=戦術詠唱α
-|技能名en=Tactical Chant α
-|技能名=战术咏唱·β型
-|技能名jp=戦術詠唱β
-|技能名en=Tactical Chant β
-|技能名=战术咏唱·γ型
-|技能名jp=戦術詠唱γ
-|技能名en=Tactical Chant γ
-]
+{{干员导航}}[[分类:专属干员]]

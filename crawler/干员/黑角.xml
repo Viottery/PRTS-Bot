@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1700&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326093&lt;/id&gt;
-      &lt;parentid&gt;325749&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:02:17Z&lt;/timestamp&gt;
+      &lt;id&gt;347516&lt;/id&gt;
+      &lt;parentid&gt;347436&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:58:10Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326093&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347516&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="6321" sha1="d299tmw2gyvmt26hpzuhfunfq9nz5cl" xml:space="preserve"&gt;{{干员页面名|黑角|Noir Corne|ノイルホーン}}{{pathnav2|干员一览}}
+      &lt;text bytes="6375" sha1="so8y0rg119cpj15cawxf97vrsc5rapb" xml:space="preserve"&gt;{{干员页面名|黑角|Noir Corne|ノイルホーン}}{{pathnav2|干员一览}}
 {{异格干员|原型={{BASEPAGENAME}}|非异格=1}}
 ==干员信息==
 {{CharinfoV2
@@ -107,6 +107,8 @@
 |部署费用=14
 |阻挡数=3
 |攻击速度=1.2s
+|所属势力=罗德岛,行动组A4
+|隐藏势力=东
 |精英0_1级_生命上限=1219
 |精英0_1级_攻击=180
 |精英0_1级_防御=220
@@ -264,7 +266,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;d299tmw2gyvmt26hpzuhfunfq9nz5cl&lt;/sha1&gt;
+      &lt;sha1&gt;so8y0rg119cpj15cawxf97vrsc5rapb&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

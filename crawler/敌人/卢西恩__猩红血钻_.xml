@@ -54,15 +54,16 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;36810&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;288009&lt;/id&gt;
-      &lt;parentid&gt;278239&lt;/parentid&gt;
-      &lt;timestamp&gt;2023-12-06T05:40:55Z&lt;/timestamp&gt;
+      &lt;id&gt;348660&lt;/id&gt;
+      &lt;parentid&gt;348659&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-06T02:19:14Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;BotPtilopsis&lt;/username&gt;
-        &lt;id&gt;61&lt;/id&gt;
+        &lt;username&gt;Enko&lt;/username&gt;
+        &lt;id&gt;394&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新抗性&lt;/comment&gt;
-      &lt;origin&gt;288009&lt;/origin&gt;
+      &lt;minor/&gt;
+      &lt;comment&gt;撤销 先苔 的编辑：你踏马看PV都不会说这种话&lt;/comment&gt;
+      &lt;origin&gt;348660&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
       &lt;text bytes="2597" sha1="3krclvay3w2h4scts9fgxjwlmmk5e09" xml:space="preserve"&gt;{{Navigator|敌人一览}}

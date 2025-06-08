@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;72848&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;343046&lt;/id&gt;
-      &lt;parentid&gt;342405&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-01T06:48:15Z&lt;/timestamp&gt;
+      &lt;id&gt;347686&lt;/id&gt;
+      &lt;parentid&gt;347206&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:09:49Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
       &lt;comment&gt;update&lt;/comment&gt;
-      &lt;origin&gt;343046&lt;/origin&gt;
+      &lt;origin&gt;347686&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="40767" sha1="nawyo12mljqtg7ixbk6f348cbvytfu0" xml:space="preserve"&gt;{{干员页面名|荒芜拉普兰德|Lappland the Decadenza|荒蕪ラップランド}}{{pathnav2|干员一览}}
+      &lt;text bytes="40791" sha1="ki165r385ca349fkp3lt0iyxe61rilm" xml:space="preserve"&gt;{{干员页面名|荒芜拉普兰德|Lappland the Decadenza|荒蕪ラップランド}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 {{参阅|“狂欢之主”|作为敌方领袖登场的荒芜拉普兰德}}
 {{异格干员|原型=拉普兰德}}
@@ -121,6 +121,7 @@
 |部署费用=20→22
 |阻挡数=1
 |攻击速度=1.3s
+|所属势力=叙拉古
 |精英0_1级_生命上限=615
 |精英0_1级_攻击=158
 |精英0_1级_防御=46
@@ -536,7 +537,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;nawyo12mljqtg7ixbk6f348cbvytfu0&lt;/sha1&gt;
+      &lt;sha1&gt;ki165r385ca349fkp3lt0iyxe61rilm&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

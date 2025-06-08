@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;10089&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;343057&lt;/id&gt;
-      &lt;parentid&gt;341957&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-01T06:52:02Z&lt;/timestamp&gt;
+      &lt;id&gt;347675&lt;/id&gt;
+      &lt;parentid&gt;347195&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:08:57Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;343057&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347675&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="29714" sha1="px8xjlgp9ii0glwom133qh222qy8wqy" xml:space="preserve"&gt;{{干员页面名|莫斯提马|Mostima|モスティマ}}{{pathnav2|干员一览}}
+      &lt;text bytes="29776" sha1="lbyhxeq04373vbhxu0b8ze0gy6k2tsy" xml:space="preserve"&gt;{{干员页面名|莫斯提马|Mostima|モスティマ}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -127,6 +127,8 @@
 |部署费用=31→34
 |阻挡数=1
 |攻击速度=2.9s
+|所属势力=拉特兰
+|隐藏势力=炎-龙门,企鹅物流
 |精英0_1级_生命上限=822
 |精英0_1级_攻击=387
 |精英0_1级_防御=52
@@ -591,7 +593,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;px8xjlgp9ii0glwom133qh222qy8wqy&lt;/sha1&gt;
+      &lt;sha1&gt;lbyhxeq04373vbhxu0b8ze0gy6k2tsy&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

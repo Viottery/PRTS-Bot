@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;63240&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;344117&lt;/id&gt;
-      &lt;parentid&gt;335457&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-02T18:17:39Z&lt;/timestamp&gt;
+      &lt;id&gt;347471&lt;/id&gt;
+      &lt;parentid&gt;347019&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:52:50Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;RaYmondCheung&lt;/username&gt;
-        &lt;id&gt;26948&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;[InPageEdit]&lt;/comment&gt;
-      &lt;origin&gt;344117&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347471&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="27404" sha1="6gtw5ayeqzsb6n2ryhbxl6mwc8fja9s" xml:space="preserve"&gt;{{干员页面名|万顷|Wanqing|ワンチィン}}{{pathnav2|干员一览}}
+      &lt;text bytes="27422" sha1="chnf1yfzyq1but6ansi095i50xhfcj5" xml:space="preserve"&gt;{{干员页面名|万顷|Wanqing|ワンチィン}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -123,6 +122,7 @@
 |部署费用=11→13
 |阻挡数=1
 |攻击速度=1.3s
+|所属势力=炎
 |精英0_1级_生命上限=637
 |精英0_1级_攻击=228
 |精英0_1级_防御=176
@@ -479,7 +479,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;6gtw5ayeqzsb6n2ryhbxl6mwc8fja9s&lt;/sha1&gt;
+      &lt;sha1&gt;chnf1yfzyq1but6ansi095i50xhfcj5&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

@@ -1,9 +1,13 @@
-# preprocess.py：文档预处理模块
+# preprocess.py：The text preprocessing module for the BM25 retriever
 import sys, os, json, jieba, re, string
 
 
-# 加载停用词表
 def load_stopwords(path):
+    """
+    Load stopwords from a file.
+    :param path:
+    :return: The set of stopwords loaded from the specified file.
+    """
     stopwords = set()
     with open(path, 'r', encoding='utf-8') as f:
         for line in f:
@@ -13,15 +17,20 @@ def load_stopwords(path):
     return stopwords
 
 
-# 文本清洗分词函数：去除非中文字符，分词并过滤停用词和标点
 def tokenize(text, stopwords):
-    # 仅保留中文、字母和数字，将其他字符替换为空格
+    """
+    Tokenize the input text, removing non-Chinese characters, stopwords, and punctuation.
+    :param text:
+    :param stopwords:
+    :return: A list of tokens after preprocessing.
+    """
+    # Only keep Chinese characters, English letters, and digits
     text = re.sub(r"[^\u4e00-\u9fa5A-Za-z0-9]+", " ", text)
-    # jieba 分词
+    # jieba tokenization
     words = jieba.lcut(text)
-    # 定义标点集合
+    # The set of punctuation characters to filter out
     punctuation = set(string.punctuation + "，。！？、；：（）《》【】“”‘’")
-    # 过滤停用词和标点
+    # Filter out empty tokens, stopwords, and punctuation
     tokens = [w for w in words if w and w not in stopwords and w not in punctuation]
     return tokens
 
@@ -65,6 +74,7 @@ def main():
         json.dump(corpus, f, ensure_ascii=False, indent=2)
 
     print(f"预处理完成，处理文档数: {doc_id}，结果已保存到 preprocessed.json")
+
 
 if __name__ == '__main__':
     main()

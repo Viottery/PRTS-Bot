@@ -54,18 +54,19 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;52602&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326251&lt;/id&gt;
-      &lt;parentid&gt;325984&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:12:29Z&lt;/timestamp&gt;
+      &lt;id&gt;346370&lt;/id&gt;
+      &lt;parentid&gt;326251&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-05-28T13:11:46Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;BotPtilopsis&lt;/username&gt;
-        &lt;id&gt;61&lt;/id&gt;
+        &lt;username&gt;Enko&lt;/username&gt;
+        &lt;id&gt;394&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326251&lt;/origin&gt;
+      &lt;minor/&gt;
+      &lt;comment&gt;阵营/隐藏阵营属性追加&lt;/comment&gt;
+      &lt;origin&gt;346370&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="27438" sha1="j6twm862x2btetlrahcrgrz0a7oy6yc" xml:space="preserve"&gt;{{干员页面名|洋灰|Cement|セメント}}{{pathnav2|干员一览}}
+      &lt;text bytes="27465" sha1="51sb23wqnt8a3ypgxfy3hezm0onyuvf" xml:space="preserve"&gt;{{干员页面名|洋灰|Cement|セメント}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -119,6 +120,7 @@
 |部署费用=28→30→32
 |阻挡数=1
 |攻击速度=1.6s
+|所属势力=雷姆必拓
 |精英0_1级_生命上限=1534
 |精英0_1级_攻击=460
 |精英0_1级_防御=252
@@ -500,7 +502,7 @@ C12，罗德岛次级舱室系统化改造，工程图纸确认阶段，提请�
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;j6twm862x2btetlrahcrgrz0a7oy6yc&lt;/sha1&gt;
+      &lt;sha1&gt;51sb23wqnt8a3ypgxfy3hezm0onyuvf&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

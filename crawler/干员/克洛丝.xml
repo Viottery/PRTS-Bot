@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1710&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;345599&lt;/id&gt;
-      &lt;parentid&gt;345591&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-18T09:25:48Z&lt;/timestamp&gt;
+      &lt;id&gt;347523&lt;/id&gt;
+      &lt;parentid&gt;347444&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:58:31Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;空识珈蓝&lt;/username&gt;
-        &lt;id&gt;6&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 干员信息 */ // Edit via Wikiplus&lt;/comment&gt;
-      &lt;origin&gt;345599&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347523&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="11328" sha1="gzhbqxshopc69q0c7tdeltw4ffysnrz" xml:space="preserve"&gt;{{干员页面名|克洛丝|Kroos|クルース}}{{pathnav2|干员一览}}
+      &lt;text bytes="11397" sha1="d2trakasaezna1rxkojukcmlc7xcb12" xml:space="preserve"&gt;{{干员页面名|克洛丝|Kroos|クルース}}{{pathnav2|干员一览}}
 {{异格干员|原型={{BASEPAGENAME}}|非异格=1}}
 ==干员信息==
 {{CharinfoV2
@@ -128,6 +128,8 @@
 |部署费用=9→11
 |阻挡数=1
 |攻击速度=1.0s
+|所属势力=罗德岛,行动预备组A1
+|隐藏势力=雷姆必拓
 |精英0_1级_生命上限=545
 |精英0_1级_攻击=154
 |精英0_1级_防御=52
@@ -358,7 +360,7 @@
 {{spineId}}
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;gzhbqxshopc69q0c7tdeltw4ffysnrz&lt;/sha1&gt;
+      &lt;sha1&gt;d2trakasaezna1rxkojukcmlc7xcb12&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

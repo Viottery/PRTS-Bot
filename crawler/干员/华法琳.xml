@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1755&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;326225&lt;/id&gt;
-      &lt;parentid&gt;325961&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-11-07T06:10:51Z&lt;/timestamp&gt;
+      &lt;id&gt;347579&lt;/id&gt;
+      &lt;parentid&gt;347093&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:02:29Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;326225&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347579&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="22795" sha1="b7ppaji5h8y0j9y06k41e7skife3wke" xml:space="preserve"&gt;{{干员页面名|华法琳|Warfarin|ワルファリン}}{{pathnav2|干员一览}}
+      &lt;text bytes="22819" sha1="c0pccofqmrle5394vdbgde7v7l70vsm" xml:space="preserve"&gt;{{干员页面名|华法琳|Warfarin|ワルファリン}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -125,6 +125,7 @@
 |部署费用=17→19
 |阻挡数=1
 |攻击速度=2.85s
+|所属势力=罗德岛
 |精英0_1级_生命上限=805
 |精英0_1级_攻击=172
 |精英0_1级_防御=55
@@ -483,7 +484,7 @@
 {{spineId}}
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;b7ppaji5h8y0j9y06k41e7skife3wke&lt;/sha1&gt;
+      &lt;sha1&gt;c0pccofqmrle5394vdbgde7v7l70vsm&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

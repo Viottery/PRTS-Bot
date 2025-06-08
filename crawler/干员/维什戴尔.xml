@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;66433&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;344986&lt;/id&gt;
-      &lt;parentid&gt;342954&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-05-12T09:13:40Z&lt;/timestamp&gt;
+      &lt;id&gt;347661&lt;/id&gt;
+      &lt;parentid&gt;347179&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:07:54Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;30000lightyears&lt;/username&gt;
-        &lt;id&gt;59044&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;/* 干员信息 */&lt;/comment&gt;
-      &lt;origin&gt;344986&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347661&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="41011" sha1="gq6ilf32savvbfzmb29v8290o663nhy" xml:space="preserve"&gt;{{干员页面名|维什戴尔|Wiš'adel|ウィシャデル}}{{pathnav2|干员一览}}
+      &lt;text bytes="41059" sha1="7m4f6sq3eers6lzn4cw6oue3lr9yu5u" xml:space="preserve"&gt;{{干员页面名|维什戴尔|Wiš'adel|ウィシャデル}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 {{异格干员|原型=W}}
 ==干员信息==
@@ -125,6 +125,8 @@
 |部署费用=23→25
 |阻挡数=1
 |攻击速度=2.1s
+|所属势力=巴别塔
+|隐藏势力=罗德岛
 |精英0_1级_生命上限=849
 |精英0_1级_攻击=340
 |精英0_1级_防御=128
@@ -573,7 +575,7 @@ W实在过于清醒，清醒到就连殿下的回归都无法令她沉沦。这�
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;gq6ilf32savvbfzmb29v8290o663nhy&lt;/sha1&gt;
+      &lt;sha1&gt;7m4f6sq3eers6lzn4cw6oue3lr9yu5u&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

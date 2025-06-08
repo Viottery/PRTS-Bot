@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;52364&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;316828&lt;/id&gt;
-      &lt;parentid&gt;311847&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-08-03T18:21:15Z&lt;/timestamp&gt;
+      &lt;id&gt;347351&lt;/id&gt;
+      &lt;parentid&gt;346928&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:43:45Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Enko&lt;/username&gt;
-        &lt;id&gt;394&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;[InPageEdit] /* 干员信息 */ 没有编辑摘要&lt;/comment&gt;
-      &lt;origin&gt;316828&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347351&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="10108" sha1="ae9qac6y6bbjsb9e8lbt5vli9frfd0c" xml:space="preserve"&gt;{{干员页面名|U-Official|U-Official|U-Official}}{{pathnav2|干员一览}}
+      &lt;text bytes="10132" sha1="iekbb1n0ffg8l6lihge7jpbtd9ye8l4" xml:space="preserve"&gt;{{干员页面名|U-Official|U-Official|U-Official}}{{pathnav2|干员一览}}
 {{参阅|“过去的我”|在登上罗德岛之前到处取材的直播新星}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
@@ -120,6 +119,7 @@
 |部署费用=3
 |阻挡数=1
 |攻击速度=1.3s
+|所属势力=罗德岛
 |精英0_1级_生命上限=308
 |精英0_1级_攻击=81
 |精英0_1级_防御=22
@@ -310,7 +310,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;ae9qac6y6bbjsb9e8lbt5vli9frfd0c&lt;/sha1&gt;
+      &lt;sha1&gt;iekbb1n0ffg8l6lihge7jpbtd9ye8l4&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

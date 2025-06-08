@@ -54,19 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;75933&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;336094&lt;/id&gt;
-      &lt;parentid&gt;336079&lt;/parentid&gt;
-      &lt;timestamp&gt;2025-03-07T11:17:53Z&lt;/timestamp&gt;
+      &lt;id&gt;347755&lt;/id&gt;
+      &lt;parentid&gt;347291&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T05:15:24Z&lt;/timestamp&gt;
       &lt;contributor&gt;
-        &lt;username&gt;Xiaoding&lt;/username&gt;
-        &lt;id&gt;111492&lt;/id&gt;
+        &lt;username&gt;BotPtilopsis&lt;/username&gt;
+        &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;minor/&gt;
-      &lt;comment&gt;/* 技能 */&lt;/comment&gt;
-      &lt;origin&gt;336094&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347755&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="41173" sha1="4pq2b3yfqhdbc40z06cg6nzvb5gg950" xml:space="preserve"&gt;{{干员页面名|隐德来希|隐德来希|隐德来希}}{{pathnav2|干员一览}}
+      &lt;text bytes="41197" sha1="7qav00x5kfa4e3vatrmqdqoaymzbuyj" xml:space="preserve"&gt;{{干员页面名|隐德来希|隐德来希|隐德来希}}{{pathnav2|干员一览}}
 {{ads/normal}}{{ads/mobile}}
 ==干员信息==
 {{CharinfoV2
@@ -110,6 +109,7 @@
 |部署费用=20→21→23
 |阻挡数=1→2→2
 |攻击速度=1.3s
+|所属势力=罗德岛
 |精英0_1级_生命上限=1115
 |精英0_1级_攻击=295
 |精英0_1级_防御=220
@@ -593,7 +593,7 @@
 ==注释与链接==
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;4pq2b3yfqhdbc40z06cg6nzvb5gg950&lt;/sha1&gt;
+      &lt;sha1&gt;7qav00x5kfa4e3vatrmqdqoaymzbuyj&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;

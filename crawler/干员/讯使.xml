@@ -54,18 +54,18 @@
     &lt;ns&gt;0&lt;/ns&gt;
     &lt;id&gt;1722&lt;/id&gt;
     &lt;revision&gt;
-      &lt;id&gt;328448&lt;/id&gt;
-      &lt;parentid&gt;326124&lt;/parentid&gt;
-      &lt;timestamp&gt;2024-12-05T03:01:12Z&lt;/timestamp&gt;
+      &lt;id&gt;347391&lt;/id&gt;
+      &lt;parentid&gt;346968&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-06-05T04:47:40Z&lt;/timestamp&gt;
       &lt;contributor&gt;
         &lt;username&gt;BotPtilopsis&lt;/username&gt;
         &lt;id&gt;61&lt;/id&gt;
       &lt;/contributor&gt;
-      &lt;comment&gt;更新干员密录&amp;amp;悖论模拟&lt;/comment&gt;
-      &lt;origin&gt;328448&lt;/origin&gt;
+      &lt;comment&gt;update&lt;/comment&gt;
+      &lt;origin&gt;347391&lt;/origin&gt;
       &lt;model&gt;wikitext&lt;/model&gt;
       &lt;format&gt;text/x-wiki&lt;/format&gt;
-      &lt;text bytes="19979" sha1="4mvl5zlli7r4rgqix5ocwguu6dofp05" xml:space="preserve"&gt;{{干员页面名|讯使|Courier|クーリエ}}{{pathnav2|干员一览}}
+      &lt;text bytes="20016" sha1="biuzbuxns07l3jaeon3puqlrtdmsqot" xml:space="preserve"&gt;{{干员页面名|讯使|Courier|クーリエ}}{{pathnav2|干员一览}}
 
 ==干员信息==
 {{CharinfoV2
@@ -125,6 +125,7 @@
 |部署费用=10→12
 |阻挡数=2
 |攻击速度=1.05s
+|所属势力=谢拉格,喀兰贸易
 |精英0_1级_生命上限=758
 |精英0_1级_攻击=170
 |精英0_1级_防御=137
@@ -481,7 +482,7 @@
 {{spineId}}
 &amp;lt;references/&amp;gt;
 {{干员导航}}&lt;/text&gt;
-      &lt;sha1&gt;4mvl5zlli7r4rgqix5ocwguu6dofp05&lt;/sha1&gt;
+      &lt;sha1&gt;biuzbuxns07l3jaeon3puqlrtdmsqot&lt;/sha1&gt;
     &lt;/revision&gt;
   &lt;/page&gt;
 &lt;/mediawiki&gt;
