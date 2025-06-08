@@ -1,6 +1,5 @@
 .idea/
 .qqbot/
-qqbot/main.py
 config.yaml
 *.secret.json
 botpy.log
@@ -12,3 +11,6 @@ data/documents/
 
 # 忽略 retriever/Custom_BM25 文件夹下的所有 JSON 文件
 retriever/Custom_BM25/*.json
+
+# 忽略crawler/xmls下的所有内容
+crawler/xmls/

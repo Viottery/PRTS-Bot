@@ -53,9 +53,9 @@ def export_page_xml(title):
 
 def save_xml_to_folder(xml_content, folder_name, file_name):
     # 创建文件夹（如果不存在）
-    os.makedirs(folder_name, exist_ok=True)
+    os.makedirs(f"xmls/{folder_name}", exist_ok=True)
     # 构建完整的文件路径
-    file_path = os.path.join(folder_name, f"{file_name}.xml")
+    file_path = os.path.join(f"xmls/{folder_name}", f"{file_name}.xml")
     # 保存 XML 内容到文件
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(xml_content)

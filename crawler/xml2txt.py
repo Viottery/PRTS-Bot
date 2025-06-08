@@ -27,7 +27,7 @@ def extract_files_to_target(input_folder, output_base='../data/documents'):
     """
     process all files from input_folder to txt and save to ../data/documents/{folder_name}, preserving relative structure.
     """
-    folder_name = os.path.basename(os.path.normpath(input_folder))
+    folder_name = os.path.basename(os.path.normpath(f"xmls/{input_folder}"))
     target_base = os.path.join(output_base, folder_name)
 
     all_files = collect_all_files(input_folder)
