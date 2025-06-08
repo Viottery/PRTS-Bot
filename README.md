@@ -52,6 +52,10 @@ In PRTS-Bot, we introduce our MediaWiki-based search engine, **PRTS-Bot Retrieve
 To Start the PRTS-Bot Retriever, run the following scripts:
 
 ```bash
+pip install -r requirements.txt
+```
+
+```bash
 cd crawler
 python3 cate_xml_download.py
 python3 xml2txt.py
